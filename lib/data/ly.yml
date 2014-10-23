@@ -1,0 +1,873 @@
+---
+AGRULYLT:
+  institution: AGRICULTURAL BANK
+  city: TRIPOLI
+  branch: ''
+ALWFLYLT:
+  institution: AL WAFA BANK
+  city: TRIPOLI
+  branch: ''
+EJABLYLX:
+  institution: ALEJMAA ALARABI BANK
+  city: BENGHAZI
+  branch: ''
+ABCNLYLT015:
+  institution: AMAN BANK FOR COMMERCE AND INVESTMENT
+  city: BENGHAZI
+  branch: BENGHAZI BRANCH
+ABCNLYLT:
+  institution: AMAN BANK FOR COMMERCE AND INVESTMENT
+  city: TRIPOLI
+  branch: ''
+ABCNLYLT017:
+  institution: AMAN BANK FOR COMMERCE AND INVESTMENT
+  city: TRIPOLI
+  branch: ''
+ACOMLYLT:
+  institution: ARAB COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ''
+ATIBLYLT:
+  institution: ASSARAY TRADE AND INVESTMENT BANK
+  city: TRIPOLI
+  branch: ''
+CDBLLYLT101:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: AL KHUMS
+  branch: AL KOMS BRANCH
+CDBLLYLT011:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: BENGHAZI MAIN BRANCH
+CDBLLYLT013:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: BENINA AIRPORT AGENCY
+CDBLLYLT018:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: CHILDREN AGENCY
+CDBLLYLT015:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: EL BERKA AGENCY
+CDBLLYLT111:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: EL FOHIT AGENCY
+CDBLLYLT012:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: EL FOROSIA AGENCY
+CDBLLYLT017:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: GARDEN CITY AGENCY
+CDBLLYLT014:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: ISLAMIC CALL AGENCY
+CDBLLYLT124:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: MOBILE BANK
+CDBLLYLT112:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: TWENTY STREET AGENCY
+CDBLLYLT:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: BENGHAZI
+  branch: ''
+CDBLLYLT091:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: DERNA
+  branch: DRNA BRANCH
+CDBLLYLT019:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: EJDABIA
+  branch: EJDABIA BRANCH
+CDBLLYLT061:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: EL BIEDA
+  branch: EL BIEDA MAIN BRANCH
+CDBLLYLT051:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: EL ZAWIA
+  branch: EL ZAWIA MAIN BRANCH
+CDBLLYLT042:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: EMSSAED
+  branch: EMSSAED AGENCY
+CDBLLYLT032:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: MISURATA
+  branch: AFRICA AGENCY
+CDBLLYLT031:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: MISURATA
+  branch: MISURATA MAIN BRANCH
+CDBLLYLT081:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: SIRTE
+  branch: SIRTE MAIN BRANCH
+CDBLLYLT041:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TOBRUK
+  branch: TOBRUK MAIN BRANCH
+CDBLLYLT026:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: DAT EL IMAD AGENCY
+CDBLLYLT023:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: EL FATEH TOWER AGENCY
+CDBLLYLT029:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: EL MADAR AGENCY
+CDBLLYLT025:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: GERGARISH AGENCY
+CDBLLYLT022:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: GOUT AL SHAAL AGENCY
+CDBLLYLT027:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: GRAND HOTEL AGENCY
+CDBLLYLT221:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: SOUK EL GOUMA AGENCY
+CDBLLYLT222:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: TAGORA BRANCH
+CDBLLYLT021:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: TRIPOLI
+  branch: TRIPOLI MAIN BRANCH
+CDBLLYLT071:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: ZLITEN
+  branch: ZLITEN MAIN BRANCH
+CDBLLYLT052:
+  institution: BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)
+  city: ZWARA
+  branch: ZWARA MAIN BRANCH
+BSAHLYLX:
+  institution: BANQUE SAHELO SAHARIENNE POUR LINVESTISSEMENT ET LE COMMERCE (TRIPOLI)
+  city: TRIPOLI
+  branch: ''
+WAHALYLX:
+  institution: BSIC HEAD OFFICE
+  city: TRIPOLI
+  branch: ''
+CBLJLYLX001:
+  institution: CENTRAL BANK OF LIBYA
+  city: BENGHAZI
+  branch: BENGHAZI BRANCH
+CBLJLYLX002:
+  institution: CENTRAL BANK OF LIBYA
+  city: SEBHA
+  branch: SEBHA BRANCH
+CBLJLYLX003:
+  institution: CENTRAL BANK OF LIBYA
+  city: SIRTE
+  branch: SIRTE BRANCH
+CBLJLYLX004:
+  institution: CENTRAL BANK OF LIBYA
+  city: TRIPOLI
+  branch: OPERATION DEPARTMENT
+CBLJLYLX:
+  institution: CENTRAL BANK OF LIBYA
+  city: TRIPOLI
+  branch: ''
+CBLJLYLY:
+  institution: CENTRAL BANK OF LIBYA
+  city: TRIPOLI
+  branch: ''
+DEVOLYLT:
+  institution: DEVELOPMENT BANK
+  city: TRIPOLI
+  branch: ''
+FGBLLYLT:
+  institution: FIRST GULF LIBYAN BANK
+  city: TRIPOLI
+  branch: ''
+JAMBLYLT035:
+  institution: JUMHOURIA BANK
+  city: AL KHUMS
+  branch: MARGEB BRANCH
+JAMBLYLT016:
+  institution: JUMHOURIA BANK
+  city: AL MARJ
+  branch: AL MARJ BRANCH
+JAMBLYLT052:
+  institution: JUMHOURIA BANK
+  city: AL MARJ
+  branch: ''
+JAMBLYLT065:
+  institution: JUMHOURIA BANK
+  city: BANI WALID
+  branch: BANI WALEED BRANCH
+JAMBLYLT028:
+  institution: JUMHOURIA BANK
+  city: BANI WALID
+  branch: ''
+JAMBLYLT107:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: ABUATNI BRANCH
+JAMBLYLT100:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: AL HADAEQ AGENCY
+JAMBLYLT003:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: AL MADINA BRANCH
+JAMBLYLT113:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: ALMARED AGANCY
+JAMBLYLT503:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: AL-MOKHTAR BRANCH FOR ISLAMIC BANKING
+JAMBLYLT995:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: BENGHAZI COMMITTEE
+JAMBLYLT083:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: BENGHAZI CREDIT COMMITTEE
+JAMBLYLT054:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: BENGHAZI MAIN BRANCH
+JAMBLYLT148:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: BENGHAZI MIDICAL CENTER
+JAMBLYLT072:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: FWIHAT BRANCH
+JAMBLYLT023:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: SOUK AL NOUR BRANCH
+JAMBLYLT135:
+  institution: JUMHOURIA BANK
+  city: BENGHAZI
+  branch: WAHDA ELARABYA AGENCY
+JAMBLYLT505:
+  institution: JUMHOURIA BANK
+  city: DERNA
+  branch: DERNA BRANCH FOR ISLAMIC BANKING
+JAMBLYLT004:
+  institution: JUMHOURIA BANK
+  city: DERNA
+  branch: DERNIA BRANCH
+JAMBLYLT060:
+  institution: JUMHOURIA BANK
+  city: DERNA
+  branch: ''
+JAMBLYLT502:
+  institution: JUMHOURIA BANK
+  city: GHARIAN
+  branch: GHARIAN BRANCH FOR ISLAMIC BANKING
+JAMBLYLT086:
+  institution: JUMHOURIA BANK
+  city: GHARIAN
+  branch: GHARIAN CREDIT COMMITTEE
+JAMBLYLT048:
+  institution: JUMHOURIA BANK
+  city: GHARIAN
+  branch: GHARYAN BRANCH
+JAMBLYLT993:
+  institution: JUMHOURIA BANK
+  city: GHARIAN
+  branch: JABEL ELGHARBI COMMITTEE
+JAMBLYLT020:
+  institution: JUMHOURIA BANK
+  city: GHARIAN
+  branch: ''
+JAMBLYLT087:
+  institution: JUMHOURIA BANK
+  city: JADU
+  branch: ARHEEBAT BRANCH
+JAMBLYLT006:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: AHMED SHARIF BRANCH
+JAMBLYLT150:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: FREE ZONE AGENCY
+JAMBLYLT118:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: GOAZ ATTEEK AGENCY
+JAMBLYLT051:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: MISURATA BRANCH
+JAMBLYLT994:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: MISURATA COMMITTEE
+JAMBLYLT084:
+  institution: JUMHOURIA BANK
+  city: MISURATA
+  branch: MISURATA CREDIT COMMITTEE
+JAMBLYLT077:
+  institution: JUMHOURIA BANK
+  city: SABRATAH
+  branch: AL ATHAR BRANCH
+JAMBLYLT033:
+  institution: JUMHOURIA BANK
+  city: SABRATAH
+  branch: SABRATHA BRANCH
+JAMBLYLT032:
+  institution: JUMHOURIA BANK
+  city: SABRATAH
+  branch: ''
+JAMBLYLT143:
+  institution: JUMHOURIA BANK
+  city: SABRI
+  branch: SABRI AGENCY
+JAMBLYLT998:
+  institution: JUMHOURIA BANK
+  city: SEBHA
+  branch: SEBHA COMMITTIEE
+JAMBLYLT080:
+  institution: JUMHOURIA BANK
+  city: TAJURA
+  branch: AL SHAHENAT AGENCY
+JAMBLYLT132:
+  institution: JUMHOURIA BANK
+  city: TAJURA
+  branch: BLASHER BRANCH
+JAMBLYLT025:
+  institution: JUMHOURIA BANK
+  city: TARHOUNA
+  branch: TARHOUNA BRANCH
+JAMBLYLT011:
+  institution: JUMHOURIA BANK
+  city: TOBRUK
+  branch: TOBRUK ALMADINA
+JAMBLYLT067:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: AINZARA
+JAMBLYLT001:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: AL MAYDAN BRANCH
+JAMBLYLT002:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: AL MGARIEF BRANCH
+JAMBLYLT090:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ALANDALUS BRANCH
+JAMBLYLT010:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ASSREEM BRANCH
+JAMBLYLT015:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ATHARA BRANCH
+JAMBLYLT005:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: BAB AL JADEED BRANCH
+JAMBLYLT079:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: BALKHIR BRANCH
+JAMBLYLT145:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: BARID AGENCY
+JAMBLYLT098:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: CLEARING CENTER
+JAMBLYLT501:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: FASHLOUM BRANCH FOR ISLAMIC BANKING
+JAMBLYLT121:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: FLLAH BRANCH
+JAMBLYLT093:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: GURJI AGENCY
+JAMBLYLT120:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: HAY ELANDULS BRANCH
+JAMBLYLT136:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: LIBYANA AGENCY
+JAMBLYLT094:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: MELLITAH OIL AND GAS AGENCY
+JAMBLYLT019:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: MGHARBA BRANCH
+JAMBLYLT151:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: 'MIZRAN BRANCH '
+JAMBLYLT012:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: SOUK AL JUMMAA BRANCH
+JAMBLYLT022:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: SOUK ALTOLATA
+JAMBLYLT018:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: SOUT OF TRIPOLI BRANCH
+JAMBLYLT991:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: TRIPOLI COMMITTEE
+JAMBLYLT082:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: TRIPOLI CREDIT COMMITTEE
+JAMBLYLT104:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: TRIPOLI TOWER AGENCY
+JAMBLYLT043:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: TRIPOLI UNIVERSITY BRANCH
+JAMBLYLT:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ''
+JAMBLYLT096:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ''
+JAMBLYLT026:
+  institution: JUMHOURIA BANK
+  city: TRIPOLI
+  branch: ''
+JAMBLYLT009:
+  institution: JUMHOURIA BANK
+  city: ZAWIA
+  branch: AL ZAWYA BRANCH
+JAMBLYLT085:
+  institution: JUMHOURIA BANK
+  city: ZAWIA
+  branch: ZAWIA CREDIT COMMITTEE
+JAMBLYLT992:
+  institution: JUMHOURIA BANK
+  city: ZAWIA
+  branch: ZAWYA COMMITTEE
+JAMBLYLT017:
+  institution: JUMHOURIA BANK
+  city: ZLITEN
+  branch: ZALITEN BRANCH
+JAMBLYLT014:
+  institution: JUMHOURIA BANK
+  city: ZLITEN
+  branch: ''
+JAMBLYLT055:
+  institution: JUMHOURIA BANK
+  city: ZWARA
+  branch: ABUKMMASH BRANCH
+JAMBLYLT013:
+  institution: JUMHOURIA BANK (ALBIEDA BRANCH)
+  city: EL BIEDA
+  branch: ''
+LAFBLYLT:
+  institution: LIBYAN FOREIGN BANK
+  city: TRIPOLI
+  branch: ''
+LIATLYLT:
+  institution: LIBYAN INVESTMENT AUTHORITY
+  city: TRIPOLI
+  branch: ''
+LQBKLYLT:
+  institution: LIBYAN QATARI BANK
+  city: TRIPOLI
+  branch: ''
+MOOCLYLT:
+  institution: MABRUK OIL OPERATION
+  city: TRIPOLI
+  branch: ''
+METILYLT:
+  institution: MEDITERRANEAN BANK
+  city: BENGHAZI
+  branch: ''
+LNCBLYLT059:
+  institution: NATIONAL COMMERCIAL BANK
+  city: AL KHUMS
+  branch: KHUMIS BRANCH
+LNCBLYLT098:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BANI WALID
+  branch: BANI-WALED BRANCH
+LNCBLYLT054:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BEIDA
+  branch: BEIDA – MAIN BRANCH
+LNCBLYLT103:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BEIDA
+  branch: EJEHAD BRANCH
+LNCBLYLT096:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BEIDA
+  branch: MASSA BR.
+LNCBLYLT106:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BEIDA
+  branch: UNIVERSITY OF OMAR ALMUKHTAR BRANCH
+LNCBLYLT079:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BENGHAZI
+  branch: ALHAWARI BRANCH
+LNCBLYLT104:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BENGHAZI
+  branch: ALMUJMAAE ALTGARIE BR
+LNCBLYLT115:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BENGHAZI
+  branch: AROUBA
+LNCBLYLT052:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BENGHAZI
+  branch: BENGHAZI – MAIN BRANCH
+LNCBLYLT105:
+  institution: NATIONAL COMMERCIAL BANK
+  city: BENGHAZI
+  branch: FACTORY OF PIPES
+LNCBLYLT068:
+  institution: NATIONAL COMMERCIAL BANK
+  city: DERNA
+  branch: ALGUBBA BR.
+LNCBLYLT055:
+  institution: NATIONAL COMMERCIAL BANK
+  city: DERNA
+  branch: ''
+LNCBLYLT087:
+  institution: NATIONAL COMMERCIAL BANK
+  city: EL ZAWIA
+  branch: ALTRED BRANCH
+LNCBLYLT067:
+  institution: NATIONAL COMMERCIAL BANK
+  city: GHADAMIS
+  branch: GHADAMES BRANCH
+LNCBLYLT085:
+  institution: NATIONAL COMMERCIAL BANK
+  city: GHARIAN
+  branch: DARAG BR.
+LNCBLYLT057:
+  institution: NATIONAL COMMERCIAL BANK
+  city: GHARIAN
+  branch: ''
+LNCBLYLT076:
+  institution: NATIONAL COMMERCIAL BANK
+  city: GHAT
+  branch: GHAT BRANCH
+LNCBLYLT056:
+  institution: NATIONAL COMMERCIAL BANK
+  city: MISURATA
+  branch: MISURATA BRANCH
+LNCBLYLT078:
+  institution: NATIONAL COMMERCIAL BANK
+  city: RAS LANUF
+  branch: ''
+LNCBLYLT053:
+  institution: NATIONAL COMMERCIAL BANK
+  city: SABHA
+  branch: ''
+LNCBLYLT069:
+  institution: NATIONAL COMMERCIAL BANK
+  city: SEBHA
+  branch: EBRAK BR.
+LNCBLYLT072:
+  institution: NATIONAL COMMERCIAL BANK
+  city: SEBHA
+  branch: OUBARI BR.
+LNCBLYLT073:
+  institution: NATIONAL COMMERCIAL BANK
+  city: SHAHHAT
+  branch: SHAHAT BRANCH
+LNCBLYLT081:
+  institution: NATIONAL COMMERCIAL BANK
+  city: SIRTE
+  branch: 'SIRT BRANCH '
+LNCBLYLT091:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TAJURA
+  branch: ''
+LNCBLYLT102:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TARHOUNA
+  branch: TARHOUNA BRANCH
+LNCBLYLT066:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TOBRUK
+  branch: EMSAAD BR.
+LNCBLYLT083:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TOBRUK
+  branch: KAMBUT BR
+LNCBLYLT058:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TOBRUK
+  branch: ''
+LNCBLYLT070:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ALMENA BRANCH
+LNCBLYLT061:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: CITY
+LNCBLYLT099:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ELTHAHRRA BRANCH
+LNCBLYLT089:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ESBIA BR.
+LNCBLYLTHOB:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: HEAD OFFICE
+LNCBLYLT062:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ISTIKLAL BRANCH
+LNCBLYLT051:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: MAIN BRANCH
+LNCBLYLT064:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: MUNICIPALITY SQUARE
+LNCBLYLT065:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: SEUQELTHOLATHA BRANCH
+LNCBLYLT:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ''
+LNCBLYLT050:
+  institution: NATIONAL COMMERCIAL BANK
+  city: TRIPOLI
+  branch: ''
+LNCBLYLT101:
+  institution: NATIONAL COMMERCIAL BANK
+  city: ZAWIA
+  branch: AJMAIL BR.
+LNCBLYLT077:
+  institution: NATIONAL COMMERCIAL BANK
+  city: ZAWIA
+  branch: MUSFAT BRANCH
+LNCBLYLT060:
+  institution: NATIONAL COMMERCIAL BANK
+  city: ZAWIA
+  branch: ''
+LNCBLYLT093:
+  institution: NATIONAL COMMERCIAL BANK
+  city: ZLITEN
+  branch: ZLITIN BRANCH
+NABLLYLXTIP:
+  institution: NORTH AFRICA BANK
+  city: TRIPOLI
+  branch: BRANCH
+NABLLYLX:
+  institution: NORTH AFRICA BANK
+  city: TRIPOLI
+  branch: ''
+SABKLYLXBEN:
+  institution: SAHARA BANK
+  city: BENGHAZI
+  branch: HEAD OFFICE BENGHAZI
+SABKLYLX:
+  institution: SAHARA BANK
+  city: TRIPOLI
+  branch: ''
+UNCNLYLT:
+  institution: UNITED BANK FOR COMMERCE AND INVESTMENT
+  city: TRIPOLI
+  branch: ''
+WAHBLYLX041:
+  institution: WAHDA BANK
+  city: AJDABIA
+  branch: ''
+WAHBLYLX097:
+  institution: WAHDA BANK
+  city: AJELAT
+  branch: ''
+WAHBLYLX018:
+  institution: WAHDA BANK
+  city: ANDULUS
+  branch: ''
+WAHBLYLX046:
+  institution: WAHDA BANK
+  city: BEN JWAD
+  branch: ''
+WAHBLYLX108:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: ALMDENA
+WAHBLYLX096:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: GARDIN
+WAHBLYLX066:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: GULF
+WAHBLYLX:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: HEAD OFFICE
+WAHBLYLX601:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: ISLAMIC
+WAHBLYLX032:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: MAIDAN BRANCH
+WAHBLYLX030:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: MAIN BRANCH
+WAHBLYLX111:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: MAWADELBENA
+WAHBLYLX031:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: MUKHTAR BRANCH
+WAHBLYLX200:
+  institution: WAHDA BANK
+  city: BENGHAZI
+  branch: TREASURY
+WAHBLYLX040:
+  institution: WAHDA BANK
+  city: DERNA
+  branch: DERNA BRANCH
+WAHBLYLX048:
+  institution: WAHDA BANK
+  city: JALO
+  branch: ''
+WAHBLYLX015:
+  institution: WAHDA BANK
+  city: MAGARBA
+  branch: ''
+WAHBLYLX087:
+  institution: WAHDA BANK
+  city: MISURATA
+  branch: MISURATA BRANCH
+WAHBLYLX100:
+  institution: WAHDA BANK
+  city: MSLATA
+  branch: ''
+WAHBLYLX020:
+  institution: WAHDA BANK
+  city: RASHID
+  branch: ''
+WAHBLYLX036:
+  institution: WAHDA BANK
+  city: RWISAT
+  branch: ''
+WAHBLYLX035:
+  institution: WAHDA BANK
+  city: SABRI
+  branch: ''
+WAHBLYLX043:
+  institution: WAHDA BANK
+  city: SIRTE
+  branch: ''
+WAHBLYLX034:
+  institution: WAHDA BANK
+  city: SOUK
+  branch: ''
+WAHBLYLX081:
+  institution: WAHDA BANK
+  city: TEBSTI
+  branch: ''
+WAHBLYLX083:
+  institution: WAHDA BANK
+  city: TOBRUK
+  branch: ''
+WAHBLYLX012:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: 1ST SEPTEMBER BRANCH
+WAHBLYLX056:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: ALJERIA
+WAHBLYLX014:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: BALADIYA BRANCH
+WAHBLYLX110:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: BORJTRIPOLI
+WAHBLYLX106:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: ELSAQA
+WAHBLYLX016:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: ELTHOLATHAA
+WAHBLYLX019:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: JADAH BRANCH
+WAHBLYLX011:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: MAIN BRANCH
+WAHBLYLX090:
+  institution: WAHDA BANK
+  city: TRIPOLI
+  branch: NATIONAL OIL CORPORATION
+WAHBLYLX044:
+  institution: WAHDA BANK
+  city: YEFREN
+  branch: YEFREN BRANCH
+WAHBLYLX050:
+  institution: WAHDA BANK
+  city: ZLITEN
+  branch: ''

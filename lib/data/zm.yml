@@ -1,0 +1,94 @@
+---
+ABBAZMLU:
+  institution: AB BANK ZAMBIA LTD.
+  city: LUSAKA
+  branch: ''
+AZAMZMLU:
+  institution: ACCESS BANK ZAMBIA LIMITED
+  city: LUSAKA
+  branch: ''
+FMBZZMLX:
+  institution: AFRICAN BANKING CORPORATION ZAMBIA
+  city: LUSAKA
+  branch: ''
+BKCHZMLU:
+  institution: BANK OF CHINA (ZAMBIA) LTD
+  city: LUSAKA
+  branch: ''
+BAZAZMLU:
+  institution: BANK OF ZAMBIA
+  city: LUSAKA
+  branch: AUTHORISED SETTLEMENT AGENT
+BAZAZMLUASA:
+  institution: BANK OF ZAMBIA
+  city: LUSAKA
+  branch: ''
+BARCZMLXKPC:
+  institution: BARCLAYS BANK PLC ZAMBIA
+  city: KITWE
+  branch: KITWE PROCESSING CENTRE
+BARCZMLX:
+  institution: BARCLAYS BANK PLC ZAMBIA
+  city: LUSAKA
+  branch: HEAD OFFICE
+CVMTZMLU:
+  institution: CAVMONT MERCHANT BANK LIMITED
+  city: LUSAKA
+  branch: ''
+CITIZMLU:
+  institution: CITIBANK ZAMBIA LTD
+  city: LUSAKA
+  branch: ''
+ECOCZMLU:
+  institution: ECOBANK ZAMBIA
+  city: LUSAKA
+  branch: ''
+ZFBAZMLU:
+  institution: FINANCE BANK ZAMBIA LIMITED.
+  city: LUSAKA
+  branch: ''
+FALLZMLU:
+  institution: FIRST ALLIANCE BANK
+  city: LUSAKA
+  branch: ''
+ICZAZMLU:
+  institution: FIRST CAPITAL BANK (Z) LTD (FORMERLY KNOWN AS INTERNATIONAL COMMERCIAL
+    BANK ZAMBIA LIMITED)
+  city: LUSAKA
+  branch: ''
+FIRNZMLX:
+  institution: FIRST NATIONAL BANK ZAMBIA LIMITED
+  city: LUSAKA
+  branch: ''
+INZAZMLX:
+  institution: INDO-ZAMBIA BANK
+  city: LUSAKA
+  branch: ''
+IDHZZMLU:
+  institution: INTERMARKET BANKING CORPORATION LIMITED
+  city: LUSAKA
+  branch: ''
+VSTRZMLU:
+  institution: INVESTRUST BANK LTD
+  city: LUSAKA
+  branch: ''
+SBICZMLX:
+  institution: STANBIC BANK ZAMBIA LTD.
+  city: LUSAKA
+  branch: LUSAKA BRANCH
+SCBLZMLX:
+  institution: STANDARD CHARTERED BANK ZAMBIA LTD
+  city: LUSAKA
+  branch: ''
+SCBLZMLXSSU:
+  institution: STANDARD CHARTERED BANK ZAMBIA LTD
+  city: LUSAKA
+  branch: SECURITIES SERVICES UNIT
+UNAFZMLU:
+  institution: UNITED BANK FOR AFRICA ZAMBIA LIMITED
+  city: LUSAKA
+  branch: ''
+ZNCOZMLU:
+  institution: ZAMBIA NATIONAL COMMERCIAL
+  city: LUSAKA
+  branch: ''

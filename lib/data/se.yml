@@ -1,0 +1,421 @@
+---
+ABVOSEGG:
+  institution: AB VOLVO
+  city: GOTHENBURG
+  branch: ''
+AABASESS:
+  institution: ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL
+  city: STOCKHOLM
+  branch: ''
+BKCHSESS:
+  institution: BANK OF CHINA (LUXEMBOURG) S.A. STOCKHOLM BRANCH
+  city: STOCKHOLM
+  branch: ''
+BGABSESSMUL:
+  institution: BANKGIROCENTRALEN BGC AB
+  city: STOCKHOLM
+  branch: MULTILATERAL SETTLEMENT
+BGABSESG:
+  institution: BANKGIROCENTRALEN BGC AB
+  city: STOCKHOLM
+  branch: ''
+BGABSESS:
+  institution: BANKGIROCENTRALEN BGC AB
+  city: STOCKHOLM
+  branch: ''
+FTSBSESS:
+  institution: BNP PARIBAS FORTIS SA/NV SWEDEN BRANCH
+  city: STOCKHOLM
+  branch: ''
+HQFKSESS:
+  institution: CARNEGIE INVESTMENT BANK AB
+  city: STOCKHOLM
+  branch: ''
+CITISESX:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: STOCKHOLM
+  branch: ''
+BSUISESS:
+  institution: CREDIT AGRICOLE CIB SWEDEN BRANCH
+  city: STOCKHOLM
+  branch: ''
+DABASESXGBG:
+  institution: DANSKE BANK
+  city: GOTEBORG
+  branch: TRADE FINANCE, GOTHENBURG
+DABASESXCLS:
+  institution: DANSKE BANK
+  city: STOCKHOLM
+  branch: CLS SERVICES
+DABASESXCON:
+  institution: DANSKE BANK
+  city: STOCKHOLM
+  branch: DANSKE CONCENSUS
+DABASESXSTO:
+  institution: DANSKE BANK
+  city: STOCKHOLM
+  branch: TRADE FINANCE, STOCKHOLM
+DABASESX:
+  institution: DANSKE BANK
+  city: STOCKHOLM
+  branch: ''
+DNBASESXCLS:
+  institution: DNB BANK ASA, FILIAL SVERIGE
+  city: STOCKHOLM
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+DNBASESX:
+  institution: DNB BANK ASA, FILIAL SVERIGE
+  city: STOCKHOLM
+  branch: ''
+OHMJSESS:
+  institution: E. OEHMAN J.OR FK AB
+  city: STOCKHOLM
+  branch: ''
+VPCSSESSVKI:
+  institution: EUROCLEAR SWEDEN AB
+  city: STOCKHOLM
+  branch: VPC AB’S ACCOUNT OPERATOR
+VPCSSESS:
+  institution: EUROCLEAR SWEDEN AB
+  city: STOCKHOLM
+  branch: ''
+VPCSSESSCLP:
+  institution: EUROCLEAR SWEDEN AB
+  city: STOCKHOLM
+  branch: ''
+FORXSESA:
+  institution: FOREX BANK AKTIEBOLAG
+  city: STOCKHOLM
+  branch: ''
+ALTASESS:
+  institution: FORSAKRINGSBOLAGET ALECTA, OMSESIDIGT
+  city: STOCKHOLM
+  branch: ''
+CHASSESS:
+  institution: JPMORGAN EUROPE LIMITED, STOCKHOLM FILIAL
+  city: STOCKHOLM
+  branch: ''
+KIABSE22:
+  institution: KOMMUNINVEST I SVERIGE AB
+  city: OREBRO
+  branch: ''
+LAHYSESS:
+  institution: LANDSHYPOTEK AB
+  city: STOCKHOLM
+  branch: ''
+ELLFSESS:
+  institution: LANSFORSAKRINGAR BANK AB
+  city: STOCKHOLM
+  branch: ''
+MFEXSESS:
+  institution: MFEX MUTUAL FUNDS EXCHANGE AB
+  city: STOCKHOLM
+  branch: ''
+OMECSESSNOC:
+  institution: NASDAQ OMX STOCKHOLM AB
+  city: STOCKHOLM
+  branch: CLEARING
+OMECSESSDVP:
+  institution: NASDAQ OMX STOCKHOLM AB
+  city: STOCKHOLM
+  branch: DERIVATIVES
+OMECSESSEXT:
+  institution: NASDAQ OMX STOCKHOLM AB
+  city: STOCKHOLM
+  branch: EXTERNAL
+OMECSESSTRE:
+  institution: NASDAQ OMX STOCKHOLM AB
+  city: STOCKHOLM
+  branch: TREASURY
+OMECSESS:
+  institution: NASDAQ OMX STOCKHOLM AB
+  city: STOCKHOLM
+  branch: ''
+NEFOSESS:
+  institution: NEONET SECURITIES AB
+  city: STOCKHOLM
+  branch: ''
+NDEASEGG:
+  institution: NORDEA BANK AB (PUBL)
+  city: GOTEBORG
+  branch: ''
+NDEASESSNBM:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: NORDEA BANK MARKETS
+NDEASESSPGI:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: PLUSGIROT
+NDEASESS:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: ''
+NDEASESSFDS:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: ''
+NDEASESSNCL:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: ''
+NDEASESSRCC:
+  institution: NORDEA BANK AB (PUBL)
+  city: STOCKHOLM
+  branch: ''
+NNSESE22:
+  institution: NORDNET BANK AB
+  city: BROMMA
+  branch: ''
+OMBSSESSBPF:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: BPF
+OMBSSESSGTM:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: GTM
+OMBSSESSHUM:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: HUM
+OMBSSESSLFB:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: LFB
+OMBSSESSWEA:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: WEA
+OMBSSESS:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSABR:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSAOI:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSAZA:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSCDV:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSCSS:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSDEU:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSEKF:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSEVI:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSHQB:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSJBN:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSKAS:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSKBC:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSMCO:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSNET:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSNFM:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSNNS:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSNOB:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSBA:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSOT:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSPF:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSPG:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSPP:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSSUN:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSTTR:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSUBS:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSVDM:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSWDR:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+OMBSSESSWFL:
+  institution: OM BROKER SERVICES AB
+  city: STOCKHOLM
+  branch: ''
+SAPASESS:
+  institution: SAPA AB
+  city: STOCKHOLM
+  branch: ''
+SBAVSESS:
+  institution: SBAB
+  city: STOCKHOLM
+  branch: ''
+SKIASESS:
+  institution: SKANDIABANKEN
+  city: STOCKHOLM
+  branch: ''
+ESSESESG:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: GOTEBORG
+  branch: ''
+ESSESESM:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: MALMO
+  branch: ''
+ESSESESSENS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: STOCKHOLM
+  branch: ENSKILDA SECURITIES
+ESSESESS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: STOCKHOLM
+  branch: ''
+ESSESESSCLS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: STOCKHOLM
+  branch: ''
+SKFISEGA:
+  institution: SKF INTERNATIONAL AB
+  city: GOTEBORG
+  branch: ''
+FINNSESE:
+  institution: SPARBANKEN ORESUND AB
+  city: MALMO
+  branch: ''
+HANDSESSGBG:
+  institution: SVENSKA HANDELSBANKEN
+  city: GOTEBORG
+  branch: TRADE AND EXPORT FINANCE
+HANDSESSMLM:
+  institution: SVENSKA HANDELSBANKEN
+  city: MALMO
+  branch: TRADE AND EXPORT FINANCE
+HANDSESSSHY:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: AKTIESPAR
+HANDSESSSHD:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: DMA TRADING
+HANDSESS:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: ''
+HANDSESSCLS:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: ''
+HANDSESSSH1:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: ''
+HANDSESSSHP:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: ''
+HANDSESSFIC:
+  institution: SVENSKA HANDELSBANKEN
+  city: STOCKHOLM
+  branch: ''
+RIKSSESS:
+  institution: SVERIGES RIKSBANK
+  city: STOCKHOLM
+  branch: ''
+SWEDSESSCUS:
+  institution: SWEDBANK AB
+  city: STOCKHOLM
+  branch: SECURITIES SERVICES
+SWEDSESS:
+  institution: SWEDBANK AB
+  city: STOCKHOLM
+  branch: ''
+SWEDSESSCLS:
+  institution: SWEDBANK AB
+  city: STOCKHOLM
+  branch: ''
+SEKXSESS:
+  institution: SWEDISH EXPORT CREDIT CORP.
+  city: STOCKHOLM
+  branch: ''
+TLSNSESS:
+  institution: TELIASONERA AB (PUBL)
+  city: STOCKHOLM
+  branch: ''
+ABNASESS:
+  institution: THE ROYAL BANK OF SCOTLAND PLC NORDIC (FORMERLY KNOWN AS RBS NV)
+  city: STOCKHOLM
+  branch: ''
+SNDOSESS:
+  institution: THE SWEDISH NATIONAL DEBT OFFICE
+  city: STOCKHOLM
+  branch: ''
+TRLYSESS:
+  institution: TRUSTLY GROUP AB
+  city: STOCKHOLM
+  branch: ''
+VCARSEGG:
+  institution: VOLVO CAR CORPORATION
+  city: GOTEBORG
+  branch: ''

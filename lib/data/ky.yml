@@ -1,0 +1,331 @@
+---
+ATSEKYKY:
+  institution: ATLANTIC SECURITY BANK
+  city: GEORGETOWN
+  branch: ''
+ABCBKYKX:
+  institution: BANCO ABC BRASIL S.A. CAYMAN ISLANDS BRANCH
+  city: GEORGETOWN
+  branch: ''
+BBPIKYKY:
+  institution: BANCO BPI
+  city: GEORGETOWN
+  branch: ''
+BCYLKYKY:
+  institution: BANCO BPI CAYMAN LTD
+  city: GEORGETOWN
+  branch: ''
+BBDEKYKY:
+  institution: BANCO BRADESCO S.A.
+  city: GEORGETOWN
+  branch: ''
+COLPKYKY:
+  institution: BANCO COLPATRIA CAYMAN
+  city: GRAND CAYMAN
+  branch: ''
+DAYCKYKY:
+  institution: BANCO DAYCOVAL S/A
+  city: GEORGETOWN
+  branch: ''
+NACNKYKY:
+  institution: BANCO DE LA NACION ARGENTINA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+PRBAKYKY:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: GEORGETOWN
+  branch: GRAND CAYMAN BRANCH
+BRASKYKY:
+  institution: BANCO DO BRASIL S.A.
+  city: GEORGETOWN
+  branch: ''
+BESCKYKX:
+  institution: BANCO ESPIRITO SANTO S.A.
+  city: GEORGETOWN
+  branch: ''
+FIBIKYKY:
+  institution: BANCO FIBRA S/A GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+BGOSKYKY:
+  institution: BANCO GENERAL (OVERSEAS) INC.
+  city: GRAND CAYMAN
+  branch: ''
+BICBKYKY:
+  institution: BANCO INDUSTRIAL E COMERCIAL S.A.
+  city: GEORGETOWN
+  branch: ''
+IDVLKYKY:
+  institution: BANCO INDUSVAL SA
+  city: GRAND CAYMAN
+  branch: ''
+BMBRKYKY:
+  institution: BANCO MERCANTIL DO BRASIL S.A
+  city: GEORGETOWN
+  branch: ''
+MODAKYKY:
+  institution: BANCO MODAL S.A.
+  city: GRAND CAYMAN
+  branch: ''
+BNCEKYKX:
+  institution: BANCO NACIONAL DE COMERCIO EXTERIOR
+  city: GEORGETOWN
+  branch: ''
+PBBRKYKY:
+  institution: BANCO PINE S.A
+  city: GEORGETOWN
+  branch: ''
+RABOKYKY:
+  institution: BANCO RABOBANK INTERNATIONAL BRASIL S.A.
+  city: GEORGETOWN
+  branch: ''
+BSCHKYKX:
+  institution: BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+BSCHKYKXGEB:
+  institution: BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+BSCHKYKXCAY:
+  institution: BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+SUBRKYKY:
+  institution: BANCO SUMITOMO MITSUI BRASILEIRO S.A.
+  city: GEORGETOWN
+  branch: ''
+BESKKYKY:
+  institution: BANK ESPIRITO SANTO (INTERNATIONAL) LTD
+  city: GEORGETOWN
+  branch: ''
+LUMIKYKY:
+  institution: BANK LEUMI LE ISRAEL B.M. GEORGE TOWN BRANCH
+  city: GEORGETOWN
+  branch: ''
+BKCHKYKY:
+  institution: BANK OF CHINA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+NOSCKYKG:
+  institution: BANK OF NOVA SCOTIA
+  city: GEORGETOWN
+  branch: ''
+BRINKYKX:
+  institution: BANK RAKYAT INDONESIA
+  city: GEORGETOWN
+  branch: ''
+BYLAKYKX:
+  institution: BAYERISCHE LANDESBANK
+  city: GEORGETOWN
+  branch: ''
+BESBKYKY:
+  institution: BES INVESTIMENTO DO BRASIL S.A. BANCO DE INVESTIMENTO
+  city: GRAND CAYMAN
+  branch: ''
+ESCAKYKY:
+  institution: BIC INTERNATIONAL BANK LIMITED
+  city: GEORGETOWN
+  branch: ''
+ITAUKYKY:
+  institution: BIE BANK AND TRUST LTD.
+  city: GEORGETOWN
+  branch: ''
+BAMBKYKX:
+  institution: BRASILIAN AMERICAN MERCHANT BANK (BAMB)
+  city: GEORGETOWN
+  branch: ''
+BNTBKYKY:
+  institution: BUTTERFIELD BANK (CAYMAN) LIMITED
+  city: GEORGETOWN
+  branch: ''
+CGDIKYKY:
+  institution: CAIXA GERAL DE DEPOSITOS GRAND CAYMAN BRANCH
+  city: GRAND CAYMAN
+  branch: ''
+CBTLKYKY:
+  institution: CALEDONIAN BANK LIMITED
+  city: GEORGETOWN
+  branch: ''
+CIMGKYKY:
+  institution: CAYMAN ISLANDS MONETARY AUTHORITY
+  city: GEORGETOWN
+  branch: ''
+CNATKYKY:
+  institution: CAYMAN NATIONAL BANK LTD.
+  city: GEORGETOWN
+  branch: ''
+CIBCKYKC:
+  institution: CIBC BANK AND TRUST COMPANY (CAYMAN) LTD
+  city: GRAND CAYMAN
+  branch: ''
+CITCKYKY:
+  institution: CITCO BANK AND TRUST COMPANY
+  city: GEORGETOWN
+  branch: ''
+COBAKYKX:
+  institution: COMMERZBANK AG CAYMAN ISLANDS BRANC H
+  city: GEORGETOWN
+  branch: ''
+CSFBKYKX:
+  institution: CREDIT SUISSE AG CAYMAN ISLANDS BRANCH
+  city: GEORGETOWN
+  branch: CAYMAN ISLANDS BRANCH
+DEUTKY22:
+  institution: DEUTSCHE BANK (CAYMAN) LIMITED
+  city: GEORGETOWN
+  branch: ''
+DEUTKYKX:
+  institution: DEUTSCHE BANK AG
+  city: GEORGETOWN
+  branch: ''
+CAYIKYKY:
+  institution: DMS BANK AND TRUST LTD
+  city: GEORGETOWN
+  branch: ''
+DNBAKYKX:
+  institution: DNB BANK ASA GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+EFGBKYKY:
+  institution: EFG BANK
+  city: GEORGETOWN
+  branch: ''
+FCIBKYKY:
+  institution: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LIMITED
+  city: GEORGETOWN
+  branch: ''
+GSFPKYKY:
+  institution: G.S. FINANCIAL PRODUCTS U.S. L.P.
+  city: GEORGETOWN
+  branch: ''
+BCTOKYKY:
+  institution: HELM BANK CAYMAN
+  city: GEORGETOWN
+  branch: ''
+HSBCKYKY:
+  institution: HSBC BANK (CAYMAN) LIMITED
+  city: GEORGETOWN
+  branch: ''
+BCBBKYKY:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO (GRAND CAYMAN BRANCH)
+  city: GEORGETOWN
+  branch: ''
+BCITKYKX:
+  institution: INTESA SANPAOLO SPA GEORGETOWN (FORMERLY INTESABCI S.P.A. GEORGETOWN)
+  city: GEORGETOWN
+  branch: ''
+INVCKYKY:
+  institution: INVESTCORP TRADING LIMITED
+  city: GEORGETOWN
+  branch: ''
+INVCKYKYISA:
+  institution: INVESTCORP TRADING LIMITED
+  city: GRAND CAYMAN
+  branch: BOUNDARY HALL BRANCH
+ITAUKYKT:
+  institution: ITAU BANK LIMITED
+  city: GEORGETOWN
+  branch: ''
+ITAUKYKCIGC:
+  institution: ITAU UNIBANCO S.A. GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: CURRENT ACCOUNT
+ITAUKYKC:
+  institution: ITAU UNIBANCO S.A. GRAND CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+KBCFKYKX:
+  institution: KBC FINANCIAL PRODUCTS (CAYMAN ISLANDS) LTD.
+  city: GEORGETOWN
+  branch: ''
+KBCFKYKY:
+  institution: KBC FINANCIAL PRODUCTS INTERNATIONAL LTD.
+  city: GEORGETOWN
+  branch: ''
+KBCFKYKZ:
+  institution: KBC INVESTMENTS CAYMAN ISLANDS V LTD
+  city: GEORGETOWN
+  branch: ''
+HELAKYKX:
+  institution: LANDESBANK HESSEN THUERINGEN GIROZENTRALE CAYMAN BRANCH
+  city: GEORGETOWN
+  branch: ''
+MLBCKYKX:
+  institution: MERRILL LYNCH BANK AND TRUST COMPANY (CAYMAN) LTD
+  city: GEORGETOWN
+  branch: ''
+BCOMKYKX:
+  institution: MILLENNIUM BCP BANK AND TRUST
+  city: GEORGETOWN
+  branch: ''
+MORVKYKY:
+  institution: MORVAL BANK AND TRUST CAYMAN LTD.
+  city: GEORGETOWN
+  branch: ''
+MUOVKYKY:
+  institution: MULTI BANKING CORPORATION (OVERSEAS) LIMITED
+  city: GEORGETOWN
+  branch: ''
+NDEAKYKX:
+  institution: NORDEA BANK FINLAND PLC
+  city: GEORGETOWN
+  branch: ''
+BMRIKYKY:
+  institution: PT BANK MANDIRI (PERSERO)TBK CAYMAN ISLANDS BRANCH
+  city: GEORGETOWN
+  branch: ''
+ROYCKYKY:
+  institution: RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    GRAND CAYMAN)
+  city: GEORGETOWN
+  branch: ''
+ROYCKYKYKYQ:
+  institution: RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    GRAND CAYMAN)
+  city: GEORGETOWN
+  branch: ''
+ROYCKYKT:
+  institution: ROYAL BANK OF CANADA TRUST COMPANY (CAYMAN) LIMITED
+  city: GEORGETOWN
+  branch: ''
+NOSCKYKXTRU:
+  institution: SCOTIABANK AND TRUST (CAYMAN) LTD.
+  city: GEORGETOWN
+  branch: TRUST DEPARTMENT
+NOSCKYKX:
+  institution: SCOTIABANK AND TRUST (CAYMAN) LTD.
+  city: GEORGETOWN
+  branch: ''
+SICOKYKY:
+  institution: SIAM COMMERCIAL BANK PCL. THE
+  city: GRAND CAYMAN
+  branch: ''
+TOWEKYKY:
+  institution: TOWERBANK LTD
+  city: GEORGETOWN
+  branch: ''
+UBSWKYKY:
+  institution: UBS FUND SERVICE (CAYMAN) LTD
+  city: GEORGETOWN
+  branch: ''
+VBTBKYKY:
+  institution: VBT BANK AND TRUST LTD.
+  city: GRAND CAYMAN
+  branch: ''
+VZCRKYKY:
+  institution: VENEZOLANO DE CREDITO CAYMAN BRANCH BANCO UNIVERSAL
+  city: GEORGETOWN
+  branch: ''
+WELAKYKX:
+  institution: WESTLB DO BRASIL CAYMAN LIMITED
+  city: GEORGETOWN
+  branch: ''
+WPACKYKX:
+  institution: WESTPAC BANKING CORPORATION
+  city: GEORGETOWN
+  branch: ''
+GROPKYKY:
+  institution: XLIT LTD
+  city: GRAND CAYMAN
+  branch: ''

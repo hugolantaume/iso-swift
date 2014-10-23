@@ -1,0 +1,53 @@
+---
+CBKNNANAPCH:
+  institution: BANK OF NAMIBIA
+  city: WINDHOEK
+  branch: CLEARING HOUSE
+CBKNNANX:
+  institution: BANK OF NAMIBIA
+  city: WINDHOEK
+  branch: ''
+BWLINANXCHM:
+  institution: BANK WINDHOEK LIMITED
+  city: WINDHOEK
+  branch: GLOBAL CUSTODY BRANCH
+BWLINANX:
+  institution: BANK WINDHOEK LIMITED
+  city: WINDHOEK
+  branch: ''
+FIRNNANX:
+  institution: FIRST NATIONAL BANK OF NAMIBIA LIMITED
+  city: WINDHOEK
+  branch: ''
+IHNANANX:
+  institution: INVESTMENT HOUSE NAMIBIA (PTY) LTD
+  city: WINDHOEK
+  branch: ''
+IJGLNANA:
+  institution: IRWIN JACOBS GREENE AND ASSOCIATES (PTY) LTD.
+  city: WINDHOEK
+  branch: ''
+NAMCNANX:
+  institution: NAMCLEAR (PTY) LIMITED
+  city: WINDHOEK
+  branch: ''
+NBOENANX:
+  institution: NAMIBIA EQUITY BROKERS (PTY) LTD
+  city: WINDHOEK
+  branch: ''
+NEDSNANX:
+  institution: NEDBANK NAMIBIA LIMITED
+  city: WINDHOEK
+  branch: ''
+FLMSNANX:
+  institution: SIMONIS STORM SECURITIES (PTY) LTD
+  city: WINDHOEK
+  branch: ''
+SMEBNANA:
+  institution: SMALL AND MEDIUM ENTERPRISES BANK
+  city: WINDHOEK
+  branch: ''
+SBNMNANX:
+  institution: STANDARD BANK NAMIBIA LIMITED
+  city: WINDHOEK
+  branch: ''

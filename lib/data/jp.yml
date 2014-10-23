@@ -1,0 +1,1401 @@
+---
+ABOCJPJT:
+  institution: AGRICULTURAL BANK OF CHINA TOKYO BRANCH
+  city: CHIYODA-KU
+  branch: ''
+AICHJPJN:
+  institution: AICHI BANK, LTD., THE
+  city: NAGOYA
+  branch: ''
+AKITJPJT:
+  institution: AKITA BANK, LTD.,THE
+  city: AKITA
+  branch: ''
+AMASJPJZ:
+  institution: AMAGASAKI SHINKIN BANK, THE
+  city: AMAGASAKI
+  branch: ''
+AOMBJPJT:
+  institution: AOMORI BANK LTD., THE
+  city: AOMORI
+  branch: ''
+NCBTJPJT:
+  institution: AOZORA BANK, LTD
+  city: TOKYO
+  branch: ''
+ASKBJPJT:
+  institution: ASAHI SHINKIN BANK, THE
+  city: TOKYO
+  branch: ''
+ASIKJPJT:
+  institution: ASHIKAGA BANK
+  city: UTSUNOMIYA
+  branch: ''
+ANZBJPJX:
+  institution: AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+  city: TOKYO
+  branch: ''
+AWABJPJT:
+  institution: AWA BANK, LTD., THE
+  city: TOKUSHIMA
+  branch: ''
+BBVAJPJT:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+BRASJPJT:
+  institution: BANCO DO BRASIL S.A.
+  city: TOKYO
+  branch: ''
+BKKBJPJTOSA:
+  institution: BANGKOK BANK PUBLIC COMPANY LTD.
+  city: OSAKA
+  branch: ''
+BKKBJPJT:
+  institution: BANGKOK BANK PUBLIC COMPANY LTD.
+  city: TOKYO
+  branch: ''
+BNINJPJT:
+  institution: BANK NEGARA INDONESIA (PERSERO), PT., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+BOFAJPJX:
+  institution: BANK OF AMERICA, TOKYO
+  city: TOKYO
+  branch: TOKYO BRANCH
+BKCHJPJTKOB:
+  institution: BANK OF CHINA
+  city: KOBE
+  branch: KOBE BRANCH
+BKCHJPJTNGY:
+  institution: BANK OF CHINA
+  city: NAGOYA
+  branch: NAGOYA BRANCH
+BKCHJPJTOSA:
+  institution: BANK OF CHINA
+  city: OSAKA
+  branch: OSAKA BRANCH
+BKCHJPJTOTM:
+  institution: BANK OF CHINA
+  city: TOKYO
+  branch: OTEMACHI BRANCH
+BKCHJPJT:
+  institution: BANK OF CHINA
+  city: TOKYO
+  branch: TOKYO BRANCH
+BKCHJPJTYHA:
+  institution: BANK OF CHINA
+  city: YOKOHAMA
+  branch: YOKOHAMA BRANCH
+COMMJPJT:
+  institution: BANK OF COMMUNICATIONS, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+FKBKJPJT100:
+  institution: BANK OF FUKUOKA, LTD., THE
+  city: FUKUOKA
+  branch: HEAD OFFICE
+FKBKJPJT:
+  institution: BANK OF FUKUOKA, LTD., THE
+  city: TOKYO
+  branch: ''
+BKIDJPJTOSK:
+  institution: BANK OF INDIA
+  city: OSAKA
+  branch: OSAKA BRANCH
+BKIDJPJT:
+  institution: BANK OF INDIA
+  city: TOKYO
+  branch: TOKYO BRANCH
+BAIWJPJT:
+  institution: BANK OF IWATE LTD., THE
+  city: MORIOKA
+  branch: ''
+BOJPJPJTBJ1:
+  institution: BANK OF JAPAN
+  city: TOKYO
+  branch: FOR JAPAN’S RESERVES USE ONLY
+BOJPJPJTMF1:
+  institution: BANK OF JAPAN
+  city: TOKYO
+  branch: FOR JAPAN’S RESERVES USE ONLY
+BOJPJPJT:
+  institution: BANK OF JAPAN
+  city: TOKYO
+  branch: ''
+BOKFJPJZ:
+  institution: BANK OF KYOTO,LTD.,THE
+  city: KYOTO
+  branch: ''
+NAGOJPJN:
+  institution: BANK OF NAGOYA, LTD. , THE
+  city: NAGOYA
+  branch: ''
+BOKIJPJZ:
+  institution: BANK OF OKINAWA, LTD., THE
+  city: NAHA
+  branch: ''
+BKSGJPJTSAG:
+  institution: BANK OF SAGA, LTD., THE
+  city: SAGA
+  branch: ''
+BKSGJPJT:
+  institution: BANK OF SAGA, LTD., THE
+  city: TOKYO
+  branch: ''
+BKTWJPJT:
+  institution: BANK OF TAIWAN, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+RYUBJPJZ:
+  institution: BANK OF THE RYUKYUS, LTD.
+  city: NAHA
+  branch: ''
+BOTKJPJTFUK:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: FUKUOKA
+  branch: ''
+BOTKJPJTHIR:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: HIROSHIMA
+  branch: ''
+BOTKJPJTSMO:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: KITAKYUSYU
+  branch: ''
+BOTKJPJTKOB:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: KOBE
+  branch: ''
+BOTKJPJTNGY:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: NAGOYA
+  branch: ''
+BOTKJPJTOSA:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: OSAKA
+  branch: ''
+BOTKJPJTSAP:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: SAPPORO
+  branch: ''
+BOTKJPJTCLS:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: TOKYO
+  branch: CLS CONTROL BRANCH-CONTROL DESK
+BOTKJPJTFGN:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: TOKYO
+  branch: FUNDS AND FOREIGN EXCHANGE DIVISION
+BOTKJPJT:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: TOKYO
+  branch: HEAD OFFICE
+BOTKJPJTFND:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: TOKYO
+  branch: INVESTMENT FUND OPERATIONS UNIT
+BOTKJPJTSAD:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: TOKYO
+  branch: SECURITIES SERVICES DIVISION
+BOTKJPJ2:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD.,THE
+  city: TOKYO
+  branch: ''
+HAMAJPJT:
+  institution: BANK OF YOKOHAMA, LTD., THE
+  city: TOKYO
+  branch: ''
+BARCJPJ2MFX:
+  institution: BARCLAYS BANK PLC
+  city: TOKYO
+  branch: MONEY MARKET AND FOREIGN EXCHANGE
+BARCJPJ9:
+  institution: BARCLAYS SECURITIES JAPAN LIMITED
+  city: TOKYO
+  branch: ''
+CFILJPJT:
+  institution: BGC SHOKEN KAISHA LIMITED
+  city: MINATO-KU
+  branch: ''
+BGIAJPJT:
+  institution: BLACKROCK JAPAN CO., LTD.
+  city: TOKYO
+  branch: ''
+BNPAJPJT:
+  institution: BNP PARIBAS S.A. – TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+BNPAJPJ2:
+  institution: BNP PARIBAS SECURITIES (JAPAN) LTD.
+  city: TOKYO
+  branch: ''
+BBHCJPJT:
+  institution: BROWN BROTHERS HARRIMAN SECURITIES INVESTMENT MANAGEMENT (JAPAN) INC.
+  city: TOKYO
+  branch: ''
+CTRLJPJT:
+  institution: CENTRAL TANSHI CO., LTD.
+  city: TOKYO
+  branch: ''
+CCBCJPJT:
+  institution: CHANG HWA COMMERCIAL BANK LTD., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+CHBAJPJT:
+  institution: CHIBA BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+CHIKJPJT:
+  institution: CHIBA KOGYO BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+PCBCJPJT:
+  institution: CHINA CONSTRUCTION BANK CORPORATION TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+CHGKJPJZ:
+  institution: CHUGOKU BANK, LTD., THE
+  city: OKAYAMA
+  branch: HEAD OFFICE
+CHGKJPJT:
+  institution: CHUGOKU BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+CKBKJPJN:
+  institution: CHUKYO BANK, LIMITED, THE
+  city: NAGOYA
+  branch: ''
+CIWMJPJT:
+  institution: CIBC WORLD MARKETS (JAPAN) INC.
+  city: TOKYO
+  branch: ''
+CITIJPJT:
+  institution: CITIBANK JAPAN LTD.
+  city: TOKYO
+  branch: ''
+NSBLJPJT:
+  institution: CITIGROUP GLOBAL MARKETS JAPAN INC.
+  city: TOKYO
+  branch: ''
+COBAJPJXTOM:
+  institution: COMMERZBANK AG TOKYO
+  city: TOKYO
+  branch: OFF-SHORE BUSINESS
+COBAJPJX:
+  institution: COMMERZBANK AG TOKYO
+  city: TOKYO
+  branch: ''
+CTBAJPJT:
+  institution: COMMONWEALTH BANK OF AUSTRALIA
+  city: TOKYO
+  branch: ''
+BSUIJPJTCOM:
+  institution: CREDIT AGRICOLE CIB TOKYO BRANCH
+  city: TOKYO
+  branch: COMMODITY
+BSUIJPJT:
+  institution: CREDIT AGRICOLE CIB TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+CRLYJPJ9:
+  institution: CREDIT AGRICOLE SECURITIES ASIA B.V.
+  city: TOKYO
+  branch: ''
+CRESJPJT:
+  institution: CREDIT SUISSE AG, TOKYO BRANCH
+  city: TOKYO
+  branch: TOKYO BRANCH
+CRESJPJTPBS:
+  institution: CREDIT SUISSE AG, TOKYO BRANCH
+  city: TOKYO
+  branch: TOKYO BRANCH
+CSFBJPJXEQT:
+  institution: CREDIT SUISSE SECURITIES (JAPAN) LTD.
+  city: TOKYO
+  branch: EQUITY SETTLEMENTS
+CSFBJPJXPBS:
+  institution: CREDIT SUISSE SECURITIES (JAPAN) LTD.
+  city: TOKYO
+  branch: TOKYO BRANCH
+CSFBJPJX:
+  institution: CREDIT SUISSE SECURITIES (JAPAN) LTD.
+  city: TOKYO
+  branch: ''
+CTCBJPJT:
+  institution: CTBC BANK CO., LTD., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+DSBKJPJT:
+  institution: DAISAN BANK, LTD., THE
+  city: MATSUSAKA
+  branch: ''
+DAISJPJT:
+  institution: DAISHI BANK LTD.,THE
+  city: TOKYO
+  branch: ''
+DAMLJPJT:
+  institution: DAIWA ASSET MANAGEMENT CO. LTD
+  city: TOKYO
+  branch: ''
+DNEXJPJT:
+  institution: DAIWA NEXT BANK, LTD.
+  city: CHIYODA-KU
+  branch: ''
+DSBIJPJT:
+  institution: DAIWA SB INVESTMENTS LTD
+  city: TOKYO
+  branch: ''
+DWSCJPJTJSS:
+  institution: DAIWA SECURITIES CO.LTD.
+  city: TOKYO
+  branch: JAPANESE SECURITIES SETTLEMENTS
+DWSCJPJT:
+  institution: DAIWA SECURITIES CO.LTD.
+  city: TOKYO
+  branch: ''
+DWSCJPJ2:
+  institution: DAIWA SECURITIES CO.LTD. CO.LTD.
+  city: TOKYO
+  branch: ''
+DBSSJPJT:
+  institution: DBS BANK LTD, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+DPFAJPJT:
+  institution: DEPFA BANK PLC
+  city: TOKYO
+  branch: TOKYO BRANCH
+DEAMJPJT:
+  institution: DEUTSCHE ASSET MANAGEMENT(JAPAN)LTD
+  city: TOKYO
+  branch: ''
+DEUTJPJT:
+  institution: DEUTSCHE BANK AG
+  city: TOKYO
+  branch: TOKYO BRANCH
+DEUTJPJ9EQT:
+  institution: DEUTSCHE SECURITIES INC.
+  city: TOKYO
+  branch: EQUITY DIVISION
+DEUTJPJ9FX1:
+  institution: DEUTSCHE SECURITIES INC.
+  city: TOKYO
+  branch: FOREX DIVISION
+DEUTJPJ9DOM:
+  institution: DEUTSCHE SECURITIES INC.
+  city: TOKYO
+  branch: JAPANESE EQUITY SETTLEMENT DEPARTMENT
+DEUTJPJ7:
+  institution: DEUTSCHE SECURITIES INC.
+  city: TOKYO
+  branch: ''
+DEUTJPJ9:
+  institution: DEUTSCHE SECURITIES INC.
+  city: TOKYO
+  branch: ''
+DIAMJPJT:
+  institution: DIAM CO., LTD
+  city: CHIYODA-KU
+  branch: ''
+HIMEJPJT:
+  institution: EHIME BANK, LTD., THE
+  city: MATSUYAMA
+  branch: ''
+EITNJPJT:
+  institution: EIGHTEENTH BANK,LIMITED,THE
+  city: NAGASAKI
+  branch: ''
+FCBKJPJT:
+  institution: FIRST COMMERCIAL BANK, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+FKUIJPJT:
+  institution: FUKUI BANK, LTD., THE
+  city: FUKUI
+  branch: ''
+GFSBJPJZ:
+  institution: GIFU SHINKIN BANK, THE
+  city: GIFU
+  branch: ''
+GSAMJPJT:
+  institution: GOLDMAN SACHS ASSET MANAGEMENT JAPAN LTD.
+  city: TOKYO
+  branch: ''
+GOLDJPJX:
+  institution: GOLDMAN SACHS JAPAN CO., LTD.
+  city: TOKYO
+  branch: ''
+GUMAJPJT:
+  institution: GUNMA BANK, LTD., THE
+  city: MAEBASHI
+  branch: ''
+HABKJPJT:
+  institution: HACHIJUNI BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+HNBNJPJT:
+  institution: HANA BANK TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+HNPBJPJT:
+  institution: HIGASHI-NIPPON BANK, LIMITED, THE
+  city: TOKYO
+  branch: ''
+HIROJPJT:
+  institution: HIROSHIMA BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+HKDBJPJT:
+  institution: HOKKAIDO BANK, LTD., THE
+  city: SAPPORO
+  branch: ''
+HKOKJPJT:
+  institution: HOKKOKU BANK, LTD., THE
+  city: KANAZAWA
+  branch: ''
+HETSJPJT:
+  institution: HOKUETSU BANK, LTD., THE
+  city: NAGAOKA
+  branch: ''
+RIKBJPJT:
+  institution: HOKURIKU BANK, LTD.,THE
+  city: TOKYO
+  branch: ''
+HOKBJPJT:
+  institution: HOKUTO BANK, LTD., THE
+  city: AKITA
+  branch: ''
+HSBCJPJTCLS:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE
+  city: TOKYO
+  branch: CLS DIVISION
+HSBCJPJTTRS:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE
+  city: TOKYO
+  branch: TREASURY DEPARTMENT
+HSBCJPJT:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE
+  city: TOKYO
+  branch: ''
+IBJPJPJT:
+  institution: HSBC SECURITIES (JAPAN) LIMITED
+  city: TOKYO
+  branch: ''
+HYKGJPJT:
+  institution: HYAKUGO BANK,LTD.,THE
+  city: TOKYO
+  branch: ''
+HYKGJPJTTSU:
+  institution: HYAKUGO BANK,LTD.,THE
+  city: TSU
+  branch: ''
+HYAKJPJT:
+  institution: HYAKUJUSHI BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+ICBKJPJT:
+  institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+IBKOJPJT:
+  institution: INDUSTRIAL BANK OF KOREA, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+INGBJPJT:
+  institution: ING BANK N.V.
+  city: TOKYO
+  branch: TOKYO BRANCH
+BCITJPJT:
+  institution: INTESA SANPAOLO SPA TOKYO
+  city: TOKYO
+  branch: ''
+ITAUJPJT:
+  institution: ITAU UNIBANCO S.A., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+COSSJPJT:
+  institution: IWAICOSMO SECURITIES CO. LTD.
+  city: TOKYO
+  branch: ''
+IYOBJPJT:
+  institution: IYO BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+JPPSJPJK:
+  institution: JAPAN POST BANK, CO., LTD
+  city: TOKYO
+  branch: ''
+JJSDJPJT:
+  institution: JAPAN SECURITIES DEPOSITORY CENTER, INC
+  city: TOKYO
+  branch: ''
+JTSBJPJTAGE:
+  institution: JAPAN TRUSTEE SERVICES BANK, LTD.
+  city: TOKYO
+  branch: AGENT ACCOUNT
+JTSBJPJT:
+  institution: JAPAN TRUSTEE SERVICES BANK, LTD.
+  city: TOKYO
+  branch: ''
+JSBKJPJT:
+  institution: JOHNAN SHINKIN BANK THE
+  city: TOKYO
+  branch: ''
+OJISJPJT:
+  institution: JOHOKU SHINKIN BANK, THE
+  city: TOKYO
+  branch: ''
+JOYOJPJT:
+  institution: JOYO BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+CHASJPJZKEY:
+  institution: JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.
+  city: TOKYO
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASJPJZ:
+  institution: JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.
+  city: TOKYO
+  branch: ''
+CHASJPJTWSS:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: TOKYO
+  branch: NON-CASH RELATED, SPECIAL PURPOSE
+CHASJPJTENQ:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: TOKYO
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+CHASJPJTKEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: TOKYO
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASJPJT:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: TOKYO
+  branch: TOKYO BRANCH
+CHASJPJTTSD:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: TOKYO
+  branch: TRADE SERVICE DEPARTMENT
+CHASJPJ9CE1:
+  institution: JPMORGAN SECURITIES JAPAN CO., LTD.
+  city: TOKYO
+  branch: CASH EQUITY MIDDLE OFFICE
+CHASJPJ9EQT:
+  institution: JPMORGAN SECURITIES JAPAN CO., LTD.
+  city: TOKYO
+  branch: EQUITY OPERATION
+CHASJPJ9KEY:
+  institution: JPMORGAN SECURITIES JAPAN CO., LTD.
+  city: TOKYO
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASJPJ9:
+  institution: JPMORGAN SECURITIES JAPAN CO., LTD.
+  city: TOKYO
+  branch: ''
+JUROJPJT:
+  institution: JUROKU BANK, LTD., THE
+  city: GIFU
+  branch: ''
+KGWBJPJZ:
+  institution: KAGAWA BANK LTD., THE
+  city: TAKAMATSU
+  branch: ''
+KAGOJPJT:
+  institution: KAGOSHIMA BANK, LTD., THE
+  city: KAGOSHIMA
+  branch: ''
+KSBJJPJS:
+  institution: KANSAI URBAN BANKING CORPORATION
+  city: OSAKA
+  branch: ''
+KEIBJPJT:
+  institution: KEIYO BANK, LTD., THE
+  city: CHIBA
+  branch: ''
+OSABJPJS:
+  institution: KINKI OSAKA BANK, LTD., THE
+  city: OSAKA
+  branch: ''
+SHIAJPJT:
+  institution: KIRAYAKA BANK, LTD.
+  city: YAMAGATA
+  branch: ''
+KITQJPJZ:
+  institution: KITAKYUSHU BANK, LTD., THE(FORMERLY A PART OF THE YAMAGUCHI BANK,LTD.)
+  city: KITAKYUSYU
+  branch: ''
+KNPBJPJT:
+  institution: KITA-NIPPON BANK, LTD., THE
+  city: MORIOKA
+  branch: ''
+KIYOJPJT:
+  institution: KIYO BANK, LTD, THE
+  city: WAKAYAMA
+  branch: ''
+KAMGJPJTFAD:
+  institution: KOKUSAI ASSET MANAGEMENT CO., LTD
+  city: TOKYO
+  branch: FUND ACCOUNTING DEPT
+KAMGJPJT:
+  institution: KOKUSAI ASSET MANAGEMENT CO., LTD
+  city: TOKYO
+  branch: ''
+CZNBJPJTOSK:
+  institution: KOOKMIN BANK
+  city: OSAKA
+  branch: OSAKA BRANCH
+CZNBJPJT:
+  institution: KOOKMIN BANK
+  city: TOKYO
+  branch: ''
+KODBJPJT:
+  institution: KOREA DEVELOPMENT BANK,THE,TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+KOEXJPJTOSA:
+  institution: KOREA EXCHANGE BANK
+  city: OSAKA
+  branch: OSAKA BRANCH
+KOEXJPJT:
+  institution: KOREA EXCHANGE BANK
+  city: TOKYO
+  branch: ''
+KUMAJPJZ:
+  institution: KUMAMOTO BANK, LTD., THE
+  city: KUMAMOTO
+  branch: ''
+KCHUJPJY:
+  institution: KYOTO CHUO SHINKIN BANK, THE
+  city: KYOTO
+  branch: ''
+KYSBJPJZ:
+  institution: KYOTO SHINKIN BANK,THE
+  city: KYOTO
+  branch: ''
+LOCYJPJTNDP:
+  institution: LOMBARD ODIER TRUST (JAPAN) LIMITED
+  city: TOKYO
+  branch: NDP DEPT
+LOCYJPJT:
+  institution: LOMBARD ODIER TRUST (JAPAN) LIMITED
+  city: TOKYO
+  branch: ''
+MTBJJPJTAGT:
+  institution: MASTER TRUST BANK OF JAPAN LTD, THE
+  city: TOKYO
+  branch: INVESTOR SERVICES DIVISION
+MTBJJPJT:
+  institution: MASTER TRUST BANK OF JAPAN LTD, THE
+  city: TOKYO
+  branch: ''
+ICBCJPJTOSA:
+  institution: MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,
+  city: OSAKA
+  branch: ''
+ICBCJPJT:
+  institution: MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,
+  city: TOKYO
+  branch: ''
+MELNJPJT:
+  institution: MELLON GLOBAL INVESTMENTS JAPAN CO LTD
+  city: TOKYO
+  branch: ''
+DAIXJPJT:
+  institution: MERCEDES-BENZ JAPAN CO.LTD.
+  city: TOKYO
+  branch: ''
+MLCOJPJX:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO. LTD
+  city: TOKYO
+  branch: ''
+MLCOJPJD:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD
+  city: TOKYO
+  branch: ''
+MLCOJPJTJGB:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: BOND SETTLEMENT
+MLCOJPJTJES:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: EQUITY SETTLEMENT
+MLCOJPJTSDI:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: STRATEGIC DEVELOPMENT INITIATIVE
+MLCOJPJTTSY:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: TREASURY OPERATIONS
+MLCOJPJT:
+  institution: MERRILL LYNCH JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MBTCJPJT:
+  institution: METROPOLITAN BANK AND TRUST COMPANY, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+MCHIJPJT:
+  institution: MICHINOKU BANK, LTD., THE
+  city: AOMORI
+  branch: ''
+MIEBJPJT:
+  institution: MIE BANK LTD., THE
+  city: TOKYO
+  branch: ''
+HSINJPJK:
+  institution: MINATO BANK,LTD,THE (FORMERLY THE HANSHIN BANK LTD)
+  city: KOBE
+  branch: ''
+MUFJJPJT:
+  institution: MITSUBISHI UFJ ASSET MANAGEMENT CO.,LTD.
+  city: CHIYODA-KU
+  branch: ''
+MUMLJPJT:
+  institution: MITSUBISHI UFJ MERRILL LYNCH PB SECURITIES CO., LTD
+  city: TOKYO
+  branch: ''
+KKSSJPJT:
+  institution: MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MTBCJPJT:
+  institution: MITSUBISHI UFJ TRUST AND BANKING CORPORATION
+  city: TOKYO
+  branch: ''
+MIYAJPJT:
+  institution: MIYAZAKI BANK, LTD., THE
+  city: MIYAZAKI
+  branch: ''
+MHCBJPJTCLS:
+  institution: MIZUHO BANK, LTD.
+  city: TOKYO
+  branch: CLS CONTROL BRANCH
+MHCBJPJ5:
+  institution: MIZUHO BANK, LTD.
+  city: TOKYO
+  branch: ''
+MHCBJPJ6:
+  institution: MIZUHO BANK, LTD.
+  city: TOKYO
+  branch: ''
+MHCBJPJT:
+  institution: MIZUHO BANK, LTD.
+  city: TOKYO
+  branch: ''
+MHCBJPJ2:
+  institution: MIZUHO BANK, LTD.(CUSTODY)
+  city: TOKYO
+  branch: ''
+MHSCJPJT:
+  institution: MIZUHO SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MHSCJPJ3:
+  institution: MIZUHO SECURITIES CO.,LTD
+  city: CHUO-KU
+  branch: ''
+MHSCJPJ2:
+  institution: MIZUHO SECURITIES CO.,LTD
+  city: TOKYO
+  branch: ''
+YTBCJPJT:
+  institution: MIZUHO TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: ''
+HRSBJPJT:
+  institution: MOMIJI BANK, LTD.
+  city: HIROSHIMA
+  branch: ''
+MSTKJPJXFXO:
+  institution: MORGAN STANLEY MUFG SECURITIES CO., LTD.
+  city: TOKYO
+  branch: FOREIGN EXCHANGE OPERATIONS
+MSTKJPJX:
+  institution: MORGAN STANLEY MUFG SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MSTKJPJXCII:
+  institution: MORGAN STANLEY MUFG SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MSTKJPJXCLS:
+  institution: MORGAN STANLEY MUFG SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+MUBKJPJTTSD:
+  institution: MUSASHINO BANK LTD., THE
+  city: SAITAMA
+  branch: TREASURY AND SECURITIES DIVISION
+MUBKJPJT:
+  institution: MUSASHINO BANK LTD., THE
+  city: SAITAMA
+  branch: ''
+NAGAJPJZ:
+  institution: NAGANO BANK, LTD.
+  city: NAGANO
+  branch: ''
+NANTJPJT:
+  institution: NANTO BANK, LTD, THE
+  city: NARA
+  branch: ''
+NATAJPJT:
+  institution: NATIONAL AUSTRALIA BANK LIMITED
+  city: TOKYO
+  branch: ''
+NBPAJPJTOSK:
+  institution: NATIONAL BANK OF PAKISTAN
+  city: OSAKA
+  branch: OSAKA BRANCH
+NBPAJPJT:
+  institution: NATIONAL BANK OF PAKISTAN
+  city: TOKYO
+  branch: MAIN BRANCH
+NATXJPJT:
+  institution: NATIXIS JAPAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+NAMJJPJT:
+  institution: NISSAY ASSET MANAGEMENT CORPORATION
+  city: TOKYO
+  branch: ''
+NAMKJPJTADV:
+  institution: NOMURA ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: ADVISORY DEPT.
+NAMKJPJTBFT:
+  institution: NOMURA ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: BOND AND FINANCIAL INSTRUMENT TRADING DEPT
+NAMKJPJT:
+  institution: NOMURA ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: ''
+NAMKJPJTFDV:
+  institution: NOMURA ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: ''
+NFPSJPJT:
+  institution: NOMURA FINANCIAL PRODUCTS AND SERVICES INC
+  city: TOKYO
+  branch: ''
+NRIWJPJT:
+  institution: NOMURA RESEARCH INSTITUTE, LTD.
+  city: TOKYO
+  branch: ''
+NMRSJPJT:
+  institution: NOMURA SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+NOCUJPJTCLS:
+  institution: NORINCHUKIN BANK, THE
+  city: TOKYO
+  branch: TREASURY AND SECURITIES OPERATIONS DIVISION
+NOCUJPJT:
+  institution: NORINCHUKIN BANK, THE
+  city: TOKYO
+  branch: ''
+NORPJPJP:
+  institution: NORTH PACIFIC BANK, LTD.
+  city: SAPPORO
+  branch: ''
+NTTDJPJT:
+  institution: NTT DATA CORPORATION
+  city: KOTO-KU
+  branch: ''
+NTDGJPJT:
+  institution: NTT DATA GETRONICS CORPORATION
+  city: KAWASAKI-SHI
+  branch: ''
+OGAKJPJT:
+  institution: OGAKI KYORITSU BANK,LTD.,THE
+  city: OGAKI
+  branch: ''
+OITAJPJT:
+  institution: OITA BANK, LTD., THE
+  city: OITA
+  branch: ''
+OKASJPJT:
+  institution: OKASAN SECURITIES CO., LTD.
+  city: TOKYO
+  branch: ''
+OKSBJPJZ:
+  institution: OKAZAKI SHINKIN BANK, THE
+  city: OKAZAKI
+  branch: ''
+OSACJPJS:
+  institution: OSAKA CITY SHINKIN BANK, THE
+  city: OSAKA
+  branch: ''
+OCBCJPJT:
+  institution: OVERSEA-CHINESE BANKING CORPORATION LIMITED, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+PANAJPJS:
+  institution: PANASONIC CORPORATION
+  city: OSAKA
+  branch: ''
+PNBMJPJT:
+  institution: PHILIPPINE NATIONAL BANK TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+PICTJPJT:
+  institution: PICTET ASSET MANAGEMENT (JAPAN) LTD.
+  city: TOKYO
+  branch: ''
+WELAJPJX:
+  institution: PORTIGON AG
+  city: TOKYO
+  branch: ''
+RAKUJPJT:
+  institution: RAKUTEN, INC.
+  city: SHINAGAWA-KU
+  branch: ''
+RBDSJPJT:
+  institution: RBC CAPITAL MARKETS (JAPAN) LTD., TOKYO
+  city: TOKYO
+  branch: ''
+NWSJJPJT:
+  institution: RBS SECURITIES JAPAN LIMITED, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+DIWAJPJT:
+  institution: RESONA BANK, LTD., TOKYO
+  city: TOKYO
+  branch: ''
+DIWAJPJA:
+  institution: RESONA BANK, LTD., TRUST DEP.
+  city: TOKYO
+  branch: ''
+RODGJPJT:
+  institution: ROLAND DG CORPORATION
+  city: SHIZUOKA
+  branch: ''
+ROYCJPJT:
+  institution: ROYAL BANK OF CANADA
+  city: TOKYO
+  branch: ''
+RBOSJPJXJOM:
+  institution: ROYAL BANK OF SCOTLAND PLC
+  city: TOKYO
+  branch: JAPAN OFFSHORE MARKET
+RBOSJPJX:
+  institution: ROYAL BANK OF SCOTLAND PLC
+  city: TOKYO
+  branch: ''
+SAIBJPJT:
+  institution: SAITAMA RESONA BANK, LIMITED
+  city: TOKYO
+  branch: ''
+SGBKJPJT:
+  institution: SAN-IN GODO BANK, LTD., THE
+  city: MATSUE
+  branch: ''
+SGBKJPJTMAT:
+  institution: SAN-IN GODO BANK, LTD., THE
+  city: MATSUE
+  branch: ''
+SBIRJPJT:
+  institution: SBI REMIT CO., LTD
+  city: TOKYO
+  branch: ''
+NTSSJPJT:
+  institution: SBI SUMISHIN NET BANK, LTD.
+  city: TOKYO
+  branch: ''
+SIMJJPJ2:
+  institution: SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED
+  city: TOKYO
+  branch: ''
+SIMJJPJT:
+  institution: SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED
+  city: TOKYO
+  branch: ''
+SCSJJPJT:
+  institution: SCSK CORPORATION
+  city: TOKYO
+  branch: ''
+SSBKJPJZ:
+  institution: SETO SHINKIN BANK, THE
+  city: SETO
+  branch: ''
+SIGAJPJT:
+  institution: SHIGA BANK, LTD., THE
+  city: OTSU
+  branch: HEAD OFFICE
+SIKOJPJT:
+  institution: SHIKOKU BANK,LTD.,THE
+  city: KOCHI
+  branch: ''
+SMZGJPJT:
+  institution: SHIMIZU BANK LTD., THE
+  city: SHIZUOKA
+  branch: ''
+SHBKJPJX:
+  institution: SHINHAN BANK JAPAN
+  city: TOKYO
+  branch: HEAD OFFICE
+ZENBJPJ2:
+  institution: SHINKIN CENTRAL BANK
+  city: TOKYO
+  branch: ''
+ZENBJPJT:
+  institution: SHINKIN CENTRAL BANK
+  city: TOKYO
+  branch: ''
+LTCBJPJTHED:
+  institution: SHINSEI BANK, LTD.
+  city: TOKYO
+  branch: HEAD OFFICE
+LTCBJPJT:
+  institution: SHINSEI BANK, LTD.
+  city: TOKYO
+  branch: ''
+SHWAJPJT:
+  institution: SHINWA BANK, LTD. THE
+  city: SASEBO
+  branch: ''
+SHIZJPJT:
+  institution: SHIZUOKA BANK, LTD., THE
+  city: SHIZUOKA
+  branch: ''
+SKCKJPJT:
+  institution: SHOKO CHUKIN BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+SNAIJPJT:
+  institution: SHONAI BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+YAMTJPJT:
+  institution: SMBC FRIEND SECURITIES CO., LTD
+  city: TOKYO
+  branch: ''
+NKSCJPJT:
+  institution: SMBC NIKKO SECURITIES INC.
+  city: TOKYO
+  branch: ''
+SGTBJPJT:
+  institution: SMBC TRUST BANK LTD.
+  city: TOKYO
+  branch: ''
+SOGEJPJT:
+  institution: SOCIETE GENERALE
+  city: TOKYO
+  branch: ''
+SGNPJPJT:
+  institution: SOCIETE GENERALE SECURITIES (NORTH PACIFIC) LTD.
+  city: TOKYO
+  branch: ''
+SNYBJPJT:
+  institution: SONY BANK INC.
+  city: TOKYO
+  branch: ''
+SPAXJPJT:
+  institution: SPARX ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: ''
+SCBLJPJT:
+  institution: STANDARD CHARTERED BANK
+  city: TOKYO
+  branch: ''
+SBINJPJTOSA:
+  institution: STATE BANK OF INDIA
+  city: OSAKA
+  branch: OSAKA BRANCH
+SBINJPJT:
+  institution: STATE BANK OF INDIA
+  city: TOKYO
+  branch: ''
+SBOSJPJX:
+  institution: STATE STREET BANK AND TRUST COMPANY
+  city: TOKYO
+  branch: ''
+SSTBJPJXIAR:
+  institution: STATE STREET TRUST AND BANKING COMPANY LIMITED
+  city: TOKYO
+  branch: INVESTMENT ADVISORY REPORTING
+SSTBJPJXIMS:
+  institution: STATE STREET TRUST AND BANKING COMPANY LIMITED
+  city: TOKYO
+  branch: INVESTMENT MANAGER OUTSOURCING SERVICES
+SSTBJPJXITM:
+  institution: STATE STREET TRUST AND BANKING COMPANY LIMITED
+  city: TOKYO
+  branch: INVESTMENT TRUST MGMT PRICING AGENT OUTSOURCING
+SSTBJPJX:
+  institution: STATE STREET TRUST AND BANKING COMPANY LIMITED
+  city: TOKYO
+  branch: ''
+SSHBJPJT:
+  institution: SUGAMO SHINKIN BANK, THE
+  city: TOKYO
+  branch: ''
+SMBCJPJTOSA:
+  institution: SUMITOMO MITSUI BANKING CORPORATION
+  city: OSAKA
+  branch: OSAKA
+SMBCJPJTCLS:
+  institution: SUMITOMO MITSUI BANKING CORPORATION
+  city: TOKYO
+  branch: CLS CONTROL BRANCH
+SMBCJPJT:
+  institution: SUMITOMO MITSUI BANKING CORPORATION
+  city: TOKYO
+  branch: ''
+STBCJPJ2:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: CHIYODA-KU
+  branch: ''
+STBCJPJTCLS:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: TOKYO
+  branch: CLS CONTROL BRANCH
+STBCJPJTSBS:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: TOKYO
+  branch: SBS FUCHU
+STBCJPJTSAD:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: TOKYO
+  branch: SECURITIES ADMINISTRATION DEPARTMENT
+STBCJPJTCUS:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: TOKYO
+  branch: SECURITIES OPERATION DEPARTMENT
+STBCJPJT:
+  institution: SUMITOMO MITSUI TRUST BANK,LIMITED
+  city: TOKYO
+  branch: ''
+SRFXJPJT:
+  institution: SURUGA BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+SWHQJPJT:
+  institution: SWIFT CUSTOMER SERVICE CENTRE JAPAN
+  city: CUSTOMER SERVICE CENTRE JP
+  branch: ''
+TJMAJPJZ:
+  institution: TAJIMA BANK, LTD, THE
+  city: HYOGO
+  branch: ''
+TAMAJPJT:
+  institution: TAMA SHINKIN BANK, THE
+  city: TOKYO
+  branch: ''
+BOSSJPJT:
+  institution: THE 77 BANK,LTD.
+  city: SENDAI
+  branch: ''
+KOTIJPJZ:
+  institution: THE BANK OF KOCHI, LIMITED
+  city: KOCHI
+  branch: ''
+IRVTJPJT:
+  institution: THE BANK OF NEW YORK MELLON TRUST (JAPAN), LTD
+  city: TOKYO
+  branch: ''
+IRVTJPJX848:
+  institution: THE BANK OF NEW YORK MELLON, TOKYO BRANCH
+  city: TOKYO
+  branch: TOKYO BRANCH, TRADE SERVICE
+IRVTJPJX:
+  institution: THE BANK OF NEW YORK MELLON, TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+HMSKJPJT:
+  institution: THE HAMAMATSU SHINKIN BANK
+  city: SHIZUOKA
+  branch: ''
+HIGOJPJT:
+  institution: THE HIGO BANK LIMITED
+  city: KUMAMOTO
+  branch: ''
+IMAMJPJK:
+  institution: THE IMAMURA SECURITIES CO., LTD
+  city: KANAZAWA
+  branch: ''
+NISIJPJTFKK:
+  institution: THE NISHI-NIPPON CITY BANK, LTD
+  city: FUKUOKA
+  branch: INTERNATIONAL DEPT.
+NISIJPJT:
+  institution: THE NISHI-NIPPON CITY BANK, LTD
+  city: FUKUOKA
+  branch: ''
+NMTBJPJTFXO:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: TREASURY DEPARTMENT
+NMTBJPJTTRU:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: TRUST DEPARTMENT
+NMTBJPJT:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: ''
+NMTBJPJTDAM:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: ''
+NMTBJPJTITA:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: ''
+NMTBJPJTTAD:
+  institution: THE NOMURA TRUST AND BANKING CO., LTD.
+  city: TOKYO
+  branch: ''
+ABNAJPJT:
+  institution: THE ROYAL BANK OF SCOTLAND PLC TOKYO
+  city: TOKYO
+  branch: 'GLOBAL TRANSACTION SERVICES, TOKYO BRANCH '
+BIKEJPJS:
+  institution: THE SENSHU IKEDA BANK, LTD.
+  city: OSAKA
+  branch: ''
+TOCIJPJT:
+  institution: THE TOCHIGI BANK LTD.
+  city: UTSUNOMIYA
+  branch: ''
+TKTSJPJT:
+  institution: THE TOKYO TANSHI CO., LTD.
+  city: TOKYO
+  branch: ''
+TOHOJPJT:
+  institution: TOHO BANK, LTD., THE
+  city: FUKUSHIMA
+  branch: ''
+TTSEJPJT:
+  institution: TOKAI TOKYO SECURITIES CO. LTD
+  city: TOKYO
+  branch: ''
+TMAJJPJT:
+  institution: TOKIO MARINE ASSET MANAGEMENT CO., LTD.
+  city: TOKYO
+  branch: ''
+FCTMJPJTCAY:
+  institution: TOKIO MARINE FINANCIAL SOLUTIONS LTD
+  city: TOKYO
+  branch: HQ CENTRAL BOOKING CENTRE
+FCTMJPJT:
+  institution: TOKIO MARINE FINANCIAL SOLUTIONS LTD
+  city: TOKYO
+  branch: ''
+TKSBJPJZ:
+  institution: TOKUSHIMA BANK LTD, THE
+  city: TOKUSHIMA
+  branch: ''
+CHSBJPJT:
+  institution: TOKYO HIGASHI SHINKIN BANK,THE
+  city: TOKYO
+  branch: ''
+TSBKJPJT:
+  institution: TOKYO STAR BANK LIMITED, THE
+  city: TOKYO
+  branch: ''
+TOMIJPJT:
+  institution: TOKYO TOMIN BANK LIMITED, THE
+  city: TOKYO
+  branch: ''
+TOMAJPJZ:
+  institution: TOMATO BANK LTD.
+  city: OKAYAMA
+  branch: ''
+TOSBJPJT:
+  institution: TOSHIBA CORPORATION
+  city: MINATO-KU
+  branch: ''
+BIRDJPJZ:
+  institution: TOTTORI BANK LTD., THE
+  city: TOTTORI
+  branch: ''
+TOWAJPJT:
+  institution: TOWA BANK LTD., THE
+  city: GUNMA
+  branch: ''
+TCSBJPJ2:
+  institution: TRUST AND CUSTODY SERVICES BANK, LTD.
+  city: TOKYO
+  branch: ''
+TCSBJPJT:
+  institution: TRUST AND CUSTODY SERVICES BANK, LTD.
+  city: TOKYO
+  branch: ''
+KGBKJPJT:
+  institution: TSUKUBA BANK,LTD.
+  city: IBARAKI
+  branch: ''
+UBAFJPJXOSA:
+  institution: U.B.A.F. – UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH
+  city: OSAKA
+  branch: OSAKA BRANCH
+UBAFJPJX:
+  institution: U.B.A.F. – UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+UBSWJPJTCLS:
+  institution: UBS AG TOKYO BRANCH
+  city: TOKYO
+  branch: CLS BUSINESS ONLY
+UBSWJPJT:
+  institution: UBS AG TOKYO BRANCH
+  city: TOKYO
+  branch: TOKYO BRANCH
+UBSAJPJT:
+  institution: UBS GLOBAL ASSET MANAGEMENT (JAPAN) LTD.
+  city: TOKYO
+  branch: ''
+UBSWJPJ9:
+  institution: UBS SECURITIES JAPAN CO., LTD.
+  city: TOKYO
+  branch: ''
+UYTCJPJT:
+  institution: UEDA YAGI TANSHI CO.,LTD
+  city: TOKYO
+  branch: ''
+BVBEJPJT:
+  institution: UNICREDIT BANK AG TOKYO BRANCH (HYPOVEREINSBANK TOKYO BRANCH)
+  city: TOKYO
+  branch: ''
+UOVBJPJTBNS:
+  institution: UNITED OVERSEAS BANK LTD., TOKYO BRANCH
+  city: TOKYO
+  branch: BANKNOTES DEPARTMENT
+UOVBJPJT:
+  institution: UNITED OVERSEAS BANK LTD., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+PNBPJPJX:
+  institution: WELLS FARGO BANK, N.A., TOKYO BRANCH
+  city: TOKYO
+  branch: ''
+HVBKJPJT:
+  institution: WOORI BANK, TOKYO
+  city: TOKYO
+  branch: ''
+YACYJPJT:
+  institution: YACHIYO BANK, LTD., THE
+  city: TOKYO
+  branch: ''
+YAMBJPJT:
+  institution: YAMAGATA BANK, LTD., THE
+  city: YAMAGATA
+  branch: ''
+YMBKJPJT:
+  institution: YAMAGUCHI BANK, LTD., THE
+  city: SHIMONOSEKI
+  branch: ''
+YCHBJPJT:
+  institution: YAMANASHI CHUO BANK, LTD., THE
+  city: KOFU
+  branch: ''
+YOKOJPJM:
+  institution: YOKOHAMA SHINKIN BANK, THE
+  city: YOKOHAMA
+  branch: HEAD OFFICE

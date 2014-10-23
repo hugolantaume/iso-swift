@@ -1,0 +1,225 @@
+---
+HNBSLKLX:
+  institution: ACUITY SECURITIES LIMITED
+  city: COLOMBO
+  branch: ''
+AMNALKLX:
+  institution: AMANA BANK LIMITED
+  city: COLOMBO
+  branch: ''
+AXISLKLX:
+  institution: AXIS BANK LTD.
+  city: COLOMBO
+  branch: ''
+BCEYLKLX573:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: CENTRAL BUS STAND BRANCH
+BCEYLKLX131:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: FOREIGN CURRENCY BANKING UNIT
+BCEYLKLX618:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: METROPOLITAN BRANCH
+BCEYLKLX125:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: NON RESIDENT FOREIGN CURRENCY UNIT
+BCEYLKLXPRI:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: PRIMARY DEALER UNIT
+BCEYLKLX:
+  institution: BANK OF CEYLON
+  city: COLOMBO
+  branch: ''
+BCEYLKLX002:
+  institution: BANK OF CEYLON
+  city: KANDY
+  branch: SUPER GRADE BRANCH
+BCEYLKLX004:
+  institution: BANK OF CEYLON
+  city: PETTAH
+  branch: ''
+CALDLKLX:
+  institution: CAPITAL ALLIANCE LIMITED
+  city: COLOMBO
+  branch: ''
+CGRBLKLX:
+  institution: CARGILLS BANK LIMITED
+  city: COLOMBO
+  branch: ''
+CBCELKLXEPF:
+  institution: CENTRAL BANK OF SRI LANKA
+  city: COLOMBO
+  branch: EMPLOYEES’ PROVIDENT FUND – CBSL
+CBCELKLS:
+  institution: CENTRAL BANK OF SRI LANKA
+  city: COLOMBO
+  branch: ''
+CBCELKLX:
+  institution: CENTRAL BANK OF SRI LANKA
+  city: COLOMBO
+  branch: ''
+CDSPLKLC:
+  institution: CENTRAL DEPOSITORY SYSTEMS (PVT) LTD
+  city: COLOMBO
+  branch: ''
+CSSLLKLX:
+  institution: CEYLINCO SHRIRAM SECURITIES LTD.
+  city: COLOMBO
+  branch: ''
+CITILKLX:
+  institution: CITIBANK N.A. SRI LANKA
+  city: COLOMBO
+  branch: ''
+CCEYLKLX:
+  institution: COMMERCIAL BANK OF CEYLON PLC
+  city: COLOMBO
+  branch: ''
+DEUTLKLX001:
+  institution: DEUTSCHE BANK AG, COLOMBO BRANCH
+  city: COLOMBO
+  branch: COLOMBO BRANCH
+DEUTLKLX:
+  institution: DEUTSCHE BANK AG, COLOMBO BRANCH
+  city: COLOMBO
+  branch: ''
+DEUTLKLXGMO:
+  institution: DEUTSCHE BANK AG, COLOMBO BRANCH
+  city: COLOMBO
+  branch: ''
+DFCCLKLX:
+  institution: DFCC VARDHANA BANK PLC
+  city: COLOMBO
+  branch: ''
+FCTLLKLX:
+  institution: FIRST CAPITAL TREASURIES LIMITED
+  city: COLOMBO
+  branch: ''
+HABBLKLC:
+  institution: HABIB BANK LTD.
+  city: COLOMBO
+  branch: ''
+HBLILKLX001:
+  institution: HATTON NATIONAL BANK PLC
+  city: COLOMBO
+  branch: FOREIGN CURRENCY BANKING UNIT
+HBLILKLX:
+  institution: HATTON NATIONAL BANK PLC
+  city: COLOMBO
+  branch: ''
+HSBCLKLX:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE
+  city: COLOMBO
+  branch: ''
+ICICLKLX:
+  institution: ICICI BANK LTD
+  city: COLOMBO
+  branch: ''
+IDIBLKLC:
+  institution: INDIAN BANK
+  city: COLOMBO
+  branch: ''
+IOBALKLC:
+  institution: INDIAN OVERSEAS BANK
+  city: COLOMBO
+  branch: ''
+LOFCLKLC:
+  institution: LANKA ORIX FINANCE COMPANY LTD
+  city: COLOMBO
+  branch: ''
+MUCBLKLC:
+  institution: MCB BANK LTD.
+  city: COLOMBO
+  branch: ''
+NWSLLKLX:
+  institution: NAT WEALTH SECURITIES LIMITED
+  city: COLOMBO
+  branch: ''
+NDBSLKLX:
+  institution: NATIONAL DEVELOPMENT BANK PLC.
+  city: COLOMBO
+  branch: ''
+NSBALKLX:
+  institution: NATIONAL SAVINGS BANK
+  city: COLOMBO
+  branch: ''
+NTBCLKLX:
+  institution: NATIONS TRUST BANK PLC
+  city: COLOMBO
+  branch: ''
+NSBFLKLX:
+  institution: NSB FUND MANAGEMENT COMPANY LIMITED
+  city: COLOMBO
+  branch: ''
+PABSLKLX:
+  institution: PAN ASIA BANKING CORPORATION PLC
+  city: COLOMBO
+  branch: ''
+PSBKLKLX:
+  institution: PEOPLE’S BANK
+  city: COLOMBO
+  branch: HEAD OFFICE
+PSBKLKLX022:
+  institution: PEOPLE’S BANK
+  city: COLOMBO
+  branch: INTERNATIONAL DEPARTMENT
+PSBKLKLX023:
+  institution: PEOPLE’S BANK
+  city: COLOMBO
+  branch: OVERSEAS DEPARTMENT
+PPTLLKLX:
+  institution: PERPETUAL TREASURIES LIMITED
+  city: COLOMBO
+  branch: ''
+PBBELKLX:
+  institution: PUBLIC BANK BERHAD
+  city: COLOMBO
+  branch: ''
+BSAMLKLX:
+  institution: SAMPATH BANK PLC-COMPANY NO. PQ 144
+  city: COLOMBO
+  branch: ''
+SEYBLKLXTRY:
+  institution: SEYLAN BANK PLC
+  city: COLOMBO
+  branch: TREASURY DIVISION
+SEYBLKLX:
+  institution: SEYLAN BANK PLC
+  city: COLOMBO
+  branch: ''
+SCBLLKLX:
+  institution: STANDARD CHARTERED BANK
+  city: COLOMBO
+  branch: ''
+SCBLLKLXEQI:
+  institution: STANDARD CHARTERED BANK
+  city: COLOMBO
+  branch: ''
+SBINLKLXFCB:
+  institution: STATE BANK OF INDIA
+  city: COLOMBO
+  branch: FOREIGN CURRENCY BANKING UNIT
+SBINLKLX:
+  institution: STATE BANK OF INDIA
+  city: COLOMBO
+  branch: ''
+SBINLKLXJFN:
+  institution: STATE BANK OF INDIA
+  city: JAFFNA
+  branch: JAFFNA BRANCH
+SBINLKLXKDY:
+  institution: STATE BANK OF INDIA
+  city: KANDY
+  branch: KANDY BRANCH
+UBCLLKLC:
+  institution: UNION BANK OF COLOMBO PLC
+  city: COLOMBO
+  branch: ''
+WTEYLKLX:
+  institution: WEALTHTRUST SECURITIES LTD
+  city: COLOMBO
+  branch: ''

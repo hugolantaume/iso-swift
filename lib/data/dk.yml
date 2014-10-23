@@ -1,0 +1,793 @@
+---
+APMMDKKK:
+  institution: A.P. MOLLER MAERSK
+  city: COPENHAGEN
+  branch: ''
+BERGDKKK:
+  institution: ALFRED BERG FONDSMAEGLERSELSKAB A/S
+  city: COPENHAGEN
+  branch: ''
+ALMBDKKK:
+  institution: ALM. BRAND BANK
+  city: COPENHAGEN
+  branch: SJL-BANKEN
+ALBADKKK:
+  institution: ARBEJDERNES LANDSBANK A/S
+  city: COPENHAGEN
+  branch: ''
+BANODKKK:
+  institution: BANKNORDIK
+  city: COPENHAGEN
+  branch: ''
+BILLDKKK:
+  institution: BANQUE INTERNATIONALE A LUXEMBOURG BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: ''
+BIAMDKKK:
+  institution: BI ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S
+  city: COPENHAGEN
+  branch: ''
+CARWDKK2:
+  institution: CARLSBERG A/S
+  city: COPENHAGEN
+  branch: ''
+CARNDK22:
+  institution: CARNEGIE ASSET MANAGEMENT FONDMAEGLERSELSKAB A/S
+  city: COPENHAGEN
+  branch: ''
+CARNDKKK:
+  institution: CARNEGIE BANK A.S.
+  city: COPENHAGEN
+  branch: ''
+CITIDKKX:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: COPENHAGEN
+  branch: ''
+DKNBDKK3:
+  institution: DANMARKS NATIONALBANK
+  city: COPENHAGEN
+  branch: ''
+DKNBDKKK:
+  institution: DANMARKS NATIONALBANK
+  city: COPENHAGEN
+  branch: ''
+DANBDK22:
+  institution: DANSKE ANDELSKASSERS BANK A/S
+  city: TJELE
+  branch: ''
+DABADKKKAAB:
+  institution: DANSKE BANK A/S
+  city: AABENRAA
+  branch: ''
+DABADKKKAAL:
+  institution: DANSKE BANK A/S
+  city: AALBORG
+  branch: ''
+DABADKKKAAR:
+  institution: DANSKE BANK A/S
+  city: AARHUS
+  branch: ''
+DABADKKKBAG:
+  institution: DANSKE BANK A/S
+  city: BAGSVAERD
+  branch: ''
+DABADKKKBAL:
+  institution: DANSKE BANK A/S
+  city: BALLERUP
+  branch: ''
+DABADKKKBIR:
+  institution: DANSKE BANK A/S
+  city: BIRKEROED
+  branch: ''
+DABADKKKBJE:
+  institution: DANSKE BANK A/S
+  city: BJERRINGBRO
+  branch: ''
+DABADKKKCLS:
+  institution: DANSKE BANK A/S
+  city: COPENHAGEN
+  branch: CLS SERVICES
+DABADKKKCUS:
+  institution: DANSKE BANK A/S
+  city: COPENHAGEN
+  branch: NORDIC CUSTODY
+DABADKKK:
+  institution: DANSKE BANK A/S
+  city: COPENHAGEN
+  branch: ''
+DABADKKKESB:
+  institution: DANSKE BANK A/S
+  city: ESBJERG
+  branch: ''
+DABADKKKFRC:
+  institution: DANSKE BANK A/S
+  city: FREDERICIA
+  branch: ''
+DABADKKKFRH:
+  institution: DANSKE BANK A/S
+  city: FREDERIKSHAVN
+  branch: ''
+DABADKKKFSU:
+  institution: DANSKE BANK A/S
+  city: FREDERIKSSUND
+  branch: ''
+DABADKKKGEN:
+  institution: DANSKE BANK A/S
+  city: GENTOFTE
+  branch: ''
+DABADKKKGLO:
+  institution: DANSKE BANK A/S
+  city: GLOSTRUP
+  branch: ''
+DABADKKKGRN:
+  institution: DANSKE BANK A/S
+  city: GRENAA
+  branch: ''
+DABADKKKHAD:
+  institution: DANSKE BANK A/S
+  city: HADERSLEV
+  branch: ''
+DABADKKKHEL:
+  institution: DANSKE BANK A/S
+  city: HELSINGOER
+  branch: ''
+DABADKKKHRL:
+  institution: DANSKE BANK A/S
+  city: HERLEV
+  branch: ''
+DABADKKKHER:
+  institution: DANSKE BANK A/S
+  city: HERNING
+  branch: ''
+DABADKKKHIL:
+  institution: DANSKE BANK A/S
+  city: HILLEROED
+  branch: ''
+DABADKKKHIR:
+  institution: DANSKE BANK A/S
+  city: HIRTSHALS
+  branch: ''
+DABADKKKHJO:
+  institution: DANSKE BANK A/S
+  city: HJOERRING
+  branch: ''
+DABADKKKHBK:
+  institution: DANSKE BANK A/S
+  city: HOLBAEK
+  branch: ''
+DABADKKKHOL:
+  institution: DANSKE BANK A/S
+  city: HOLSTEBRO
+  branch: ''
+DABADKKKHOR:
+  institution: DANSKE BANK A/S
+  city: HORSENS
+  branch: ''
+DABADKKKKAL:
+  institution: DANSKE BANK A/S
+  city: KALUNDBORG
+  branch: ''
+DABADKKKKAS:
+  institution: DANSKE BANK A/S
+  city: KASTRUP
+  branch: AIRPORT
+DABADKKKKGE:
+  institution: DANSKE BANK A/S
+  city: KOEGE
+  branch: ''
+DABADKKKKOL:
+  institution: DANSKE BANK A/S
+  city: KOLDING
+  branch: ''
+DABADKKKKOR:
+  institution: DANSKE BANK A/S
+  city: KORSOER
+  branch: ''
+DABADKKKCAP:
+  institution: DANSKE BANK A/S
+  city: LYNGBY
+  branch: DANSKE CAPITAL
+DABADKKKLYN:
+  institution: DANSKE BANK A/S
+  city: LYNGBY
+  branch: ''
+DABADKKKMID:
+  institution: DANSKE BANK A/S
+  city: MIDDELFART
+  branch: ''
+DABADKKKNAE:
+  institution: DANSKE BANK A/S
+  city: NAESTVED
+  branch: ''
+DABADKKKNAK:
+  institution: DANSKE BANK A/S
+  city: NAKSKOV
+  branch: ''
+DABADKKKNYB:
+  institution: DANSKE BANK A/S
+  city: NYBORG
+  branch: ''
+DABADKKKNYF:
+  institution: DANSKE BANK A/S
+  city: NYKOEBING FALSTER
+  branch: ''
+DABADKKKNYS:
+  institution: DANSKE BANK A/S
+  city: NYKOEBING SJAELLAND
+  branch: ''
+DABADKKKODE:
+  institution: DANSKE BANK A/S
+  city: ODENSE
+  branch: ''
+DABADKKKRAN:
+  institution: DANSKE BANK A/S
+  city: RANDERS
+  branch: ''
+DABADKKKRIN:
+  institution: DANSKE BANK A/S
+  city: RINGSTED
+  branch: ''
+DABADKKKROD:
+  institution: DANSKE BANK A/S
+  city: ROEDOVRE
+  branch: ''
+DABADKKKRON:
+  institution: DANSKE BANK A/S
+  city: ROENNE
+  branch: ''
+DABADKKKROS:
+  institution: DANSKE BANK A/S
+  city: ROSKILDE
+  branch: ''
+DABADKKKSBY:
+  institution: DANSKE BANK A/S
+  city: SAEBY
+  branch: ''
+DABADKKKSIL:
+  institution: DANSKE BANK A/S
+  city: SILKEBORG
+  branch: ''
+DABADKKKSKI:
+  institution: DANSKE BANK A/S
+  city: SKIVE
+  branch: ''
+DABADKKKSLA:
+  institution: DANSKE BANK A/S
+  city: SLAGELSE
+  branch: ''
+DABADKKKSON:
+  institution: DANSKE BANK A/S
+  city: SOENDERBORG
+  branch: ''
+DABADKKKSTR:
+  institution: DANSKE BANK A/S
+  city: STRUER
+  branch: ''
+DABADKKKSVB:
+  institution: DANSKE BANK A/S
+  city: SVENDBORG
+  branch: ''
+DABADKKKTAA:
+  institution: DANSKE BANK A/S
+  city: TAASTRUP
+  branch: ''
+DABADKKKTHI:
+  institution: DANSKE BANK A/S
+  city: THISTED
+  branch: ''
+DABADKKKTON:
+  institution: DANSKE BANK A/S
+  city: TOENDER
+  branch: ''
+DABADKKKVAR:
+  institution: DANSKE BANK A/S
+  city: VARDE
+  branch: ''
+DABADKKKVEJ:
+  institution: DANSKE BANK A/S
+  city: VEJLE
+  branch: ''
+DABADKKKVIB:
+  institution: DANSKE BANK A/S
+  city: VIBORG
+  branch: ''
+DIBADK22:
+  institution: DIBA BANK A/S
+  city: NAESTVED
+  branch: ''
+DJURDK22ALL:
+  institution: DJURSLANDS BANK A/S
+  city: ALLINGAABRO
+  branch: ''
+DJURDK22AUN:
+  institution: DJURSLANDS BANK A/S
+  city: AUNING
+  branch: ''
+DJURDK22EBE:
+  institution: DJURSLANDS BANK A/S
+  city: EBELTOFT
+  branch: ''
+DJURDK22:
+  institution: DJURSLANDS BANK A/S
+  city: GRENAA
+  branch: ''
+DJURDK22HSL:
+  institution: DJURSLANDS BANK A/S
+  city: HORNSLET
+  branch: ''
+DJURDK22KLI:
+  institution: DJURSLANDS BANK A/S
+  city: KOLIND
+  branch: ''
+DJURDK22LYS:
+  institution: DJURSLANDS BANK A/S
+  city: LYSTRUP
+  branch: ''
+DJURDK22NIM:
+  institution: DJURSLANDS BANK A/S
+  city: NIMTOFTE
+  branch: ''
+DJURDK22OER:
+  institution: DJURSLANDS BANK A/S
+  city: OERSTED
+  branch: ''
+DJURDK22PIN:
+  institution: DJURSLANDS BANK A/S
+  city: PINDSTRUP
+  branch: ''
+DJURDK22RIS:
+  institution: DJURSLANDS BANK A/S
+  city: RISSKOV
+  branch: ''
+DJURDK22ROE:
+  institution: DJURSLANDS BANK A/S
+  city: ROENDE
+  branch: ''
+DJURDK22RYO:
+  institution: DJURSLANDS BANK A/S
+  city: RYOMGAARD
+  branch: ''
+DJURDK22TIL:
+  institution: DJURSLANDS BANK A/S
+  city: TILST
+  branch: ''
+DJURDK22TRA:
+  institution: DJURSLANDS BANK A/S
+  city: TRANBJERG
+  branch: ''
+DJURDK22VIV:
+  institution: DJURSLANDS BANK A/S
+  city: VIVILD
+  branch: ''
+DNBADKKXCLS:
+  institution: DNB BANK ASA FILIAL AF DNB BANK ASA NORGE
+  city: COPENHAGEN
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+DNBADKKX:
+  institution: DNB BANK ASA FILIAL AF DNB BANK ASA NORGE
+  city: COPENHAGEN
+  branch: ''
+DSVADKKK:
+  institution: DSV A/S
+  city: BROENDBY
+  branch: ''
+FIHEDKKK:
+  institution: FIH ERHVERVSBANK A/S
+  city: COPENHAGEN
+  branch: ''
+FTSBDKKK:
+  institution: FORTIS BANK SA/NV DENMARK BRANCH
+  city: COPENHAGEN
+  branch: ''
+ROBADK22:
+  institution: FS BANK A/S
+  city: ROSKILDE
+  branch: ''
+GEVODK22:
+  institution: GLOBAL EVOLUTION FONDSMAEGLERSELSKAB A/S
+  city: KOLDING
+  branch: ''
+GFOSDK22:
+  institution: GRUNDFOS HOLDING A/S
+  city: BJERRINGBRO
+  branch: ''
+HANDDKKK:
+  institution: HANDELSBANKEN
+  city: COPENHAGEN
+  branch: ''
+SINVDK22:
+  institution: ID SPARINVEST A/S
+  city: RANDERS
+  branch: ''
+CHASDKKK:
+  institution: JPMORGAN EUROPE LIMITED (UK) COPENHAGEN FILIAL
+  city: COPENHAGEN
+  branch: ''
+JYBADKKKAAL:
+  institution: JYSKE BANK A/S
+  city: AALBORG
+  branch: ''
+JYBADKKKAAR:
+  institution: JYSKE BANK A/S
+  city: AARHUS
+  branch: ''
+JYBADKKK:
+  institution: JYSKE BANK A/S
+  city: COPENHAGEN
+  branch: AND ALL DANISH OFFICES
+JYBADKKKESB:
+  institution: JYSKE BANK A/S
+  city: ESBJERG
+  branch: ''
+JYBADKKKFRC:
+  institution: JYSKE BANK A/S
+  city: FREDERICIA
+  branch: ''
+JYBADKKKODE:
+  institution: JYSKE BANK A/S
+  city: ODENSE
+  branch: ''
+MORBDK22GLY:
+  institution: JYSKE BANK A/S (FORMER FJORDBANK MORS A/S)
+  city: GLYNGOERE
+  branch: ''
+MORBDK22:
+  institution: JYSKE BANK A/S (FORMER FJORDBANK MORS A/S)
+  city: NYKOEBING MORS
+  branch: ''
+MORBDK22THI:
+  institution: JYSKE BANK A/S (FORMER FJORDBANK MORS A/S)
+  city: THISTED
+  branch: ''
+AAKRDK22:
+  institution: KREDITBANKEN A/S
+  city: AABENRAA
+  branch: ''
+LOSADKKK:
+  institution: LAN AND SPAR BANK A/S
+  city: COPENHAGEN
+  branch: ''
+NRSBDK24:
+  institution: NOERRESUNDBY BANK A/S
+  city: NOERRESUNDBY
+  branch: ''
+NDEADKKKBCC:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: BANK CASH CONCENTRATION
+NDEADKKKPFR:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: EXTERNAL CUSTODIAN
+NDEADKKKTSY:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: GROUP FUNDING
+NDEADKKKSPX:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: NORDEA SP DEALING BRANCH
+NDEADKKK:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: ''
+NDEADKKKNCL:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: ''
+NDEADKKKCLS:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: ''
+NDEADKKKFSI:
+  institution: NORDEA BANK DANMARK A/S
+  city: COPENHAGEN
+  branch: ''
+NDEADKKKRIN:
+  institution: NORDEA BANK DANMARK A/S
+  city: RINGSTED
+  branch: ''
+NDEADKKKROD:
+  institution: NORDEA BANK DANMARK A/S
+  city: ROEDOVRE
+  branch: ''
+NDEADKKKSVB:
+  institution: NORDEA BANK DANMARK A/S
+  city: SVENDBORG
+  branch: ''
+NDEADKK2:
+  institution: NORDEA INVESTMENT MANAGEMENT A/S
+  city: COPENHAGEN
+  branch: ''
+EBANDK22CPH:
+  institution: NORDJYSKE BANK A/S
+  city: COPENHAGEN
+  branch: ''
+EBANDK22:
+  institution: NORDJYSKE BANK A/S
+  city: FREDERIKSHAVN
+  branch: ''
+EBANDK22HJO:
+  institution: NORDJYSKE BANK A/S
+  city: HJOERRING
+  branch: ''
+EBANDK22SBY:
+  institution: NORDJYSKE BANK A/S
+  city: SAEBY
+  branch: ''
+EBANDK22SKG:
+  institution: NORDJYSKE BANK A/S
+  city: SKAGEN
+  branch: ''
+NYKRDKKK:
+  institution: NYKREDIT A/S
+  city: COPENHAGEN
+  branch: ''
+NYKBDKKK:
+  institution: NYKREDIT BANK A/S
+  city: COPENHAGEN
+  branch: ''
+OKONDKKK:
+  institution: ORESUNDSBRO KONSORTIET
+  city: COPENHAGEN
+  branch: ''
+OSBADK22:
+  institution: OSTJYDSK BANK A/S
+  city: MARIAGER
+  branch: ''
+RDDKDKKK:
+  institution: REALKREDIT DANMARK
+  city: COPENHAGEN
+  branch: ''
+RINGDK22HER:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: HERNING
+  branch: ''
+RINGDK22HOL:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: HOLSTEBRO
+  branch: ''
+RINGDK22LEM:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: LEM
+  branch: ''
+RINGDK22:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: RINGKOEBING
+  branch: ''
+RINGDK22TAR:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: TARM
+  branch: FORMER TARM BANK
+RINGDK22VIB:
+  institution: RINGKJOBING LANDBOBANK A/S
+  city: VIBORG
+  branch: ''
+SALLDK22:
+  institution: SALLING BANK A/S
+  city: SKIVE
+  branch: ''
+SAXODKKK:
+  institution: SAXO BANK A/S
+  city: HELLERUP
+  branch: ''
+ESSEDKKKENS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: COPENHAGEN
+  branch: ENSKILDA SECURITIES
+ESSEDKKK:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: COPENHAGEN
+  branch: ''
+ESSEDKKKCLS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: COPENHAGEN
+  branch: ''
+ESSEDK22:
+  institution: SKANDINAVISKA ENSKILDA BANKEN FORMER SEB A/S
+  city: COPENHAGEN
+  branch: ''
+SKJBDK22BOR:
+  institution: SKJERN BANK
+  city: BORRIS
+  branch: ''
+SKJBDK22BRM:
+  institution: SKJERN BANK
+  city: BRAMMING
+  branch: ''
+SKJBDK22ESB:
+  institution: SKJERN BANK
+  city: ESBJERG
+  branch: ''
+SKJBDK22HLL:
+  institution: SKJERN BANK
+  city: HELLERUP
+  branch: ''
+SKJBDK22RIB:
+  institution: SKJERN BANK
+  city: RIBE
+  branch: ''
+SKJBDK22:
+  institution: SKJERN BANK
+  city: SKJERN
+  branch: ''
+SKJBDK22VAR:
+  institution: SKJERN BANK
+  city: VARDE
+  branch: ''
+SPNODK22:
+  institution: SPAR NORD BANK
+  city: AALBORG
+  branch: ''
+KRONDK22:
+  institution: SPAREKASSEN KRONJYLLAND
+  city: RANDERS
+  branch: ''
+BCPHDKKK:
+  institution: SPAREKASSEN LOLLAND A/S
+  city: NAKSKOV
+  branch: ''
+HAHADK22:
+  institution: SPAREKASSEN SJAELLAND
+  city: HOLBAEK
+  branch: ''
+SWESDK22:
+  institution: SPAREKASSEN SJAELLAND
+  city: HOLBAEK
+  branch: ''
+SPFODK22:
+  institution: SPARINVEST FONDSMAEGLERSELSKAB A/S
+  city: TAASTRUP
+  branch: ''
+SWEDDKKK:
+  institution: SWEDBANK AB
+  city: COPENHAGEN
+  branch: ''
+SYBKDK22:
+  institution: SYDBANK A/S
+  city: AABENRAA
+  branch: ''
+SYBKDK22AAL:
+  institution: SYDBANK A/S
+  city: AALBORG
+  branch: ''
+SYBKDK22AAR:
+  institution: SYDBANK A/S
+  city: AARHUS
+  branch: ''
+SYBKDK22CPH:
+  institution: SYDBANK A/S
+  city: COPENHAGEN
+  branch: ''
+SYBKDK22ESB:
+  institution: SYDBANK A/S
+  city: ESBJERG
+  branch: ''
+SYBKDK22HER:
+  institution: SYDBANK A/S
+  city: HERNING
+  branch: ''
+SYBKDK22HOR:
+  institution: SYDBANK A/S
+  city: HORSENS
+  branch: ''
+SYBKDK22KOL:
+  institution: SYDBANK A/S
+  city: KOLDING
+  branch: ''
+SYBKDK22ODE:
+  institution: SYDBANK A/S
+  city: ODENSE
+  branch: ODENSE BRANCH
+SYBKDK22PAD:
+  institution: SYDBANK A/S
+  city: PADBORG
+  branch: ''
+SYBKDK22SLA:
+  institution: SYDBANK A/S
+  city: SLAGELSE
+  branch: SLAGELSE BRANCH
+SYBKDK22SON:
+  institution: SYDBANK A/S
+  city: SOENDERBORG
+  branch: ''
+SYBKDK22SVB:
+  institution: SYDBANK A/S
+  city: SVENDBORG
+  branch: ''
+SYBKDK22TON:
+  institution: SYDBANK A/S
+  city: TOENDER
+  branch: ''
+SYBKDK22VAR:
+  institution: SYDBANK A/S
+  city: VARDE
+  branch: ''
+SYBKDK22VEJ:
+  institution: SYDBANK A/S
+  city: VEJLE
+  branch: VEJLE BRANCH
+ABNADKKK:
+  institution: THE ROYAL BANK OF SCOTLAND PLC DENMARK (FORMERLY KNOWN AS RBS NV)
+  city: COPENHAGEN
+  branch: ''
+WINDDK22:
+  institution: VESTAS WIND SYSTEMS A/S
+  city: RANDERS
+  branch: ''
+VESBDK22:
+  institution: VESTFYNS BANK A/S
+  city: ASSENS
+  branch: ''
+VEHODK22ESB:
+  institution: VESTJYSK BANK
+  city: ESBJERG
+  branch: ''
+VEHODK22HER:
+  institution: VESTJYSK BANK
+  city: HERNING
+  branch: ''
+VEHODK22HOL:
+  institution: VESTJYSK BANK
+  city: HOLSTEBRO
+  branch: HOLSTEBRO BRANCH
+VEHODK22:
+  institution: VESTJYSK BANK
+  city: LEMVIG
+  branch: ''
+VEHODK22STR:
+  institution: VESTJYSK BANK
+  city: STRUER
+  branch: ''
+VEHODK22VIB:
+  institution: VESTJYSK BANK
+  city: VIBORG
+  branch: ''
+VPDKDKKKINV:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: VPDK AS INVESTOR
+VPDKDKKKISS:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: VPDK AS ISSUER
+VPDKDKKKALU:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: VPLUX
+VPDKDKKK:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK070:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK071:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK072:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK073:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK074:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKK075:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKKLUX:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''
+VPDKDKKKMCF:
+  institution: VP SECURITIES A/S
+  city: COPENHAGEN
+  branch: ''

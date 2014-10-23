@@ -1,0 +1,141 @@
+---
+CRBAALTR:
+  institution: ALPHA BANK ALBANIA
+  city: TIRANA
+  branch: ''
+STANALTR:
+  institution: BANK OF ALBANIA
+  city: TIRANA
+  branch: ''
+NCBAALTX:
+  institution: BANKA KOMBETARE TREGTARE SH.A.
+  city: TIRANA
+  branch: ''
+ETHNALTX:
+  institution: BANKA NBG ALBANIA SH.A.
+  city: TIRANA
+  branch: ''
+PUPPALTR:
+  institution: BANKA SOCIETE GENERALE ALBANIA
+  city: TIRANA
+  branch: ''
+CDISALTR:
+  institution: CREDINS BANK SH.A
+  city: TIRANA
+  branch: ''
+EMPOALTR:
+  institution: CREDIT AGRICOLE ALBANIA BANK S.A.
+  city: TIRANA
+  branch: ''
+CBOAALTR:
+  institution: CREDIT BANK OF ALBANIA
+  city: TIRANA
+  branch: ''
+FINVALTR:
+  institution: FIRST INVESTMENT BANK-ALBANIA SH.A
+  city: TIRANA
+  branch: ''
+ICOAALTR:
+  institution: INTERNATIONAL COMMERCIAL BANK
+  city: TIRANA
+  branch: ''
+USALALTRDUR:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: DURRES
+  branch: DURRES MAIN BRANCH
+USALALTRDR2:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: DURRES
+  branch: DURRES TRAIN STATION BRANCH
+USALALTRELB:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: ELBASAN
+  branch: ELBASAN BRANCH
+USALALTRFIE:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: FIER
+  branch: FIER BRANCH
+USALALTRGJR:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: GJIROKASTRA
+  branch: GJIROKASTRA BRANCH
+USALALTRKJ1:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: KAVAJE
+  branch: KAVAJA BRANCH
+USALALTRKOR:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: KORCE
+  branch: KORCE BRANCH
+USALALTRLZH:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: LEZHE
+  branch: LEZHA BRANCH
+USALALTRLUS:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: LUSHNJE
+  branch: LUSHNJA BRANCH
+USALALTRSH1:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: SHKODER
+  branch: SHKODRA BRANCH
+USALALTR020:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: TIRANA
+  branch: LAPRAKA BRANCH
+USALALTR010:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: TIRANA
+  branch: RR. BARRIKADAVE BRANCH
+USALALTR:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: TIRANA
+  branch: ''
+USALALTRVLR:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: VLORE
+  branch: VLORA MAIN BRANCH
+USALALTRVL2:
+  institution: INTESA SANPAOLO BANK ALBANIA SH.A.
+  city: VLORE
+  branch: VLORA RR. SADIK ZOTAJ BRANCH
+MIFBALTR:
+  institution: MINISTRY OF FINANCE OF ALBANIA
+  city: TIRANA
+  branch: ''
+FEFAALTRDUR:
+  institution: PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)
+  city: DURRES
+  branch: DURRES BRANCH
+FEFAALTRFIE:
+  institution: PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)
+  city: FIER
+  branch: FIER BRANCH
+FEFAALTR:
+  institution: PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)
+  city: TIRANA
+  branch: HEAD OFFICE
+FEFAALTRTIR:
+  institution: PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)
+  city: TIRANA
+  branch: TIRANA BRANCH
+SGSBALTX:
+  institution: RAIFFEISEN BANK SH.A.
+  city: TIRANA
+  branch: ''
+TIRBALTR:
+  institution: TIRANA BANK
+  city: TIRANA
+  branch: ''
+UNALALTR:
+  institution: UNION BANK SH.A.
+  city: TIRANA
+  branch: ''
+AAISALTR:
+  institution: UNITED BANK OF ALBANIA SH.A
+  city: TIRANA
+  branch: ''
+ITSVALTR:
+  institution: VENETO BANKA SH.A
+  city: TIRANA
+  branch: ''

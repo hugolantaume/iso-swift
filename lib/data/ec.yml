@@ -1,0 +1,593 @@
+---
+MUPIECEQ:
+  institution: ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA
+  city: QUITO
+  branch: ''
+BASAECEG:
+  institution: BANCO AMAZONAS S.A.
+  city: GUAYAQUIL
+  branch: ''
+BBOLECEG100:
+  institution: BANCO BOLIVARIANO C.A.
+  city: GUAYAQUIL
+  branch: MATRIZ
+BBOLECEG:
+  institution: BANCO BOLIVARIANO C.A.
+  city: GUAYAQUIL
+  branch: ''
+BBOLECEG500:
+  institution: BANCO BOLIVARIANO C.A.
+  city: QUITO
+  branch: SUCURSAL QUITO
+BCAPECEQ:
+  institution: BANCO CAPITAL S.A
+  city: QUITO
+  branch: ''
+BCENECEQ120:
+  institution: BANCO CENTRAL DEL ECUADOR
+  city: GUAYAQUIL
+  branch: ''
+BCENECEQ:
+  institution: BANCO CENTRAL DEL ECUADOR
+  city: QUITO
+  branch: ''
+BCENECEQ100:
+  institution: BANCO CENTRAL DEL ECUADOR
+  city: QUITO
+  branch: ''
+COFBECEU:
+  institution: BANCO COFIEC C.A.
+  city: QUITO
+  branch: ''
+GUAYECEG305:
+  institution: BANCO DE GUAYAQUIL
+  city: CUENCA
+  branch: COMERCIO EXTERIOR REGION SUR
+GUAYECEG300:
+  institution: BANCO DE GUAYAQUIL
+  city: CUENCA
+  branch: SUCURSAL CUENCA
+GUAYECEG105:
+  institution: BANCO DE GUAYAQUIL
+  city: GUAYAQUIL
+  branch: COMERCIO EXTERIOR REGION CENTRO
+GUAYECEG:
+  institution: BANCO DE GUAYAQUIL
+  city: GUAYAQUIL
+  branch: ''
+GUAYECEG100:
+  institution: BANCO DE GUAYAQUIL
+  city: GUAYAQUIL
+  branch: ''
+GUAYECEG505:
+  institution: BANCO DE GUAYAQUIL
+  city: QUITO
+  branch: COMERCIO EXTERIOR REGION NORTE
+GUAYECEG500:
+  institution: BANCO DE GUAYAQUIL
+  city: QUITO
+  branch: SUCURSAL QUITO
+PRODECEQ100:
+  institution: BANCO DE LA PRODUCCION S.A. PRODUBANCO
+  city: GUAYAQUIL
+  branch: ''
+PRODECEQ:
+  institution: BANCO DE LA PRODUCCION S.A. PRODUBANCO
+  city: QUITO
+  branch: ''
+LOJBECEL:
+  institution: BANCO DE LOJA
+  city: LOJA
+  branch: ''
+BMACECEG:
+  institution: BANCO DE MACHALA, C.A.
+  city: GUAYAQUIL
+  branch: ''
+BMACECEG0EG:
+  institution: BANCO DE MACHALA, C.A.
+  city: GUAYAQUIL
+  branch: ''
+BMACECEG0E4:
+  institution: BANCO DE MACHALA, C.A.
+  city: NARANJAL
+  branch: ''
+BMACECEG0E5:
+  institution: BANCO DE MACHALA, C.A.
+  city: PASAJE
+  branch: ''
+BMACECEG0E3:
+  institution: BANCO DE MACHALA, C.A.
+  city: PINAS
+  branch: ''
+BMACECEG0E8:
+  institution: BANCO DE MACHALA, C.A.
+  city: QUEVEDO
+  branch: ''
+BMACECEG0E7:
+  institution: BANCO DE MACHALA, C.A.
+  city: SANTA ROSA
+  branch: ''
+BMACECEG0E6:
+  institution: BANCO DE MACHALA, C.A.
+  city: ZARUMA
+  branch: ''
+AUSTECEQ305:
+  institution: BANCO DEL AUSTRO S.A.
+  city: CUENCA
+  branch: COMERCIO EXTERIOR
+AUSTECEQ310:
+  institution: BANCO DEL AUSTRO S.A.
+  city: CUENCA
+  branch: SERVICIOS BANCARIOS
+AUSTECEQ315:
+  institution: BANCO DEL AUSTRO S.A.
+  city: CUENCA
+  branch: TRESORIA
+AUSTECEQ:
+  institution: BANCO DEL AUSTRO S.A.
+  city: CUENCA
+  branch: ''
+AUSTECEQ100:
+  institution: BANCO DEL AUSTRO S.A.
+  city: GUAYAQUIL
+  branch: SUCURSAL GUAYAQUIL
+AUSTECEQ500:
+  institution: BANCO DEL AUSTRO S.A.
+  city: QUITO
+  branch: SUCURSAL QUITO
+PACIECEG400:
+  institution: BANCO DEL PACIFICO
+  city: AMBATO
+  branch: ''
+PACIECEG300:
+  institution: BANCO DEL PACIFICO
+  city: CUENCA
+  branch: ''
+PACIECEG:
+  institution: BANCO DEL PACIFICO
+  city: GUAYAQUIL
+  branch: HEAD OFFICE
+PACIECEG100:
+  institution: BANCO DEL PACIFICO
+  city: GUAYAQUIL
+  branch: ''
+PACIECEGIBA:
+  institution: BANCO DEL PACIFICO
+  city: IBARRA
+  branch: ''
+PACIECEG110:
+  institution: BANCO DEL PACIFICO
+  city: LA LIBERTAD
+  branch: ''
+PACIECEG200:
+  institution: BANCO DEL PACIFICO
+  city: MACHALA
+  branch: ''
+PACIECEG600:
+  institution: BANCO DEL PACIFICO
+  city: MANTA
+  branch: ''
+PACIECEG640:
+  institution: BANCO DEL PACIFICO
+  city: PORTOVIEJO
+  branch: ''
+PACIECEG500:
+  institution: BANCO DEL PACIFICO
+  city: QUITO
+  branch: ''
+PACIECEG350:
+  institution: BANCO DEL PACIFICO
+  city: RIOBAMBA
+  branch: ''
+PACIECEG871:
+  institution: BANCO DEL PACIFICO
+  city: SANTA CRUZ
+  branch: GALAPAGOS
+PACIECEG510:
+  institution: BANCO DEL PACIFICO
+  city: SANTO DOMINGO
+  branch: ''
+BGRMECEQ100:
+  institution: BANCO GENERAL RUMINAHUI S.A.
+  city: GUAYAQUIL
+  branch: GUAYAQUIL BRANCH
+BGRMECEQ200:
+  institution: BANCO GENERAL RUMINAHUI S.A.
+  city: MACHALA
+  branch: MACHALA BRANCH
+BGRMECEQ505:
+  institution: BANCO GENERAL RUMINAHUI S.A.
+  city: QUITO
+  branch: CASH MANAGEMENT
+BGRMECEQ:
+  institution: BANCO GENERAL RUMINAHUI S.A.
+  city: QUITO
+  branch: ''
+BINTECEQ100:
+  institution: BANCO INTERNACIONAL S.A.
+  city: GUAYAQUIL
+  branch: ''
+BINTECEQ:
+  institution: BANCO INTERNACIONAL S.A.
+  city: QUITO
+  branch: HEAD OFFICE AND ALL BRANCHES
+BNFEECEQ:
+  institution: BANCO NACIONAL DE FOMENTO
+  city: QUITO
+  branch: ''
+PICHECEQ400:
+  institution: BANCO PICHINCHA C.A.
+  city: AMBATO
+  branch: ''
+PICHECEQ450:
+  institution: BANCO PICHINCHA C.A.
+  city: AZOGUES
+  branch: AZOGUES BRANCH
+PICHECEQ304:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: BRANCH 304
+PICHECEQ306:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: BRANCH 306
+PICHECEQ307:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: BRANCH 307
+PICHECEQ302:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: INTERNATIONAL OPERATIONS
+PICHECEQ305:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: MONEY TRANSFER
+PICHECEQ300:
+  institution: BANCO PICHINCHA C.A.
+  city: CUENCA
+  branch: ''
+PICHECEQ700:
+  institution: BANCO PICHINCHA C.A.
+  city: ESMERALDAS
+  branch: ''
+PICHECEQ370:
+  institution: BANCO PICHINCHA C.A.
+  city: GUARANDA
+  branch: GUARANDA BRANCH
+PICHECEQ112:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. ALBAN BORJA
+PICHECEQ111:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. ALBORADA
+PICHECEQ107:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. CENTENARIO SUR
+PICHECEQ110:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. CENTENARIO
+PICHECEQ108:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. CENTRO
+PICHECEQ106:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. LA LIBERTAD
+PICHECEQ113:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. MALL DEL SOL
+PICHECEQ114:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG. URDESA
+PICHECEQ101:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG.
+PICHECEQ115:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG.
+PICHECEQ116:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG.
+PICHECEQ117:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG.
+PICHECEQ118:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: AG.POLICENTRO
+PICHECEQ119:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: BRANCH 119
+PICHECEQ120:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: BRANCH 120
+PICHECEQ121:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: BRANCH 121
+PICHECEQ103:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: DOMESTIC OPERATIONS
+PICHECEQ102:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: INTERNATIONAL OPERATIONS
+PICHECEQ105:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: MONEY TRANSFER
+PICHECEQ104:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: TREASURY AND SECURITIES OPERATIONS
+PICHECEQ100:
+  institution: BANCO PICHINCHA C.A.
+  city: GUAYAQUIL
+  branch: ''
+PICHECEQ250:
+  institution: BANCO PICHINCHA C.A.
+  city: IBARRA
+  branch: IBARRA BRANCH
+PICHECEQ270:
+  institution: BANCO PICHINCHA C.A.
+  city: LATACUNGA
+  branch: LATACUNGA BRANCH
+PICHECEQ200:
+  institution: BANCO PICHINCHA C.A.
+  city: MACHALA
+  branch: ''
+PICHECEQ605:
+  institution: BANCO PICHINCHA C.A.
+  city: MANTA
+  branch: MONEY TRANSFER DEPT.
+PICHECEQ600:
+  institution: BANCO PICHINCHA C.A.
+  city: MANTA
+  branch: ''
+PICHECEQ253:
+  institution: BANCO PICHINCHA C.A.
+  city: OTAVALO
+  branch: OTAVALO BRANCH
+PICHECEQ610:
+  institution: BANCO PICHINCHA C.A.
+  city: PORTOVIEJO
+  branch: ''
+PICHECEQ804:
+  institution: BANCO PICHINCHA C.A.
+  city: QUEVEDO
+  branch: QUEVEDO BRANCH
+PICHECEQ511:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. AMAZONAS
+PICHECEQ514:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. AV. PORTUGAL
+PICHECEQ519:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. C.C.INAQUITO
+PICHECEQ517:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. CARONDELET
+PICHECEQ523:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. CUMBAYA
+PICHECEQ516:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. EL BOSQUE
+PICHECEQ109:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. EL DORADO
+PICHECEQ520:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. EL INCA
+PICHECEQ521:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. GONZALEZ SUAREZ
+PICHECEQ515:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. INAQUITO
+PICHECEQ513:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. LA REPUBLICA
+PICHECEQ510:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. PLAZA GRANDE
+PICHECEQ518:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. QUICENTRO
+PICHECEQ522:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG. VILLAFLORA
+PICHECEQ525:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ526:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ527:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ528:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ529:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ530:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ531:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ532:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ533:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ534:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ535:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ536:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ552:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.
+PICHECEQ524:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: AG.ELOY ALFARO
+PICHECEQ537:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: BRANCH 537
+PICHECEQ538:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: BRANCH 538
+PICHECEQ539:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: BRANCH 539
+PICHECEQ540:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: BRANCH 540
+PICHECEQ541:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: BRANCH 541
+PICHECEQ503:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: DOMESTIC OPERATIONS
+PICHECEQ502:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: HEAD INTERNATIONAL DIVISION
+PICHECEQXXX:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: HEAD OFFICE
+PICHECEQ509:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: INTERNATIONAL CORRESPONDENTS
+PICHECEQ500:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: LOAN AND CREDITS
+PICHECEQ505:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: MONEY TRANSFER DEPARTMENT
+PICHECEQ508:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: RECONCILIATION
+PICHECEQ551:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: SUC. EL VALLE
+PICHECEQ512:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: SUC.NORTE
+PICHECEQ504:
+  institution: BANCO PICHINCHA C.A.
+  city: QUITO
+  branch: TREASURY AND SECURITIES OPERATIONS
+PICHECEQ350:
+  institution: BANCO PICHINCHA C.A.
+  city: RIOBAMBA
+  branch: RIOBAMBA BRANCH
+PICHECEQ550:
+  institution: BANCO PICHINCHA C.A.
+  city: SANTO DOMINGO
+  branch: ''
+PICHECEQ900:
+  institution: BANCO PICHINCHA C.A.
+  city: TULCAN
+  branch: TULCAN BRANCH
+PRCBECEQXXX:
+  institution: BANCO PROCREDIT S.A.
+  city: QUITO
+  branch: ''
+MMJAECEQXXX:
+  institution: BANCO PROMERICA
+  city: QUITO
+  branch: ''
+BSGEECEQXXX:
+  institution: BANCO SOLIDARIO S.A.
+  city: QUITO
+  branch: ''
+TERBECEGXXX:
+  institution: BANCO TERRITORIAL S.A.
+  city: GUAYAQUIL
+  branch: ''
+RCOOECEQXXX:
+  institution: COOPERATIVA DE AHORRO Y CREDITO COOPERA LTDA
+  city: CUENCA
+  branch: ''
+CODSECEQ001:
+  institution: COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO
+  city: MARCABELI
+  branch: ''
+CODSECEQXXX:
+  institution: COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO
+  city: QUITO
+  branch: ''
+CJEPECEQXXX:
+  institution: COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.
+  city: CUENCA
+  branch: ''
+CFNAECEQXXX:
+  institution: CORPORACION FINANCIERA NACIONAL
+  city: QUITO
+  branch: ''

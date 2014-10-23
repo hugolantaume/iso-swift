@@ -1,0 +1,57 @@
+---
+CAGRSVSS:
+  institution: BANCO AGRICOLA S.A.
+  city: SAN SALVADOR
+  branch: ''
+CENRSVSSGTE:
+  institution: BANCO CENTRAL DE RESERVA DE EL SALVADOR
+  city: SAN SALVADOR
+  branch: GERENCIA DE TESORERIA
+CENRSVSS:
+  institution: BANCO CENTRAL DE RESERVA DE EL SALVADOR
+  city: SAN SALVADOR
+  branch: ''
+BACUSVSSNOS:
+  institution: BANCO CITIBANK DE EL SALVADOR S.A.
+  city: SAN SALVADOR
+  branch: NOSTRO ACCOUNT
+BACUSVSS:
+  institution: BANCO CITIBANK DE EL SALVADOR S.A.
+  city: SAN SALVADOR
+  branch: ''
+BSALSVSS:
+  institution: BANCO DAVIVIENDA SALVADORENO SA
+  city: SAN SALVADOR
+  branch: ''
+BAMCSVSS:
+  institution: BANCO DE AMERICA CENTRAL S.A.
+  city: SAN SALVADOR
+  branch: ''
+GTCSSVSS:
+  institution: BANCO G AND T CONTINENTAL EL SALVADOR
+  city: SAN SALVADOR
+  branch: ''
+BHSASVSS:
+  institution: BANCO HIPOTECARIO DE EL SALVADOR S.A.
+  city: SAN SALVADOR
+  branch: ''
+INDLSVSS:
+  institution: BANCO INDUSTRIAL EL SALVADOR S.A.
+  city: SAN SALVADOR
+  branch: ''
+PRCBSVSS:
+  institution: BANCO PROCREDIT S.A.
+  city: SAN SALVADOR
+  branch: ''
+BPRASVSS:
+  institution: BANCO PROMERICA S.A.
+  city: ANTIGUO CUSCATLAN
+  branch: ''
+FEDRSVSS:
+  institution: FEDECREDITO DE CV
+  city: SAN SALVADOR
+  branch: ''
+BCSASVSS:
+  institution: SCOTIABANK EL SALVADOR S.A.
+  city: SAN SALVADOR
+  branch: ''

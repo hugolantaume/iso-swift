@@ -1,0 +1,49 @@
+---
+LIBABZBZ:
+  institution: ATLANTIC BANK LIMITED
+  city: BELIZE CITY
+  branch: ''
+LIBABZBZ0BS:
+  institution: ATLANTIC BANK LIMITED
+  city: SAN PEDRO
+  branch: ''
+AIBLBZBZ:
+  institution: ATLANTIC INTERNATIONAL BANK LIMITED
+  city: BELIZE CITY
+  branch: ''
+BCBTBZBZ:
+  institution: BELIZE BANK INTERNATIONAL LIMITED
+  city: BELIZE CITY
+  branch: ''
+BBLZBZBZ:
+  institution: BELIZE BANK LIMITED
+  city: BELIZE CITY
+  branch: ''
+CAYEBZBZ:
+  institution: CAYE INTERNATIONAL BANK LTD.
+  city: SAN PEDRO
+  branch: ''
+CEBBBZBZ:
+  institution: CENTRAL BANK OF BELIZE
+  city: BELIZE CITY
+  branch: ''
+CHOIBZBZ:
+  institution: CHOICE BANK LTD
+  city: BELIZE CITY
+  branch: ''
+FCIBBZBZ:
+  institution: FIRSTCARIBBEAN INTERNATIONAL BANK
+  city: BELIZE CITY
+  branch: ''
+PRVTBZBS:
+  institution: HERITAGE INTERNATIONAL BANK AND TRUST LIMITED
+  city: BELIZE CITY
+  branch: ''
+NOSCBZBSINT:
+  institution: SCOTIABANK (BELIZE) LTD.
+  city: BELIZE CITY
+  branch: INTERNATIONAL
+NOSCBZBS:
+  institution: SCOTIABANK (BELIZE) LTD.
+  city: BELIZE CITY
+  branch: ''

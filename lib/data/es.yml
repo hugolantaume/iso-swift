@@ -1,0 +1,1615 @@
+---
+DSGLESBB:
+  institution: ABASIC SLU
+  city: BARCELONA
+  branch: ''
+ABGOESSE:
+  institution: ABENGOA
+  city: SEVILLA
+  branch: ''
+ABIRESBB:
+  institution: ABERTIS INFRAESTRUCTURAS, SA
+  city: BARCELONA
+  branch: ''
+AHCFESMMBAR:
+  institution: AHORRO CORPORACION FINANCIERA, S.V., S.A.
+  city: BARCELONA
+  branch: BARCELONA OFFICE
+AHCFESMMMAD:
+  institution: AHORRO CORPORACION FINANCIERA, S.V., S.A.
+  city: MADRID
+  branch: MADRID OFFICE
+AHCFESMM:
+  institution: AHORRO CORPORACION FINANCIERA, S.V., S.A.
+  city: MADRID
+  branch: ''
+AHCFESMMVAL:
+  institution: AHORRO CORPORACION FINANCIERA, S.V., S.A.
+  city: VALENCIA
+  branch: VALENCIA OFFICE
+ACORESMM:
+  institution: ALDESA CONSTRUCCIONES S.A.
+  city: MADRID
+  branch: ''
+ALLFESMM:
+  institution: ALLFUNDS BANK
+  city: MADRID
+  branch: ''
+PFPFESBB:
+  institution: ALMIRALL, S.A.
+  city: BARCELONA
+  branch: ''
+BACAESMM:
+  institution: ANDBANK ESPANA S.A.
+  city: MADRID
+  branch: ''
+APSTES22:
+  institution: APPLUS SERVICIOS TECNOLOGICOS,S.L.U
+  city: CERDANYOLA DEL VALLES
+  branch: ''
+AREBESMMBAR:
+  institution: ARESBANK, S.A.
+  city: BARCELONA
+  branch: ''
+AREBESMMCAN:
+  institution: ARESBANK, S.A.
+  city: LAS PALMAS DE GRAN CANARIA
+  branch: ''
+AREBESMMINV:
+  institution: ARESBANK, S.A.
+  city: MADRID
+  branch: FINANCIAL DIVISION
+AREBESMMINT:
+  institution: ARESBANK, S.A.
+  city: MADRID
+  branch: INTERNATIONAL DIVISION
+AREBESMM:
+  institution: ARESBANK, S.A.
+  city: MADRID
+  branch: ''
+AREBESMMMAD:
+  institution: ARESBANK, S.A.
+  city: MADRID
+  branch: ''
+AREBESMMMAR:
+  institution: ARESBANK, S.A.
+  city: MARBELLA
+  branch: ''
+ARLEES2B:
+  institution: ARTECHE LANTEGI ELKARTEA S.A.
+  city: MUNGIA
+  branch: ''
+BCMAESMM:
+  institution: ATTIJARIWAFA BANK EUROPE SUCURSAL EN ESPANA SA
+  city: MADRID
+  branch: ''
+AXIPESBB:
+  institution: AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS
+  city: BARCELONA
+  branch: ''
+BMARES2M:
+  institution: BANCA MARCH, SA
+  city: PALMA DE MALLORCA
+  branch: ''
+BAPUES22:
+  institution: BANCA PUEYO, S.A.
+  city: VILLANUEVA DE LA SERENA
+  branch: ''
+ALCLESMM:
+  institution: BANCO ALCALA S.A.
+  city: MADRID
+  branch: ''
+BBVAESMMCMP:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA S.A.
+  city: MADRID
+  branch: CLIENTE MULTIPAIS
+BBVAESMM:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA S.A.
+  city: MADRID
+  branch: FOR ALL REMAINING UNLISTED BRANCHES
+BBVAESMMFXD:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA S.A.
+  city: MADRID
+  branch: TREASURY DEPARTMENT
+BBVAESMMREL:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA S.A.
+  city: MADRID
+  branch: ''
+BBPIESMM:
+  institution: BANCO BPI S.A.- SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+CGDIESMM:
+  institution: BANCO CAIXA GERAL
+  city: MADRID
+  branch: ''
+CCOCESMM:
+  institution: BANCO CAMINOS
+  city: MADRID
+  branch: ''
+BCOEESMM:
+  institution: BANCO COOPERATIVO ESPANOL S.A.
+  city: MADRID
+  branch: ''
+CSPAES2L108:
+  institution: BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.
+  city: LEON
+  branch: ''
+CSPAES2L:
+  institution: BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.
+  city: MADRID
+  branch: ''
+CECAESMM105:
+  institution: BANCO DE CASTILLA-LA MANCHA, S.A.
+  city: CUENCA
+  branch: ''
+ESPBESMMASI:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: ASI
+ESPBESMMAYM:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: AYM
+ESPBESMMSDD:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: BANCO DE ESPANA
+ESPBESMMC01:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C01
+ESPBESMMC02:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C02
+ESPBESMMC03:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C02
+ESPBESMMC04:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C03
+ESPBESMMC05:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C04
+ESPBESMMC06:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C06
+ESPBESMMC07:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C07
+ESPBESMMC08:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C08
+ESPBESMMC09:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C09
+ESPBESMMC10:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C10
+ESPBESMMC11:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C11
+ESPBESMMC12:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C12
+ESPBESMMC13:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C13
+ESPBESMMC14:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C14
+ESPBESMMC15:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: C15
+ESPBESMMFAD:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FADE
+ESPBESMMFFA:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FFA
+ESPBESMMFGE:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FGE
+ESPBESMMFGS:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FGS
+ESPBESMMECB:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FOREIGN OPERATIONS BACK OFFICE
+ESPBESMMFRB:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: FROB
+ESPBESMMGAR:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: GAR
+ESPBESMMEUX:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: INTERNCB
+ESPBESMMMID:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: MID
+ESPBESMMOCC:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: OCC
+ESPBESMMRMS:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: RESERVE MANAGEMENT SERVICES
+ESPBESMMSTE:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: STE
+ESPBESMMTCA:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TCA
+ESPBESMMTEC:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TEC
+ESPBESMMTFP:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TFP 9049
+ESPBESMMTLC:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TLC
+ESPBESMMTSS:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TSS
+ESPBESMMTTE:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: TTE
+ESPBESMM:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: ''
+ESPBESMMFPP:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: ''
+ESPBESMMHIT:
+  institution: BANCO DE ESPANA
+  city: MADRID
+  branch: ''
+NACNESMM:
+  institution: BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID
+  city: MADRID
+  branch: ''
+MADRESMM:
+  institution: BANCO DE MADRID S.A.
+  city: MADRID
+  branch: ''
+BSABESBB:
+  institution: BANCO DE SABADELL, S.A.
+  city: SABADELL
+  branch: ''
+BVADESMM:
+  institution: BANCO DEPOSITARIO BBVA, S.A.
+  city: MADRID
+  branch: ''
+BRASESMM:
+  institution: BANCO DO BRASIL S.A.
+  city: MADRID
+  branch: ''
+ESSIESMM:
+  institution: BANCO ESPIRITO SANTO INVESTIMENTO SUCURSAL ESPANA
+  city: MADRID
+  branch: ''
+BESMESMM:
+  institution: BANCO ESPIRITO SANTO, SPAIN BRANCH
+  city: MADRID
+  branch: ''
+ETCHES2G:
+  institution: BANCO ETCHEVERRIA S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: ''
+BFASESMM:
+  institution: BANCO FINANCIERO Y DE AHORROS SA
+  city: MADRID
+  branch: ''
+GALEES2G:
+  institution: BANCO GALLEGO
+  city: LA CORUNA (A CORUNA)
+  branch: ''
+CECAESMM086:
+  institution: BANCO GRUPO CAJATRES
+  city: ZARAGOZA
+  branch: ''
+INVLESMM:
+  institution: BANCO INVERSIS NET, S.A.
+  city: MADRID
+  branch: ''
+GBMNESMM:
+  institution: BANCO MARE NOSTRUM, S.A.
+  city: MADRID
+  branch: ''
+BFIVESBB:
+  institution: BANCO MEDIOLANUM, S.A.
+  city: BARCELONA
+  branch: ''
+PSTRESMMBAR:
+  institution: BANCO PASTOR S.A.
+  city: BARCELONA
+  branch: ''
+PSTRESMMBIL:
+  institution: BANCO PASTOR S.A.
+  city: BILBAO
+  branch: ''
+PSTRESMM:
+  institution: BANCO PASTOR S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: ''
+PSTRESMMLCO:
+  institution: BANCO PASTOR S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: ''
+PSTRESMMVAL:
+  institution: BANCO PASTOR S.A.
+  city: VALENCIA
+  branch: ''
+PSTRESMMVGO:
+  institution: BANCO PASTOR S.A.
+  city: VIGO
+  branch: ''
+PSTRESMMZAR:
+  institution: BANCO PASTOR S.A.
+  city: ZARAGOZA
+  branch: ''
+PICHESMM:
+  institution: BANCO PICHINCHA
+  city: MADRID
+  branch: ''
+POPUESMMBAR:
+  institution: BANCO POPULAR ESPANOL, S.A.
+  city: BARCELONA
+  branch: ''
+POPUESMMCMG:
+  institution: BANCO POPULAR ESPANOL, S.A.
+  city: MADRID
+  branch: CASH MANAGEMENT
+POPUESMMREX:
+  institution: BANCO POPULAR ESPANOL, S.A.
+  city: MADRID
+  branch: RED EXTERIOR DEPARTMENT
+POPUESMMBOL:
+  institution: BANCO POPULAR ESPANOL, S.A.
+  city: MADRID
+  branch: SECURITIES
+POPUESMM:
+  institution: BANCO POPULAR ESPANOL, S.A.
+  city: MADRID
+  branch: ''
+BSCHESMG:
+  institution: BANCO SANTANDER S.A CIUDAD GRUPO SANTANDER.EDF.PAMPA
+  city: MADRID
+  branch: ''
+BSCHESMM:
+  institution: BANCO SANTANDER S.A.
+  city: MADRID
+  branch: ALL SPAIN BRANCHES
+BSCHESMMCLS:
+  institution: BANCO SANTANDER S.A.
+  city: MADRID
+  branch: SANTANDER MADRID CLS CONTROL BRANCH
+NORTESMM:
+  institution: BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A.
+  city: BOADILLA DEL MONTE
+  branch: ''
+ESPCESMM:
+  institution: BANCO SANTANDER S.A. FORMERLY BANCO ESPANOL DE CREDITO
+  city: BOADILLA DEL MONTE
+  branch: MADRID AND ALL SPANISH OFFICES
+POPLESMM:
+  institution: BANCOPOPULAR-E S.A.
+  city: MADRID
+  branch: ''
+BOFAES2X:
+  institution: BANK OF AMERICA N.A. MADRID
+  city: MADRID
+  branch: ''
+BOTKESMX:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: MADRID
+  branch: MADRID BRANCH
+CMBOESMM:
+  institution: BANKIA BOLSA SOCIEDAD DE VALORES, S.A.
+  city: MADRID
+  branch: ''
+CAHMESMM:
+  institution: BANKIA S.A.
+  city: VALENCIA
+  branch: ''
+BKBKESMMALI:
+  institution: BANKINTER, S.A.
+  city: ALICANTE
+  branch: ''
+BKBKESMMBAR:
+  institution: BANKINTER, S.A.
+  city: BARCELONA
+  branch: ''
+BKBKESMMBIL:
+  institution: BANKINTER, S.A.
+  city: BILBAO
+  branch: ''
+BKBKESMMLPS:
+  institution: BANKINTER, S.A.
+  city: LAS PALMAS DE GRAN CANARIA
+  branch: ''
+BKBKESMMBAC:
+  institution: BANKINTER, S.A.
+  city: MADRID
+  branch: BACK OFFICE TESORERIA-ARBITRAJES
+BKBKESMMFON:
+  institution: BANKINTER, S.A.
+  city: MADRID
+  branch: FUNDS DEPARTMENT
+BKBKESMM:
+  institution: BANKINTER, S.A.
+  city: MADRID
+  branch: ''
+BKBKESMMMAL:
+  institution: BANKINTER, S.A.
+  city: MALAGA
+  branch: ''
+BKBKESMMMUR:
+  institution: BANKINTER, S.A.
+  city: MURCIA
+  branch: ''
+BKBKESMMPAL:
+  institution: BANKINTER, S.A.
+  city: PALMA DE MALLORCA
+  branch: ''
+BKBKESMMNAV:
+  institution: BANKINTER, S.A.
+  city: PAMPLONA
+  branch: ''
+BKBKESMMSSE:
+  institution: BANKINTER, S.A.
+  city: SAN SEBASTIAN
+  branch: ''
+BKBKESMMTEN:
+  institution: BANKINTER, S.A.
+  city: SANTA CRUZ DE TENERIFE
+  branch: ''
+BKBKESMMSAN:
+  institution: BANKINTER, S.A.
+  city: SANTANDER
+  branch: ''
+BKBKESMMSEV:
+  institution: BANKINTER, S.A.
+  city: SEVILLA
+  branch: ''
+BKBKESMMVAL:
+  institution: BANKINTER, S.A.
+  city: VALENCIA
+  branch: ''
+BKBKESMMVIG:
+  institution: BANKINTER, S.A.
+  city: VIGO
+  branch: ''
+BKBKESMMZAR:
+  institution: BANKINTER, S.A.
+  city: ZARAGOZA
+  branch: ''
+BKOAES22:
+  institution: BANKOA S.A. CREDIT AGRICOLE
+  city: SAN SEBASTIAN
+  branch: HEAD OFFICE
+BCDMESMM:
+  institution: BANQUE CHAABI DU MAROC SUCURSAL ESPANA
+  city: MADRID
+  branch: ''
+BMCEESMM:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR INTERNATIONAL, S.A.
+  city: MADRID
+  branch: ''
+PRIBESMX:
+  institution: BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+BPLCESMM:
+  institution: BARCLAYS BANK PLC
+  city: MADRID
+  branch: ''
+BARCESMM:
+  institution: BARCLAYS BANK S.A.U
+  city: MADRID
+  branch: ''
+BNPAESMM:
+  institution: BNP PARIBAS ESPANA, S.A.
+  city: MADRID
+  branch: ''
+BNPAESMZ:
+  institution: BNP PARIBAS ESPANA, S.A.
+  city: MADRID
+  branch: ''
+GEBAESMMBAR:
+  institution: BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA
+  city: BARCELONA
+  branch: BARCELONA BRANCH
+GEBAESMMBIL:
+  institution: BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA
+  city: BILBAO
+  branch: ''
+GEBAESMMMAD:
+  institution: BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA
+  city: MADRID
+  branch: MADRID BRANCH
+GEBAESMM:
+  institution: BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+GEBAESMMVAL:
+  institution: BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA
+  city: VALENCIA
+  branch: VALENCIA BRANCH
+BNPAESMH:
+  institution: BNP PARIBAS S.A. SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+BNPAESMS:
+  institution: BNP PARIBAS S.A. SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+PARBESMH:
+  institution: BNP PARIBAS SECURITIES SERVICES, SPAIN
+  city: MADRID
+  branch: ''
+PARBESMX:
+  institution: BNP PARIBAS SECURITIES SERVICES, SPAIN
+  city: MADRID
+  branch: ''
+PARBESMXFDA:
+  institution: BNP PARIBAS SECURITIES SERVICES, SPAIN
+  city: MADRID
+  branch: ''
+CAPIESMMBKR:
+  institution: C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.
+  city: MADRID
+  branch: BROKERAGE SERVICES
+CAPIESMM:
+  institution: C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.
+  city: MADRID
+  branch: ''
+CCRIES2A121:
+  institution: C.R. DE CHESTE SCC
+  city: CHESTE (VALENCIA)
+  branch: ''
+CCRIES2A157:
+  institution: C.R. LA JUNQUERA DE CHILCHES SCCV
+  city: CHILCHES
+  branch: ''
+CCRIES2A095:
+  institution: C.R. SAN ROQUE DE ALMENARA SCCV
+  city: ALMENARA
+  branch: ''
+CCRIES2A179:
+  institution: C.R.DE ALGINET SCCV
+  city: ALGINET
+  branch: ''
+CCRIES2A152:
+  institution: C.R.DE VILLAR CCV
+  city: VILLAR DEL ARZOBISPO
+  branch: ''
+CCRIES2A165:
+  institution: C.R.S. ISIDRO DE VILAFAMES SCCV
+  city: VILAFAMES
+  branch: ''
+CCRIES2A119:
+  institution: C.R.S. JAIME ALQUERIAS NINO PERDIDO SCCV
+  city: ALQUERIAS
+  branch: ''
+CCRIES2A112:
+  institution: C.R.S. JOSE DE BURRIANA SCCV
+  city: BURRIANA
+  branch: ''
+CCRIES2A135:
+  institution: C.R.S. JOSE DE NULES
+  city: NULES
+  branch: ''
+CDENESBBTES:
+  institution: CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC.
+    COOP. DE CREDITO
+  city: BARCELONA
+  branch: PRUEBAS TESORIA
+CDENESBB:
+  institution: CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC.
+    COOP. DE CREDITO
+  city: BARCELONA
+  branch: ''
+CECAESMM081:
+  institution: CAIXA D’ESTALVIS DEL PENEDES
+  city: VILAFRANCA DEL PENEDES
+  branch: BARCELONA
+BCOEESMM159:
+  institution: CAIXA POPULAR CAIXA RURAL
+  city: PATERNA
+  branch: ''
+CCRIES2A105:
+  institution: CAIXA R. DE CALLOSA DE EN SARRIA CCV
+  city: CALLOSA DE ENSARRIA
+  branch: ''
+CCRIES2A123:
+  institution: CAIXA R. DE TURIS, C.C.V
+  city: TURIS
+  branch: ''
+CCRIES2A160:
+  institution: CAIXA R.S.JOSEP DE VILAVELLA SCCV
+  city: VILLAVIEJA
+  branch: ''
+CCRIES2A186:
+  institution: CAIXA RURAL ALBALAT DELS SORELLS
+  city: ALBALAT DELS SORELLS
+  branch: ''
+CCRIES2A045:
+  institution: CAIXA RURAL ALTEA CCV
+  city: ALTEA
+  branch: ''
+CCRIES2A118:
+  institution: CAIXA RURAL DE TORRENT CCV
+  city: TORRENT
+  branch: ''
+BCOEESMM070:
+  institution: CAIXA RURAL GALEGA
+  city: LUGO
+  branch: ''
+BCOEESMM113:
+  institution: CAIXA RURAL L’ALCORA
+  city: ALCORA
+  branch: ''
+CAIXESBB:
+  institution: CAIXABANK, S.A.
+  city: BARCELONA
+  branch: MAIN BRANCH
+CAIXESBB609:
+  institution: CAIXABANK, S.A.
+  city: BILBAO
+  branch: ''
+CAIXESBB655:
+  institution: CAIXABANK, S.A.
+  city: GERONA (GIRONA)
+  branch: ''
+CAIXESBB521:
+  institution: CAIXABANK, S.A.
+  city: LAS PALMAS DE GRAN CANARIA
+  branch: ''
+CAIXESBB654:
+  institution: CAIXABANK, S.A.
+  city: LERIDA (LLEIDA)
+  branch: ''
+CAIXESBBMAD:
+  institution: CAIXABANK, S.A.
+  city: MADRID
+  branch: MADRID TERRITORIAL
+CAIXESBB652:
+  institution: CAIXABANK, S.A.
+  city: PALMA DE MALLORCA
+  branch: ''
+CAIXESBB523:
+  institution: CAIXABANK, S.A.
+  city: SANTA CRUZ DE TENERIFE
+  branch: ''
+CAIXESBB661:
+  institution: CAIXABANK, S.A.
+  city: SEVILLA
+  branch: ''
+CAIXESBBTAR:
+  institution: CAIXABANK, S.A.
+  city: TARRAGONA
+  branch: ''
+CAIXESBB666:
+  institution: CAIXABANK, S.A.
+  city: VALENCIA
+  branch: ''
+CAIXESBB528:
+  institution: CAIXABANK, S.A.
+  city: ZARAGOZA
+  branch: ''
+CECAESMM043:
+  institution: CAJA DE AHORROS DE MURCIA
+  city: MURCIA
+  branch: ''
+CECAESMM056:
+  institution: CAJA DE AHORROS DE POLLENSA
+  city: POLLENSA
+  branch: BALEARES
+CSSOES2SFIN:
+  institution: CAJA DE AHORROS DE SALAMANCA Y SORIA (CAJA DUERO)
+  city: MADRID
+  branch: FINANCIAL DEPARTMENT
+CSSOES2STRE:
+  institution: CAJA DE AHORROS DE SALAMANCA Y SORIA (CAJA DUERO)
+  city: MADRID
+  branch: TREASURY DEPARTMENT
+CSSOES2S:
+  institution: CAJA DE AHORROS DE SALAMANCA Y SORIA (CAJA DUERO)
+  city: SALAMANCA
+  branch: ''
+CECAESMM066:
+  institution: CAJA DE AHORROS DE SANTANDER Y CANTABRIA
+  city: SANTANDER
+  branch: ''
+CECAESMM099:
+  institution: CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA
+  city: CACERES
+  branch: ''
+CECAESMM051:
+  institution: CAJA DE AHORROS Y MONTE DE PIEDAD DE LAS BALEARES
+  city: PALMA DE MALLORCA
+  branch: ''
+CECAESMM045:
+  institution: CAJA DE AHORROS Y MONTE DE PIEDAD DE ONTINYENT
+  city: ONTINYENT
+  branch: VALENCIA
+CECAESMM017:
+  institution: CAJA DE AHORROS Y MONTE DE PIEDAD DEL CIRCULO CATOLICO DE OBREROS DE
+    BURGOS
+  city: BURGOS
+  branch: ''
+CASDESBB:
+  institution: CAJA DE ARQUITECTOS S.COOP.DE CREDITO
+  city: BARCELONA
+  branch: ''
+CCRIES2A029:
+  institution: CAJA DE CREDITO DE PETREL,C.R.,CCV
+  city: PETREL
+  branch: ''
+CECAESMM031:
+  institution: CAJA GENERAL DE AHORROS DE GRANADA
+  city: GRANADA
+  branch: ''
+BCOEESMM138:
+  institution: CAJA RURAL BETXI, S. COOP. DE CREDITO V.
+  city: BETXI
+  branch: ''
+BCOEESMM127:
+  institution: CAJA RURAL CASAS IBANEZ SDAD. COOP.
+  city: CASAS IBANEZ
+  branch: ''
+CCRIES2A110:
+  institution: CAJA RURAL CATOLICO AGRARIA
+  city: VILLARREAL
+  branch: ''
+BCOEESMM005:
+  institution: CAJA RURAL CENTRAL, S.C.C.
+  city: ORIHUELA
+  branch: ''
+BCOEESMM150:
+  institution: CAJA RURAL DE ALBAL, COOP. DE CREDITO V.
+  city: ALBAL
+  branch: ''
+BCOEESMM117:
+  institution: CAJA RURAL DE ALGEMESI
+  city: VALENCIA
+  branch: ''
+BCOEESMM001:
+  institution: CAJA RURAL DE ALMENDRALEJO
+  city: ALMENDRALEJO
+  branch: ''
+CCRIES2A001:
+  institution: CAJA RURAL DE ALMENDRALEJO, SCC
+  city: ALMENDRALEJO
+  branch: ''
+BCOEESMM059:
+  institution: CAJA RURAL DE ASTURIAS
+  city: OVIEDO
+  branch: ''
+BCOEESMM162:
+  institution: CAJA RURAL DE BENICARLO
+  city: BENICARLO
+  branch: ''
+BCOEESMM060:
+  institution: CAJA RURAL DE BURGOS, FUENTEPELAYO, SEGOVIA Y CASTELLDANS, S.C.C
+  city: BURGOS
+  branch: ''
+CCRIES2A177:
+  institution: CAJA RURAL DE CANARIAS
+  city: LAS PALMAS DE GRAN CANARIA
+  branch: ''
+CCRIES2A137:
+  institution: CAJA RURAL DE CASINOS
+  city: CASINOS
+  branch: ''
+BCOEESMM081:
+  institution: CAJA RURAL DE CASTILLA LA MANCHA, S.C.C.
+  city: TOLEDO
+  branch: ''
+BCOEESMM063:
+  institution: CAJA RURAL DE CORDOBA
+  city: CORDOBA
+  branch: ''
+BCOEESMM009:
+  institution: CAJA RURAL DE EXTREMADURA
+  city: BADAJOZ
+  branch: ''
+BCOEESMM007:
+  institution: CAJA RURAL DE GIJON
+  city: GIJON
+  branch: ''
+BCOEESMM023:
+  institution: CAJA RURAL DE GRANADA
+  city: GRANADA
+  branch: ''
+BCOEESMM140:
+  institution: CAJA RURAL DE GUISSONA SOCIEDAD COOPERATIVA DE CREDITO
+  city: GUISSONA
+  branch: ''
+BCOEESMM067:
+  institution: CAJA RURAL DE JAEN
+  city: JAEN
+  branch: ''
+BCOEESMM096:
+  institution: CAJA RURAL DE L’ALCUDIA
+  city: VALENCIA
+  branch: ''
+BCOEESMM116:
+  institution: CAJA RURAL DE MOTA DEL CUERVO
+  city: MOTA DEL CUERVO
+  branch: ''
+BCOEESMM008:
+  institution: CAJA RURAL DE NAVARRA
+  city: PAMPLONA
+  branch: ''
+BCOEESMM016:
+  institution: CAJA RURAL DE SALAMANCA
+  city: SALAMANCA
+  branch: ''
+CCRIES2A102:
+  institution: CAJA RURAL DE SAN VICENTE VALL D’UXO
+  city: VALL D’UXO
+  branch: ''
+BCOEESMM017:
+  institution: CAJA RURAL DE SORIA
+  city: SORIA
+  branch: ''
+BCOEESMM080:
+  institution: CAJA RURAL DE TERUEL
+  city: TERUEL
+  branch: ''
+BCOEESMM020:
+  institution: CAJA RURAL DE UTRERA
+  city: SEVILLA
+  branch: ''
+BCOEESMM144:
+  institution: CAJA RURAL DE VILLAMALEA
+  city: ALBACETE
+  branch: ''
+BCOEESMM085:
+  institution: CAJA RURAL DE ZAMORA
+  city: ZAMORA
+  branch: ''
+BCOEESMM187:
+  institution: CAJA RURAL DEL SUR,SDAD.COOP.CTO (FORMERLY CAJA RURAL DE HUELVA Y SEVILLA)
+  city: SEVILLA
+  branch: ''
+BCOEESMM115:
+  institution: CAJA RURAL NESTRA MADRE DEL SOL
+  city: ADAMUZ
+  branch: ''
+BCOEESMM098:
+  institution: CAJA RURAL NTRA SRA DEL ROSARIO
+  city: NUEVA CARTEYA (CORDOBA)
+  branch: ''
+BCOEESMM134:
+  institution: CAJA RURAL NTRA. SENORA DE LA ESPERANZA
+  city: ONDA
+  branch: ''
+BCOEESMM089:
+  institution: CAJA RURAL NTRA. SRA. DE GUADALUPE, SDAD. COOP. CDTO.
+  city: BAENA (CORDOBA)
+  branch: ''
+BCOEESMM104:
+  institution: CAJA RURAL NTRA. SRA. DEL CAMPO
+  city: CANETE TORRES (CORDOBA)
+  branch: ''
+BCOEESMM018:
+  institution: CAJA RURAL SAN AUGUSTIN DE FUENTE ALAMO
+  city: FUENTE ALAMO
+  branch: ''
+BCOEESMM166:
+  institution: CAJA RURAL SAN ISIDRO DE LES COVES DE VINROMA, S. COOP. DE CREDITO
+    V.
+  city: LES COVES DE VINROMA
+  branch: ''
+BCOEESMM111:
+  institution: CAJA RURAL SAN ISIDRO VALL D’UXO
+  city: VALL D’UXO
+  branch: ''
+BCOEESMM130:
+  institution: CAJA RURAL SAN JOSE DE ALMASSORA
+  city: CASTELLON
+  branch: ''
+BCOEESMM174:
+  institution: CAJA RURAL VINAROS S.C.C.V.
+  city: VINAROS
+  branch: ''
+BCOEESMM076:
+  institution: CAJA SIETE, CAJA RURAL, SCC
+  city: SANTA CRUZ DE TENERIFE
+  branch: ''
+CCRIES2A:
+  institution: CAJAS RURALES UNIDAS, SOCIEDAD COOPERATIVA DE CREDITO
+  city: ALMERIA
+  branch: ''
+CSURES2C:
+  institution: CAJASUR BANCO, S.A.U.
+  city: CORDOBA
+  branch: ''
+CTIXESMM:
+  institution: CALCULO Y TRATAMIENTO DE LA INFORMACION CTI, S.A.
+  city: MADRID
+  branch: ''
+CESCESBB571:
+  institution: CATALUNYA BANC, S.A. (CATALUNYACAIXA)
+  city: BARCELONA
+  branch: BACK OFFICE INTERNACIONAL
+CESCESBB600:
+  institution: CATALUNYA BANC, S.A. (CATALUNYACAIXA)
+  city: BARCELONA
+  branch: BKE DEPARTMENT
+CESCESBB008:
+  institution: CATALUNYA BANC, S.A. (CATALUNYACAIXA)
+  city: BARCELONA
+  branch: CREDIT MANAGEMENT
+CESCESBB:
+  institution: CATALUNYA BANC, S.A. (CATALUNYACAIXA)
+  city: BARCELONA
+  branch: MAIN BRANCH
+CESCESBB544:
+  institution: CATALUNYA BANC, S.A. (CATALUNYACAIXA)
+  city: BARCELONA
+  branch: TREASURY DEPARTMENT
+CECAESMM:
+  institution: CECABANK, S.A.
+  city: MADRID
+  branch: ''
+CITIES2X:
+  institution: CITIBANK ESPANA S.A.
+  city: MADRID
+  branch: ''
+CITIESMXSEC:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: MADRID
+  branch: RESTRICTED USE CITIBANK MADRID TARGET 2
+CITIESMX:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: MADRID
+  branch: ''
+COBAESMXBAR:
+  institution: COMMERZBANK AG
+  city: BARCELONA
+  branch: ''
+COBAESMXTMA:
+  institution: COMMERZBANK AG
+  city: MADRID
+  branch: ADMINISTRATION
+COBAESMX:
+  institution: COMMERZBANK AG
+  city: MADRID
+  branch: ''
+CDILESMM:
+  institution: COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA,S.A.U
+  city: MADRID
+  branch: ''
+CMEMESBB:
+  institution: COMSA EMTE S.L.
+  city: BARCELONA
+  branch: ''
+BSUIESMM:
+  institution: CREDIT AGRICOLE CIB
+  city: MADRID
+  branch: ''
+AGRIESMM:
+  institution: CREDIT AGRICOLE LUXEMBOURG SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+CRESESMM:
+  institution: CREDIT SUISSE AG, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+CCRIES2A188:
+  institution: CREDIT VALENCIA C.R. CCV
+  city: VALENCIA
+  branch: ''
+DEESESBB:
+  institution: DEENERO SPAIN SA
+  city: BARCELONA
+  branch: ''
+DBSCESMM:
+  institution: DEUTSCHE BANK AG SPANISH BRANCH
+  city: MADRID
+  branch: ''
+DEUTESBBASS:
+  institution: DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA
+  city: BARCELONA
+  branch: BCN-BRANCH
+DEUTESBB:
+  institution: DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA
+  city: BARCELONA
+  branch: ''
+DEUTESBB030:
+  institution: DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA
+  city: MADRID
+  branch: ''
+DSBLESMM:
+  institution: DEXIA SABADELL BANCO LOCAL S.A.
+  city: MADRID
+  branch: ''
+PROAESMM:
+  institution: EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)
+  city: MADRID
+  branch: ''
+EFGBESMM:
+  institution: EFG BANK (LUXEMBOURG) S.A., SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+ENDEESMM:
+  institution: ENDESA, S.A.
+  city: MADRID
+  branch: ''
+ARABESMM:
+  institution: EUROPE ARAB BANK, PLC-SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+EVIRESMM:
+  institution: EVERIS SPAIN, S.L.U.
+  city: MADRID
+  branch: ''
+FDRAESBB:
+  institution: FLUIDRA, S.A.
+  city: SABADELL
+  branch: ''
+FRAVES22:
+  institution: FRIT RAVICH, S.L.
+  city: MACANET DE LA SELVA
+  branch: ''
+GAMCES2A:
+  institution: GAMESA CORPORACION TECNOLOGICA, S.A
+  city: ZAMUDIO
+  branch: ''
+GVCBESBBETB:
+  institution: GENERAL DE VALORES Y CAMBIOS S.V. S.A.
+  city: BARCELONA
+  branch: ETB GVC GAESCO
+GVCBESBB:
+  institution: GENERAL DE VALORES Y CAMBIOS S.V. S.A.
+  city: BARCELONA
+  branch: ''
+GEODES2P:
+  institution: GEODIS BOURGEY MONTREUIL IBERICA SA
+  city: PAMPLONA
+  branch: ''
+BCOEESMM190:
+  institution: GLOBALCAJA, CAJA RURAL DE ALBACETE, CIUDAD REAL Y CUENCA, S.C.C.
+  city: TOLEDO
+  branch: ''
+GRLSESBB:
+  institution: GRIFOLS S.A.
+  city: BARCELONA
+  branch: ''
+TRCSESMM:
+  institution: GRUPO TURISTICO TRANSHOTEL S.L.
+  city: SAN SEBASTIAN DE REYES
+  branch: ''
+MIDLESMMSDD:
+  institution: HSBC BANK PLC
+  city: MADRID
+  branch: SEPA DIRECT DEBITS
+MIDLESMM:
+  institution: HSBC BANK PLC
+  city: MADRID
+  branch: ''
+MIDLESMX:
+  institution: HSBC BANK PLC
+  city: MADRID
+  branch: ''
+EHYPESMX:
+  institution: HYPOTHEKENBANK FRANKFURT AG, SPAIN BRANCH
+  city: MADRID
+  branch: ''
+CAZRES2Z:
+  institution: IBERCAJA BANCO S A U
+  city: ZARAGOZA
+  branch: HEAD OFFICE
+IBDLES2B:
+  institution: IBERDROLA S.A.
+  city: BILBAO
+  branch: ''
+IBLAESMM:
+  institution: IBERIA LINEAS AEREAS DE ESPANA S.A.
+  city: MADRID
+  branch: ''
+STARES2M:
+  institution: IBEROSTAR HOTELES Y APARTAMENTOS, S.L.
+  city: PALMA DE MALLORCA
+  branch: ''
+ICBKESMM:
+  institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA(EUROPE)S.A.,SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+BBRUESMX:
+  institution: ING BELGIUM S.A. SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+INGDESMM:
+  institution: ING DIRECT NV, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+ICROESMM:
+  institution: INSTITUTO DE CREDITO OFICIAL
+  city: MADRID
+  branch: ''
+IVALESMM:
+  institution: INTERMONEY VALORES S.V.B., S.A.
+  city: MADRID
+  branch: ''
+BCITESMM:
+  institution: INTESA SANPAOLO S.P.A. (FORMER SANPAOLO IMI), MADRID BRANCH, MADRID
+  city: MADRID
+  branch: ''
+INSGESMM:
+  institution: INVERSEGUROS SOCIEDAD DE VALORES Y BOLSA, S.A.
+  city: MADRID
+  branch: ''
+CVRVES2B:
+  institution: IPAR KUTXA RURAL, S.C.C.
+  city: BILBAO
+  branch: ''
+CHASESM3KEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: MADRID
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASESM3:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: MADRID
+  branch: ''
+KBLXESMM:
+  institution: KBL EUROPEAN PRIVATE BANKERS S.A. SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+BASKES2B:
+  institution: KUTXABANK, S.A.
+  city: BILBAO
+  branch: ''
+CLPEES2M:
+  institution: LABORAL KUTXA
+  city: MONDRAGON
+  branch: ''
+ESTEESBB:
+  institution: LABORATORIOS DEL DR. ESTEVE, S.A.
+  city: BARCELONA
+  branch: ''
+HIPRES22:
+  institution: LABORATORIOS HIPRA, S.A.
+  city: GERONA (GIRONA)
+  branch: ''
+CECAESMM048:
+  institution: LIBERBANK, S.A.
+  city: MADRID
+  branch: ''
+LISEESMM:
+  institution: LINK SECURITIES SOCIEDAD DE VALORES S.A.
+  city: MADRID
+  branch: ''
+LOYDESMM:
+  institution: LLOYDS BANK INTERNATIONAL SA
+  city: MADRID
+  branch: ALL SPANISH OFFICES
+HLFXESMM:
+  institution: LLOYDS BANK INTERNATIONAL SA
+  city: MADRID
+  branch: ''
+LOYIESMM:
+  institution: LLOYDS BANK INTERNATIONAL SA
+  city: MADRID
+  branch: ''
+LOCYESMMNDP:
+  institution: LOMBARD ODIER DARIER HENTSCH AND CIE (ESPANA) S.V., S.A.
+  city: MADRID
+  branch: NDP DEPT
+LOCYESMM:
+  institution: LOMBARD ODIER DARIER HENTSCH AND CIE (ESPANA) S.V., S.A.
+  city: MADRID
+  branch: ''
+MISVESMM:
+  institution: MAPFRE INVERSION SOCIEDAD DE VALORES S.A.
+  city: MADRID
+  branch: ''
+MEFFESBBCCP:
+  institution: MEFF
+  city: BARCELONA
+  branch: ANCILLARY SYSTEM
+MEFFESBBMRG:
+  institution: MEFF
+  city: BARCELONA
+  branch: MARGIN ACCOUNT
+MEFFESBBMES:
+  institution: MEFF
+  city: BARCELONA
+  branch: MEFF EURO SERVICES
+MEFFESBBMRF:
+  institution: MEFF
+  city: BARCELONA
+  branch: MEFF RENTA FIJA
+MEFFESBBRRR:
+  institution: MEFF
+  city: BARCELONA
+  branch: MEFFREPO
+MEFFESBBMRV:
+  institution: MEFF
+  city: MADRID
+  branch: MEFF RENTA VARIABLE
+MEFFESBB:
+  institution: MEFF
+  city: MADRID
+  branch: ''
+MLCEESMM:
+  institution: MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB
+  city: MADRID
+  branch: ''
+MLCEESMMMEO:
+  institution: MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB
+  city: MADRID
+  branch: ''
+CECAESMM010:
+  institution: MONTE DE PIEDAD Y CAJA GENERAL DE AHORROS DE BADAJOZ
+  city: BADAJOZ
+  branch: ''
+MNTYESMM:
+  institution: MONTY GLOBAL PAYMENTS, S.A.U.
+  city: MADRID
+  branch: ''
+NATXESMM:
+  institution: NATIXIS S.A., SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+CAGLESMMCOP:
+  institution: NCG BANCO S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: INTL. OPERATIONS AND FOREIGN TRADE
+CAGLESMMLCO:
+  institution: NCG BANCO S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: PAYMENT SYSTEMS DEPT.
+CAGLESMM:
+  institution: NCG BANCO S.A.
+  city: LA CORUNA (A CORUNA)
+  branch: ''
+CAGLESMMBAC:
+  institution: NCG BANCO S.A.
+  city: MADRID
+  branch: BACK OFFICE
+CAGLESMMBOI:
+  institution: NCG BANCO S.A.
+  city: MADRID
+  branch: FOREIGN TRADE AND INTL. OPERATIONS
+CAGLESMMVOP:
+  institution: NCG BANCO S.A.
+  city: VIGO
+  branch: EXTRANJERO – VIGO
+CAGLESMMVIG:
+  institution: NCG BANCO S.A.
+  city: VIGO
+  branch: ''
+NHSAESMM:
+  institution: NH HOTELES SA
+  city: MADRID
+  branch: ''
+BCOEESMM191:
+  institution: NUEVA CAJA RURAL DE ARAGON, SOCIEDAD COOPERATIVA DE CREDITO
+  city: ZARAGOZA
+  branch: ''
+ODDOESMM:
+  institution: ODDO SV, SOCIEDAD DE VALORES
+  city: MADRID
+  branch: ''
+OAMIES22:
+  institution: OFICINA DE ARMONIZACION DEL MERCADO INTERIOR (OAMI)
+  city: ALICANTE
+  branch: ''
+OPENESMM:
+  institution: OPEN BANK SANTANDER CONSUMER S.A.
+  city: MADRID
+  branch: ''
+PICTESMM:
+  institution: PICTET AND CIE (EUROPE)S.A. SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+POGAES2C:
+  institution: PONTEGADEA INVERSIONES, S.L.
+  city: ARTEIXO A CORUNA
+  branch: ''
+POPIESMM:
+  institution: POPULAR BANCA PRIVADA
+  city: MADRID
+  branch: ''
+PRCLES22:
+  institution: PORCELANOSA S.A.
+  city: CASTELLON DE LA PLANA
+  branch: ''
+WELAESMMFUN:
+  institution: PORTIGON AG
+  city: MADRID
+  branch: FUNDING UNIT
+WELAESMM:
+  institution: PORTIGON AG
+  city: MADRID
+  branch: ''
+GSEHESMM:
+  institution: PRINTEOS GROUP HOLDING, S.L.U.
+  city: MADRID
+  branch: ''
+PSGRESMM:
+  institution: PROSEGUR COMPANIA DE SEGURIDAD, S.A.
+  city: MADRID
+  branch: ''
+PUIGESBB:
+  institution: PUIG, S.L.
+  city: BARCELONA
+  branch: ''
+PRABESMM:
+  institution: RABOBANK INTERNATIONAL MADRID BRANCH
+  city: MADRID
+  branch: ''
+BVALESMM:
+  institution: RBC INVESTOR SERVICES ESPANA S.A.
+  city: MADRID
+  branch: ''
+RENBESMM:
+  institution: RENTA 4 BANCO, S.A.
+  city: MADRID
+  branch: ''
+RENTESMM:
+  institution: RENTA 4 SOCIEDAD DE VALORES, S.A.
+  city: MADRID
+  branch: ''
+REPYESMM:
+  institution: REPSOL, S.A.
+  city: MADRID
+  branch: ''
+GROCESBB:
+  institution: ROCA SANITARIO, S. A.
+  city: BARCELONA
+  branch: ''
+SAMXESMM:
+  institution: SANTANDER ASSET MANAGEMENT, S.A.
+  city: BOADILLA DEL MONTE
+  branch: ''
+SBFCESMM:
+  institution: SANTANDER BRASIL E.F.C. S.A.
+  city: BOADILLA DEL MONTE
+  branch: ''
+SCFBESMM:
+  institution: SANTANDER CONSUMER FINANCE, S.A.
+  city: MADRID
+  branch: ''
+SABNESMMSSS:
+  institution: SANTANDER INVESTMENT SERVICES S.A.
+  city: BOADILLA DEL MONTE
+  branch: SANTANDER SECURITIES SERVICES
+SABNESMM:
+  institution: SANTANDER INVESTMENT SERVICES S.A.
+  city: BOADILLA DEL MONTE
+  branch: ''
+SELFESMM:
+  institution: SELF TRADE BANK
+  city: MADRID
+  branch: ''
+SAICES2Z:
+  institution: SOCIEDAD ANONIMA INDUSTRIAS CELULOSA ARAGONESA
+  city: ZARAGOZA
+  branch: ''
+IBRCESMMASI:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ANCILLARY SYSTEM
+IBRCESMMGAR:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: IBERCLEAR – MULTILATERAL GUARANTY ACCOUNT
+IBRCESMMSNF:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: SENAF
+IBRCESMM:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMAS1:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMCDE:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMINV:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMISS:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMMVL:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IBRCESMMSCL:
+  institution: SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION
+    DE VALORES, S.A. (IBERCLEAR)
+  city: MADRID
+  branch: ''
+IPAYESMMGT1:
+  institution: SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.
+  city: MADRID
+  branch: GARANTIAS
+IPAYESMMAS1:
+  institution: SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.
+  city: MADRID
+  branch: SISTEMA VINCULADO
+IPAYESMM:
+  institution: SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.
+  city: MADRID
+  branch: ''
+XRVVESVVSCL:
+  institution: SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU
+  city: VALENCIA
+  branch: ANCILLARY SYSTEM
+XRVVESVVGAR:
+  institution: SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU
+  city: VALENCIA
+  branch: CUENTA DE GARANTIAS
+XRVVESVV:
+  institution: SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU
+  city: VALENCIA
+  branch: ''
+XBCNESBBSCL:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.
+  city: BARCELONA
+  branch: ANCIILARY SYSTEM
+XBCNESBBGAR:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.
+  city: BARCELONA
+  branch: SER. DE COMP. Y LIQ. BOLSA DE VALORES DE BARCELONA CUENTA GARANTIAS
+XBCNESBB:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.
+  city: BARCELONA
+  branch: ''
+XRBVES2BSCL:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.
+  city: BILBAO
+  branch: ANCILLARY SYSTEM
+XRBVES2BGAR:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.
+  city: BILBAO
+  branch: LIQUIDACION CUENTA GARANTIA
+XRBVES2B:
+  institution: SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.
+  city: BILBAO
+  branch: ''
+SOGEESMMBAR:
+  institution: SOCIETE GENERALE, SUCURSAL EN ESPANA
+  city: BARCELONA
+  branch: ''
+SOGEESMMAGM:
+  institution: SOCIETE GENERALE, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: MARKET BRANCH
+SOGEESMMTRA:
+  institution: SOCIETE GENERALE, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: SG MADRID TRADE SERVICES
+SOGEESMM:
+  institution: SOCIETE GENERALE, SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+POHIESMM:
+  institution: TARGOBANK,S.A.
+  city: MADRID
+  branch: ''
+TEFGESMM:
+  institution: TELEFONICA GESTION DE SERVICIOS COMPARTIDOS ESPANA
+  city: MADRID
+  branch: ''
+TEFEESMM:
+  institution: TELEFONICA, S.A.
+  city: MADRID
+  branch: ''
+TPSGESMM:
+  institution: TESORO PUBLICO-SPAIN SPANISH GOVERNMENT GOBIERNO DE ESPANA
+  city: MADRID
+  branch: ''
+ABNAESMMBAR:
+  institution: THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS
+    RBS NV)
+  city: BARCELONA
+  branch: ''
+ABNAESMMLEB:
+  institution: THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS
+    RBS NV)
+  city: MADRID
+  branch: LOCAL ELECTRONIC BANKING
+ABNAESMM:
+  institution: THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS
+    RBS NV)
+  city: MADRID
+  branch: ''
+ABNAESMMMAD:
+  institution: THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS
+    RBS NV)
+  city: MADRID
+  branch: ''
+TRIOESMM:
+  institution: TRIODOS BANK NV, SE
+  city: MADRID
+  branch: ''
+UBIBESMM:
+  institution: UBI BANCA INTERNATIONAL-SUCURSAL EN ESPANA
+  city: MADRID
+  branch: ''
+UBSWESMMNPB:
+  institution: UBS BANK, S.A.
+  city: MADRID
+  branch: BRANCH
+UBSWESMM:
+  institution: UBS BANK, S.A.
+  city: MADRID
+  branch: SUCCURSAL EN ESPANA
+UCJAES2MGAR:
+  institution: UNICAJA BANCO, S.A.
+  city: MADRID
+  branch: CTA GARANTIA
+UCJAES2M:
+  institution: UNICAJA BANCO, S.A.
+  city: MALAGA
+  branch: ''
+UCINESMM:
+  institution: UNION DE CREDITOS INMOBILIARIOS, S.A.
+  city: MADRID
+  branch: ''
+VLNGESBB:
+  institution: VUELING AIRLINES S.A
+  city: BARCELONA
+  branch: ''
+ZURIESBB:
+  institution: ZURICH INSURANCE PLC. SUCURSAL EN ESPANA
+  city: BARCELONA
+  branch: ''

@@ -1,0 +1,298 @@
+---
+ABDISDKH:
+  institution: ABU DHABI ISLAMIC BANK
+  city: KHARTOUM
+  branch: ''
+ABSUSDKH:
+  institution: AGRICULTURAL BANK OF SUDAN
+  city: KHARTOUM
+  branch: ''
+RAKASDKH:
+  institution: AL BARAKA BANK (SUDAN)
+  city: KHARTOUM
+  branch: ''
+NILESDKH02P:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ABU HAMAD
+  branch: ''
+NILESDKH02B:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ABU JEBEHA
+  branch: ''
+NILESDKH02N:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ADDBH
+  branch: ''
+NILESDKH02H:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ATBRA
+  branch: ''
+NILESDKH02K:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: DUNGLA
+  branch: ''
+NILESDKH02D:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: EL FASHIR
+  branch: ''
+NILESDKH02F:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ELGDARIF
+  branch: ''
+NILESDKH02M:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ELGOLID
+  branch: ''
+NILESDKH026:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ELMNGIL
+  branch: ''
+NILESDKH02A:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ELNIHOOD
+  branch: ''
+NILESDKH027:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: ELOBIED
+  branch: ''
+NILESDKH02E:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: HAIFA
+  branch: ''
+NILESDKH02L:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KAREMA
+  branch: ''
+NILESDKH02G:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KASLA
+  branch: ''
+NILESDKH0K2:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KHARTOUM
+  branch: KHARTOUM NORTH BRANCH
+NILESDKH:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KHARTOUM
+  branch: ''
+NILESDKH02J:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KHASHM ELGIRBA
+  branch: ''
+NILESDKH0S2:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: KOSTI
+  branch: ''
+NILESDKH025:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: MEDANI
+  branch: ''
+NILESDKH02C:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: NIALA
+  branch: ''
+NILESDKH024:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: OMDURMAN
+  branch: ''
+NILESDKH028:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: OMRWABA
+  branch: ''
+NILESDKH0PS:
+  institution: AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.
+  city: PORT SUDAN
+  branch: ''
+ISBSSDKH:
+  institution: AL SHAMAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: ''
+RBDISDKH:
+  institution: ALROWAD BANK FOR DEVELOPMENT AND INVESTMENT
+  city: KHARTOUM
+  branch: ''
+ALSASDKH:
+  institution: ALSALAM BANK
+  city: KHARTOUM
+  branch: ''
+ANRESDKH:
+  institution: ANIMAL RESOURCES BANK
+  city: KHARTOUM
+  branch: ''
+ABEASDKH:
+  institution: ARAB BANK FOR ECONOMIC DEVELOPMENT IN AFRICA (BADEA)
+  city: KHARTOUM
+  branch: ''
+ARABSDKH:
+  institution: ARAB SUDANESE BANK
+  city: KHARTOUM
+  branch: ''
+BAKHSDKH:
+  institution: BANK OF KHARTOUM
+  city: KHARTOUM
+  branch: ''
+BSAHSDKH:
+  institution: BANQUE SAHELO-SAHARIENNE POUR L’INVESTISSEMENT ET LE COMMERCE – SOUDAN
+    BRANCHE – (B.S.I.C.)
+  city: KHARTOUM
+  branch: ''
+BLNISDKH:
+  institution: BLUE NILE MASHREG BANK
+  city: KHARTOUM
+  branch: ''
+BYBASDKH:
+  institution: BYBLOS BANK AFRICA LIMITED
+  city: KHARTOUM
+  branch: ''
+BSDNSDKHHQR:
+  institution: CENTRAL BANK OF SUDAN
+  city: KHARTOUM
+  branch: HEAD QUARTER
+BSDNSDKH:
+  institution: CENTRAL BANK OF SUDAN
+  city: KHARTOUM
+  branch: ''
+ENIDSDKH:
+  institution: EL NILEIN INDUSTRIAL DEVELOPMENT BANK GROUP
+  city: KHARTOUM
+  branch: ''
+GSJBSDKH:
+  institution: ELGAZEERA SUDANESE JORDANIAN BANK
+  city: KHARTOUM
+  branch: ''
+EXPDSDKH:
+  institution: EXPORT DEVELOPMENT BANK
+  city: KHARTOUM
+  branch: ''
+FISBSDKH107:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: AL SAGANAH BRANCH
+FISBSDKH118:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: AL SUK AL ARABI BRANCH
+FISBSDKH116:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: AL SUK AL MAHALI BRANCH
+FISBSDKH110:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: AL SUK AL SHABI KHARTOUM BRANCH
+FISBSDKH122:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: CORPORATE DEPARTMEMT
+FISBSDKH101:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: FAIHA BRANCH
+FISBSDKH102:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: KHARTOUM CENTRAL STATION BRANCH
+FISBSDKH115:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: KHARTOUM NEW INDUSTRIAL AREA BRANCH
+FISBSDKH114:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: KHARTOUM NORTH INDUSTRIAL AREA BRANCH
+FISBSDKH105:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: UNIVERSITY OF KHARTOUM BRANCH
+FISBSDKH:
+  institution: FAISAL ISLAMIC BANK
+  city: KHARTOUM
+  branch: ''
+FISBSDKH121:
+  institution: FAISAL ISLAMIC BANK
+  city: OMDURMAN
+  branch: OMDURMAN BRANCH
+FISBSDKH401:
+  institution: FAISAL ISLAMIC BANK
+  city: PORT SUDAN
+  branch: PORTSUDAN BRANCH
+FARCSDKH:
+  institution: FARMERS COMMERCIAL BANK
+  city: KHARTOUM
+  branch: ''
+FITBSDKH:
+  institution: FINANCIAL INVESTMENT BANK
+  city: KHARTOUM
+  branch: ''
+IVOBSDKH:
+  institution: IVORY BANK
+  city: KHARTOUM
+  branch: ''
+NBADSDKHAMR:
+  institution: NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH
+  city: KHARTOUM
+  branch: AMARAT BRANCH
+NBADSDKH:
+  institution: NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH
+  city: KHARTOUM
+  branch: ''
+NBEKSDKH:
+  institution: NATIONAL BANK OF EGYPT (KHARTOUM)
+  city: KHARTOUM
+  branch: ''
+NBSUSDKH:
+  institution: NATIONAL BANK OF SUDAN
+  city: KHARTOUM
+  branch: ''
+OMDBSDKH:
+  institution: OMDURMAN NATIONAL BANK
+  city: KHARTOUM
+  branch: ''
+QIBSSDKH:
+  institution: QATAR ISLAMIC BANK SUDAN BRANCH
+  city: KHARTOUM
+  branch: ''
+QNBASDKH:
+  institution: QATAR NATIONAL BANK
+  city: KHARTOUM
+  branch: ''
+CRETSDKH:
+  institution: REAL ESTATE COMMERCIAL BANK
+  city: KHARTOUM
+  branch: ''
+SAUSSDKH:
+  institution: SAUDI SUDANESE BANK
+  city: KHARTOUM
+  branch: ''
+SSODSDKH:
+  institution: SAVINGS AND SOCIAL DEVELOPMENT BANK
+  city: KHARTOUM
+  branch: ''
+SUEGSDKH:
+  institution: SUDANESE EGYPTIAN BANK
+  city: KHARTOUM
+  branch: ''
+SUFRSDKH:
+  institution: SUDANESE FRENCH BANK
+  city: KHARTOUM
+  branch: ''
+SEIBSDKH:
+  institution: SUDANESE ISLAMIC BANK
+  city: KHARTOUM
+  branch: ''
+TISBSDKH:
+  institution: TADAMON ISLAMIC BANK
+  city: KHARTOUM
+  branch: ''
+INSDSDKH:
+  institution: THE INDUSTRIAL DEVELOPMENT BANK-SUDAN
+  city: KHARTOUM
+  branch: ''
+CBSKSDKH:
+  institution: UNITED CAPITAL BANK
+  city: KHARTOUM
+  branch: ''
+WONTSDKH:
+  institution: WORKERS NATIONAL BANK
+  city: KHARTOUM
+  branch: ''

@@ -1,0 +1,141 @@
+---
+ABANSI2X:
+  institution: ABANKA VIPA D.D.
+  city: LJUBLJANA
+  branch: ''
+BSLJSI2XCCB:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: CCBM
+BSLJSI2XB2B:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: PORAVNAVA STEP2 MPEDD – STORITEV B2B
+BSLJSI2XCOR:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: PORAVNAVA STEP2 MPEDD – STORITEV CORE
+BSLJSI2XEUX:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: TARGET
+BSLJSI2X:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: ''
+BSLJSI2XIND:
+  institution: BANK OF SLOVENIA
+  city: LJUBLJANA
+  branch: ''
+SBCESI2X:
+  institution: BANKA CELJE D.D.
+  city: CELJE
+  branch: ''
+BAKOSI2XIBO:
+  institution: BANKA KOPER D.D.
+  city: KOPER
+  branch: IBOS CODE
+BAKOSI2X:
+  institution: BANKA KOPER D.D.
+  city: KOPER
+  branch: ''
+KSPKSI22:
+  institution: BANKA SPARKASSE D.D.
+  city: LJUBLJANA
+  branch: ''
+BFKKSI22:
+  institution: BKS BANK AG, BANCNA PODRUZNICA
+  city: LJUBLJANA
+  branch: ''
+KDDSSI22:
+  institution: CENTRAL SECURITIES CLEARING CORPORATION – KDD
+  city: LJUBLJANA
+  branch: ''
+HDELSI22:
+  institution: DELAVSKA HRANILNICA D.D. LJUBLJANA
+  city: LJUBLJANA
+  branch: ''
+SZKBSI2X:
+  institution: DEZELNA BANKA SLOVENIJE D.D.
+  city: LJUBLJANA
+  branch: ''
+FCTBSI2X:
+  institution: FACTOR BANKA D.D.
+  city: LJUBLJANA
+  branch: ''
+GORESI2X:
+  institution: GORENJSKA BANKA D.D., KRANJ
+  city: KRANJ
+  branch: ''
+HLONSI22:
+  institution: HRANILNICA LON D.D.
+  city: KRANJ
+  branch: ''
+HKVISI22:
+  institution: HRANILNICA VIPAVA D.D.
+  city: VIPAVA
+  branch: ''
+HAABSI22:
+  institution: HYPO ALPE-ADRIA-BANK D.D.
+  city: LJUBLJANA
+  branch: ''
+KBMASI2X:
+  institution: NOVA KREDITNA BANKA MARIBOR D.D.
+  city: MARIBOR
+  branch: ''
+LJBASI2X:
+  institution: NOVA LJUBLJANSKA BANKA D.D.
+  city: LJUBLJANA
+  branch: ''
+PBSLSI22:
+  institution: POSTNA BANKA SLOVENIJE D.D.
+  city: MARIBOR
+  branch: ''
+PROBSI2XCEL:
+  institution: PROBANKA D.D. MARIBOR
+  city: CELJE
+  branch: BRANCH CELJE
+PROBSI2XKOP:
+  institution: PROBANKA D.D. MARIBOR
+  city: KOPER
+  branch: KOPER BRANCH
+PROBSI2XKRA:
+  institution: PROBANKA D.D. MARIBOR
+  city: KRANJ
+  branch: BRANCH KRANJ
+PROBSI2XLJU:
+  institution: PROBANKA D.D. MARIBOR
+  city: LJUBLJANA
+  branch: LJUBLJANA BRANCH
+PROBSI2X:
+  institution: PROBANKA D.D. MARIBOR
+  city: MARIBOR
+  branch: ''
+PROBSI2XSLG:
+  institution: PROBANKA D.D. MARIBOR
+  city: SLOVENJ GRADEC
+  branch: SLOVENJ GRADEC BRANCH
+KREKSI22:
+  institution: RAIFFEISEN BANKA D.D.
+  city: MARIBOR
+  branch: ''
+SABRSI2X:
+  institution: SBERBANK BANKA D.D.
+  city: LJUBLJANA
+  branch: ''
+SIDRSI22:
+  institution: SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA
+  city: LJUBLJANA
+  branch: ''
+SKBASI2X:
+  institution: SKB BANKA D.D.
+  city: LJUBLJANA
+  branch: ''
+BACXSI22:
+  institution: UNICREDIT BANKA SLOVENIJA D.D.
+  city: LJUBLJANA
+  branch: ''
+VSGKSI22:
+  institution: ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA
+  city: LJUBLJANA
+  branch: ''

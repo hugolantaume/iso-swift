@@ -1,0 +1,145 @@
+---
+BANIBOLXCBB:
+  institution: BANCO BISA S.A.
+  city: COCHABAMBA
+  branch: ''
+BANIBOLX:
+  institution: BANCO BISA S.A.
+  city: LA PAZ
+  branch: ''
+BANIBOLXSCZ:
+  institution: BANCO BISA S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+BCEBBOLP:
+  institution: BANCO CENTRAL DE BOLIVIA
+  city: LA PAZ
+  branch: ''
+BCPLBOLXCBB:
+  institution: BANCO DE CREDITO DE BOLIVIA S.A.
+  city: COCHABAMBA
+  branch: ''
+BCPLBOLX:
+  institution: BANCO DE CREDITO DE BOLIVIA S.A.
+  city: LA PAZ
+  branch: ''
+BCPLBOLXSCZ:
+  institution: BANCO DE CREDITO DE BOLIVIA S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+NACNBOLP:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+BRASBOLX:
+  institution: BANCO DO BRASIL S.A.
+  city: LA PAZ
+  branch: ''
+BOEOBO22CBB:
+  institution: BANCO ECONOMICO S.A.
+  city: COCHABAMBA
+  branch: COCHABAMBA BRANCH
+BOEOBO22LPZ:
+  institution: BANCO ECONOMICO S.A.
+  city: LA PAZ
+  branch: LA PAZ BRANCH
+BOEOBO22SCZ:
+  institution: BANCO ECONOMICO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: SANTA CRUZ BRANCH
+BOEOBO22:
+  institution: BANCO ECONOMICO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+BOEOBO22BEC:
+  institution: BANCO ECONOMICO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+GNDRBO22:
+  institution: BANCO GANADERO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+GNDRBO22CMI:
+  institution: BANCO GANADERO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+GNDRBO22FIT:
+  institution: BANCO GANADERO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+GNDRBO22GEB:
+  institution: BANCO GANADERO S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+PRCBBO22:
+  institution: BANCO LOS ANDES PROCREDIT
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+MERBBOLXCBB:
+  institution: BANCO MERCANTIL SANTA CRUZ S.A.
+  city: COCHABAMBA
+  branch: ''
+MERBBOLX:
+  institution: BANCO MERCANTIL SANTA CRUZ S.A.
+  city: LA PAZ
+  branch: ''
+MERBBOLXSCZ:
+  institution: BANCO MERCANTIL SANTA CRUZ S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''
+BNBOBOLXCBB:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: COCHABAMBA
+  branch: DEPARTAMENTO INTERNACIONAL
+BNBOBOLXLPZ:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: LA PAZ
+  branch: DPTO. INTERNACIONAL
+BNBOBOLXTES:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: LA PAZ
+  branch: TRESORERIA
+BNBOBOLX:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: LA PAZ
+  branch: ''
+BNBOBOLXORU:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: ORURO
+  branch: DEPARTAMENTO INTERNACIONAL
+BNBOBOLXPOI:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: POTOSI
+  branch: DEPARTAMENTO INTERNACIONAL
+BNBOBOLXSCZ:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: SANTA CRUZ DE LA SIERRA
+  branch: DPTO. INTERNACIONAL
+BNBOBOLXSRE:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: SUCRE
+  branch: DEPARTAMENTO INTERNACIONAL
+BNBOBOLXTJA:
+  institution: BANCO NACIONAL DE BOLIVIA
+  city: TARIJA
+  branch: DEPARTAMENTO INTERNACIONAL
+BSOLBOLP:
+  institution: BANCO SOLIDARIO S.A.
+  city: LA PAZ
+  branch: ''
+BAUNBO22CBB:
+  institution: BANCO UNION S.A.
+  city: COCHABAMBA
+  branch: SUCURSAL COCHABAMBA
+BAUNBO22LPZ:
+  institution: BANCO UNION S.A.
+  city: LA PAZ
+  branch: SUCURSAL LA PAZ
+BAUNBO22SCZ:
+  institution: BANCO UNION S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: SUCURSAL SANTA CRUZ
+BAUNBO22:
+  institution: BANCO UNION S.A.
+  city: SANTA CRUZ DE LA SIERRA
+  branch: ''

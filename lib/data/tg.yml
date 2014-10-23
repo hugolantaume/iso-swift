@@ -1,0 +1,102 @@
+---
+ATTGTGTG:
+  institution: BANQUE ATLANTIQUE TOGO
+  city: LOME
+  branch: ''
+BCAOTGTGKAR:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: KARA
+  branch: KARA BRANCH
+BCAOTGTG:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: LOME
+  branch: ''
+BILTTGTG:
+  institution: BANQUE INTERNATIONALE POUR LAFRIQUE AU TOGO
+  city: LOME
+  branch: ''
+BOADTGTG:
+  institution: BANQUE OUEST AFRICAINE DE DEVELOPPEMENT (BOAD)
+  city: LOME
+  branch: ''
+BPECTGTG:
+  institution: BANQUE POPULAIRE POUR LEPARGNE ET LE CREDIT (FORMERLY CAISSE DEPARGNE
+    DU TOGO)
+  city: LOME
+  branch: ''
+BRSWTGTG:
+  institution: BANQUE REGIONALE DE SOLIDARITE TOGO
+  city: LOME
+  branch: ''
+BTDETGTG:
+  institution: BANQUE TOGOLAISE DE DEVELOPPEMENT
+  city: LOME
+  branch: ''
+BTCITGTG:
+  institution: BANQUE TOGOLAISE POUR LE COMMERCE ET LINDUSTRIE
+  city: LOME
+  branch: ''
+BSAHTGTG:
+  institution: BSIC TOGO SA
+  city: LOME
+  branch: ''
+DBLNTGTG:
+  institution: DIAMONDBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTGEPI:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: EPROCESS INT.
+ECOCTGTGETI:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ETI DEPARTMENT
+ECOCTGTGWPS:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: SOAPI/WAIPS
+ECOCTGTG:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTX:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTU:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTS:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTA:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+ECOCTGTGBID:
+  institution: ECOBANK TOGO
+  city: LOME
+  branch: ''
+EBIDTGTG:
+  institution: ECOWAS BANK FOR INVESTMENT AND DEVELOPMENT
+  city: LOME
+  branch: ''
+FIBTTGTG:
+  institution: ORABANK TOGO
+  city: LOME
+  branch: ''
+ORBKTGTG:
+  institution: ORABANK TOGO
+  city: LOME
+  branch: ''
+SIABTGTG:
+  institution: SOCIETE INTER AFRICAINE DE BANQUE
+  city: LOME
+  branch: ''
+UNTBTGTG:
+  institution: UNION TOGOLAISE DE BANQUE
+  city: LOME
+  branch: ''

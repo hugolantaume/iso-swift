@@ -1,0 +1,54 @@
+---
+AFRINENI:
+  institution: BANK OF AFRICA NIGER
+  city: NIAMEY
+  branch: ''
+BANENENI:
+  institution: BANQUE AGRICOLE DU NIGER
+  city: NIAMEY
+  branch: ''
+ATNENENI:
+  institution: BANQUE ATLANTIQUE NIGER
+  city: NIAMEY
+  branch: ''
+BCAONENIMAR:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE ET DE LOUEST
+  city: MARADI
+  branch: MARADI BRANCH
+BCAONENI:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE ET DE LOUEST
+  city: NIAMEY
+  branch: ''
+BCAONENIZIN:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE ET DE LOUEST
+  city: ZINDER
+  branch: ZINDER BRANCH
+BCDNNENI:
+  institution: BANQUE COMMERCIALE DU NIGER
+  city: NIAMEY
+  branch: ''
+BIANNENI:
+  institution: BANQUE INTERNATIONALE POUR LAFRIQUE AU NIGER
+  city: NIAMEY
+  branch: ''
+BICVNENI:
+  institution: BANQUE ISLAMIQUE DU NIGER POUR LE COMMERCE ET LINVESTISSEMENT
+  city: NIAMEY
+  branch: ''
+BRSWNENI:
+  institution: BANQUE REGIONALE DE SOLIDARITE NIGER
+  city: NIAMEY
+  branch: ''
+BSAHNENI:
+  institution: BANQUE SAHELO SAHARIENNE POUR LINVESTISSEMENT ET LE COMMERCE (NIGER)
+    S.A.
+  city: NIAMEY
+  branch: ''
+ECOCNENI:
+  institution: ECOBANK NIGER ECN
+  city: NIAMEY
+  branch: ''
+SOCNNENI:
+  institution: SOCIETE NIGERIENNE DE BANQUE
+  city: NIAMEY
+  branch: ''

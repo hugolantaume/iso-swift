@@ -1,0 +1,214 @@
+---
+ARTTCZPP:
+  institution: ARTESA SPORITELNI DRUZSTVO
+  city: PRAGUE
+  branch: ''
+BOTKCZPP:
+  institution: BANK OF TOKYO MITSUBISHI UFJ (HOLLAND) N.V. PRAGUE BRANCH
+  city: PRAGUE
+  branch: ''
+GEBACZPP:
+  institution: BNP PARIBAS FORTIS SA/NV POBOCKA CESKA REPUBLIKA
+  city: PRAGUE
+  branch: ''
+BREXCZPP:
+  institution: BRE BANK S.A. ORGANIZACNI SLOZKA PODNIKU
+  city: PRAGUE
+  branch: ''
+UNIYCZPP:
+  institution: CENTRALNI DEPOZITAR CENNYCH PAPIRU A.S.
+  city: PRAGUE
+  branch: ''
+CNBACZPP:
+  institution: CESKA NARODNI BANKA
+  city: PRAGUE
+  branch: ''
+GIBACZPX:
+  institution: CESKA SPORITELNA A.S.
+  city: PRAGUE
+  branch: ''
+CEKOCZPP:
+  institution: CESKOSLOVENSKA OBCHODNI BANKA A.S.
+  city: PRAGUE
+  branch: HEAD OFFICE
+CITFCZPP:
+  institution: CITFIN SPORITELNI DRUZSTVO
+  city: PRAGUE
+  branch: ''
+CITICZPXTRD:
+  institution: CITIBANK EUROPE PLC ORGANIZACNI SLOZKA
+  city: PRAGUE
+  branch: TRADE SERVICES DEPT.
+CITICZPX:
+  institution: CITIBANK EUROPE PLC ORGANIZACNI SLOZKA
+  city: PRAGUE
+  branch: ''
+COBACZPX:
+  institution: COMMERZBANK AG
+  city: PRAGUE
+  branch: ''
+CZEECZPP:
+  institution: CZECH EXPORT BANK
+  city: PRAGUE
+  branch: ''
+DEUTCZPX:
+  institution: DEUTSCHE BANK AG
+  city: PRAGUE
+  branch: ''
+EQBKCZPP:
+  institution: EQUA BANK A.S.
+  city: PRAGUE
+  branch: ''
+FICHCZPP:
+  institution: EVROPSKO RUSKA BANKA A.S.
+  city: PRAGUE
+  branch: ''
+FIOBCZPP:
+  institution: FIO BANKA A.S.
+  city: PRAGUE
+  branch: ''
+AGBACZPP:
+  institution: GE MONEY BANK A.S.(FORMERLY GE CAPITAL BANK A.S.)
+  city: PRAGUE
+  branch: ''
+MIDLCZPPSDD:
+  institution: HSBC BANK PLC
+  city: PRAGUE
+  branch: SEPA DIRECT DEBITS
+MIDLCZPP:
+  institution: HSBC BANK PLC
+  city: PRAGUE
+  branch: ''
+INGBCZPP:
+  institution: ING BANK N.V.
+  city: PRAGUE
+  branch: ''
+JTBPCZPP:
+  institution: J AND T BANKA A.S.
+  city: PRAGUE
+  branch: ''
+CHASCZPX:
+  institution: J.P. MORGAN ENERGY EUROPE S.R.O.
+  city: PRAGUE
+  branch: ''
+KOMBCZPP:
+  institution: KOMERCNI BANKA A.S.
+  city: PRAGUE
+  branch: ''
+SOLACZPP:
+  institution: LBBW BANK CZ A.S.
+  city: PRAGUE
+  branch: ''
+MPUBCZPP:
+  institution: MORAVSKY PENEZNI USTAV SPORITELNI DRUZSTVO
+  city: PRAGUE
+  branch: ''
+OBKLCZ2XBRN:
+  institution: OBERBANK AG
+  city: BRNO
+  branch: ''
+OBKLCZ2X:
+  institution: OBERBANK AG
+  city: CESKE BUDEJOVICE
+  branch: ''
+OBKLCZ2XCKR:
+  institution: OBERBANK AG
+  city: CESKY KRUMLOV
+  branch: ''
+OBKLCZ2XHRA:
+  institution: OBERBANK AG
+  city: HRADEC KRALOVE
+  branch: ''
+OBKLCZ2XKLA:
+  institution: OBERBANK AG
+  city: KLADNO
+  branch: ''
+OBKLCZ2XMLA:
+  institution: OBERBANK AG
+  city: MLADA BOLESLAV
+  branch: ''
+OBKLCZ2XOPA:
+  institution: OBERBANK AG
+  city: OPAVA
+  branch: ''
+OBKLCZ2XOST:
+  institution: OBERBANK AG
+  city: OSTRAVA
+  branch: ''
+OBKLCZ2XPAR:
+  institution: OBERBANK AG
+  city: PARDUBICE
+  branch: ''
+OBKLCZ2XPIS:
+  institution: OBERBANK AG
+  city: PISEK
+  branch: ''
+OBKLCZ2XPLZ:
+  institution: OBERBANK AG
+  city: PLZEN
+  branch: ''
+OBKLCZ2XPRA:
+  institution: OBERBANK AG
+  city: PRAGUE
+  branch: ''
+OBKLCZ2XTAB:
+  institution: OBERBANK AG
+  city: TABOR
+  branch: ''
+OBKLCZ2XUST:
+  institution: OBERBANK AG
+  city: USTI NAD LABEM
+  branch: ''
+PIAMCZPP:
+  institution: PIONEER ASSET MANAGEMENT A.S.
+  city: PRAGUE
+  branch: ''
+POBNCZPP:
+  institution: POSTOVA BANKA A.S. POBOCKA CESKA REPUBLIKA
+  city: PRAGUE
+  branch: ''
+PMBPCZPP:
+  institution: PPF BANKA A.S.
+  city: PRAGUE
+  branch: ''
+RZBCCZPP:
+  institution: RAIFFEISENBANK A.S.
+  city: PRAGUE
+  branch: ''
+VBOECZ2X:
+  institution: SBERBANK CZ A.S.
+  city: PRAGUE
+  branch: ''
+ABNACZPP:
+  institution: THE ROYAL BANK OF SCOTLAND PLC CZECH REPUBLIC (FORMERLY KNOWN AS RBS
+    NV)
+  city: PRAGUE
+  branch: ''
+BACXCZPPRET:
+  institution: UNICREDIT BANK CZECH REPUBLIC A.S.
+  city: PRAGUE
+  branch: SECURITIES SETTLEMENT
+BACXCZPP:
+  institution: UNICREDIT BANK CZECH REPUBLIC A.S.
+  city: PRAGUE
+  branch: ''
+SUBACZPP:
+  institution: VSEOBECNA UVEROVA BANKA A.S. BRANCH PRAHA
+  city: PRAGUE
+  branch: ''
+WOODCZPP:
+  institution: WOOD AND COMPANY
+  city: PRAGUE
+  branch: ''
+WPBCCZPP:
+  institution: WPB CAPITAL SPORITELNI DRUZSTVO
+  city: PRAGUE
+  branch: ''
+CTASCZ22:
+  institution: ZALOZNA CREDITAS SPORITELNI DRUZSTVO
+  city: OLOMOUC
+  branch: ''
+ZUNOCZPP:
+  institution: ZUNO BANK AG ORGANIZACNI SLOZKA
+  city: PRAGUE
+  branch: ''

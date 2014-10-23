@@ -1,0 +1,87 @@
+---
+INDULT2X:
+  institution: AB CITADELE BANKAS
+  city: VILNIUS
+  branch: ''
+AGBLLT2X:
+  institution: AB DNB BANKAS
+  city: VILNIUS
+  branch: ''
+UNCRLT22:
+  institution: AS UNICREDIT BANK LIETUVOS SKYRIUS
+  city: VILNIUS
+  branch: ''
+FIBALT22:
+  institution: BANK FINASTA
+  city: VILNIUS
+  branch: ''
+SMPOLT22:
+  institution: DANSKE BANK A/S LITHUANIA BRANCH
+  city: VILNIUS
+  branch: ''
+SMPBLT2X:
+  institution: JSC SMP BANK LITHUANIAN BRANCH
+  city: VILNIUS
+  branch: ''
+LIABLT2XMSD:
+  institution: LIETUVOS BANKAS (BANK OF LITHUANIA)
+  city: VILNIUS
+  branch: PAYMENT SYSTEMS DEPARTMENT
+LIABLT2XCON:
+  institution: LIETUVOS BANKAS (BANK OF LITHUANIA)
+  city: VILNIUS
+  branch: TARGET2 CONTINGENCY
+LIABLT2X:
+  institution: LIETUVOS BANKAS (BANK OF LITHUANIA)
+  city: VILNIUS
+  branch: ''
+CSDLLT22RTG:
+  institution: LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS AB (CENTRAL SECURITIES
+    DEPOSITORY OF LITHUANIA)
+  city: VILNIUS
+  branch: PM
+CSDLLT22:
+  institution: LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS AB (CENTRAL SECURITIES
+    DEPOSITORY OF LITHUANIA)
+  city: VILNIUS
+  branch: ''
+LCKULT22:
+  institution: LITHUANIAN CENTRAL CREDIT UNION
+  city: KAUNAS
+  branch: ''
+NDEALT2X:
+  institution: NORDEA BANK FINLAND PLC LITHUANIA BRANCH
+  city: VILNIUS
+  branch: ''
+OKOYLT2X:
+  institution: POHJOLA BANK PLC LITHUANIAN BRANCH
+  city: VILNIUS
+  branch: ''
+CBVILT2X:
+  institution: SEB BANK
+  city: VILNIUS
+  branch: ''
+CBSBLT26:
+  institution: SIAULIU BANKAS AB
+  city: SIAULIAI
+  branch: ''
+HANDLT2X:
+  institution: SVENSKA HANDELSBANKEN AB
+  city: VILNIUS
+  branch: ''
+HABALT22:
+  institution: SWEDBANK AB
+  city: VILNIUS
+  branch: ''
+UAFFLT22:
+  institution: UAB FMI FINVESTA
+  city: VILNIUS
+  branch: ''
+MDBALT22:
+  institution: UAB MEDICINOS BANKAS
+  city: VILNIUS
+  branch: ''
+UKIOLT2X:
+  institution: UKIO BANKAS
+  city: KAUNAS
+  branch: ''

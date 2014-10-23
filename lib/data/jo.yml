@@ -1,0 +1,357 @@
+---
+RAWIJOAM:
+  institution: ABDUL KAREEM AL-RAWI AND PARTNER EXCHANGE CO
+  city: AMMAN
+  branch: ''
+ABXLJOAA:
+  institution: ABUSHEIKHA EXCHANGE LLC
+  city: AMMAN
+  branch: ''
+NAKHJOAM:
+  institution: AL – NAKHEEL EXCHANGE
+  city: AMMAN
+  branch: ''
+ALEYJOAM:
+  institution: AL ALAMI EXCHANGE COMPANY
+  city: AMMAN
+  branch: ''
+RJHIJOAM:
+  institution: AL RAJHI BANK , JORDAN BRANCH
+  city: AMMAN
+  branch: ''
+ALELJOAM:
+  institution: ALAWNEH EXCHANGE L.L.C
+  city: AMMAN
+  branch: ''
+ARABJOAX133:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: ABDOUN BRANCH
+ARABJOAX119:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: ABDALI BRANCH
+ARABJOAX131:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: ABU ALANDA
+ARABJOAX126:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: AL-JUBEIHA BRANCH
+ARABJOAX501:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: CENTRAL OPERATIONS UNIT-TRADE FINANCE SERVICES
+ARABJOAXCUT:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: CENTRALIZED INWARD TRANSFERS DEPT.
+ARABJOAXTRF:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: CENTRALIZED OUTWARD TRANSFERS DEPT.
+ARABJOAXSLR:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: CENTRALIZED SALARIES UNIT
+ARABJOAX134:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: FIFTH CIRCLE BRANCH
+ARABJOAX128:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: GARDENS BRANCH
+ARABJOAXSEC:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: GENERAL SECRETARIAT DEPARTMENT
+ARABJOAX:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: HEAD OFFICE
+ARABJOAXINT:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: INTERNATIONAL BANKING DIVISION
+ARABJOAX115:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: JABAL AMMAN BRANCH
+ARABJOAX116:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: JABAL HUSSEIN BRANCH
+ARABJOAX113:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: JABAL LUWEIBDEH BRANCH
+ARABJOAX100:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: JORDAN BRANCHES CENTRE
+ARABJOAX111:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: KING FAISAL STREET
+ARABJOAX112:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: MAHATIA STREET BRANCH
+ARABJOAX139:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: MECCA STREET BRANCH
+ARABJOAXOPS:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: OPERATIONS DIVISION
+ARABJOAXPBD:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: PRIVATE BANKING DEPARTMENT 6
+ARABJOAX108:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: QURAYSH STREET BRANCH
+ARABJOAX138:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: RABIA BRANCH
+ARABJOAX118:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: SHMEISANI BRANCH
+ARABJOAX130:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: SUWAIFEYYA BRANCH
+ARABJOAX110:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: SUWEILEH BRANCH
+ARABJOAXTKD:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: TEST KEY DEPARTMENT
+ARABJOAX125:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: UNIVERSITY STREET
+ARABJOAX162:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: WADI SEER BRANCH
+ARABJOAX114:
+  institution: ARAB BANK PLC
+  city: AMMAN
+  branch: WAHDAT BRANCH
+ARABJOAX122:
+  institution: ARAB BANK PLC
+  city: AQABA
+  branch: AQABA BRANCH
+ARABJOAX120:
+  institution: ARAB BANK PLC
+  city: IRBID
+  branch: IRBID BRANCH
+ARABJOAX107:
+  institution: ARAB BANK PLC
+  city: JERASH
+  branch: JERASH BRANCH
+ARABJOAX102:
+  institution: ARAB BANK PLC
+  city: KARAK
+  branch: KARAK BRANCH
+ARABJOAX104:
+  institution: ARAB BANK PLC
+  city: MAFRAQ
+  branch: MAFRAQ BRANCH
+ARABJOAX117:
+  institution: ARAB BANK PLC
+  city: MARQA
+  branch: MARQA BRANCH
+ARABJOAX105:
+  institution: ARAB BANK PLC
+  city: RUSSEIFA
+  branch: RUSSEIFA BRANCH
+ARABJOAX161:
+  institution: ARAB BANK PLC
+  city: SAHAB
+  branch: SAHAB INDUSTRIAL CITY
+ARABJOAXDLR:
+  institution: ARAB BANK PLC
+  city: SHMEISANI
+  branch: DEALING ROOM
+ARABJOAX121:
+  institution: ARAB BANK PLC
+  city: ZERKA
+  branch: ZERQA BRANCH
+ABCJJOAM:
+  institution: ARAB BANKING CORPORATION (JORDAN)
+  city: AMMAN
+  branch: ''
+AJIBJOAX:
+  institution: ARAB JORDAN INVESTMENT BANK
+  city: AMMAN
+  branch: ''
+BAEXJOAM:
+  institution: BAGHDAD EXCHANGE CO.
+  city: AMMAN
+  branch: ''
+UBSIJOAX:
+  institution: BANK ALETIHAD
+  city: AMMAN
+  branch: ''
+AUDBJOAM:
+  institution: BANK AUDI SAL – AUDI SARADAR GROUP – JORDAN BRANCHES
+  city: AMMAN
+  branch: ''
+BJORJOAX:
+  institution: BANK OF JORDAN PLC
+  city: AMMAN
+  branch: ''
+BLOMJOAM:
+  institution: BLOM BANK S.A.L.
+  city: AMMAN
+  branch: ''
+CAABJOAM:
+  institution: CAIRO AMMAN BANK
+  city: AMMAN
+  branch: ''
+EFBKJOAM:
+  institution: CAPITAL BANK OF JORDAN
+  city: AMMAN
+  branch: ''
+CBJOJOAX:
+  institution: CENTRAL BANK OF JORDAN
+  city: AMMAN
+  branch: ''
+CBJOJOAX02A:
+  institution: CENTRAL BANK OF JORDAN
+  city: AQABA
+  branch: AQABA BRANCH
+CBJOJOAX021:
+  institution: CENTRAL BANK OF JORDAN
+  city: IRBID
+  branch: IRBID BRANCH
+CITIJOAX:
+  institution: CITIBANK N.A.
+  city: AMMAN
+  branch: ''
+ARLBJOAM:
+  institution: EGYPTIAN ARAB LAND BANK
+  city: AMMAN
+  branch: ''
+FUEXJOAM:
+  institution: FUTURE EXCHANGE CO., LTD.
+  city: AMMAN
+  branch: ''
+HBHOJOAX:
+  institution: HOUSING BANK FOR TRADE AND FINANCE, THE
+  city: AMMAN
+  branch: ''
+BBMEJOAX:
+  institution: HSBC BANK MIDDLE EAST
+  city: AMMAN
+  branch: ''
+JIFBJOAM:
+  institution: INVESTBANK
+  city: AMMAN
+  branch: ''
+IIBAJOAMJBC:
+  institution: ISLAMIC INTERNATIONAL ARAB BANK
+  city: AMMAN
+  branch: CENTRAL OPERATIONS DEPARTMENT/ BACK OFFICE
+IIBAJOAM100:
+  institution: ISLAMIC INTERNATIONAL ARAB BANK
+  city: AMMAN
+  branch: CENTRAL OPERATIONS DEPARTMENT/ LCS
+IIBAJOAM300:
+  institution: ISLAMIC INTERNATIONAL ARAB BANK
+  city: AMMAN
+  branch: CENTRAL OPERATIONS DEPARTMENT/ LGS AND BCS
+IIBAJOAM200:
+  institution: ISLAMIC INTERNATIONAL ARAB BANK
+  city: AMMAN
+  branch: CENTRAL OPERATIONS DEPARTMENT/ TRANSFERS
+IIBAJOAM:
+  institution: ISLAMIC INTERNATIONAL ARAB BANK
+  city: AMMAN
+  branch: ''
+JONBJOAX:
+  institution: JORDAN AHLI BANK PLC
+  city: AMMAN
+  branch: JORDAN BRANCHES MANAGEMENT
+JGBAJOAM:
+  institution: JORDAN COMMERCIAL BANK
+  city: AMMAN
+  branch: ''
+JDIBJOAM:
+  institution: JORDAN DUBAI ISLAMIC BANK
+  city: AMMAN
+  branch: ''
+JIBAJOAM111:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: AL-HUSSEIN BRANCH
+JIBAJOAM113:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: AL-YARMOUK STREET BRANCH
+JIBAJOAM110:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: AMMAN BRANCH
+JIBAJOAM115:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: H.O.
+JIBAJOAM112:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: SAQF EL-SAIL BRANCH
+JIBAJOAM114:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: WASFI-AL-TEL STREET BRANCH
+JIBAJOAM:
+  institution: JORDAN ISLAMIC BANK
+  city: AMMAN
+  branch: ''
+JKBAJOAM:
+  institution: JORDAN KUWAIT BANK
+  city: AMMAN
+  branch: ''
+MAKSJOAX:
+  institution: KAMAL EXCHANGE CO L.L.C
+  city: AMMAN
+  branch: ''
+HUDAJOAM:
+  institution: KAMIRAN ALI AND PARTNER EXCHANGE CO
+  city: AMMAN
+  branch: ''
+KHHWJOAM:
+  institution: KHALED HASAN, HADI WASHAKA, AND MUWAFFAQ ABDEL JALEEL EXCHANGE CO.
+  city: AMMAN
+  branch: ''
+NBADJOAMTFO:
+  institution: NATIONAL BANK OF ABU DHABI
+  city: AMMAN
+  branch: TRADE FINANCE DEPARTMENT
+NBADJOAM:
+  institution: NATIONAL BANK OF ABU DHABI
+  city: AMMAN
+  branch: ''
+NBOKJOAM:
+  institution: NATIONAL BANK OF KUWAIT
+  city: AMMAN
+  branch: ''
+SGMEJOAM:
+  institution: SOCIETE GENERALE DE BANQUE – JORDANIE
+  city: AMMAN
+  branch: ''
+SCBLJOAX:
+  institution: STANDARD CHARTERED BANK
+  city: AMMAN
+  branch: ''

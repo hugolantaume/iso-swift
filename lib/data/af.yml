@@ -1,0 +1,73 @@
+---
+AFGUAFKA:
+  institution: AFGHAN UNITED BANK
+  city: KABUL
+  branch: ''
+TBAAAFKA:
+  institution: AFGHANISTAN COMMERCIAL BANK
+  city: KABUL
+  branch: ''
+AFIBAFKA:
+  institution: AFGHANISTAN INTERNATIONAL BANK
+  city: KABUL
+  branch: ''
+AZBAAFKA:
+  institution: AZIZI BANK
+  city: KABUL
+  branch: ''
+BKRBAFKA:
+  institution: BAKHTAR BANK
+  city: KABUL
+  branch: ''
+ALFHAFKA803:
+  institution: BANK ALFALAH LIMITED (AFGHANISTAN – KABUL BRANCH)
+  city: HERAT
+  branch: AFGHANISTAN – HERAT BRANCH
+ALFHAFKA:
+  institution: BANK ALFALAH LIMITED (AFGHANISTAN – KABUL BRANCH)
+  city: KABUL
+  branch: ''
+BMAFAFKA:
+  institution: BANKE MILLIE AFGHAN
+  city: KABUL
+  branch: ''
+AFGBAFKA:
+  institution: DA AFGHANISTAN BANK
+  city: KABUL
+  branch: ''
+FMFBAFKA:
+  institution: FIRST MICROFINANCE BANK LTD., THE
+  city: KABUL
+  branch: SHASH DARAK KABUL BRANCH
+GHBKAFKA:
+  institution: GHAZANFAR BANK
+  city: KABUL
+  branch: ''
+GHBKAFKAISW:
+  institution: GHAZANFAR BANK
+  city: KABUL
+  branch: ''
+HABBAFKA:
+  institution: HABIB BANK LIMITED
+  city: KABUL
+  branch: ''
+KABUAFKA:
+  institution: KABUL BANK
+  city: KABUL
+  branch: ''
+MWBKAFKA:
+  institution: MAIWAND BANK
+  city: KABUL
+  branch: ''
+NBPAAFKA:
+  institution: NATIONAL BANK OF PAKISTAN, KABUL BRANCH
+  city: KABUL
+  branch: ''
+PIBAAFKA:
+  institution: PASHTANY BANK
+  city: KABUL
+  branch: ''
+PUNBAFKA:
+  institution: PUNJAB NATIONAL BANK
+  city: KABUL
+  branch: ''

@@ -1,0 +1,49 @@
+---
+ABMGMGMG:
+  institution: ACCESBANQUE MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+AFRIMGMG:
+  institution: BANK OF AFRICA MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+REPUMGMGRTG:
+  institution: BANQUE CENTRALE DE MADAGASCAR
+  city: ANTANANARIVO
+  branch: RTGS BACKUP LINE
+REPUMGMG:
+  institution: BANQUE CENTRALE DE MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+BICMMGMG:
+  institution: BANQUE INDUSTRIELLE ET COMMERCIALE DE MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+BMOIMGMG:
+  institution: BANQUE MALGACHE DE LOCEAN INDIEN
+  city: ANTANANARIVO
+  branch: ''
+BSBMMGMG:
+  institution: BANQUE SBM MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+BFAVMGMG:
+  institution: BFV SOCIETE GENERALE
+  city: ANTANANARIVO
+  branch: ''
+BGFIMGMG:
+  institution: BGFIBANK MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+BAIMMGMG:
+  institution: BM MADAGASCAR S.A
+  city: ANTANANARIVO
+  branch: ''
+CLMDMGMG:
+  institution: BNI MADAGASCAR
+  city: ANTANANARIVO
+  branch: ''
+MCBLMGMG:
+  institution: THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA
+  city: ANTANANARIVO
+  branch: ''

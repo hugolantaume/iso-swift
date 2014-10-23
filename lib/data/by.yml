@@ -1,0 +1,177 @@
+---
+ABLTBY22240:
+  institution: ABSOLUTBANK, JOINT-STOCK COMPANY
+  city: MINSK
+  branch: MINSK BRANCH 1/01
+ABLTBY22:
+  institution: ABSOLUTBANK, JOINT-STOCK COMPANY
+  city: MINSK
+  branch: ''
+ALFABY2X:
+  institution: ALFA-BANK
+  city: MINSK
+  branch: ''
+BELBBY2X:
+  institution: BANK BELVEB OJSC
+  city: MINSK
+  branch: ''
+AKBBBY2X:
+  institution: BELARUSBANK
+  city: MINSK
+  branch: ''
+BBSBBY2X:
+  institution: BELARUSIAN BANK FOR SMALL BUSINESS
+  city: MINSK
+  branch: ''
+BLNBBY2X:
+  institution: BELARUSKY NARODNY BANK
+  city: MINSK
+  branch: ''
+BLBBBY2XBRD:
+  institution: BELINVESTBANK JSC
+  city: BREST
+  branch: BREST REGIONAL DIRECTORATE
+BLBBBY2XGOM:
+  institution: BELINVESTBANK JSC
+  city: GOMEL
+  branch: GOMEL REGIONAL DIRECTORATE
+BLBBBY2XGRD:
+  institution: BELINVESTBANK JSC
+  city: GRODNO
+  branch: GRODNO REGIONAL DIRECTORATE
+BLBBBY2XMRD:
+  institution: BELINVESTBANK JSC
+  city: MINSK
+  branch: BRANCH 537
+BLBBBY2XCBD:
+  institution: BELINVESTBANK JSC
+  city: MINSK
+  branch: BRANCH 539
+BLBBBY2XDIC:
+  institution: BELINVESTBANK JSC
+  city: MINSK
+  branch: BRANCH 540
+BLBBBY2X:
+  institution: BELINVESTBANK JSC
+  city: MINSK
+  branch: ''
+BLBBBY2XMOG:
+  institution: BELINVESTBANK JSC
+  city: MOGILEV
+  branch: MOGILEV REGIONAL DIRECTORATE
+BLBBBY2XVRD:
+  institution: BELINVESTBANK JSC
+  city: VITEBSK
+  branch: VITEBSK REGIONAL BRANCH
+OLMPBY2X:
+  institution: BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK
+  city: MINSK
+  branch: ''
+UNBSBY2X:
+  institution: BELSWISS BANK
+  city: MINSK
+  branch: ''
+BPSBBY2X:
+  institution: BPS-SBERBANK
+  city: MINSK
+  branch: ''
+AEBKBY2X:
+  institution: BTA BANK CJSC
+  city: MINSK
+  branch: ''
+SLANBY22:
+  institution: CJSC VTB BANK (BELARUS)
+  city: MINSK
+  branch: ''
+BITMBY22:
+  institution: CLOSED JOINT STOCK COMPANY ‘BANK OF INVESTMENT TECHNOLOGIES’
+  city: MINSK
+  branch: ''
+ATOMBY2X:
+  institution: DELTA BANK JOINT-STOCK COMPANY
+  city: MINSK
+  branch: ''
+IRJSBY22:
+  institution: EUROTORGINVESTBANK JOINT STOCK COMPANY
+  city: MINSK
+  branch: ''
+GTBNBY22:
+  institution: FRANSABANK OJSC
+  city: MINSK
+  branch: ''
+LOJSBY22:
+  institution: HOME CREDIT BANK
+  city: MINSK
+  branch: ''
+SOMABY22:
+  institution: IDEA BANK
+  city: MINSK
+  branch: ''
+IPBKBY2X:
+  institution: INTERPAYBANK JOINT STOCK COMPANY
+  city: MINSK
+  branch: ''
+TECNBY22:
+  institution: JOINT STOCK COMPANY ‘TECHNOBANK’
+  city: MINSK
+  branch: ''
+BRRBBY2X:
+  institution: JOINT-STOCK COMPANY ‘DEVELOPMENT BANK OF THE REPUBLIC OF BELARUS’
+  city: MINSK
+  branch: ''
+EUBKBY2X:
+  institution: JOINT-STOCK COMPANY ‘EUROBANK’
+  city: MINSK
+  branch: ''
+MTBKBY22:
+  institution: MINSK TRANSIT BANK
+  city: MINSK
+  branch: ''
+NBRBBY2X:
+  institution: NATIONAL BANK OF REPUBLIC BELARUS
+  city: MINSK
+  branch: ''
+POISBY2X:
+  institution: OPEN JOINT-STOCK COMPANY ‘PARITETBANK’, MINSK
+  city: MINSK
+  branch: ''
+PJCBBY2XBRS:
+  institution: PRIORBANK
+  city: BREST
+  branch: BREST BRANCH
+PJCBBY2XGML:
+  institution: PRIORBANK
+  city: GOMEL
+  branch: GOMEL BRANCH
+PJCBBY2XGRD:
+  institution: PRIORBANK
+  city: GRODNO
+  branch: GRODNO BRANCH
+PJCBBY2XMNK:
+  institution: PRIORBANK
+  city: MINSK
+  branch: MINSK BRANCH
+PJCBBY2X:
+  institution: PRIORBANK
+  city: MINSK
+  branch: ''
+PJCBBY2XMGL:
+  institution: PRIORBANK
+  city: MOGILEV
+  branch: MOGILEV BRANCH
+PJCBBY2XVTB:
+  institution: PRIORBANK
+  city: VITEBSK
+  branch: VITEBSK BRANCH
+REDJBY22:
+  institution: RECONVERSION AND DEVELOPMENT BANK JSB
+  city: MINSK
+  branch: ''
+TRUEBY2X:
+  institution: TRUSTBANK
+  city: MINSK
+  branch: ''
+ZEPTBY2X:
+  institution: ZEPTER BANK
+  city: MINSK
+  branch: ''

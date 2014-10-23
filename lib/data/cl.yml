@@ -1,0 +1,173 @@
+---
+BICECLRM:
+  institution: BANCO BICE
+  city: SANTIAGO
+  branch: ''
+BHIFCLRM:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
+  city: SANTIAGO
+  branch: ''
+BCECCLRD:
+  institution: BANCO CENTRAL DE CHILE
+  city: SANTIAGO
+  branch: ''
+BCECCLRF:
+  institution: BANCO CENTRAL DE CHILE
+  city: SANTIAGO
+  branch: ''
+BCECCLRM:
+  institution: BANCO CENTRAL DE CHILE
+  city: SANTIAGO
+  branch: ''
+MNEXCLRM:
+  institution: BANCO CONSORCIO
+  city: SANTIAGO
+  branch: ''
+BCHICLRMEXP:
+  institution: BANCO DE CHILE
+  city: SANTIAGO
+  branch: EXPORT
+BCHICLRMIMP:
+  institution: BANCO DE CHILE
+  city: SANTIAGO
+  branch: IMPORT HEAD OFFICE
+BCHICLRMIOB:
+  institution: BANCO DE CHILE
+  city: SANTIAGO
+  branch: IMPORT OTHER SANTIAGO BRANCHES
+BCHICLRM:
+  institution: BANCO DE CHILE
+  city: SANTIAGO
+  branch: ''
+CITICLRS:
+  institution: BANCO DE CHILE, AS LEGAL SUCCESOR OF CITIBANK CHILE
+  city: SANTIAGO
+  branch: ''
+CREDCLRM:
+  institution: BANCO DE CREDITO E INVERSIONES
+  city: SANTIAGO
+  branch: ''
+NACNCLRM:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SANTIAGO
+  branch: ''
+BECHCLRM:
+  institution: BANCO DEL ESTADO DE CHILE
+  city: SANTIAGO
+  branch: ''
+BRASCLRM:
+  institution: BANCO DO BRASIL S.A.
+  city: SANTIAGO
+  branch: ''
+FALACLRM:
+  institution: BANCO FALABELLA
+  city: SANTIAGO
+  branch: ''
+BICHCLRM:
+  institution: BANCO INTERNACIONAL
+  city: SANTIAGO
+  branch: ''
+ITAUCLRM:
+  institution: BANCO ITAU CHILE
+  city: SANTIAGO
+  branch: ''
+BCNPCLRM:
+  institution: BANCO PARIS
+  city: SANTIAGO
+  branch: ''
+BPENCLRM:
+  institution: BANCO PENTA
+  city: SANTIAGO
+  branch: ''
+RPLYCLRM:
+  institution: BANCO RIPLEY
+  city: SANTIAGO
+  branch: ''
+BSCHCLRM:
+  institution: BANCO SANTANDER CHILE
+  city: SANTIAGO
+  branch: ''
+BSCHCLRMGST:
+  institution: BANCO SANTANDER CHILE
+  city: SANTIAGO
+  branch: ''
+BSCLCLRM:
+  institution: BANCO SECURITY
+  city: SANTIAGO
+  branch: ''
+BOTKCLRM:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: SANTIAGO
+  branch: SANTIAGO BRANCH
+GINACLRM:
+  institution: CASA DE CAMBIOS GUINAZU S.A.
+  city: SANTIAGO
+  branch: ''
+ECCVCLRM:
+  institution: CCLV, CONTRAPARTE CENTRAL S.A.
+  city: SANTIAGO
+  branch: ''
+BPABCLRM:
+  institution: CELFIN CAPITAL S.A. CORREDORES DE BOLSA
+  city: SANTIAGO
+  branch: ''
+PCCACLRM:
+  institution: COMBANC S.A.
+  city: SANTIAGO
+  branch: ''
+CONBCLRM:
+  institution: CORP BANCA
+  city: SANTIAGO
+  branch: ''
+DCVVCLRM:
+  institution: DEPOSITO CENTRAL DE VALORES S.A.
+  city: SANTIAGO
+  branch: ''
+DEUTCLRM:
+  institution: DEUTSCHE BANK (CHILE) S.A.
+  city: SANTIAGO
+  branch: ''
+DNBACLRM:
+  institution: DNB BANK ASA, AGENCIA EN CHILE
+  city: SANTIAGO
+  branch: ''
+FTLNCLRM:
+  institution: FACTORLINE S.A
+  city: SANTIAGO
+  branch: ''
+BLICCLRM:
+  institution: HSBC BANK (CHILE)
+  city: SANTIAGO
+  branch: ''
+CHASCLRMKEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: SANTIAGO
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASCLRM:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: SANTIAGO
+  branch: ''
+RABOCLRM:
+  institution: RABOBANK CHILE
+  city: SANTIAGO
+  branch: ''
+BKSACLRM064:
+  institution: SCOTIABANK CHILE
+  city: ARICA
+  branch: ''
+BKSACLRM068:
+  institution: SCOTIABANK CHILE
+  city: CONCEPCION
+  branch: ''
+BKSACLRM055:
+  institution: SCOTIABANK CHILE
+  city: IQUIQUE
+  branch: ''
+BKSACLRM:
+  institution: SCOTIABANK CHILE
+  city: SANTIAGO
+  branch: ''
+BKSACLRM061:
+  institution: SCOTIABANK CHILE
+  city: VALPARAISO
+  branch: ''

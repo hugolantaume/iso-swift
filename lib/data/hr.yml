@@ -1,0 +1,249 @@
+---
+BPCRHR22:
+  institution: BANCO POPOLARE CROATIA D.D.
+  city: ZAGREB
+  branch: ''
+SKOVHR22:
+  institution: BANKA KOVANICA D.D.
+  city: VARAZDIN
+  branch: ''
+DALMHR22:
+  institution: BANKA SPLITSKO DALMATINSKA D.D.
+  city: SPLIT
+  branch: ''
+BFKKHR22:
+  institution: BKS BANK D.D.
+  city: RIJEKA
+  branch: ''
+CBZGHR2X:
+  institution: CENTAR BANKA D.D.
+  city: ZAGREB
+  branch: ''
+CROAHR2X:
+  institution: CROATIA BANKA D.D.
+  city: ZAGREB
+  branch: ''
+HKBOHR2X:
+  institution: CROATIAN BANK FOR RECONSTRUCTION AND DEVELOPMENT/HBOR/
+  city: ZAGREB
+  branch: ''
+ESBCHR22:
+  institution: ERSTE AND STEIERMAERKISCHE BANK D.D.
+  city: RIJEKA
+  branch: ''
+FNAGHR22:
+  institution: FINANCIJSKA AGENCIJA
+  city: ZAGREB
+  branch: ''
+NBHRHR2D:
+  institution: HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)
+  city: ZAGREB
+  branch: DOMESTIC PAYMENT SYSTEM
+NBHRHR2X:
+  institution: HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)
+  city: ZAGREB
+  branch: ''
+HPBZHR2X:
+  institution: HRVATSKA POSTANSKA BANKA D.D.
+  city: ZAGREB
+  branch: ''
+HAABHR22:
+  institution: HYPO ALPE ADRIA BANK D.D.
+  city: ZAGREB
+  branch: ''
+IMXXHR22:
+  institution: IMEX BANKA LTD.
+  city: SPLIT
+  branch: ''
+INUIHR22:
+  institution: INTERCAPITAL SECURITIES LTD.
+  city: ZAGREB
+  branch: ''
+ISKBHR2X:
+  institution: ISTARSKA KREDITNA BANKA JOINT STOCK COMPANNY
+  city: UMAG
+  branch: ''
+JADRHR2X:
+  institution: JADRANSKA BANKA D.D. SIBENIK
+  city: SIBENIK
+  branch: ''
+KALCHR2X:
+  institution: KARLOVACKA BANKA D.D.
+  city: KARLOVAC
+  branch: ''
+KENBHR22:
+  institution: KENTBANK D.D.
+  city: ZAGREB
+  branch: ''
+KREZHR2X:
+  institution: KREDITNA BANKA ZAGREB D.D.
+  city: ZAGREB
+  branch: ''
+NAVBHR22:
+  institution: NAVA BANKA D.D.ZAGREB
+  city: ZAGREB
+  branch: ''
+OTPVHR2XDUB:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: DUBROVNIK
+  branch: DUBROVNIK
+OTPVHR2XPUL:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: PULA
+  branch: ''
+OTPVHR2XRJK:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: RIJEKA
+  branch: RIJEKA
+OTPVHR2XSIB:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: SIBENIK
+  branch: SIBENIK
+OTPVHR2XSIS:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: SISAK
+  branch: ''
+OTPVHR2XSPL:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: SPLIT
+  branch: ''
+OTPVHR2X:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: ZADAR
+  branch: ''
+OTPVHR2XZAD:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: ZADAR
+  branch: ''
+OTPVHR2XZAG:
+  institution: OTP BANKA HRVATSKA D.D.
+  city: ZAGREB
+  branch: ''
+PAZGHR2X:
+  institution: PARTNER BANKA D.D. ZAGREB
+  city: ZAGREB
+  branch: ''
+PDKCHR2X:
+  institution: PODRAVSKA BANKA D.D.
+  city: KOPRIVNICA
+  branch: ''
+SPRMHR22:
+  institution: PRIMORSKA BANKA D.D RIJEKA
+  city: RIJEKA
+  branch: ''
+PBZGHR2X:
+  institution: PRIVREDNA BANKA ZAGREB D.D.
+  city: ZAGREB
+  branch: ''
+RZBHHR2X:
+  institution: RAIFFEISENBANK AUSTRIA D.D. ZAGREB
+  city: ZAGREB
+  branch: ''
+SMBRHR22:
+  institution: SAMOBORSKA BANKA D.D.
+  city: SAMOBOR
+  branch: ''
+VBCRHR22:
+  institution: SBERBANK D.D.
+  city: ZAGREB
+  branch: ''
+SBSLHR2X:
+  institution: SLATINSKA BANKA DD
+  city: SLATINA
+  branch: ''
+SOGEHR22:
+  institution: SOCIETE GENERALE SPLITSKA BANKA DD
+  city: SPLIT
+  branch: ''
+SDAHHR22:
+  institution: SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.
+  city: ZAGREB
+  branch: ''
+STEDHR22:
+  institution: STEDBANKA D.D.
+  city: ZAGREB
+  branch: ''
+ASBZHR22:
+  institution: TESLA STEDNA BANKA D.D.
+  city: ZAGREB
+  branch: ''
+VBVZHR22:
+  institution: VABA D.D. BANKA VARAZDIN
+  city: VARAZDIN
+  branch: ''
+CCBZHR2X:
+  institution: VENETO BANKA DD
+  city: ZAGREB
+  branch: ''
+ZABAHR2XBJE:
+  institution: ZAGREBACKA BANKA DD
+  city: BJELOVAR
+  branch: BJELOVAR BRANCH
+ZABAHR2XDJU:
+  institution: ZAGREBACKA BANKA DD
+  city: DJURDJEVAC
+  branch: DJURDJEVAC BRANCH
+ZABAHR2XDUB:
+  institution: ZAGREBACKA BANKA DD
+  city: DUBROVNIK
+  branch: DUBROVNIK BRANCH
+ZABAHR2XKRI:
+  institution: ZAGREBACKA BANKA DD
+  city: KRIZEVCI
+  branch: KRIZEVCI BRANCH
+ZABAHR2XMAK:
+  institution: ZAGREBACKA BANKA DD
+  city: MAKARSKA
+  branch: MAKARSKA BRANCH
+ZABAHR2XNOV:
+  institution: ZAGREBACKA BANKA DD
+  city: NOVA GRADISKA
+  branch: NOVA GRADISKA BRANCH
+ZABAHR2XOSI:
+  institution: ZAGREBACKA BANKA DD
+  city: OSIJEK
+  branch: OSIJEK BRANCH
+ZABAHR2XPOR:
+  institution: ZAGREBACKA BANKA DD
+  city: POREC
+  branch: POREC BRANCH
+ZABAHR2XPUL:
+  institution: ZAGREBACKA BANKA DD
+  city: PULA
+  branch: PULA BRANCH
+ZABAHR2XRIJ:
+  institution: ZAGREBACKA BANKA DD
+  city: RIJEKA
+  branch: RIJEKA BRANCH
+ZABAHR2XROV:
+  institution: ZAGREBACKA BANKA DD
+  city: ROVINJ
+  branch: ROVINJ BRANCH
+ZABAHR2XSIB:
+  institution: ZAGREBACKA BANKA DD
+  city: SIBENIK
+  branch: SIBENIK BRANCH
+ZABAHR2XSPL:
+  institution: ZAGREBACKA BANKA DD
+  city: SPLIT
+  branch: SPLIT BRANCH
+ZABAHR2XUMA:
+  institution: ZAGREBACKA BANKA DD
+  city: UMAG
+  branch: UMAG BRANCH
+ZABAHR2XVIR:
+  institution: ZAGREBACKA BANKA DD
+  city: VIROVITICA
+  branch: VIROVITICA BRANCH
+ZABAHR2XZAB:
+  institution: ZAGREBACKA BANKA DD
+  city: ZABOK
+  branch: ZABOK BRANCH
+ZABAHR2XZAD:
+  institution: ZAGREBACKA BANKA DD
+  city: ZADAR
+  branch: ZADAR BRANCH
+ZABAHR2X:
+  institution: ZAGREBACKA BANKA DD
+  city: ZAGREB
+  branch: ''

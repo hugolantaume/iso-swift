@@ -1,0 +1,98 @@
+---
+AFRISNDA:
+  institution: BANK OF AFRICA SENEGAL
+  city: DAKAR
+  branch: ''
+ATSNSNDA:
+  institution: BANQUE ATLANTIQUE SENEGAL
+  city: DAKAR
+  branch: ''
+BCAOSNDA001:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: DAKAR
+  branch: AGENCE NATIONALE
+BCAOSNDA:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: DAKAR
+  branch: ''
+BCAOSNDAKAO:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: KAOLACK
+  branch: KAOLACK BRANCH
+BCAOSNDAZIG:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: ZIGUINCHOR
+  branch: ZIGUINCHOR BRANCH
+BCAOSNDP:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST (B.C.E.A.O.)
+  city: DAKAR
+  branch: ''
+LHSESNDA:
+  institution: BANQUE DE LHABITAT DU SENEGAL
+  city: DAKAR
+  branch: ''
+BIMUSNDA:
+  institution: BANQUE DES INSTITUTIONS MUTUALISTES DAFRIQUE DE LOUEST
+  city: DAKAR
+  branch: ''
+BICISNDX:
+  institution: BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DU SENEGAL
+  city: DAKAR
+  branch: ''
+ISSNSNDA:
+  institution: BANQUE ISLAMIQUE DU SENEGAL
+  city: DAKAR
+  branch: ''
+BRMXSNDA:
+  institution: BANQUE REGIONALE DE MARCHES
+  city: DAKAR
+  branch: ''
+BRSWSNDA:
+  institution: BANQUE REGIONALE DE SOLIDARITE SENEGAL
+  city: DAKAR
+  branch: ''
+BSAHSNDA:
+  institution: BANQUE SAHELO SAHARIENNE POUR LINVESTISSEMENT ET LE COMMERCE (SENEGAL)
+    S.A.
+  city: DAKAR
+  branch: ''
+CADKSNDA:
+  institution: CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (C.N.C.A.S.)
+  city: DAKAR
+  branch: ''
+CITISNDA:
+  institution: CITIBANK N.A.
+  city: DAKAR
+  branch: ''
+CBAOSNDA:
+  institution: COMPAGNIE BANCAIRE DE LAFRIQUE OCCIDENTALE
+  city: DAKAR
+  branch: ''
+BCMASNDA:
+  institution: CREDIT DU SENEGAL
+  city: DAKAR
+  branch: ''
+CLIBSNDA:
+  institution: CREDIT INTERNATIONAL SA
+  city: DAKAR
+  branch: ''
+DBLNSNDA:
+  institution: DIAMONDBANK SENEGAL
+  city: DAKAR
+  branch: ''
+ECOCSNDA:
+  institution: ECOBANK SENEGAL
+  city: DAKAR
+  branch: ''
+ICSGSNDA:
+  institution: INTERNATIONAL COMMERCIAL BANK SENEGAL
+  city: DAKAR
+  branch: ''
+SGSNSNDA:
+  institution: SOCIETE GENERALE DE BANQUES AU SENEGAL
+  city: DAKAR
+  branch: ''
+UNAFSNDA:
+  institution: UNITED BANK FOR AFRICA SENEGAL
+  city: DAKAR
+  branch: ''

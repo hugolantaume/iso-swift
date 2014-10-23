@@ -1,0 +1,213 @@
+---
+HELSFIHH:
+  institution: AKTIA BANK P.L.C.
+  city: HELSINKI
+  branch: ''
+AABAFI22TMS:
+  institution: BANK OF ALAND PLC
+  city: MARIEHAMN
+  branch: TREASURY DEPARTMENT
+AABAFI22:
+  institution: BANK OF ALAND PLC
+  city: MARIEHAMN
+  branch: ''
+CTECFIHH:
+  institution: CARGOTEC OYJ
+  city: HELSINKI
+  branch: ''
+ITELFIHH:
+  institution: CENTRAL BANK OF SAVINGS BANKS FINLAND LTD
+  city: ESPOO
+  branch: ''
+CITIFIHX:
+  institution: CITIBANK INTERNATIONAL PLC FINLAND BRANCH
+  city: HELSINKI
+  branch: ''
+BSUIFIHH:
+  institution: CREDIT AGRICOLE CIB
+  city: HELSINKI
+  branch: ''
+DABAFIHX:
+  institution: DANSKE BANK
+  city: HELSINKI
+  branch: ''
+DABAFIHHCLS:
+  institution: DANSKE BANK PLC
+  city: HELSINKI
+  branch: CLS SERVICES
+DABAFIHHCAP:
+  institution: DANSKE BANK PLC
+  city: HELSINKI
+  branch: DANSKE CAPITAL
+DABAFIHH:
+  institution: DANSKE BANK PLC
+  city: HELSINKI
+  branch: ''
+DNBAFIHX:
+  institution: DNB BANK ASA FILIAL FINLAND
+  city: HELSINKI
+  branch: ''
+EUFXFIHH:
+  institution: EUFEX LTD
+  city: ESPOO
+  branch: ''
+APKEFIHHCLP:
+  institution: EUROCLEAR FINLAND LTD
+  city: HELSINKI
+  branch: CSD COMMUNITY
+APKEFIHHATP:
+  institution: EUROCLEAR FINLAND LTD
+  city: HELSINKI
+  branch: MONEY MARKET SYSTEM
+APKEFIHH:
+  institution: EUROCLEAR FINLAND LTD
+  city: HELSINKI
+  branch: ''
+EVSEFIHHFND:
+  institution: EVLI BANK PLC
+  city: HELSINKI
+  branch: INVESTMENT FUNDS
+EVSEFIHH:
+  institution: EVLI BANK PLC
+  city: HELSINKI
+  branch: ''
+FISEFIHH:
+  institution: FIM BANK LTD
+  city: HELSINKI
+  branch: ''
+CHASFIHH:
+  institution: JPMORGAN EUROPE LIMITED HELSINKI BRANCH
+  city: HELSINKI
+  branch: ''
+MGRPFI22:
+  institution: METSA GROUP FINANCIAL SERVICES
+  city: ESPOO
+  branch: ''
+MTSOFIHH:
+  institution: METSO CORPORATION
+  city: HELSINKI
+  branch: ''
+MUFIFIHH:
+  institution: MUNICIPALITY FINANCE PLC
+  city: HELSINKI
+  branch: ''
+NDEAFIHH030:
+  institution: NORDEA BANK FINLAND PLC
+  city: HELSINKI
+  branch: MARKETS EQUITIES
+NDEAFIHH:
+  institution: NORDEA BANK FINLAND PLC
+  city: HELSINKI
+  branch: ''
+NDEAFIHHTRI:
+  institution: NORDEA BANK FINLAND PLC
+  city: HELSINKI
+  branch: ''
+NDEAFIHHNCL:
+  institution: NORDEA BANK FINLAND PLC
+  city: HELSINKI
+  branch: ''
+NDEAFIHHISA:
+  institution: NORDEA BANK FINLAND PLC
+  city: HELSINKI
+  branch: ''
+NOINFIHH:
+  institution: NORDIC INVESTMENT BANK
+  city: HELSINKI
+  branch: ''
+OPUSFI2H:
+  institution: OPUSCAPITA OY
+  city: ESPOO
+  branch: ''
+OKOYFIHH:
+  institution: POHJOLA PANKKI OYJ (POHJOLA BANK PLC)
+  city: HELSINKI
+  branch: ''
+RMRTFI22:
+  institution: RAMIRENT PLC
+  city: VANTAA
+  branch: ''
+SBANFIHH:
+  institution: S BANK LTD
+  city: HELSINKI
+  branch: ''
+SAWSFIHH:
+  institution: SANOMAWSOY CORPORATION
+  city: HELSINKI
+  branch: ''
+ESSEFIHX:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: HELSINKI
+  branch: ''
+VKSKFIHH:
+  institution: STATE TREASURY
+  city: HELSINKI
+  branch: ''
+SPFBFIHHECB:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: ECB OPERATIONS
+SPFBFIHHEUX:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 NCB/ECB INTERNAL
+SPFBFIHH1A1:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 PMJ-AS DTS
+SPFBFIHHASI:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 PMJ-AS NTS
+SPFBFIHH1A2:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 RAHAHUOLTO
+SPFBFIHHRMA:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 RMA INTERNAL
+SPFBFIHHSFA:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 SFA INTERNAL
+SPFBFIHHSFM:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: TARGET2 SFM INTERNAL
+SPFBFIHH:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: ''
+SPFBFIHHCON:
+  institution: SUOMEN PANKKI FINLANDS BANK
+  city: HELSINKI
+  branch: ''
+HANDFIHHCUS:
+  institution: SVENSKA HANDELSBANKEN
+  city: HELSINKI
+  branch: NORDIC CUSTODY SERVICES
+HANDFIHH:
+  institution: SVENSKA HANDELSBANKEN
+  city: HELSINKI
+  branch: ''
+SWEDFIHH:
+  institution: SWEDBANK AB
+  city: HELSINKI
+  branch: ''
+TAPIFI22AM1:
+  institution: TAPIOLA PANKKI OY
+  city: ESPOO
+  branch: ASSET MANAGEMENT
+TAPIFI22:
+  institution: TAPIOLA PANKKI OY
+  city: TAPIOLA
+  branch: ''
+TICOFIHH:
+  institution: TIETO OYJ
+  city: HELSINKI
+  branch: ''
+UPMKFIHH:
+  institution: UPM KYMMENE CORPORATION
+  city: HELSINKI
+  branch: ''

@@ -1,0 +1,29 @@
+---
+NOSCHTPP:
+  institution: BANK OF NOVA SCOTIA,THE
+  city: PORT AU PRINCE
+  branch: ''
+BRHAHTPP:
+  institution: BANQUE DE LA REPUBLIQUE D’HAITI
+  city: PORT AU PRINCE
+  branch: ''
+BUHEHTPP:
+  institution: BANQUE DE L’UNION HAITIENNE
+  city: PORT AU PRINCE
+  branch: ''
+BNCHHTPP:
+  institution: BANQUE NATIONALE DE CREDIT (BNC)
+  city: PORT AU PRINCE
+  branch: ''
+CPPLHTPP:
+  institution: CAPITAL BANK S.A.
+  city: PORT AU PRINCE
+  branch: ''
+SOGHHTPP:
+  institution: SOCIETE GENERALE HAITIENNE DE BANQUE S.A.
+  city: PORT AU PRINCE
+  branch: ''
+UBNKHTPP:
+  institution: UNIBANK S.A.
+  city: PETION-VILLE
+  branch: ''

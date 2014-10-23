@@ -1,0 +1,309 @@
+---
+AEBAGRAA:
+  institution: AEGEAN BALTIC BANK S.A.
+  city: ATHENS
+  branch: ''
+CRBAGRAA:
+  institution: ALPHA BANK AE
+  city: ATHENS
+  branch: ''
+ATTIGRAA:
+  institution: ATTICA BANK SA
+  city: ATHENS
+  branch: ''
+BOFAGR2X:
+  institution: BANK OF AMERICA, N.A. ATHENS
+  city: ATHENS
+  branch: ''
+BNGRGRAA030:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: ACCOUNTING CONTROL SECTION
+BNGRGRAAACO:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: ATHENS CLEARING OFFICE
+BNGRGRAASSS:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: BOOK ENTRY SECURITIES MANAGEMENT SECTION
+BNGRGRAACCB:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: BOOK ENTRY SECURITIES MANAGEMT SECTION-CORR.CENTRAL BK MODEL SYST
+BNGRGRAA053:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: CASH PROCESSING SECTION
+BNGRGRAA059:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: DATA CONTROL SECTION
+BNGRGRAA042:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: DEPOSIT ACCOUNTS SECTION
+BNGRGRAADIA:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: DIAS-CH
+BNGRGRAA017:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: DOCUMENTARY CREDITS SECTION
+BNGRGRAAEUX:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: ECB ACCOUNT FOR BANK OF GREECE
+BNGRGRAA013:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: FOREIGN EXCHANGE TRANSCACTIONS SECTION
+BNGRGRAA027:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: GOVERNMENT SECURITIES CUSTODY AND MANAGEMENT SECTION
+BNGRGRAAHRM:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: HERMES RTGS SYSTEM
+BNGRGRAACON:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: LARGE-VALUE PAYMENTS SYSTEM MANAGEMENT SECTION
+BNGRGRAA094:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: MONEY MARKETS SECTION
+BNGRGRAAPBS:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: PAYMENTS OF BOOK ENTRY SECURITIES SECTION
+BNGRGRAA012:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: RESERVES MANAGEMENT BACKUP SECTION
+BNGRGRAASCT:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: SEPA CREDIT TRANSFER
+BNGRGRAABR8:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: TGT2 ACCOUNT27, INDIRECT MEMBER
+BNGRGRAABR4:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: TGT2 SAD.BANK INDIRECT MEMBER
+BNGRGRAAFXD:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: TREASURY OPERATIONS SUPPORT SECTION
+BNGRGRAA:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: ''
+BNGRGRAAST2:
+  institution: BANK OF GREECE
+  city: ATHENS
+  branch: ''
+BNGRGRAA121:
+  institution: BANK OF GREECE
+  city: THESSALONIKI
+  branch: THESSALONIKI BRANCH
+BSTDGR2T:
+  institution: BLACK SEA TRADE AND DEVELOPMENT BANK
+  city: THESSALONIKI
+  branch: ''
+PARBGRAX:
+  institution: BNP PARIBAS SECURITIES SERVICES, GREECE
+  city: ATHENS
+  branch: ''
+CITIGRAASEC:
+  institution: CITIBANK INTERNATIONAL PLC – GREEK BRANCH
+  city: ATHENS
+  branch: RESTRICTED USE CITIBANK ATHENS TARGET 2
+CITIGRAA:
+  institution: CITIBANK INTERNATIONAL PLC – GREEK BRANCH
+  city: ATHENS
+  branch: ''
+CITIGRAA731:
+  institution: CITIBANK INTERNATIONAL PLC – GREEK BRANCH
+  city: ATHENS
+  branch: ''
+CITIGRAA732:
+  institution: CITIBANK INTERNATIONAL PLC – GREEK BRANCH
+  city: PIRAEUS
+  branch: ''
+CITIGRAA733:
+  institution: CITIBANK INTERNATIONAL PLC – GREEK BRANCH
+  city: THESSALONIKI
+  branch: ''
+EFGBGRAASEC:
+  institution: EUROBANK ERGASIAS S.A.
+  city: ATHENS
+  branch: CUSTODY FOREIGN INSTITUTIONAL INVESTORS DEPT.
+ERBKGRAASEC:
+  institution: EUROBANK ERGASIAS S.A.
+  city: ATHENS
+  branch: CUSTODY FOREIGN INSTITUTIONAL INVESTORS DEPT.
+EFGBGRAA:
+  institution: EUROBANK ERGASIAS S.A.
+  city: ATHENS
+  branch: ''
+ERBKGRAA:
+  institution: EUROBANK ERGASIAS S.A.
+  city: ATHENS
+  branch: ''
+GPSBGRAA:
+  institution: EUROBANK ERGASIAS SA (FORMER NEW TT HELLENIC POSTBANK SA)
+  city: ATHENS
+  branch: ''
+GHBAGRAA043:
+  institution: GENERAL BANK OF GREECE SA
+  city: AGRINIO
+  branch: ''
+GHBAGRAACBS:
+  institution: GENERAL BANK OF GREECE SA
+  city: ATHENS
+  branch: CUSTODY BONDS SETTLEMENT
+GHBAGRAAGSS:
+  institution: GENERAL BANK OF GREECE SA
+  city: ATHENS
+  branch: CUSTODY DEPT.
+GHBAGRAACTI:
+  institution: GENERAL BANK OF GREECE SA
+  city: ATHENS
+  branch: 'INTERNATIONAL CASH CENTRALIZATION '
+GHBAGRAA:
+  institution: GENERAL BANK OF GREECE SA
+  city: ATHENS
+  branch: ''
+GHBAGRAA062:
+  institution: GENERAL BANK OF GREECE SA
+  city: FLORINA
+  branch: ''
+GHBAGRAA032:
+  institution: GENERAL BANK OF GREECE SA
+  city: HALKIS
+  branch: ''
+GHBAGRAA039:
+  institution: GENERAL BANK OF GREECE SA
+  city: HERAKLION
+  branch: ''
+GHBAGRAA020:
+  institution: GENERAL BANK OF GREECE SA
+  city: IOANNINA
+  branch: ''
+GHBAGRAA045:
+  institution: GENERAL BANK OF GREECE SA
+  city: KALAMATA
+  branch: ''
+GHBAGRAA041:
+  institution: GENERAL BANK OF GREECE SA
+  city: KAVALA
+  branch: ''
+GHBAGRAA010:
+  institution: GENERAL BANK OF GREECE SA
+  city: LARISSA
+  branch: ''
+GHBAGRAA007:
+  institution: GENERAL BANK OF GREECE SA
+  city: PATRA
+  branch: ''
+GHBAGRAA004:
+  institution: GENERAL BANK OF GREECE SA
+  city: PIRAEUS
+  branch: ''
+GHBAGRAA064:
+  institution: GENERAL BANK OF GREECE SA
+  city: RHODOS
+  branch: ''
+GHBAGRAA015:
+  institution: GENERAL BANK OF GREECE SA
+  city: SERRES
+  branch: ''
+GHBAGRAA005:
+  institution: GENERAL BANK OF GREECE SA
+  city: THESSALONIKI
+  branch: ''
+GHBAGRAA037:
+  institution: GENERAL BANK OF GREECE SA
+  city: VOLOS
+  branch: ''
+KEDRGRAA:
+  institution: GREEK BRANCH OF KEDR JCSC CB
+  city: ATHENS
+  branch: ''
+HCSDGRAAASI:
+  institution: HELLENIC EXCHANGES S.A.
+  city: ATHENS
+  branch: HELEX ANCILLARY SYSTEM
+HCSDGRAA:
+  institution: HELLENIC EXCHANGES S.A.
+  city: ATHENS
+  branch: ''
+MIDLGRAA:
+  institution: HSBC BANK PLC
+  city: ATHENS
+  branch: ALL GREEK BRANCHES
+MIDLGRAASDD:
+  institution: HSBC BANK PLC
+  city: ATHENS
+  branch: SEPA DIRECT DEBITS
+MIDLGRAATRS:
+  institution: HSBC BANK PLC
+  city: ATHENS
+  branch: ''
+MIDLGRAAGSS:
+  institution: HSBC BANK PLC
+  city: PIRAEUS
+  branch: SECURITIES SERVICES
+IBOGGRAA:
+  institution: INVESTMENT BANK OF GREECE S.A.
+  city: ATHENS
+  branch: ''
+MFGAGRAA:
+  institution: MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE
+  city: ATHENS
+  branch: ''
+ETHNGRAACUS:
+  institution: NATIONAL BANK OF GREECE S.A.
+  city: ATHENS
+  branch: CUSTODIAN FOR FOREIGN INST. INVESTORS
+ETHNGRAAGRI:
+  institution: NATIONAL BANK OF GREECE S.A.
+  city: ATHENS
+  branch: CUSTODIAN FOR GREEK INST. INVESTORS
+ETHNGRAA:
+  institution: NATIONAL BANK OF GREECE S.A.
+  city: ATHENS
+  branch: ''
+OLAYGR22:
+  institution: OLAYAN INVESTMENTS COMPANY ESTABLISHMENT
+  city: GLYFADA
+  branch: ''
+PNELGRAA:
+  institution: PANELLINIA BANK S.A.
+  city: ATHENS
+  branch: ''
+PIRBGRAA:
+  institution: PIRAEUS BANK SA
+  city: ATHENS
+  branch: ''
+RBOSGRAA:
+  institution: ROYAL BANK OF SCOTLAND PLC
+  city: PIRAEUS
+  branch: ''
+TCZBGRAT:
+  institution: T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH
+  city: ATHENS
+  branch: ''
+HYVEGRAATRS:
+  institution: UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS
+  city: ATHENS
+  branch: TARGET2
+HYVEGRAA:
+  institution: UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS
+  city: ATHENS
+  branch: ''

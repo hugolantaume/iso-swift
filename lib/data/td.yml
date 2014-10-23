@@ -1,0 +1,46 @@
+---
+BAGCTDND:
+  institution: BANQUE AGRICOLE ET COMMERCIALE
+  city: N’DJAMENA
+  branch: ''
+BCCXTDND:
+  institution: BANQUE COMMERCIALE DU CHARI
+  city: N’DJAMENA
+  branch: ''
+BEACTDND210:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. TCHAD
+  city: MOUNDOU
+  branch: AGENCE DE MOUNDOU
+BEACTDND:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. TCHAD
+  city: N’DJAMENA
+  branch: ''
+BEACTDND220:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. TCHAD
+  city: SARH
+  branch: AGENCE DE SARH
+BSAHTDND:
+  institution: BANQUE SAHELO SAHARIENNE POUR LINVESTISSEMENT ET LE COMMERCE (TCHAD)
+    S.A.
+  city: N’DJAMENA
+  branch: ''
+CBTNTDND:
+  institution: COMMERCIAL BANK TCHAD
+  city: N’DJAMENA
+  branch: ''
+ECOCTDND:
+  institution: ECOBANK TCHAD
+  city: N’DJAMENA
+  branch: ''
+ORBKTDND:
+  institution: ORABANK TCHAD
+  city: N’DJAMENA
+  branch: ''
+SOGETDND:
+  institution: SOCIETE GENERALE TCHAD
+  city: N’DJAMENA
+  branch: ''
+UNAFTDND:
+  institution: UNITED BANK FOR AFRICA TCHAD
+  city: N’DJAMENA
+  branch: ''

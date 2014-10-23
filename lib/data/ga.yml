@@ -1,0 +1,97 @@
+---
+BICIGALXADL:
+  institution: B.I.C.I. DU GABON
+  city: LIBREVILLE
+  branch: ADL BRANCH
+BICIGALXMBT:
+  institution: B.I.C.I. DU GABON
+  city: LIBREVILLE
+  branch: MONT-BOUET BRANCH
+BICIGALXOLO:
+  institution: B.I.C.I. DU GABON
+  city: LIBREVILLE
+  branch: OLOUMI BRANCH
+BICIGALX:
+  institution: B.I.C.I. DU GABON
+  city: LIBREVILLE
+  branch: ''
+BICIGALXMDA:
+  institution: B.I.C.I. DU GABON
+  city: MOANDA
+  branch: MOANDA BRANCH
+BICIGALXPOG:
+  institution: B.I.C.I. DU GABON
+  city: PORT GENTIL
+  branch: ''
+BEACGALI520:
+  institution: BANQUE DES ETATS DE L’AFRIQUE CENTRALE D.N. GABON
+  city: FRANCEVILLE
+  branch: AGENCE DE FRANCEVILLE
+BEACGALI:
+  institution: BANQUE DES ETATS DE L’AFRIQUE CENTRALE D.N. GABON
+  city: LIBREVILLE
+  branch: ''
+BEACGALI530:
+  institution: BANQUE DES ETATS DE L’AFRIQUE CENTRALE D.N. GABON
+  city: OYEM
+  branch: AGENCE DE OYEM
+BEACGALI510:
+  institution: BANQUE DES ETATS DE L’AFRIQUE CENTRALE D.N. GABON
+  city: PORT GENTIL
+  branch: AGENCE DE PORT GENTIL
+BGADGALI:
+  institution: BANQUE GABONAISE DE DEVELOPPEMENT
+  city: LIBREVILLE
+  branch: ''
+BGFIGALI:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+BGFIGALIBKZ:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+BGFIGALIMAL:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+BGFIGALIOWD:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+BGFIGALIPOG:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+BGFIGALIPTN:
+  institution: BGFIBANK
+  city: LIBREVILLE
+  branch: ''
+CITIGALXTRD:
+  institution: CITIBANK N.A.
+  city: LIBREVILLE
+  branch: TRADE SERVICES DEPT.
+CITIGALX:
+  institution: CITIBANK N.A.
+  city: LIBREVILLE
+  branch: ''
+ECOCGALI:
+  institution: ECOBANK GABON
+  city: LIBREVILLE
+  branch: ''
+CCPGGALI:
+  institution: GABON-POSTE
+  city: LIBREVILLE
+  branch: ''
+ORBKGALI:
+  institution: ORABANK GABON
+  city: LIBREVILLE
+  branch: ''
+UNAFGALI:
+  institution: UBA GABON
+  city: LIBREVILLE
+  branch: ''
+UGABGALI:
+  institution: UNION GABONAISE DE BANQUE
+  city: LIBREVILLE
+  branch: ''

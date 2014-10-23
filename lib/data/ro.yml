@@ -1,0 +1,585 @@
+---
+BUCUROBU:
+  institution: ALPHA BANK ROMANIA SA
+  city: BUCHAREST
+  branch: ''
+MINDROBU:
+  institution: ATE BANK ROMANIA S.A.
+  city: BUCHAREST
+  branch: ''
+BPOSROBU:
+  institution: BANC POST S.A.
+  city: BUCHAREST
+  branch: ''
+CARPRO22:
+  institution: BANCA COMERCIALA CARPATICA SA
+  city: SIBIU
+  branch: ''
+BFERROBU:
+  institution: BANCA COMERCIALA FEROVIARA S.A.
+  city: BUCHAREST
+  branch: ''
+RNCBROBUAR0:
+  institution: BANCA COMERCIALA ROMANA S.A
+  city: ARAD
+  branch: ARAD BRANCH
+RNCBROBU:
+  institution: BANCA COMERCIALA ROMANA S.A
+  city: BUCHAREST
+  branch: ''
+RNCBROBUCS0:
+  institution: BANCA COMERCIALA ROMANA S.A
+  city: RESITA
+  branch: CARAS SEVERIN BRANCH
+RNCBROBUCV0:
+  institution: BANCA COMERCIALA ROMANA S.A
+  city: SFANTU GHEORGHE
+  branch: COVASNA BRANCH
+RNCBROBUIL0:
+  institution: BANCA COMERCIALA ROMANA S.A
+  city: SLOBOZIA
+  branch: IALOMITA BRANCH
+BITRROBU:
+  institution: BANCA ITALO ROMENA SPA ITALIA VOLPAGO DEL MONTELLO,SUCURSALA BUCURESTI
+  city: BUCHAREST
+  branch: ''
+MILBROBU:
+  institution: BANCA MILLENNIUM S.A.
+  city: BUCHAREST
+  branch: ''
+BRMAROBU:
+  institution: BANCA ROMANEASCA S.A.
+  city: BUCHAREST
+  branch: ''
+BTRLRO22ABI:
+  institution: BANCA TRANSILVANIA S.A.
+  city: AIUD
+  branch: AIUD
+BTRLRO22ABA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ALBA IULIA
+  branch: ALBA BRANCH
+BTRLRO22BH4:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ALESD
+  branch: AG. ALESD
+BTRLRO22TRA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ALEXANDRIA
+  branch: ALEXANDRIA
+BTRLRO22AR1:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ARAD
+  branch: AG. ARAD
+BTRLRO22AR2:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ARAD
+  branch: AG. ARAD
+BTRLRO22ARA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ARAD
+  branch: ARAD BRANCH
+BTRLRO22BCA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BACAU
+  branch: BACAU BRANCH
+BTRLRO22MMA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BAIA MARE
+  branch: BAIA MARE BRANCH
+BTRLRO22BHB:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BEIUS
+  branch: BEIUS
+BTRLRO22BNA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BISTRITA
+  branch: BISTRITA BRANCH
+BTRLRO22BTA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BOTOSANI
+  branch: BOTOSANI
+BTRLRO22BRA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BRAILA
+  branch: BRAILA BRANCH
+BTRLRO22BVA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BRASOV
+  branch: BRASOV BRANCH
+BTRLRO22BB4:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: AG. DOROBANTI
+BTRLRO22BB3:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: AG. MAGHERU
+BTRLRO22BB2:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: AG. MARRIOTT
+BTRLRO22BBC:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: BUCURESTI CHIBRIT
+BTRLRO22BOT:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: BUCURESTI OTOPENI
+BTRLRO22BVO:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: BUCURESTI VOLUNTARI
+BTRLRO22BBL:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: CENTRE NOUVEAU BRANCH
+BTRLRO22BB1:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: MILITARI BRANCH
+BTRLRO22BBB:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: OBOR BRANCH
+BTRLRO22BBP:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: PANTELIMON BRANCH
+BTRLRO22BBA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: PIATA ALBA-IULIA BRANCH
+BTRLRO22BBV:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUCHAREST
+  branch: VICTORIEI BRANCH
+BTRLRO22BZA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: BUZAU
+  branch: BUZAU BRANCH
+BTRLRO22SMC:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CAREI
+  branch: AG. CAREI
+BTRLRO22AR4:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CHISINAU CRIS
+  branch: AG. CHISINAU CRIS
+BTRLRO22:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: ''
+BTRLRO22CJ8:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: AG. BILLA
+BTRLRO22BTS:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: BT SECURITIES
+BTRLRO22CJA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: CLUJ-NAPOCA BRANCH
+BTRLRO22CJM:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: MARASTI
+BTRLRO22CJZ:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: ZORILOR
+BTRLRO22CTA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CONSTANTA
+  branch: CONSTANTA BRANCH
+BTRLRO22DJA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: CRAIOVA
+  branch: CRAIOVA BRANCH
+BTRLRO22CJD:
+  institution: BANCA TRANSILVANIA S.A.
+  city: DEJ
+  branch: DEJ BRANCH
+BTRLRO22HDA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: DEVA
+  branch: DEVA BRANCH
+BTRLRO22VLD:
+  institution: BANCA TRANSILVANIA S.A.
+  city: DRAGASANI
+  branch: DRAGASANI
+BTRLRO22BVF:
+  institution: BANCA TRANSILVANIA S.A.
+  city: FAGARAS
+  branch: FAGARAS
+BTRLRO22SVF:
+  institution: BANCA TRANSILVANIA S.A.
+  city: FALTICENI
+  branch: FALTICENI
+BTRLRO22VRA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: FOCSANI
+  branch: FOCSANI BRANCH
+BTRLRO22GLA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: GALATI
+  branch: GALATI BRANCH
+BTRLRO22CJG:
+  institution: BANCA TRANSILVANIA S.A.
+  city: GHERLA
+  branch: GHERLA
+BTRLRO22GRA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: GIURGIU
+  branch: ZONA LIBERTA GIURGIU BRANCH
+BTRLRO22CJH:
+  institution: BANCA TRANSILVANIA S.A.
+  city: HUEDIN
+  branch: HUEDIN
+BTRLRO22ISA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: IASI
+  branch: IASI BRANCH
+BTRLRO22AR5:
+  institution: BANCA TRANSILVANIA S.A.
+  city: INEU
+  branch: AG. INEU
+BTRLRO22TML:
+  institution: BANCA TRANSILVANIA S.A.
+  city: LUGOJ
+  branch: AG. LUGOJ
+BTRLRO22CTM:
+  institution: BANCA TRANSILVANIA S.A.
+  city: MANGALIA
+  branch: AG. MANGALIA
+BTRLRO22AR3:
+  institution: BANCA TRANSILVANIA S.A.
+  city: NADLAC
+  branch: AG. NADLAC
+BTRLRO22HRO:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ODORHEIU SECUIESC
+  branch: ODORHEIU SECUIESC
+BTRLRO22BCO:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ONESTI
+  branch: ONESTI
+BTRLRO22BHA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ORADEA
+  branch: ORADEA BRANCH
+BTRLRO22HDP:
+  institution: BANCA TRANSILVANIA S.A.
+  city: PETROSANI
+  branch: PETROSANI
+BTRLRO22NTA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: PIATRA NEAMT
+  branch: NEAMT BRANCH
+BTRLRO22AGA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: PITESTI
+  branch: PITESTI BRANCH
+BTRLRO22PHA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: PLOIESTI
+  branch: PLOIESTI BRANCH
+BTRLRO22SVR:
+  institution: BANCA TRANSILVANIA S.A.
+  city: RADAUTI
+  branch: AG. RADAUTI
+BTRLRO22BZR:
+  institution: BANCA TRANSILVANIA S.A.
+  city: RAMNICU SARAT
+  branch: RAMNICU SARAT
+BTRLRO22VLA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: RAMNICU VALCEA
+  branch: VALCEA BRANCH
+BTRLRO22MSR:
+  institution: BANCA TRANSILVANIA S.A.
+  city: REGHIN
+  branch: AG. REGHIN
+BTRLRO22CSA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: RESITA
+  branch: RESITA
+BTRLRO22NTR:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ROMAN
+  branch: AG. ROMAN
+BTRLRO22SMA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SATU MARE
+  branch: SATU MARE BRANCH
+BTRLRO22CVA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SFANTU GHEORGHE
+  branch: SFANTU GHEORGHE BRANCH
+BTRLRO22SBA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SIBIU
+  branch: SIBIU BRANCH
+BTRLRO22MMS:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SIGHET
+  branch: AG. SIGHET
+BTRLRO22OTA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SLATINA
+  branch: SLATINA
+BTRLRO22ILA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SLOBOZIA
+  branch: SLOBOZIA
+BTRLRO22SVA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: SUCEAVA
+  branch: SUCEAVA BRANCH
+BTRLRO22DBA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TARGOVISTE
+  branch: DAMBOVITA BRANCH
+BTRLRO22GJA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TARGU JIU
+  branch: TG. JIU BRANCH
+BTRLRO22MSA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TARGU MURES
+  branch: MURES BRANCH
+BTRLRO22NTT:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TARGU NEAMT
+  branch: TARGU NEAMT
+BTRLRO22CVT:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TARGU SECUIESC
+  branch: AG. TG. SECUIESC
+BTRLRO22GLT:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TECUCI
+  branch: TECUCI
+BTRLRO22TMA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TIMISOARA
+  branch: TIMISOARA BRANCH
+BTRLRO22CJT:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TURDA
+  branch: TURDA BRANCH
+BTRLRO22MHA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: TURNU SEVERIN
+  branch: MEHEDINTI BRANCH
+BTRLRO22SVV:
+  institution: BANCA TRANSILVANIA S.A.
+  city: VATRA DORNEI
+  branch: VATRA DORNEI
+BTRLRO22SJA:
+  institution: BANCA TRANSILVANIA S.A.
+  city: ZALAU
+  branch: ZALAU BRANCH
+DAFBRO22BRA:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: BRASOV
+  branch: ''
+DAFBRO22BUC:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: BUCHAREST
+  branch: ''
+DAFBRO22:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: BUCHAREST
+  branch: HEAD OFFICE
+DAFBRO22CLU:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: CLUJ-NAPOCA
+  branch: ''
+DAFBRO22CTA:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: CONSTANTA
+  branch: ''
+DAFBRO22ORA:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: ORADEA
+  branch: ''
+DAFBRO22TIM:
+  institution: BANK LEUMI ROMANIA S.A.
+  city: TIMISOARA
+  branch: ''
+BCYPROBU:
+  institution: BANK OF CYPRUS PCL NICOSIA, ROMANIAN BRANCH
+  city: BUCHAREST
+  branch: ''
+BCRLROBU:
+  institution: BCR BANCA PENTRU LOCUINTE S.A.
+  city: BUCHAREST
+  branch: ''
+BLOMROBU:
+  institution: BLOM BANK FRANCE S.A. ROMANIA BRANCH
+  city: BUCHAREST
+  branch: ''
+FTSBROBU:
+  institution: BNP PARIBAS FORTIS SA/NV BRUXELLES BUCHAREST BRANCH
+  city: BUCHAREST
+  branch: ''
+BRDEROBU:
+  institution: BRD – GROUPE SOCIETE GENERALE SA
+  city: BUCHAREST
+  branch: ''
+BRDEROBUCAM:
+  institution: BRD – GROUPE SOCIETE GENERALE SA
+  city: BUCHAREST
+  branch: CAMPINEANU BRANCH
+BRDEROBUTIT:
+  institution: BRD – GROUPE SOCIETE GENERALE SA
+  city: BUCHAREST
+  branch: SECURITIES DIVISION
+CECEROBU:
+  institution: CEC BANK-S.A.
+  city: BUCHAREST
+  branch: ''
+CITIROBU:
+  institution: CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA
+  city: BUCHAREST
+  branch: ''
+CITIROBUTGT:
+  institution: CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA
+  city: BUCHAREST
+  branch: TARGET 2
+CITIROBUTRD:
+  institution: CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA
+  city: BUCHAREST
+  branch: TRADE SERVICES DEPT.
+BSEAROBU:
+  institution: CREDIT AGRICOLE BANK ROMANIA S.A.
+  city: BUCHAREST
+  branch: ''
+FNNBROBU:
+  institution: CREDIT EUROPE BANK (ROMANIA) S.A.
+  city: BUCHAREST
+  branch: ''
+CRCOROBU:
+  institution: CREDITCOOP CASA CENTRALA
+  city: BUCHAREST
+  branch: ''
+DECNROBU:
+  institution: DEPOZITARUL CENTRAL S.A.
+  city: BUCHAREST
+  branch: ''
+EXIMROBU:
+  institution: EXIMBANK OF ROMANIA
+  city: BUCHAREST
+  branch: ''
+UGBIROBU:
+  institution: GARANTI BANK S.A.
+  city: BUCHAREST
+  branch: ''
+INGBROBU:
+  institution: ING BANK N.V., BUCHAREST BRANCH
+  city: BUCHAREST
+  branch: ''
+WBANRO22:
+  institution: INTESA SANPAOLO ROMANIA S.A.
+  city: ARAD
+  branch: ''
+BRELROBU:
+  institution: LIBRA BANK S.A.
+  city: BUCHAREST
+  branch: ''
+BRELROBUCAM:
+  institution: LIBRA BANK S.A.
+  city: BUCHAREST
+  branch: ''
+EGNAROBX:
+  institution: MARFIN BANK (ROMANIA) S.A.
+  city: BUCHAREST
+  branch: ''
+TREZROBU:
+  institution: MINISTRY OF PUBLIC FINANCE
+  city: BUCHAREST
+  branch: ''
+NBORROBP:
+  institution: NATIONAL BANK OF ROMANIA
+  city: BUCHAREST
+  branch: ''
+NBORROBS:
+  institution: NATIONAL BANK OF ROMANIA
+  city: BUCHAREST
+  branch: ''
+NBORROBU:
+  institution: NATIONAL BANK OF ROMANIA
+  city: BUCHAREST
+  branch: ''
+CRDZROBU:
+  institution: NEXTEBANK S.A. (FORMERLY MKB ROMEXTERRA BANK)
+  city: BUCHAREST
+  branch: ''
+CRDZROBUTGM:
+  institution: NEXTEBANK S.A. (FORMERLY MKB ROMEXTERRA BANK)
+  city: TARGU MURES
+  branch: ''
+OTPVROBU:
+  institution: OTP BANK ROMANIA S.A.
+  city: BUCHAREST
+  branch: ''
+PIRBROBU:
+  institution: PIRAEUS BANK ROMANIA
+  city: BUCHAREST
+  branch: ''
+PORLROBU:
+  institution: PORSCHE BANK ROMANIA SA
+  city: VOLUNTARI
+  branch: ''
+MIROROBU:
+  institution: PROCREDITBANK S.A.
+  city: BUCHAREST
+  branch: ''
+RZBLROBU:
+  institution: RAIFFEISEN BANCA PENTRU LOCUINTE S.A.
+  city: BUCHAREST
+  branch: ''
+RZBRROBU:
+  institution: RAIFFEISEN BANK S.A.
+  city: BUCHAREST
+  branch: ''
+ROINROBU:
+  institution: ROMANIAN INTERNATIONAL BANK SA
+  city: BUCHAREST
+  branch: ''
+SSRRROBU:
+  institution: SC SMITH AND SMITH SRL
+  city: BUCHAREST
+  branch: ''
+TBIBROBU:
+  institution: TBI BANK EAD SOFIA BUCHAREST BRANCH
+  city: BUCHAREST
+  branch: ''
+ABNAROBU:
+  institution: THE ROYAL BANK OF SCOTLAND PLC EDINBURGH, ROMANIA BRANCH
+  city: BUCHAREST
+  branch: ''
+TRFDROBS:
+  institution: TRANSFOND S.A.
+  city: BUCHAREST
+  branch: ''
+TRFDROBU:
+  institution: TRANSFOND S.A.
+  city: BUCHAREST
+  branch: ''
+TRFDROBSSNT:
+  institution: TRANSFOND S.A.
+  city: BUCHAREST
+  branch: BACK OFFICE APPLICATION
+BACXROBU:
+  institution: UNICREDIT TIRIAC BANK SA
+  city: BUCHAREST
+  branch: ''
+VBBUROBU:
+  institution: VOLKSBANK ROMANIA S.A.
+  city: BUCHAREST
+  branch: ''

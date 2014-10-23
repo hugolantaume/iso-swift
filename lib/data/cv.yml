@@ -1,0 +1,61 @@
+---
+BAIPCVCV:
+  institution: BANCO ANGOLANO DE INVESTIMENTOS S.A.
+  city: PRAIA
+  branch: ''
+CANBCVCV:
+  institution: BANCO CABOVERDIANO DE NEGOCIOS BCN
+  city: PRAIA
+  branch: ''
+BCATCVCV:
+  institution: BANCO COMERCIAL DO ATLANTICO
+  city: PRAIA
+  branch: ''
+BCATCVCV0C2:
+  institution: BANCO COMERCIAL DO ATLANTICO
+  city: S. VICENTE
+  branch: ''
+BCATCVCV0C3:
+  institution: BANCO COMERCIAL DO ATLANTICO
+  city: SAL
+  branch: ''
+BCAVCVCV:
+  institution: BANCO DE CABO VERDE
+  city: PRAIA
+  branch: ''
+BESCCVCP:
+  institution: BANCO ESPIRITO SANTO CABO VERDE SA
+  city: PRAIA
+  branch: ''
+BESCCVCV:
+  institution: BANCO ESPIRITO SANTO S.A. SUCURSAL FINANCEIRA EXTERIOR CABO VERDE
+  city: PRAIA
+  branch: ''
+BFIICVCV:
+  institution: BANCO FIDUCIARIO INTERNACIONAL (I.F.I.) S.A.
+  city: PRAIA
+  branch: ''
+CGDICVCP:
+  institution: BANCO INTERATLANTICO SARL
+  city: PRAIA
+  branch: ''
+PRIFCVCV:
+  institution: BANCO PRIVADO INTERNACIONAL (IFI)
+  city: PRAIA
+  branch: ''
+BPNCCVCV:
+  institution: BPN CABO VERDE IFI
+  city: PRAIA
+  branch: ''
+CXECCVCV:
+  institution: CAIXA ECONOMICA DE CABO VERDE
+  city: PRAIA
+  branch: ''
+ECOCCVCV:
+  institution: ECOCBANK CABO VERDE
+  city: PRAIA
+  branch: ''
+NBCVCVCV:
+  institution: NOVO BANCO SA
+  city: PRAIA
+  branch: ''

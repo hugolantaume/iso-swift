@@ -1,0 +1,349 @@
+---
+INMASARI:
+  institution: AL INMA BANK
+  city: RIYADH
+  branch: ''
+RJHISARI:
+  institution: AL RAJHI BANK
+  city: RIYADH
+  branch: HEAD OFFICE
+AMDISAJE:
+  institution: ALAMOUDI EXCHANGE COMPANY
+  city: JEDDAH
+  branch: ''
+ARNBSARI:
+  institution: ARAB NATIONAL BANK
+  city: RIYADH
+  branch: HEAD OFFICE
+APICSADM:
+  institution: ARAB PETROLEM INVESTMENTS CORPORATION
+  city: DAMMAM
+  branch: ''
+ALBISARIJED:
+  institution: BANK AL BILAD
+  city: JEDDAH
+  branch: JEDDAH
+ALBISARITFC:
+  institution: BANK AL BILAD
+  city: RIYADH
+  branch: TRADE FINANCE CENTER
+ALBISARI:
+  institution: BANK AL BILAD
+  city: RIYADH
+  branch: ''
+BJAZSAJE013:
+  institution: BANK AL JAZIRA
+  city: ALKHOBAR
+  branch: ALKHOBAR BRANCH
+BJAZSAJE026:
+  institution: BANK AL JAZIRA
+  city: BURAIDAH
+  branch: BURAIDAH BRANCH
+BJAZSAJE009:
+  institution: BANK AL JAZIRA
+  city: DAMMAM
+  branch: DAMMAM BRANCH
+BJAZSAJE025:
+  institution: BANK AL JAZIRA
+  city: HOFUF
+  branch: HOFUF BRANCH
+BJAZSAJE002:
+  institution: BANK AL JAZIRA
+  city: JEDDAH
+  branch: HEAD OFFICE
+BJAZSAJE007:
+  institution: BANK AL JAZIRA
+  city: JEDDAH
+  branch: KHALID BIN WALEED STREET BRANCH
+BJAZSAJE006:
+  institution: BANK AL JAZIRA
+  city: JEDDAH
+  branch: KING ABDUL AZIZ STREET BR.
+BJAZSAJE021:
+  institution: BANK AL JAZIRA
+  city: JEDDAH
+  branch: MADINA ROAD BRANCH
+BJAZSAJE:
+  institution: BANK AL JAZIRA
+  city: JEDDAH
+  branch: ''
+BJAZSAJE019:
+  institution: BANK AL JAZIRA
+  city: JUBAIL
+  branch: JUBAIL BRANCH
+BJAZSAJE011:
+  institution: BANK AL JAZIRA
+  city: MADINA MUNAWWARA
+  branch: MADINA MUNAWWARA BRANCH
+BJAZSAJE010:
+  institution: BANK AL JAZIRA
+  city: MAKKAH AL-MUKARRAMA
+  branch: MAKKAH MUKARRAMA BRANCH
+BJAZSAJE016:
+  institution: BANK AL JAZIRA
+  city: RIYADH
+  branch: OLAYYAH BRANCH
+BJAZSAJE027:
+  institution: BANK AL JAZIRA
+  city: RIYADH
+  branch: SITTEEN STREET BRANCH
+BMUSSARI:
+  institution: BANKMUSCAT
+  city: RIYADH
+  branch: ''
+BSFRSARIEST:
+  institution: BANQUE SAUDI FRANSI
+  city: ALKHOBAR
+  branch: EASTERN REGION
+BSFRSARIWST:
+  institution: BANQUE SAUDI FRANSI
+  city: JEDDAH
+  branch: WESTERN REGION
+BSFRSARIRYD:
+  institution: BANQUE SAUDI FRANSI
+  city: RIYADH
+  branch: CENTRAL REGION
+BSFRSARIGEM:
+  institution: BANQUE SAUDI FRANSI
+  city: RIYADH
+  branch: HEAD OFFICE
+BSFRSARI:
+  institution: BANQUE SAUDI FRANSI
+  city: RIYADH
+  branch: ''
+BNPASARB:
+  institution: BNP PARIBAS INVESTMENT COMPANY KSA
+  city: RIYADH
+  branch: ''
+BNPASARBWMI:
+  institution: BNP PARIBAS INVESTMENT COMPANY KSA
+  city: RIYADH
+  branch: ''
+BNPASARI:
+  institution: BNP PARIBAS SAUDI ARABIA
+  city: RIYADH
+  branch: ''
+DEUTSARICUS:
+  institution: DEUTSCHE BANK AG RIYADH BRANCH
+  city: RIYADH
+  branch: DOMESTIC CUSTODY SERVICES
+DEUTSARI:
+  institution: DEUTSCHE BANK AG RIYADH BRANCH
+  city: RIYADH
+  branch: ''
+DEUTSARIGES:
+  institution: DEUTSCHE BANK AG RIYADH BRANCH
+  city: RIYADH
+  branch: ''
+EBILSARI:
+  institution: EMIRATES NBD PJSC
+  city: RIYADH
+  branch: ''
+GPTLSARI:
+  institution: GPT SPECIAL PROJECTS MANAGEMENT LTD
+  city: RIYADH
+  branch: ''
+GULFSARI:
+  institution: GULF INTERNATIONAL BANK B.S.C. RIYADH
+  city: RIYADH
+  branch: ''
+HOSHSARI:
+  institution: HOSHANCO HOLDING
+  city: RIYADH
+  branch: ''
+ISLDSAJEITF:
+  institution: ISLAMIC DEVELOPMENT BANK
+  city: JEDDAH
+  branch: INTERNATIONAL TRADE FINANCE
+ISLDSAJE:
+  institution: ISLAMIC DEVELOPMENT BANK
+  city: JEDDAH
+  branch: ''
+ISLDSAJEICD:
+  institution: ISLAMIC DEVELOPMENT BANK
+  city: JEDDAH
+  branch: ''
+JPMGSARY:
+  institution: J.P. MORGAN SAUDI ARABIA LIMITED
+  city: RIYADH
+  branch: ''
+CHASSARI:
+  institution: JPMORGAN CHASE BANK N.A. RIYADH
+  city: RIYADH
+  branch: ''
+KPSRSADD:
+  institution: KING ABDULLAH PETROLEUM STUDIES AND RESEARCH CENTER
+  city: DHAHRAN
+  branch: ''
+MLSASARI:
+  institution: MERRILL LYNCH KINGDOM OF SAUDI ARABIA
+  city: RIYADH
+  branch: ''
+MHYCSAJE:
+  institution: MOHAMMED HASSAN YELLA AND SONS EXCHANGE COMPANY
+  city: JEDDAH
+  branch: ''
+NBOBSARI:
+  institution: NATIONAL BANK OF BAHRAIN
+  city: RIYADH
+  branch: ''
+NBOKSAJE:
+  institution: NATIONAL BANK OF KUWAIT
+  city: JEDDAH
+  branch: ''
+NBPASARI:
+  institution: NATIONAL BANK OF PAKISTAN
+  city: RIYADH
+  branch: ''
+NBCCSAJE:
+  institution: NATIONAL BISCUITS AND CONFECTIONERY COMPANY
+  city: JEDDAH
+  branch: ''
+NCBKSAJE615:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: DAMMAM
+  branch: TRADE SERVICES-EAST
+NCBKSAJE:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: JEDDAH
+  branch: HEAD OFFICE
+NCBKSAJE101:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: JEDDAH
+  branch: JEDDAH, MAIN BRANCH
+NCBKSAJE613:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: JEDDAH
+  branch: TRADE SERVICES-WEST
+NCBKSAJE555:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: JEDDAH
+  branch: TREASURY DIVISION
+NCBKSAJE614:
+  institution: NATIONAL COMMERCIAL BANK THE
+  city: RIYADH
+  branch: TRADE SERVICES-CENTRAL
+NAFDSAJE:
+  institution: NATIONAL FOOD INDUSTRIES CO. LTD
+  city: JEDDAH
+  branch: ''
+NCCOSAJE:
+  institution: NCB CAPITAL COMPANY
+  city: JEDDAH
+  branch: ''
+NSAUSARI:
+  institution: NOMURA SAUDI ARABIA
+  city: RIYADH
+  branch: ''
+RIBLSARI:
+  institution: RIYAD BANK
+  city: RIYADH
+  branch: ''
+SDCCSADA:
+  institution: SADARA CHEMICAL COMPANY
+  city: DHAHRAN
+  branch: ''
+SPCUSAJB:
+  institution: SAHARA PETROCHEMICALS COMPANY SAUDI JOINT STOCK COMPANY
+  city: JUBAIL
+  branch: ''
+SAMBSARIACS:
+  institution: SAMBA FINANCIAL GROUP
+  city: ALKHOBAR
+  branch: EASTERN REGION BRANCH
+SAMBSARIJCS:
+  institution: SAMBA FINANCIAL GROUP
+  city: JEDDAH
+  branch: WESTERN REGION BRANCH
+SAMBSARIRCS:
+  institution: SAMBA FINANCIAL GROUP
+  city: RIYADH
+  branch: CENTRAL REGION BRANCH
+SAMBSARIRCP:
+  institution: SAMBA FINANCIAL GROUP
+  city: RIYADH
+  branch: CONSUMERS BRANCH
+SAMBSARIRFX:
+  institution: SAMBA FINANCIAL GROUP
+  city: RIYADH
+  branch: RIYADH BRANCH
+SAMBSARI:
+  institution: SAMBA FINANCIAL GROUP
+  city: RIYADH
+  branch: ''
+SAMASARI:
+  institution: SAUDI ARABIAN MONETARY AGENCY
+  city: RIYADH
+  branch: ''
+ARAMSADH:
+  institution: SAUDI ARAMCO
+  city: DHAHRAN
+  branch: ''
+LBRFSAJD:
+  institution: SAUDI ARAMCO LUBRICATING OIL REFINING COMPANY (LUBEREF)
+  city: JEDDAH
+  branch: ''
+SAPCSADH:
+  institution: SAUDI ARAMCO PRODUCT TRADING CO.
+  city: DHAHRAN
+  branch: ''
+SBHQSARR:
+  institution: SAUDI BASIC INDUSTRIES CORPORATION (SABIC)
+  city: RIYADH
+  branch: ''
+SABBSARI:
+  institution: SAUDI BRITISH BANK THE
+  city: RIYADH
+  branch: HEAD OFFICE
+SCHMSADE:
+  institution: SAUDI CHEVRON PHILLIPS CO.
+  city: JUBAIL
+  branch: ''
+AAALSARIALK:
+  institution: SAUDI HOLLANDI BANK
+  city: ALKHOBAR
+  branch: EASTERN AREA ALKHOBAR
+AAALSARIJED:
+  institution: SAUDI HOLLANDI BANK
+  city: JEDDAH
+  branch: WESTERN AREA JEDDAH
+AAALSARIRYD:
+  institution: SAUDI HOLLANDI BANK
+  city: RIYADH
+  branch: CENTRAL AREA RIYADH
+AAALSARICTD:
+  institution: SAUDI HOLLANDI BANK
+  city: RIYADH
+  branch: CENTRAL TREASURY DEPT.
+AAALSARI:
+  institution: SAUDI HOLLANDI BANK
+  city: RIYADH
+  branch: ''
+SAHCSARI:
+  institution: SAUDI HOLLANDI CAPITAL
+  city: RIYADH
+  branch: ''
+SIPHSADB:
+  institution: SAUDI INTERNATIONAL PETROCHEMICAL CO. (SIPCHEM)
+  city: JUBAIL
+  branch: ''
+SIBCSARI:
+  institution: SAUDI INVESTMENT BANK THE
+  city: RIYADH
+  branch: ''
+SCBLSARI:
+  institution: STANDARD CHARTERED CAPITAL (SAUDI ARABIA)
+  city: RIYADH
+  branch: ''
+SBINSAJE:
+  institution: STATE BANK OF INDIA
+  city: JEDDAH
+  branch: ''
+TCZBSAJE:
+  institution: T.C. ZIRAAT BANKASI A.S.
+  city: JEDDAH
+  branch: ''
+SFFDSARI:
+  institution: THE SAUDI FUND FOR DEVELOPMENT
+  city: RIYADH
+  branch: ''

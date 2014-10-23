@@ -1,0 +1,289 @@
+---
+ABBMMAMC:
+  institution: AL BARID BANK
+  city: RABAT
+  branch: ''
+ARABMAMC250:
+  institution: ARAB BANK PLC
+  city: MARRAKECH
+  branch: MARRAKECH BRANCH
+ARABMAMC260:
+  institution: ARAB BANK PLC.
+  city: AGADIR
+  branch: ''
+ARABMAMC210:
+  institution: ARAB BANK PLC.
+  city: CASABLANCA
+  branch: MAIN BRANCH
+ARABMAMC:
+  institution: ARAB BANK PLC.
+  city: CASABLANCA
+  branch: ''
+ARABMAMC240:
+  institution: ARAB BANK PLC.
+  city: FES
+  branch: ''
+ARABMAMC221:
+  institution: ARAB BANK PLC.
+  city: RABAT
+  branch: AGDAL BRANCH
+ARABMAMC220:
+  institution: ARAB BANK PLC.
+  city: RABAT
+  branch: ''
+ARABMAMC230:
+  institution: ARAB BANK PLC.
+  city: TANGER
+  branch: ''
+AIBSMAMT:
+  institution: ATTIJARI INTERNATIONAL BANK S.A. BANQUE OFF SHORE
+  city: TANGER
+  branch: ''
+BCMAMAMC:
+  institution: ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)
+  city: CASABLANCA
+  branch: ''
+BSABMAMC:
+  institution: BANCO DE SABADELL S.A.
+  city: CASABLANCA
+  branch: ''
+BKAMMAMR:
+  institution: BANK AL MAGHRIB
+  city: RABAT
+  branch: ''
+BCPOMAMCBKO:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: DEPT. BACK OFFICE
+BCPOMAMCMON:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: DEPT. MONETIQUES
+BCPOMAMCREC:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: DEPT. RECONCILIATION
+BCPOMAMCDOC:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: SCE. DOCUMENTAIRE
+BCPOMAMCFIN:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: SCE. FINANCIER
+BCPOMAMCMRE:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: TRANFERTS DES MAROCAINS RESIDANTS A L’ETRANGER
+BCPOMAMC:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: CASABLANCA
+  branch: ''
+BCPOMAMCCIB:
+  institution: BANQUE CENTRALE POPULAIRE
+  city: TANGER
+  branch: OFFSCHORE BRANCH, TANGIER
+BMCEMAMCCOR:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: CASABLANCA
+  branch: AGENCE CORPORATE
+BMCEMAMCMRE:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: CASABLANCA
+  branch: COMPTE SPECIAL MRE
+BMCEMAMCSDM:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: CASABLANCA
+  branch: SALLE DES MARCHES, CASABLANCA
+BMCEMAMC:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: CASABLANCA
+  branch: ''
+BMCEMAMCTCM:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: TANGER
+  branch: OFFSHORE BRANCH TRADING ROOM, TANGIER
+BMCEMAMCTZF:
+  institution: BANQUE MAROCAINE DU COMMERCE EXTERIEUR
+  city: TANGER
+  branch: OFFSHORE BRANCH, TANGIER
+BMCIMAMC:
+  institution: BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE
+  city: CASABLANCA
+  branch: ''
+BMCIMAMCTOF:
+  institution: BANQUE MAROCAINE POUR LE COMMERCE ET LINDUSTRIE
+  city: TANGER
+  branch: OFFSHORE BRANCH
+BCPOMAMCCES:
+  institution: BANQUE POPULAIRE AGADIR
+  city: AGADIR
+  branch: ''
+BCPOMAMCALH:
+  institution: BANQUE POPULAIRE AL HOCEIMA
+  city: AL HOCEIMA
+  branch: ''
+BCPOMAMCBNM:
+  institution: BANQUE POPULAIRE BENI MELLAL
+  city: BENI MELLAL
+  branch: ''
+BCPOMAMCBRK:
+  institution: BANQUE POPULAIRE BERKANE
+  city: BERKANE
+  branch: ''
+BCPOMAMCCAS:
+  institution: BANQUE POPULAIRE CASA ANFA
+  city: CASABLANCA
+  branch: ''
+BCPOMAMCELJ:
+  institution: BANQUE POPULAIRE EL JADIDA
+  city: EL JADIDA
+  branch: ''
+BCPOMAMCFES:
+  institution: BANQUE POPULAIRE FES
+  city: FES
+  branch: ''
+BCPOMAMCGHA:
+  institution: BANQUE POPULAIRE GHARB
+  city: GHARB
+  branch: ''
+BCPOMAMCLAY:
+  institution: BANQUE POPULAIRE LAAYOUNE
+  city: LAAYOUNE
+  branch: ''
+BCPOMAMCMKH:
+  institution: BANQUE POPULAIRE MARRAKECH
+  city: MARRAKECH
+  branch: ''
+BCPOMAMCMEK:
+  institution: BANQUE POPULAIRE MEKNES
+  city: MEKNES
+  branch: ''
+BCPOMAMCNAD:
+  institution: BANQUE POPULAIRE NADOR
+  city: NADOR
+  branch: ''
+BCPOMAMCOUJ:
+  institution: BANQUE POPULAIRE OUJDA
+  city: OUJDA
+  branch: ''
+BCPOMAMCRAB:
+  institution: BANQUE POPULAIRE RABAT
+  city: RABAT
+  branch: ''
+BCPOMAMCSAF:
+  institution: BANQUE POPULAIRE SAFI
+  city: SAFI
+  branch: ''
+BCPOMAMCTAT:
+  institution: BANQUE POPULAIRE TANGER
+  city: TANGER
+  branch: ''
+CADGMAMR:
+  institution: CAISSE DE DEPOT ET DE GESTION
+  city: RABAT
+  branch: ''
+CAFGMAMC:
+  institution: CASABLANCA FINANCE MARKETS
+  city: CASABLANCA
+  branch: ''
+RDGCMAMR:
+  institution: CDG CAPITAL
+  city: RABAT
+  branch: ''
+CITIMAMCTRD:
+  institution: CITIBANK MAGHREB
+  city: CASABLANCA
+  branch: TRADE SERVICES DEPARTMENT
+CITIMAMC:
+  institution: CITIBANK MAGHREB
+  city: CASABLANCA
+  branch: ''
+CNCAMAMR:
+  institution: CREDIT AGRICOLE DU MAROC
+  city: RABAT
+  branch: ''
+CDMAMAMC706:
+  institution: CREDIT DU MAROC
+  city: AGADIR
+  branch: TRADE CENTER TALBORJT
+CDMAMAMC:
+  institution: CREDIT DU MAROC
+  city: CASABLANCA
+  branch: ALL MOROCCO BRANCHES
+CDMAMAMC703:
+  institution: CREDIT DU MAROC
+  city: CASABLANCA
+  branch: TRADE CENTER CENTRE-VILLE
+CDMAMAMC700:
+  institution: CREDIT DU MAROC
+  city: CASABLANCA
+  branch: TRADE CENTER EXPANSION
+CDMAMAMC701:
+  institution: CREDIT DU MAROC
+  city: CASABLANCA
+  branch: ''
+CDMAMAMC702:
+  institution: CREDIT DU MAROC
+  city: CASABLANCA
+  branch: ''
+CDMAMAMC707:
+  institution: CREDIT DU MAROC
+  city: FES
+  branch: TRADE CENTER QUARAOUYINE
+CDMAMAMC704:
+  institution: CREDIT DU MAROC
+  city: MARRAKECH
+  branch: TRADE CENTER MENARA
+CDMAMAMC708:
+  institution: CREDIT DU MAROC
+  city: OUJDA
+  branch: TRADE CENTER AL MOUSTAGBAL
+CDMAMAMC709:
+  institution: CREDIT DU MAROC
+  city: RABAT
+  branch: TRADE CENTER CHELLAH
+CDMAMAMC705:
+  institution: CREDIT DU MAROC
+  city: TANGER
+  branch: TRADE CENTER BOUGHAZ
+CIHMMAMCDEP:
+  institution: CREDIT IMMOBILIER ET HOTELIER
+  city: CASABLANCA
+  branch: DEPARTEMENT ETRANGER
+CIHMMAMCSDM:
+  institution: CREDIT IMMOBILIER ET HOTELIER
+  city: CASABLANCA
+  branch: SALLE DES MARCHES
+CIHMMAMC:
+  institution: CREDIT IMMOBILIER ET HOTELIER
+  city: CASABLANCA
+  branch: ''
+GOCPMAMC:
+  institution: GROUPE OCP
+  city: CASABLANCA
+  branch: ''
+CAIXMAMC:
+  institution: LA CAIXA SUCCURSALE MAROC
+  city: CASABLANCA
+  branch: ''
+MEDCMAMC:
+  institution: MEDIAFINANCE
+  city: CASABLANCA
+  branch: ''
+SGMBMAMCCMI:
+  institution: SOCIETE GENERALE MAROCAINE DE BANQUES
+  city: CASABLANCA
+  branch: CASH MANAGEMENT INTERNATIONAL
+SGMBMAMC:
+  institution: SOCIETE GENERALE MAROCAINE DE BANQUES
+  city: CASABLANCA
+  branch: ''
+SGTGMAMC:
+  institution: SOCIETE GENERALE TANGER OFFSHORE
+  city: CASABLANCA
+  branch: ''
+UMABMAMC:
+  institution: UNION MAROCAINE DE BANQUES
+  city: CASABLANCA
+  branch: ''

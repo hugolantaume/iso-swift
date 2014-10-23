@@ -1,0 +1,94 @@
+---
+BACAMCMC:
+  institution: ANDBANC MONACO SAM
+  city: MONACO
+  branch: ''
+BERLMCMC:
+  institution: BANQUE DE GESTION EDMOND DE ROTHSCHILD MONACO
+  city: MONACO
+  branch: ''
+HAVLMCMX:
+  institution: BANQUE HAVILLAND (MONACO) S.A.M.
+  city: MONACO
+  branch: ''
+HAVLMCMXBDF:
+  institution: BANQUE HAVILLAND (MONACO) S.A.M.
+  city: MONACO
+  branch: ''
+BJSBMCMXLCO:
+  institution: BANQUE J. SAFRA SARASIN (MONACO) SA
+  city: MONACO
+  branch: ONLY BANQUE DE FRANCE
+BJSBMCMX:
+  institution: BANQUE J. SAFRA SARASIN (MONACO) SA
+  city: MONACO
+  branch: ''
+BPGEMCMC:
+  institution: BANQUE PASCHE S.A.
+  city: MONACO
+  branch: ''
+BARCMCMX:
+  institution: BARCLAYS BANK PLC MONACO
+  city: MONACO
+  branch: ''
+BPPBMCMC:
+  institution: BNP PARIBAS WEALTH MANAGEMENT MONACO
+  city: MONACO
+  branch: ''
+BSILMCMC:
+  institution: BSI MONACO SAM
+  city: MONACO
+  branch: ''
+AZFMMCMC:
+  institution: CGM COMPAGNIE DE GESTION PRIVEE MON EGASQUE S.A.M.
+  city: MONACO
+  branch: AIM/POMS SERVICE
+CMBMMCMX:
+  institution: COMPAGNIE MONEGASQUE DE BANQUE S.A.M.
+  city: MONACO
+  branch: ''
+CFMOMCMX:
+  institution: CREDIT FONCIER DE MONACO
+  city: MONACO
+  branch: ''
+CRESMCMX:
+  institution: CREDIT SUISSE (MONACO)
+  city: MONACO
+  branch: ''
+EFGBMCMC:
+  institution: EFG BANK (MONACO)
+  city: MONACO
+  branch: ''
+GNPFMCMC:
+  institution: G ET G PRIVATE FINANCE SAM
+  city: MONACO
+  branch: ''
+BLICMCMC:
+  institution: HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO)
+    S.A.)
+  city: MONACO
+  branch: ''
+BAERMCMC:
+  institution: JULIUS BAER (MONACO) S.A.M.
+  city: MONACO
+  branch: ''
+KBLXMCMC:
+  institution: KBL MONACO PRIVATE BANKERS
+  city: MONACO
+  branch: ''
+LOYDMCMX:
+  institution: LLOYDS TSB BANK PLC
+  city: MONACO
+  branch: ''
+SGBTMCMC:
+  institution: SOCIETE GENERALE BANK AND TRUST MONACO
+  city: MONACO
+  branch: ''
+UBSWMCMX:
+  institution: UBS (MONACO) S.A.
+  city: MONACO
+  branch: ''
+VENUMCMC:
+  institution: VENUS MANAGEMENT COMPANY S.A.M.
+  city: MONACO
+  branch: ''

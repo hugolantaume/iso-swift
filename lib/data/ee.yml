@@ -1,0 +1,57 @@
+---
+EEUHEE2X:
+  institution: AS SEB PANK
+  city: TALLINN
+  branch: ''
+BIGKEE2B:
+  institution: BIGBANK AS
+  city: TALLINN
+  branch: ''
+FOREEE2X:
+  institution: DANSKE BANK A/S ESTONIA BRANCH
+  city: TALLINN
+  branch: ''
+EPBEEE2XERT:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: CLEARING DEPARTMENT
+EPBEEE2XRPS:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: ESTA
+EPBEEE2XCSD:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: MIRROR TECHNICAL ACCOUNT
+EPBEEE2XTGT:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: TARGET 2
+EPBEEE2X:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: ''
+EPBEEE2XCCB:
+  institution: EESTI PANK (BANK OF ESTONIA)
+  city: TALLINN
+  branch: ''
+ECSDEE2X:
+  institution: ESTONIAN CSD
+  city: TALLINN
+  branch: ''
+NDEAEE2X:
+  institution: NORDEA BANK FINLAND PLC ESTONIA BRANCH
+  city: TALLINN
+  branch: ''
+OKOYEE2X:
+  institution: POHJOLA BANK PLC ESTONIAN BRANCH
+  city: TALLINN
+  branch: ''
+HABAEE2XHAM:
+  institution: SWEDBANK AS
+  city: TALLINN
+  branch: HANSA ASSET MANAGMENT
+HABAEE2X:
+  institution: SWEDBANK AS
+  city: TALLINN
+  branch: ''

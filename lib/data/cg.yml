@@ -1,0 +1,65 @@
+---
+BCBPCGCG:
+  institution: BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)
+  city: BRAZZAVILLE
+  branch: ''
+BCBPCGCG001:
+  institution: BANQUE COMMERCIALE INTERNATIONALE (EX COFIPA CONGO)
+  city: POINTE-NOIRE
+  branch: ''
+BCHCCGCG:
+  institution: BANQUE CONGOLAISE DE LHABITAT
+  city: BRAZZAVILLE
+  branch: ''
+BDEACGCG:
+  institution: BANQUE DE DEVELOPPEMENT DES ETATS DE LAFRIQUE CENTRALE (BDEAC)
+  city: BRAZZAVILLE
+  branch: ''
+BEACCGCG:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. CONGO
+  city: BRAZZAVILLE
+  branch: ''
+BEACCGCGALL:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. CONGO
+  city: OUESSO
+  branch: ''
+BEACCGCG410:
+  institution: BANQUE DES ETATS DE LAFRIQUE CENTRALE D.N. CONGO
+  city: POINTE-NOIRE
+  branch: AGENCE DE POINTE-NOIRE
+BESCCGCG:
+  institution: BANQUE ESPIRITO SANTO CONGO
+  city: BRAZZAVILLE
+  branch: ''
+CONICGC10C2:
+  institution: BANQUE INTERNATIONALE DU CONGO
+  city: POINTE-NOIRE
+  branch: ''
+CNNGCGCG:
+  institution: BANQUE POSTALE DU CONGO
+  city: BRAZZAVILLE
+  branch: ''
+BGFICGCG:
+  institution: BGFIBANK CONGO
+  city: BRAZZAVILLE
+  branch: ''
+BCMACGCG:
+  institution: CREDIT DU CONGO
+  city: POINTE-NOIRE
+  branch: ''
+ECOCCGCG:
+  institution: ECOBANK CONGO
+  city: BRAZZAVILLE
+  branch: ''
+CRAGCGCG:
+  institution: LA CONGOLAISE DE BANQUE (LCB)
+  city: BRAZZAVILLE
+  branch: ''
+SOGECGCG:
+  institution: SOCIETE GENERALE CONGO
+  city: BRAZZAVILLE
+  branch: ''
+UNAFCGCG:
+  institution: UNITED BANK FOR AFRICA CONGO BRAZZ
+  city: BRAZZAVILLE
+  branch: ''

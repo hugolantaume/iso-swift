@@ -1,0 +1,245 @@
+---
+BAGAGE22CUS:
+  institution: BANK OF GEORGIA
+  city: TBILISI
+  branch: CUSTODY SERVICES
+BAGAGE22BOG:
+  institution: BANK OF GEORGIA
+  city: TBILISI
+  branch: HEAD OFFICE
+BAGAGE22GTS:
+  institution: BANK OF GEORGIA
+  city: TBILISI
+  branch: ''
+BAGAGE22:
+  institution: BANK OF GEORGIA
+  city: TBILISI
+  branch: ''
+REPLGE22:
+  institution: BANK REPUBLIC (SOCIETE GENERALE GROUP)
+  city: TBILISI
+  branch: ''
+CBASGE22:
+  institution: BASISBANK JSC
+  city: TBILISI
+  branch: ''
+CNSBGE22:
+  institution: CONSTANTA BANK
+  city: TBILISI
+  branch: ''
+HABGGE22:
+  institution: HALYK BANK GEORGIA JSC
+  city: TBILISI
+  branch: ''
+IBAZGE22:
+  institution: INTERNATIONAL BANK OF AZERBAIJAN GEORGIA
+  city: TBILISI
+  branch: ''
+IJSMGE22:
+  institution: INVESTBANK JSC
+  city: TBILISI
+  branch: ''
+DISNGE22:
+  institution: JSC BTA BANK
+  city: TBILISI
+  branch: ''
+CRTUGE22092:
+  institution: JSC CARTU BANK
+  city: BATUMI
+  branch: BATUMI BRANCH
+CRTUGE22087:
+  institution: JSC CARTU BANK
+  city: KUTAISI
+  branch: KUTAISI BRANCH
+CRTUGE22086:
+  institution: JSC CARTU BANK
+  city: TBILISI
+  branch: MTATSMINDA BRANCH
+CRTUGE22:
+  institution: JSC CARTU BANK
+  city: TBILISI
+  branch: ''
+KSBGGE22:
+  institution: JSC KOR STANDARD BANK
+  city: TBILISI
+  branch: ''
+LBRTGE22:
+  institution: JSC LIBERTY BANK
+  city: TBILISI
+  branch: ''
+PAHAGE22:
+  institution: JSC PASHA BANK GEORGIA
+  city: TBILISI
+  branch: ''
+CAVOGE22:
+  institution: JSC PRIVATBANK
+  city: TBILISI
+  branch: ''
+UGEBGE22617:
+  institution: JSC VTB BANK GEORGIA
+  city: AKHALTSIKHE
+  branch: AKHALTSIKHE BRANCH
+UGEBGE22655:
+  institution: JSC VTB BANK GEORGIA
+  city: BATUMI
+  branch: BATUMI BRANCH
+UGEBGE22622:
+  institution: JSC VTB BANK GEORGIA
+  city: GARDABANI
+  branch: GARDABANI BRANCH
+UGEBGE22602:
+  institution: JSC VTB BANK GEORGIA
+  city: GORI
+  branch: GORI BRANCH
+UGEBGE22624:
+  institution: JSC VTB BANK GEORGIA
+  city: GURJAANI
+  branch: GURJAANI BRANCH
+UGEBGE22605:
+  institution: JSC VTB BANK GEORGIA
+  city: KUTAISI
+  branch: KUTAISI BRANCH
+UGEBGE22639:
+  institution: JSC VTB BANK GEORGIA
+  city: MARNEULI
+  branch: MARNEULI BRANCH
+UGEBGE22643:
+  institution: JSC VTB BANK GEORGIA
+  city: OZURGETI
+  branch: OZURGETI BRANCH
+UGEBGE22606:
+  institution: JSC VTB BANK GEORGIA
+  city: POTI
+  branch: POTI BRANCH
+UGEBGE22607:
+  institution: JSC VTB BANK GEORGIA
+  city: RUSTAVI
+  branch: RUSTAVI BRANCH
+UGEBGE22687:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: ABKHAZETI BRANCH
+UGEBGE22615:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: CENTRAL BRANCH
+UGEBGE22665:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: DIDUBE BRANCH
+UGEBGE22:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: HEAD OFFICE
+UGEBGE22668:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: KRZANINI BRANCH
+UGEBGE22666:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: MTATSMINDA BRANCH
+UGEBGE22604:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: RUSTAVELI BRANCH
+UGEBGE22670:
+  institution: JSC VTB BANK GEORGIA
+  city: TBILISI
+  branch: SABURTALO BRANCH
+UGEBGE22629:
+  institution: JSC VTB BANK GEORGIA
+  city: TELAVI
+  branch: TELAVI BRANCH
+UGEBGE22603:
+  institution: JSC VTB BANK GEORGIA
+  city: ZUGDIDI
+  branch: ZUGDIDI BRANCH
+INEXGE22:
+  institution: MFO INTEL EXPRESS GEORGIA LTD
+  city: TBILISI
+  branch: ''
+MLNMGE22:
+  institution: MILLENNIUM WORX LLC
+  city: TBILISI
+  branch: ''
+BNLNGE22:
+  institution: NATIONAL BANK OF GEORGIA
+  city: TBILISI
+  branch: ''
+MIBGGE22:
+  institution: PROCREDIT BANK GEORGIA
+  city: TBILISI
+  branch: ''
+PRSGGE22:
+  institution: PROGRESSBANK
+  city: TBILISI
+  branch: ''
+TCZBGE22:
+  institution: T.C. ZIRAAT BANKASI A.S. TBILISI BRANCH
+  city: TBILISI
+  branch: ''
+TBCBGE22835:
+  institution: TBC BANK
+  city: BATUMI
+  branch: BATUMI BRANCH
+TBCBGE22762:
+  institution: TBC BANK
+  city: BORJOMI
+  branch: BORJOMI BRANCH
+TBCBGE22888:
+  institution: TBC BANK
+  city: KUTAISI
+  branch: KUTAISI BRANCH
+TBCBGE22937:
+  institution: TBC BANK
+  city: POTI
+  branch: POTI BRANCH
+TBCBGE22844:
+  institution: TBC BANK
+  city: RUSTAVI
+  branch: RUSTAVI BRANCH
+TBCBGE22830:
+  institution: TBC BANK
+  city: TBILISI
+  branch: CENTRAL BRANCH
+TBCBGE22836:
+  institution: TBC BANK
+  city: TBILISI
+  branch: 'DIDUBE BRANCH '
+TBCBGE22850:
+  institution: TBC BANK
+  city: TBILISI
+  branch: MARJANISHVILI BRANCH
+TBCBGE22821:
+  institution: TBC BANK
+  city: TBILISI
+  branch: MTATSMINDA BRANCH
+TBCBGE22820:
+  institution: TBC BANK
+  city: TBILISI
+  branch: NADZALADEVI BRANCH
+TBCBGE22838:
+  institution: TBC BANK
+  city: TBILISI
+  branch: SABURTALO BRANCH
+TBCBGE22818:
+  institution: TBC BANK
+  city: TBILISI
+  branch: VERA BRANCH
+TBCBGE22:
+  institution: TBC BANK
+  city: TBILISI
+  branch: ''
+TBCBGE22824:
+  institution: TBC BANK
+  city: TELAVI
+  branch: TELAVI BRANCH
+TSMFGE22:
+  institution: TREASURY SERVICE MINISTRY OF FINANCE OF GEORGIA
+  city: TBILISI
+  branch: ''
+ISBKGE22:
+  institution: TURKIYE IS BANKASI A.S. BATUMI BRANCH
+  city: BATUMI
+  branch: ''

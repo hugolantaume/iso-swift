@@ -1,0 +1,70 @@
+---
+AFRIMLBA:
+  institution: BANK OF AFRICA MALI
+  city: BAMAKO
+  branch: ''
+AFRIMLBA022:
+  institution: BANK OF AFRICA MALI
+  city: BAMAKO
+  branch: ''
+BCAOMLBAMOP:
+  institution: BANQUE (MALI) CENTRALE DES ETATS DE LAFRIQUE ET DE LOUEST
+  city: MOPTI
+  branch: MOPTI BRANCH
+ATMLMLBA:
+  institution: BANQUE ATLANTIQUE MALI
+  city: BAMAKO
+  branch: ''
+BCAOMLBA:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: BAMAKO
+  branch: ''
+BCAOMLBASIK:
+  institution: BANQUE CENTRALE DES ETATS DE LAFRIQUE DE LOUEST
+  city: SIKASSO
+  branch: SIKASSO BRANCH
+ALIMMLBA:
+  institution: BANQUE COMMERCIALE DU SAHEL SA
+  city: BAMAKO
+  branch: ''
+BDMAMLBA:
+  institution: BANQUE DE DEVELOPPEMENT DU MALI S.A.
+  city: BAMAKO
+  branch: ''
+BAHMMLBA:
+  institution: BANQUE DE L HABITAT DU MALI
+  city: BAMAKO
+  branch: ''
+BIPMMLBA:
+  institution: BANQUE INTERNATIONALE POUR LE MALI SA.
+  city: BAMAKO
+  branch: ''
+BMSMMLBA:
+  institution: BANQUE MALIENNE DE SOLIDARITE
+  city: BAMAKO
+  branch: ''
+BNADMLBA:
+  institution: BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)
+  city: BAMAKO
+  branch: ''
+BRSWMLBA:
+  institution: BANQUE REGIONALE DE SOLIDARITE MALI
+  city: BAMAKO
+  branch: ''
+BSAHMLBA:
+  institution: BANQUE SAHELO SAHARIENNE POUR LINVESTISSEMENT ET LE COMMERCE (MALI)
+    S.A.
+  city: BAMAKO
+  branch: ''
+COLIMLBA:
+  institution: BCI MALI
+  city: BAMAKO
+  branch: ''
+BICIMLBA:
+  institution: BICIM
+  city: BAMAKO
+  branch: ''
+ECOCMLBA:
+  institution: ECOBANK MALI
+  city: BAMAKO
+  branch: ''

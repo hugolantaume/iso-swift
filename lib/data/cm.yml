@@ -1,0 +1,157 @@
+---
+CCEICMCXBAF:
+  institution: AFRILAND FIRST BANK
+  city: BAFOUSSAM
+  branch: ''
+CCEICMCXBDA:
+  institution: AFRILAND FIRST BANK
+  city: BAMENDA
+  branch: ''
+CCEICMCXDLA:
+  institution: AFRILAND FIRST BANK
+  city: DOUALA
+  branch: ''
+CCEICMCXGRA:
+  institution: AFRILAND FIRST BANK
+  city: GAROUA
+  branch: ''
+CCEICMCX:
+  institution: AFRILAND FIRST BANK
+  city: YAOUNDE
+  branch: ''
+CCCBCMC10CD:
+  institution: BANK OF CREDIT AND COMMERCE CAMEROON S.A.
+  city: DOUALA
+  branch: ''
+CCCBCMC10CY:
+  institution: BANK OF CREDIT AND COMMERCE CAMEROON S.A.
+  city: YAOUNDE
+  branch: ''
+ATCRCMCM:
+  institution: BANQUE ATLANTIQUE CAMEROUN
+  city: DOUALA
+  branch: ''
+BEACCMCX150:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: BAFOUSSAM
+  branch: ''
+BEACCMCX110:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: DOUALA
+  branch: ''
+BEACCMCX120:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: GAROUA
+  branch: ''
+BEACCMCX140:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: LIMBE
+  branch: ''
+BEACCMCX130:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: NKONGSAMBA
+  branch: ''
+BEACCMCX100:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: YAOUNDE
+  branch: D.N. YAOUNDE
+BEACCMCX091:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: YAOUNDE
+  branch: DIRECTION DES RELATIONS FINANCIERES EXTERIEURES
+BEACCMCX090:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: YAOUNDE
+  branch: SERVICES CENTRAUX YAOUNDE
+BEACCMCX:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: YAOUNDE
+  branch: ''
+BEACCMCP:
+  institution: BANQUE DES ETATS DAFRIQUE CENTRALE
+  city: YAOUNDE
+  branch: ''
+ICLRCMCX:
+  institution: BANQUE INTERNATIONALE DU CAMEROUN POUR LEPARGNE ET LE CREDIT
+  city: DOUALA
+  branch: ''
+BGFICMCX:
+  institution: BGFIBANK CAMEROUN SA
+  city: DOUALA
+  branch: ''
+CITICMCXTRD:
+  institution: CITIBANK N.A.
+  city: DOUALA
+  branch: TRADE SERVICES DEPT
+CITICMCX:
+  institution: CITIBANK N.A.
+  city: DOUALA
+  branch: ''
+CBCDCMCXBFS:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: BAFOUSSAM
+  branch: WEST
+CBCDCMCXBON:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: BONABERI
+  branch: ''
+CBCDCMCXAKW:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: DOUALA
+  branch: LITTORAL
+CBCDCMCX:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: DOUALA
+  branch: ''
+CBCDCMCXGRA:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: GAROUA
+  branch: NORTH
+CBCDCMCXMRA:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: MAROUA
+  branch: FAR NORTH
+CBCDCMCXMOK:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: MOKOLO
+  branch: ''
+CBCDCMCXYDE:
+  institution: COMMERCIAL BANK OF CAMEROON
+  city: YAOUNDE
+  branch: CENTER
+CCAMCMCY:
+  institution: CREDIT COMMUNAUTAIRE DAFRIQUE S.A.
+  city: YAOUNDE
+  branch: ''
+ECOCCMCX:
+  institution: ECOBANK CAMEROUN SA.
+  city: DOUALA
+  branch: ''
+NAFCCMCY:
+  institution: NATIONAL FINANCIAL CREDIT BANK S.A.
+  city: YAOUNDE
+  branch: ''
+BCMACMCX:
+  institution: SCB CAMEROUN S.A.
+  city: DOUALA
+  branch: ''
+SGCMCMCX:
+  institution: SOCIETE GENERALE DE BANQUES AU CAMEROUN
+  city: DOUALA
+  branch: ''
+SCBLCMCX:
+  institution: STANDARD CHARTERED BANK CAMEROON S.A.
+  city: DOUALA
+  branch: ''
+SCBLCMCX0CY:
+  institution: STANDARD CHARTERED BANK CAMEROON S.A.
+  city: YAOUNDE
+  branch: ''
+UCMACMCX:
+  institution: UNION BANK OF CAMEROON LTD. (UBC LTD.)
+  city: AKWA-DOUALA
+  branch: ''
+UNAFCMCX:
+  institution: UNITED BANK FOR AFRICA CAMEROON PLC
+  city: DOUALA
+  branch: ''

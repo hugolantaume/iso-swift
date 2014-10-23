@@ -1,0 +1,85 @@
+---
+BALPLI22:
+  institution: BANK ALPINUM AG
+  city: VADUZ
+  branch: ''
+BFRILI22:
+  institution: BANK FRICK AND CO AKTIENGESELLSCHAFT
+  city: BALZERS
+  branch: ''
+SFBALI22:
+  institution: BANQUE PASCHE (LIECHTENSTEIN) SA
+  city: VADUZ
+  branch: ''
+CBKVLI2X:
+  institution: CENTRUM BANK AG
+  city: VADUZ
+  branch: ''
+EFGBLI22:
+  institution: EFG BANK VON ERNST AG
+  city: VADUZ
+  branch: ''
+HILTLI22:
+  institution: HILTI CORPORATION
+  city: SCHAAN
+  branch: ''
+SERBLI22:
+  institution: KAISER RITTER PARTNER PRIVATBANK AG
+  city: VADUZ
+  branch: ''
+LAMVLI22:
+  institution: LAMDA PRIVATBANK AG
+  city: VADUZ
+  branch: ''
+BLFLLI2X224:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: CONV SHAREKLASSE GBP
+BLFLLI2X225:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: EQ NAM SHAREKLASSE EUR
+BLFLLI2XEXC:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: EX CUSTODY
+BLFLLI2X496:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: M-M CONV. SHAREKLASSE CHF
+BLFLLI2X495:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: M-M CONV. SHAREKLASSE EUR
+BLFLLI2X:
+  institution: LGT BANK AG
+  city: VADUZ
+  branch: ''
+LILALI2X:
+  institution: LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT
+  city: VADUZ
+  branch: ''
+NBANLI22:
+  institution: NEUE BANK AG
+  city: VADUZ
+  branch: ''
+RAIBLI22:
+  institution: RAIFFEISEN BANK (LIECHTENSTEIN) AG
+  city: VADUZ
+  branch: ''
+HYIBLI22:
+  institution: VALARTIS BANK (LIECHTENSTEIN) AG
+  city: GAMPRIN-BENDERN
+  branch: ''
+VPBVLI2XLIC:
+  institution: VERWALTUNGS UND PRIVAT BANK AG
+  city: TRIESEN
+  branch: BUSINESS UNIT LIECHTENSTEIN
+VPBVLI2X:
+  institution: VERWALTUNGS UND PRIVAT BANK AG
+  city: VADUZ
+  branch: ''
+VOAGLI22:
+  institution: VOLKSBANK AG
+  city: SCHAAN
+  branch: ''

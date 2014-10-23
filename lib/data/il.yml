@@ -1,0 +1,201 @@
+---
+POALILITCLS:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: CLS
+POALILITFMT:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: FOREIGN CURRENCY FOR ALL BRANCHES IN ISRAEL
+POALILITFTD:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: FOREIGN TRADE FOR ALL BRANCHES IN ISRAEL
+POALILITBKR:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: FOREX AND MONEY MARKET CONFIRMATIONS
+POALILITDLR:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: FOREX AND MONEY MARKET PAYMENTS
+POALILITCBS:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: SECURITIES
+POALILIT:
+  institution: BANK HAPOALIM B.M.
+  city: TEL-AVIV
+  branch: ''
+LUMIILITHAI:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: HAIFA
+  branch: HAIFA BRANCH
+LUMIILITJLM:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: JERUSALEM
+  branch: JERUSALEM BRANCH
+LUMIILITBSC:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: TEL-AVIV
+  branch: BANKING SERVICES CENTER
+LUMIILITCLS:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: TEL-AVIV
+  branch: CLS OPERATIONS
+LUMIILIT:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: TEL-AVIV
+  branch: TEL-AVIV MAIN BRANCH
+LUMIILITTLV:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: TEL-AVIV
+  branch: TEL-AVIV MAIN BRANCH
+MASBILIT:
+  institution: BANK MASSAD LTD.
+  city: TEL-AVIV
+  branch: ''
+BOICILIJ:
+  institution: BANK OF ISRAEL
+  city: JERUSALEM
+  branch: ''
+ISRAILIJ:
+  institution: BANK OF ISRAEL
+  city: JERUSALEM
+  branch: ''
+ISRAILIR:
+  institution: BANK OF ISRAEL
+  city: JERUSALEM
+  branch: ''
+JERSILIT:
+  institution: BANK OF JERUSALEM LTD. TEL-AVIV
+  city: AIRPORT CITY – LOD
+  branch: ''
+OTSHILIT:
+  institution: BANK OTSAR HA-HAYAL LTD.
+  city: RAMAT-GAN
+  branch: ''
+PAGIILIT:
+  institution: BANK POALEY AGUDAT ISRAEL LTD.
+  city: TEL-AVIV
+  branch: ''
+CITIILITTRD:
+  institution: CITIBANK N.A.
+  city: TEL-AVIV
+  branch: TRADE SERVICES DEPT
+CITIILIT:
+  institution: CITIBANK N.A.
+  city: TEL-AVIV
+  branch: ''
+OTHHILIT:
+  institution: DEXIA ISRAEL BANK LTD
+  city: TEL-AVIV
+  branch: ''
+FIRBILITDEX:
+  institution: FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE
+  city: RAMAT-GAN
+  branch: DIAMOND EXCHANGE BRANCH
+FIRBILIT:
+  institution: FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE
+  city: TEL-AVIV
+  branch: ''
+FIRBILITCBR:
+  institution: FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE
+  city: TEL-AVIV
+  branch: ''
+IDBLILITHAI:
+  institution: ISRAEL DISCOUNT BANK LTD.
+  city: HAIFA
+  branch: ''
+IDBLILITJLM:
+  institution: ISRAEL DISCOUNT BANK LTD.
+  city: JERUSALEM
+  branch: ''
+IDBLILITDMD:
+  institution: ISRAEL DISCOUNT BANK LTD.
+  city: RAMAT-GAN
+  branch: DIAMOND EXCHANGE
+IDBLILIT:
+  institution: ISRAEL DISCOUNT BANK LTD.
+  city: TEL-AVIV
+  branch: HEAD OFFICE
+IPOAILIJ:
+  institution: ISRAEL POSTAL BANK
+  city: JERUSALEM
+  branch: ''
+BARDILIT:
+  institution: MERCANTILE DISCOUNT BANK LTD.
+  city: TEL-AVIV
+  branch: HEAD OFFICE
+MIZBILITBSV:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: BEER-SHEVA
+  branch: BEER-SHEVA MAIN BRANCH
+MIZBILITHAI:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: HAIFA
+  branch: HAIFA MAIN BRANCH
+MIZBILITJLM:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: JERUSALEM
+  branch: JERUSALEM MAIN BRANCH
+MIZBILITDMD:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: RAMAT-GAN
+  branch: DIAMOND EXCHANGE BRANCH
+MIZBILITTLV:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: TEL-AVIV
+  branch: TEL-AVIV MAIN BRANCH
+MIZBILIT:
+  institution: MIZRAHI TEFAHOT BANK LTD.
+  city: TEL-AVIV
+  branch: ''
+SBINILIT:
+  institution: STATE BANK OF INDIA
+  city: RAMAT-GAN
+  branch: ''
+XTAEILIB:
+  institution: TEL AVIV STOCK EXCHANGE
+  city: TEL-AVIV
+  branch: ''
+XTAEILIC:
+  institution: TEL AVIV STOCK EXCHANGE
+  city: TEL-AVIV
+  branch: ''
+XTAEILIM:
+  institution: TEL AVIV STOCK EXCHANGE
+  city: TEL-AVIV
+  branch: ''
+XTAEILIT:
+  institution: TEL-AVIV STOCK EXCHANGE CLEARING HOUSE
+  city: TEL-AVIV
+  branch: ''
+IGBTILIT:
+  institution: UBANK LTD.
+  city: TEL-AVIV
+  branch: ''
+UNBKILITHAI:
+  institution: UNION BANK OF ISRAEL LTD
+  city: HAIFA
+  branch: ''
+UNBKILITJLM:
+  institution: UNION BANK OF ISRAEL LTD
+  city: JERUSALEM
+  branch: ''
+UNBKILITDMD:
+  institution: UNION BANK OF ISRAEL LTD
+  city: RAMAT-GAN
+  branch: DIAMOND BRANCH
+UNBKILITINT:
+  institution: UNION BANK OF ISRAEL LTD
+  city: TEL-AVIV
+  branch: INTERNATIONAL BRANCH
+UNBKILITTLV:
+  institution: UNION BANK OF ISRAEL LTD
+  city: TEL-AVIV
+  branch: TEL-AVIV HEAD OFFICE
+UNBKILIT:
+  institution: UNION BANK OF ISRAEL LTD
+  city: TEL-AVIV
+  branch: ''

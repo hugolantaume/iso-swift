@@ -1,0 +1,625 @@
+---
+LABANOKK:
+  institution: BANK 1 OSLO AKERSHUS AS
+  city: OSLO
+  branch: ''
+KBNONO22:
+  institution: BNBANK ASA
+  city: TRONDHEIM
+  branch: ''
+BNPANOKK:
+  institution: BNP PARIBAS FORTIS SA/NV NORWAY BRANCH
+  city: OSLO
+  branch: ''
+CITINOKX:
+  institution: CITIBANK INTERNATIONAL PLC, NORWAY BRANCH
+  city: OSLO
+  branch: ''
+DABANO22KSU:
+  institution: DANSKE BANK A/S
+  city: KRISTIANSUND N
+  branch: KRISTIANSUND
+DABANO22OSL:
+  institution: DANSKE BANK A/S
+  city: OSLO
+  branch: OSLO BRANCH
+DABANO22SKE:
+  institution: DANSKE BANK A/S
+  city: SKIEN
+  branch: SKIEN BRANCH
+DABANO22SOG:
+  institution: DANSKE BANK A/S
+  city: SOGNDAL
+  branch: SOGNDAL
+DABANO22SVG:
+  institution: DANSKE BANK A/S
+  city: STAVANGER
+  branch: STAVANGER
+DABANO22STE:
+  institution: DANSKE BANK A/S
+  city: STEINKJER
+  branch: STEINKJER
+DABANO22STJ:
+  institution: DANSKE BANK A/S
+  city: STJOERDAL
+  branch: STJOERDAL BRANCH
+DABANO22STO:
+  institution: DANSKE BANK A/S
+  city: STORD
+  branch: STORD BRANCH
+DABANO22TRM:
+  institution: DANSKE BANK A/S
+  city: TROMSOE
+  branch: TROMSOE BRANCH
+DABANO22CLS:
+  institution: DANSKE BANK A/S
+  city: TRONDHEIM
+  branch: CLS SERVICES
+DABANO22:
+  institution: DANSKE BANK A/S
+  city: TRONDHEIM
+  branch: ''
+DNAMNOKK:
+  institution: DNB ASSET MANAGEMENT AS
+  city: OSLO
+  branch: ''
+DNBANOKK:
+  institution: DNB BANK ASA
+  city: OSLO
+  branch: ''
+DNBANOKC:
+  institution: DNB MARKETS CUSTODY, A BUSINESS UNIT OF DNB BANK ASA, OSLO
+  city: OSLO
+  branch: ''
+DNBANOKXCLS:
+  institution: DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO
+  city: BERGEN
+  branch: CLS NOSTRO AGENT CONTROL BRANCH
+DNBANOKX:
+  institution: DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO
+  city: OSLO
+  branch: ''
+DNVGNO22:
+  institution: DNV GL GROUP AS
+  city: HOVIK
+  branch: ''
+EKSPNOKK:
+  institution: EKSPORTFINANS ASA
+  city: OSLO
+  branch: ''
+FOLTNOKK:
+  institution: FOLKETRYGDFONDET
+  city: OSLO
+  branch: ''
+HANDNOKKCUS:
+  institution: HANDELSBANKEN
+  city: OSLO
+  branch: NORDIC CUSTODY SERVICES
+HANDNOKK:
+  institution: HANDELSBANKEN
+  city: OSLO
+  branch: ''
+CHASNOKK:
+  institution: JPMORGAN EUROPE LIMITED, OLSO BRANCH
+  city: OSLO
+  branch: ''
+CHASNOKKOSL:
+  institution: JPMORGAN EUROPE LIMITED, OLSO BRANCH
+  city: OSLO
+  branch: ''
+KLPANOKK:
+  institution: KLP KAPITALFORVALTNING AS
+  city: OSLO
+  branch: ''
+NEFNNOKK:
+  institution: NETFONDS BANK ASA
+  city: OSLO
+  branch: ''
+NDEANOKKVPU:
+  institution: NORDEA BANK NORGE ASA
+  city: OSLO
+  branch: CUSTODY INTERNATIONAL
+NDEANOKK:
+  institution: NORDEA BANK NORGE ASA
+  city: OSLO
+  branch: ''
+NDEANOKKNCL:
+  institution: NORDEA BANK NORGE ASA
+  city: OSLO
+  branch: ''
+NOBANO22AND:
+  institution: NORDLANDSBANKEN ASA
+  city: ANDENES
+  branch: ''
+NOBANO22:
+  institution: NORDLANDSBANKEN ASA
+  city: BODOE
+  branch: ''
+NOBANO22BNN:
+  institution: NORDLANDSBANKEN ASA
+  city: BROENNOEYSUND
+  branch: ''
+NOBANO22FAU:
+  institution: NORDLANDSBANKEN ASA
+  city: FAUSKE
+  branch: ''
+NOBANO22LKN:
+  institution: NORDLANDSBANKEN ASA
+  city: LEKNES
+  branch: ''
+NOBANO22MEL:
+  institution: NORDLANDSBANKEN ASA
+  city: MELBU
+  branch: ''
+NOBANO22MON:
+  institution: NORDLANDSBANKEN ASA
+  city: MO I RANA
+  branch: ''
+NOBANO22MOS:
+  institution: NORDLANDSBANKEN ASA
+  city: MOSJOEN
+  branch: ''
+NOBANO22MYR:
+  institution: NORDLANDSBANKEN ASA
+  city: MYRE
+  branch: ''
+NOBANO22NVK:
+  institution: NORDLANDSBANKEN ASA
+  city: NARVIK
+  branch: ''
+NOBANO22ORN:
+  institution: NORDLANDSBANKEN ASA
+  city: OERNES
+  branch: ''
+NOBANO22OSL:
+  institution: NORDLANDSBANKEN ASA
+  city: OSLO
+  branch: ''
+NOBANO22ROG:
+  institution: NORDLANDSBANKEN ASA
+  city: ROGNAN
+  branch: ''
+NOBANO22SSJ:
+  institution: NORDLANDSBANKEN ASA
+  city: SANDNESSJOEN
+  branch: ''
+NOBANO22SOR:
+  institution: NORDLANDSBANKEN ASA
+  city: SORTLAND
+  branch: ''
+NOBANO22STA:
+  institution: NORDLANDSBANKEN ASA
+  city: STAMSUND
+  branch: ''
+NOBANO22SKN:
+  institution: NORDLANDSBANKEN ASA
+  city: STOKMARKNES
+  branch: ''
+NBHKNOKKBRA:
+  institution: NORGES BANK
+  city: OSLO
+  branch: BRA
+NBHKNOKKSKK:
+  institution: NORGES BANK
+  city: OSLO
+  branch: CENTRAL GOVERNMENT’S CONSOLIDATED ACCOUNT SYSTEM
+NBHKNOKKMOA:
+  institution: NORGES BANK
+  city: OSLO
+  branch: DEPARTMENT FOR MARKET OPERATIONS AND ANALYSIS
+NBHKNOKKTVA:
+  institution: NORGES BANK
+  city: OSLO
+  branch: INTERIM TVANGSBALANSERING
+NBHKNOKKASA:
+  institution: NORGES BANK
+  city: OSLO
+  branch: NORGES BANK AS AN AUTHORISED AGENT IN NBO
+NBHKNOKKSIL:
+  institution: NORGES BANK
+  city: OSLO
+  branch: NORGES BANK AS EXTERNAL COLLATERAL AGENT SIL
+NBHKNOKKKOL:
+  institution: NORGES BANK
+  city: OSLO
+  branch: NORGES BANK KOLLOR ASA
+NBHKNOKKS01:
+  institution: NORGES BANK
+  city: OSLO
+  branch: S-LAAN1
+NBHKNOKKS02:
+  institution: NORGES BANK
+  city: OSLO
+  branch: S-LAAN2
+NBHKNOKKS03:
+  institution: NORGES BANK
+  city: OSLO
+  branch: S-LAAN3
+NBHKNOKKS04:
+  institution: NORGES BANK
+  city: OSLO
+  branch: S-LAAN4
+NBHKNOKKS05:
+  institution: NORGES BANK
+  city: OSLO
+  branch: S-LAAN5
+NBHKNOKKTIA:
+  institution: NORGES BANK
+  city: OSLO
+  branch: TECHNICAL INFRASTRUCTURE AGENT ROLE FOR NBO
+NBHKNOKKTIK:
+  institution: NORGES BANK
+  city: OSLO
+  branch: TIA ROLE FOR KOLLOR NBO
+NBHKNOKK:
+  institution: NORGES BANK
+  city: OSLO
+  branch: ''
+NGIMNOKK:
+  institution: NORGES BANK (DIVISION NORGES BANK INVESTMENT MANAGEMENT)
+  city: OSLO
+  branch: ''
+NHYDNOKK:
+  institution: NORSK HYDRO A.S.A., HYDRO FINANS
+  city: OSLO
+  branch: ''
+ODFONOKK:
+  institution: ODIN FORVALTNING AS
+  city: OSLO
+  branch: ''
+OSCLNOKKLAN:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: OSLO CLEARING
+OSCLNOKKVPO:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: OSLO CLEARING
+OSCLNOKK:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: ''
+OSCLNOKX:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: ''
+OSCLNOKXCLN:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: ''
+OSCLNOKXCLR:
+  institution: OSLO CLEARING ASA
+  city: OSLO
+  branch: ''
+SASKNO22:
+  institution: SANDNES SPAREBANK
+  city: SANDNES
+  branch: ''
+ENSKNOKK:
+  institution: SEB ENSKILDA AS
+  city: OSLO
+  branch: ''
+ESSENO22:
+  institution: SEB PRIVATE BANKING
+  city: OSLO
+  branch: ''
+SKIANOBB:
+  institution: SKANDIABANKEN AB NORGE
+  city: BERGEN
+  branch: ''
+ESSENOKX:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: OSLO
+  branch: ''
+ESSENOKXCLS:
+  institution: SKANDINAVISKA ENSKILDA BANKEN
+  city: OSLO
+  branch: ''
+SNOWNO22:
+  institution: SPAREBANK 1 NORD-NORGE
+  city: TROMSOE
+  branch: ''
+RYGSNO22:
+  institution: SPAREBANK 1 OSTFOLD AKERSHUS
+  city: MOSS
+  branch: ''
+SPTRNO22SB1:
+  institution: SPAREBANK 1 SMN
+  city: OSLO
+  branch: SPAREBANK 1 MARKETS
+SPTRNO22:
+  institution: SPAREBANK 1 SMN
+  city: TRONDHEIM
+  branch: ''
+SPRONO22AGD:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: AALGAARD
+  branch: ''
+SPRONO22BNE:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: BRYNE
+  branch: ''
+SPRONO22EGE:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: EGERSUND
+  branch: ''
+SPRONO22FLE:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: FLEKKEFJORD
+  branch: ''
+SPRONO22FOR:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: FORUS
+  branch: ''
+SPRONO22HAU:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: HAUGESUND
+  branch: ''
+SPRONO22JPL:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: JOERPELAND
+  branch: ''
+SPRONO22KRS:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: KRISTIANSAND S
+  branch: ''
+SPRONO22OLN:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: OELEN
+  branch: ''
+SPRONO22SDS:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: SANDNES
+  branch: ''
+SPRONO22SOL:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: SOLA
+  branch: ''
+SPRONO22:
+  institution: SPAREBANK 1 SR-BANK ASA
+  city: STAVANGER
+  branch: ''
+SHEDNO22ALV:
+  institution: SPAREBANKEN HEDMARK
+  city: ALVDAL
+  branch: ALVDAL BRANCH
+SHEDNO22BUM:
+  institution: SPAREBANKEN HEDMARK
+  city: BRUMUNDDAL
+  branch: BRUMUNDDAL BRANCH
+SHEDNO22EVR:
+  institution: SPAREBANKEN HEDMARK
+  city: ELVERUM
+  branch: ELVERUM BRANCH
+SHEDNO22ENG:
+  institution: SPAREBANKEN HEDMARK
+  city: ENGERDAL
+  branch: ENGERDAL BRANCH
+SHEDNO22FLI:
+  institution: SPAREBANKEN HEDMARK
+  city: FLISA
+  branch: FLISA BRANCH
+SHEDNO22FOL:
+  institution: SPAREBANKEN HEDMARK
+  city: FOLLDAL
+  branch: FOLLDAL BRANCH
+SHEDNO22HMX:
+  institution: SPAREBANKEN HEDMARK
+  city: HAMAR
+  branch: HAMAR BRANCH
+SHEDNO22:
+  institution: SPAREBANKEN HEDMARK
+  city: HAMAR
+  branch: HEAD OFFICE
+SHEDNO22KIR:
+  institution: SPAREBANKEN HEDMARK
+  city: KIRKENAER
+  branch: KIRKENAER BRANCH
+SHEDNO22KVR:
+  institution: SPAREBANKEN HEDMARK
+  city: KONGSVINGER
+  branch: KONGSVINGER BRANCH
+SHEDNO22KOP:
+  institution: SPAREBANKEN HEDMARK
+  city: KOPPANG
+  branch: KOPPANG BRANCH
+SHEDNO22LOT:
+  institution: SPAREBANKEN HEDMARK
+  city: LOETEN
+  branch: LOETEN BRANCH
+SHEDNO22MOE:
+  institution: SPAREBANKEN HEDMARK
+  city: MOELV
+  branch: MOELV BRANCH
+SHEDNO22NES:
+  institution: SPAREBANKEN HEDMARK
+  city: NES PA HEDMARK
+  branch: NES BRANCH
+SHEDNO22OSI:
+  institution: SPAREBANKEN HEDMARK
+  city: OS I OESTERDALEN
+  branch: OS BRANCH
+SHEDNO22OTS:
+  institution: SPAREBANKEN HEDMARK
+  city: OTTESTAD
+  branch: OTTESTAD BRANCH
+SHEDNO22REN:
+  institution: SPAREBANKEN HEDMARK
+  city: RENA
+  branch: RENA BRANCH
+SHEDNO22RND:
+  institution: SPAREBANKEN HEDMARK
+  city: RENDALEN
+  branch: RENDALEN BRANCH
+SHEDNO22ROM:
+  institution: SPAREBANKEN HEDMARK
+  city: ROMEDAL
+  branch: ROMEDAL BRANCH
+SHEDNO22SKA:
+  institution: SPAREBANKEN HEDMARK
+  city: SKARNES
+  branch: SKARNES BRANCH
+SHEDNO22SKO:
+  institution: SPAREBANKEN HEDMARK
+  city: SKOTTERUD
+  branch: SKOTTERUD BRANCH
+SHEDNO22STA:
+  institution: SPAREBANKEN HEDMARK
+  city: STANGE
+  branch: STANGE BRANCH
+SHEDNO22TSI:
+  institution: SPAREBANKEN HEDMARK
+  city: TRYSIL
+  branch: TRYSIL BRANCH
+SHEDNO22TST:
+  institution: SPAREBANKEN HEDMARK
+  city: TYNSET
+  branch: TYNSET BRANCH
+SHEDNO22VLR:
+  institution: SPAREBANKEN HEDMARK
+  city: VAALER I SOLOER
+  branch: VAALER BRANCH
+SPARNO22AAH:
+  institution: SPAREBANKEN MOERE
+  city: AAHEIM
+  branch: ''
+SPARNO22:
+  institution: SPAREBANKEN MOERE
+  city: AALESUND
+  branch: ''
+SPARNO22AAN:
+  institution: SPAREBANKEN MOERE
+  city: AANDALSNES
+  branch: ''
+SPARNO22BRA:
+  institution: SPAREBANKEN MOERE
+  city: BRATTVAAG
+  branch: ''
+SPARNO22FOS:
+  institution: SPAREBANKEN MOERE
+  city: FOSNAVAAG
+  branch: ''
+SPARNO22HAR:
+  institution: SPAREBANKEN MOERE
+  city: HAREID
+  branch: ''
+SPARNO22LAN:
+  institution: SPAREBANKEN MOERE
+  city: LANGEVAAG
+  branch: ''
+SPARNO22LAR:
+  institution: SPAREBANKEN MOERE
+  city: LARSNES
+  branch: ''
+SPARNO22MOL:
+  institution: SPAREBANKEN MOERE
+  city: MOLDE
+  branch: ''
+SPARNO22SPJ:
+  institution: SPAREBANKEN MOERE
+  city: SPJELKAVIK
+  branch: ''
+SPARNO22STO:
+  institution: SPAREBANKEN MOERE
+  city: STORDAL
+  branch: ''
+SPARNO22STR:
+  institution: SPAREBANKEN MOERE
+  city: STRANDA
+  branch: ''
+SPARNO22SYK:
+  institution: SPAREBANKEN MOERE
+  city: SYKKYLVEN
+  branch: ''
+SPARNO22ULS:
+  institution: SPAREBANKEN MOERE
+  city: ULSTEINVIK
+  branch: ''
+SPARNO22VES:
+  institution: SPAREBANKEN MOERE
+  city: VESTNES
+  branch: ''
+SPSONO22:
+  institution: SPAREBANKEN PLUSS
+  city: KRISTIANSAND S
+  branch: ''
+AASPNO22GMD:
+  institution: SPAREBANKEN SOER
+  city: GRIMSTAD
+  branch: ''
+AASPNO22:
+  institution: SPAREBANKEN SOER
+  city: KRISTIANSAND S
+  branch: ''
+SOFJNO22:
+  institution: SPAREBANKEN SOGN OG FJORDANE
+  city: FOERDE
+  branch: ''
+SPAVNOBB:
+  institution: SPAREBANKEN VEST
+  city: BERGEN
+  branch: ''
+SPAVNOBBBRE:
+  institution: SPAREBANKEN VEST
+  city: BREMNES
+  branch: ''
+SPAVNOBBFJE:
+  institution: SPAREBANKEN VEST
+  city: FJELL
+  branch: ''
+SPAVNOBBDDA:
+  institution: SPAREBANKEN VEST
+  city: ODDA
+  branch: ''
+SPAVNOBBOSO:
+  institution: SPAREBANKEN VEST
+  city: OS
+  branch: ''
+SPAVNOBBSTO:
+  institution: SPAREBANKEN VEST
+  city: STORD
+  branch: ''
+SASANO22:
+  institution: STATOIL ASA
+  city: STAVANGER
+  branch: ''
+STKSNO22:
+  institution: STATOIL KAPITALFORVALTNING ASA
+  city: STAVANGER
+  branch: ''
+STFBNOKK:
+  institution: STOREBRAND BANK ASA
+  city: OSLO
+  branch: ''
+FISANOKK:
+  institution: SWEDBANK AB
+  city: OSLO
+  branch: ''
+SWEDNOKK:
+  institution: SWEDBANK AB
+  city: OSLO
+  branch: ''
+TEORNO22:
+  institution: TELENOR ASA
+  city: FORNEBU
+  branch: ''
+VPSNNOKKCCP:
+  institution: VERDIPAPIRSENTRALEN, VPS
+  city: OSLO
+  branch: CCP SETTLEMENT
+VPSNNOKKCLE:
+  institution: VERDIPAPIRSENTRALEN, VPS
+  city: OSLO
+  branch: VPS CLEARING
+VPSNNOKKCLR:
+  institution: VERDIPAPIRSENTRALEN, VPS
+  city: OSLO
+  branch: VPS CLEARING
+VPSNNOKK:
+  institution: VERDIPAPIRSENTRALEN, VPS
+  city: OSLO
+  branch: ''
+YARANOKK:
+  institution: YARA INTERNATIONAL ASA
+  city: OSLO
+  branch: ''

@@ -1,0 +1,321 @@
+---
+AIKBRS22:
+  institution: AIK BANKA AD
+  city: NIS
+  branch: ''
+JUBARSBG:
+  institution: ALPHA BANK SRBIJA AD
+  city: BEOGRAD
+  branch: ''
+DBDBRSBG:
+  institution: BANCA INTESA AD BEOGRAD
+  city: BEOGRAD
+  branch: ''
+CABARS22:
+  institution: CACANSKA BANKA A.D.
+  city: CACAK
+  branch: ''
+MEBARS22:
+  institution: CREDIT AGRICOLE SRBIJA AD NOVI SAD
+  city: NOVI SAD
+  branch: ''
+KRAGRS22:
+  institution: CREDY BANKA AD KRAGUJEVAC
+  city: KRAGUJEVAC
+  branch: ''
+KMEBRS2Z:
+  institution: DUNAV BANKA A.D. BEOGRAD
+  city: BEOGRAD
+  branch: ''
+GIBARS22:
+  institution: ERSTE BANK A.D. NOVI SAD
+  city: NOVI SAD
+  branch: ''
+EFGBRSBGSEC:
+  institution: EUROBANK AD
+  city: BEOGRAD
+  branch: CUSTODY UNIT
+EFGBRSBG:
+  institution: EUROBANK AD
+  city: BEOGRAD
+  branch: ''
+FIDMRSBG:
+  institution: FINDOMESTIC BANKA AD
+  city: BEOGRAD
+  branch: ''
+HAABRSBG:
+  institution: HYPO ALPE ADRIA BANK A.D. BEOGRAD
+  city: BEOGRAD
+  branch: ''
+JMBNRSBG:
+  institution: JUBMES BANKA A.D. BEOGRAD
+  city: BEOGRAD
+  branch: ''
+AAAARSBG:
+  institution: KBC BANKA AD
+  city: BEOGRAD
+  branch: ''
+KOBBRSBGGFB:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: BEOGRAD
+  branch: MAIN BRANCH
+KOBBRSBG:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: BEOGRAD
+  branch: ''
+KOBBRSBGFCA:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: CACAK
+  branch: BRANCH CACAK
+KOBBRSBGFJA:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: JAGODINA
+  branch: BRANCH JAGODINA
+KOBBRSBGFKP:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: KOSOVO POLJE
+  branch: KOSOVO POLJE BRANCH
+KOBBRSBGFKG:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: KRAGUJEVAC
+  branch: KRAGUJEVAC BRANCH
+KOBBRSBGFKV:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: KRALJEVO
+  branch: BRANCH KRALJEVO
+KOBBRSBGKRS:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: KRUSEVAC
+  branch: ''
+KOBBRSBGGFN:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: NIS
+  branch: MAIN BRANCH NIS
+KOBBRSBGFNP:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: NOVI PAZAR
+  branch: NOVI PAZAR BRANCH
+KOBBRSBGFNS:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: NOVI SAD
+  branch: NOVI SAD BRANCH
+KOBBRSBGFPO:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: POZAREVAC
+  branch: BRANCH POZAREVAC
+KOBBRSBGFSA:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: SABAC
+  branch: SABAC BRANCH
+KOBBRSBGFSO:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: SOMBOR
+  branch: BRANCH SOMBOR
+KOBBRSBGFSM:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: SREMSKA MITROVICA
+  branch: BRANCH SREMSKA MITROVICA
+KOBBRSBGFSU:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: SUBOTICA
+  branch: SUBOTICA BRANCH
+KOBBRSBGFUE:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: UZICE
+  branch: BRANCH UZICE
+KOBBRSBGFVA:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: VALJEVO
+  branch: VLAJEVO BRANCH
+KOBBRSBGFZR:
+  institution: KOMERCIJALNA BANKA A.D. BEOGRAD
+  city: ZRENJANIN
+  branch: BRANCH ZRENJANIN
+LIKIRSBG:
+  institution: MARFIN BANK A.D. BEOGRAD
+  city: BEOGRAD
+  branch: ''
+MBBGRSBG:
+  institution: MOSKOVSKA BANKA AD BEOGRAD
+  city: BEOGRAD
+  branch: ''
+NBSRRSBD:
+  institution: NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA NBS)
+  city: BEOGRAD
+  branch: ''
+NBSRRSBG:
+  institution: NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA NBS)
+  city: BEOGRAD
+  branch: ''
+CONARS22:
+  institution: NLB BANKA A.D. BEOGRAD
+  city: NOVI BEOGRAD
+  branch: ''
+NLPRRS22:
+  institution: NLB PRISHTINA SH.A.
+  city: PRISTINA
+  branch: ''
+OPPBRS22:
+  institution: OPPORTUNITY BANKA A.D. NOVI SAD
+  city: NOVI SAD
+  branch: ''
+OTPVRS22:
+  institution: OTP BANKA SRBIJA A.D. NOVI SAD
+  city: NOVI SAD
+  branch: ''
+PIRBRSBG:
+  institution: PIRAEUS BANK AD BEOGRAD
+  city: BEOGRAD
+  branch: ''
+SBPORSBG100:
+  institution: POSTAL SAVINGS BANK JSC
+  city: BEOGRAD
+  branch: CORPORATE CUSTOMERS
+SBPORSBG:
+  institution: POSTAL SAVINGS BANK JSC
+  city: BEOGRAD
+  branch: ''
+PBBBRSBG:
+  institution: PRIVREDNA BANKA BEOGRAD DD BEOGRAD
+  city: BEOGRAD
+  branch: ''
+PRCBRSBG:
+  institution: PROCREDIT BANK A.D. BELGRADE
+  city: BEOGRAD
+  branch: ''
+MBKORS22:
+  institution: PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK PRISTINA KOSOVO)
+  city: PRISTINA
+  branch: ''
+RBKORS22:
+  institution: RAIFFEISEN BANK KOSOVO
+  city: PRISTINA
+  branch: ''
+RZBSRSBG:
+  institution: RAIFFEISEN BANKA A.D.
+  city: BEOGRAD
+  branch: ''
+SABRRSBG:
+  institution: SBERBANK SRBIJA A.D.
+  city: BEOGRAD
+  branch: ''
+SOGYRSBG:
+  institution: SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD
+  city: BEOGRAD
+  branch: ''
+SRBNRSBG:
+  institution: SRPSKA BANKA A.D.
+  city: BEOGRAD
+  branch: ''
+TEBKRS22030:
+  institution: TEB SHA
+  city: KLINA
+  branch: KLINA
+TEBKRS22020:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: DARDANIA
+TEBKRS22024:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: DRENAS
+TEBKRS22013:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: FERIZAJ
+TEBKRS22014:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: FUSHE KOSOVA
+TEBKRS22018:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: GJAKOVA
+TEBKRS22017:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: GJILAN
+TEBKRS22029:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: HANI ELEZIT
+TEBKRS22026:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: LYPJAN
+TEBKRS22011:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: MAIN
+TEBKRS22023:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: MALISHEVA
+TEBKRS22027:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: MITROVICA
+TEBKRS22031:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: PEJA CITY OFFICE
+TEBKRS22015:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: PEJA
+TEBKRS22034:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: PRISTINA QENDRA
+TEBKRS22028:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: PRIZREN MAIN
+TEBKRS22033:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: QAFA CITY OFFICE
+TEBKRS22019:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: RAHOVEC
+TEBKRS22012:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: SHADERVAN
+TEBKRS22022:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: SKENDERAJ
+TEBKRS22025:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: THERANDA
+TEBKRS22021:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: ULPIANA
+TEBKRS22016:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: VUSHTRRI
+TEBKRS22:
+  institution: TEB SHA
+  city: PRISTINA
+  branch: ''
+ISBKRS22:
+  institution: TURKIYE IS BANKASI A.S.PRISTINA BRANCH
+  city: PRISTINA
+  branch: ''
+BACXRSBG:
+  institution: UNICREDIT BANK SRBIJA A.D.
+  city: BEOGRAD
+  branch: ''
+UBBGRSBG:
+  institution: UNIVERZAL BANKA AD
+  city: BEOGRAD
+  branch: ''
+VBUBRS22:
+  institution: VOJVODJANSKA BANKA D.D.
+  city: NOVI SAD
+  branch: ''

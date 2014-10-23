@@ -1,0 +1,424 @@
+---
+IGCPPTPL:
+  institution: AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA IGCP EPE
+  city: LISBON
+  branch: ''
+PRTTPTP2:
+  institution: AS PRIVATBANK SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+BAIPPTPL:
+  institution: BANCO BAI EUROPA SA
+  city: LISBON
+  branch: ''
+BCCBPTPL:
+  institution: BANCO BIC PORTUGUES
+  city: LISBON
+  branch: ''
+BPNPPTPL:
+  institution: BANCO BIC PORTUGUES S.A.
+  city: LISBON
+  branch: ''
+BPNPPTPLSFE:
+  institution: BANCO BIC PORTUGUES S.A.
+  city: MADEIRA
+  branch: SUCURSAL FINANCEIRA EXTERIOR
+BBVAPTPL:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.
+  city: LISBON
+  branch: ''
+BBVAPTPLTG2:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.
+  city: LISBON
+  branch: ''
+BBPIPTPL:
+  institution: BANCO BPI SA
+  city: PORTO
+  branch: ALL PT BRANCHES NOT LISTED
+BCOMPTPLOFI:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: FUNCHAL
+  branch: OFFSHORE BRANCH – CORPORATE AREA
+BCOMPTPLSFE:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: FUNCHAL
+  branch: OFFSHORE BRANCH
+BCOMPTPLFUN:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: FUNCHAL
+  branch: ''
+BCOMPTPL:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: ALL NON LISTED BRANCHES
+BCOMPTPLB01:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: BOPB – LISBOA
+BCOMPTPLINT:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: CORRESPONDENT BANKING DIVISION
+BCOMPTPLDRI:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: INSTITUTIONAL CUSTODY
+BCOMPTPLLEU:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: RUA INSTITUTO INDUSTRIAL N 7
+BCOMPTPLDIF:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: TREASURY DIVISION
+BCOMPTPLB07:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: ''
+BCOMPTPLLES:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: LISBON
+  branch: ''
+BCOMPTPLOTP:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: OEIRAS
+  branch: TAGUS PARK
+BCOMPTPLPLC:
+  institution: BANCO COMERCIAL PORTUGUES
+  city: PORTO
+  branch: LATINO COELHO
+CSSOPTPX:
+  institution: BANCO DE CAJA ESPANA DE INVERSIONES SALAMANCA Y SORIA S.A.
+  city: LISBON
+  branch: ''
+BDIGPTPL:
+  institution: BANCO DE INVESTIMENTO GLOBAL S.A.
+  city: LISBON
+  branch: ''
+BGALPTTGCCB:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: BP- CCBM
+BGALPTTGBAC:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: BP-BACK-OFFICE
+BGALPTTGMRR:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: BP-MINIMUM RESERVES
+BGALPTTGSIT:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: BP-MONETARY POLICY OPERATIONS
+BGALPTTGPTP:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: COLLATERAL MANAGEMENT PT PARTIES
+BGALPTPLPTP:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: COLLATERAL MANAGEMENT PT PARTIES
+BGALPTPLDCP:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: CONTABILIDADE E PAGAMENTOS
+BGALPTTGDET:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: DET-EMISSAO E TESOURARIA
+BGALPTPLGPF:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: FUNDS
+BGALPTTGMMI:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: MERCADO MONETARIO INTERBANCARIO
+BGALPTTG:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: SISTEMAS DE PAGAMENTOS
+BGALPTPL:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: ''
+BGALPTPLCON:
+  institution: BANCO DE PORTUGAL
+  city: LISBON
+  branch: ''
+BGALPTTGFGC:
+  institution: BANCO DE PORTUGAL
+  city: PORTO
+  branch: FUNDO GARANTIA
+BRASPTPL:
+  institution: BANCO DO BRASIL AG SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+EFISPTPL:
+  institution: BANCO EFISA S.A.
+  city: LISBON
+  branch: ''
+ESSIPTPLFUN:
+  institution: BANCO ESPIRITO SANTO DE INVESTIMENTO S.A.
+  city: FUNCHAL
+  branch: ''
+ESSIPTPL:
+  institution: BANCO ESPIRITO SANTO DE INVESTIMENTO S.A.
+  city: LISBON
+  branch: ''
+ESSIPTPLPOR:
+  institution: BANCO ESPIRITO SANTO DE INVESTIMENTO S.A.
+  city: PORTO
+  branch: ''
+BESAPTPA:
+  institution: BANCO ESPIRITO SANTO DOS ACORES S.A.
+  city: PONTA DELGADA
+  branch: ''
+BESCPTPLOSF:
+  institution: BANCO ESPIRITO SANTO S.A.
+  city: FUNCHAL
+  branch: SUCURSAL FINANCEIRA EXTERIOR, MADEIRA BRANCH
+BESCPTPL:
+  institution: BANCO ESPIRITO SANTO S.A.
+  city: LISBON
+  branch: ''
+BESCPTPLOPR:
+  institution: BANCO ESPIRITO SANTO S.A.
+  city: PORTO
+  branch: ''
+BFIAPTPLCOR:
+  institution: BANCO FINANTIA S.A.
+  city: LISBON
+  branch: FINANTIA CORRETORA
+BFIAPTPLINT:
+  institution: BANCO FINANTIA S.A.
+  city: LISBON
+  branch: FINANTIA INTERNATIONAL
+BFIAPTPLSEC:
+  institution: BANCO FINANTIA S.A.
+  city: LISBON
+  branch: FINANTIA SECURITIES
+BFIAPTPL:
+  institution: BANCO FINANTIA S.A.
+  city: LISBON
+  branch: ''
+BFIAPTPLSFE:
+  institution: BANCO FINANTIA S.A.
+  city: MADEIRA
+  branch: MADEIRA OFFSHORE BRANCH
+IVVSPTPL:
+  institution: BANCO INVEST S.A.
+  city: LISBON
+  branch: ''
+CRBNPTPL:
+  institution: BANCO POPULAR PORTUGAL S.A.
+  city: LISBON
+  branch: ''
+BPGPPTPL:
+  institution: BANCO PORTUGUES DE GESTAO S.A.
+  city: LISBON
+  branch: ''
+BPIPPTPL:
+  institution: BANCO PORTUGUES DE INVESTIMENTO S.A.
+  city: LISBON
+  branch: ''
+BAPAPTPL:
+  institution: BANCO PRIVADO ATLANTICO EUROPA SA
+  city: LISBON
+  branch: ''
+RUBAPTPF:
+  institution: BANCO RURAL EUROPA S/A
+  city: LISBON
+  branch: ''
+TOTAPTPL:
+  institution: BANCO SANTANDER TOTTA SA
+  city: LISBON
+  branch: ''
+TOTAPTPLMOB:
+  institution: BANCO SANTANDER TOTTA SA
+  city: MADEIRA
+  branch: MADEIRA OFFSHORE BRANCH
+BNFIPTPL:
+  institution: BANIF BANCO DE INVESTIMENTO S.A.
+  city: LISBON
+  branch: ''
+BNIFPTPLFUN:
+  institution: BANIF BANCO INTERNACIONAL DO FUNCHAL S.A.
+  city: FUNCHAL
+  branch: ENDERECO SWIFT FUNCHAL
+BNIFPTPLSFE:
+  institution: BANIF BANCO INTERNACIONAL DO FUNCHAL S.A.
+  city: FUNCHAL
+  branch: ENDERECO SWIFT SFE
+BNIFPTPL:
+  institution: BANIF BANCO INTERNACIONAL DO FUNCHAL S.A.
+  city: LISBON
+  branch: ''
+BNIFPTPLOPO:
+  institution: BANIF BANCO INTERNACIONAL DO FUNCHAL S.A.
+  city: PORTO
+  branch: ENDERECO SWIFT PORTO
+BKCHPTPL:
+  institution: BANK OF CHINA (LUXEMBOURG) S.A. PORTUGAL BRANCH
+  city: LISBON
+  branch: ''
+CAHMPTPL:
+  institution: BANKIA S.A. SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+PRIBPTPX:
+  institution: BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE SUCURSAL PORTUGUESA
+  city: LISBON
+  branch: ''
+CFESPTPL:
+  institution: BANQUE PRIVEE ESPIRITO SANTO S.A. SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+BARCPTPL:
+  institution: BARCLAYS BANK PLC
+  city: LISBON
+  branch: ''
+BARCPTPLOPR:
+  institution: BARCLAYS BANK PLC
+  city: PORTO
+  branch: ''
+BESZPTPL:
+  institution: BEST BANCO ELECTRONICO DE SERVICO TOTAL S.A.
+  city: LISBON
+  branch: ''
+GEBAPTPL:
+  institution: BNP PARIBAS FORTIS SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+GEBAPTPLLIS:
+  institution: BNP PARIBAS FORTIS SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+BNPAPTPLLIS:
+  institution: BNP PARIBAS PORTUGAL
+  city: LISBON
+  branch: ''
+BNPAPTPL:
+  institution: BNP PARIBAS SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+CXBIPTPL:
+  institution: CAIXA BANCO DE INVESTIMENTO S.A.
+  city: LISBON
+  branch: ''
+CXBIPTPLMOB:
+  institution: CAIXA BANCO DE INVESTIMENTO S.A.
+  city: MADEIRA
+  branch: MADEIRA OFFSHORE BRANCH
+CCCMPTPL:
+  institution: CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO
+  city: LISBON
+  branch: ''
+CDCTPTP2:
+  institution: CAIXA CREDITO AGRICOLA MUTUO DE LEIRIA CRL
+  city: LEIRIA
+  branch: ''
+CEMAPTP2:
+  institution: CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO
+  city: ANGRA DO HEROISMO
+  branch: ''
+CGDIPTPLOSF:
+  institution: CAIXA GERAL DE DEPOSITOS
+  city: FUNCHAL
+  branch: MADEIRA OFFSHORE BRANCH
+CGDIPTPL:
+  institution: CAIXA GERAL DE DEPOSITOS
+  city: LISBON
+  branch: ''
+CGDIPTPLOPR:
+  institution: CAIXA GERAL DE DEPOSITOS
+  city: PORTO
+  branch: ''
+CITIPTPXSEC:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: LISBON
+  branch: CITIBANK LISBON TARGET 2
+CITIPTPX:
+  institution: CITIBANK INTERNATIONAL PLC
+  city: LISBON
+  branch: SUCURSAL EM PORTUGAL
+DEUTPTPLFUN:
+  institution: DEUTSCHE BANK AG PORTUGAL BRANCH
+  city: FUNCHAL
+  branch: SUCURSAL FINANCEIRA EXTERIOR – OFFSHORE
+DEUTPTPLSIC:
+  institution: DEUTSCHE BANK AG PORTUGAL BRANCH
+  city: LISBON
+  branch: SICOI
+DEUTPTPL:
+  institution: DEUTSCHE BANK AG PORTUGAL BRANCH
+  city: LISBON
+  branch: ''
+DSBLPTPL:
+  institution: DEXIA SABADELL SUCURSAL PORTUGAL
+  city: LISBON
+  branch: ''
+FBCOPTPPLIS:
+  institution: FINIBANCO S.A.
+  city: LISBON
+  branch: ''
+FBCOPTPP:
+  institution: FINIBANCO S.A.
+  city: PORTO
+  branch: ''
+CCIEPTPX:
+  institution: HYPOSWISS PRIVATE BANK GENEVE SA SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+BBRUPTPL:
+  institution: ING B NV/SA SUCURSAL EM PORTUGAL (FORMERLY BANK BRUSSELS LAMBERT LISBON
+    BRANCH)
+  city: LISBON
+  branch: ''
+IBLSPTPP999:
+  institution: INTERBOLSA S.G.S.L.S.C.V.M. S.A.
+  city: PORTO
+  branch: TECHNICAL ACCOUNT
+IBLSPTPP:
+  institution: INTERBOLSA S.G.S.L.S.C.V.M. S.A.
+  city: PORTO
+  branch: ''
+IBLSPTPPCUG:
+  institution: INTERBOLSA S.G.S.L.S.C.V.M. S.A.
+  city: PORTO
+  branch: ''
+ITAUPTPL:
+  institution: ITAU BBA INTERNATIONAL LIMITED SUCURSAL EM PORTUGAL
+  city: LISBON
+  branch: ''
+MPIOPTPLTIT:
+  institution: MONTEPIO GERAL CAIXA ECONOMICA
+  city: ALGES
+  branch: SERVICIO TITULOS
+MPIOPTPL:
+  institution: MONTEPIO GERAL CAIXA ECONOMICA
+  city: LISBON
+  branch: ''
+PMTSPTPL:
+  institution: MTS PORTUGAL SGMR SA
+  city: LISBON
+  branch: ''
+CAGLPTPL:
+  institution: NCG BANCO S.A. SUCURSAL EM PORTUGAL
+  city: PORTO
+  branch: ''
+OMICPTPLASA:
+  institution: OMICLEAR SOCIEDADE DE COMPENSACAO DE MERCADOS DE ENERGIA S.G.C.C.C.C.
+    S.A.
+  city: LISBON
+  branch: ANCILLARY SYSTEM ACCOUNT
+OMICPTPL:
+  institution: OMICLEAR SOCIEDADE DE COMPENSACAO DE MERCADOS DE ENERGIA S.G.C.C.C.C.
+    S.A.
+  city: LISBON
+  branch: ''
+ZURIPTPL:
+  institution: ZURICH COMPANHIA DE SEGUROS S.A.
+  city: LISBON
+  branch: ''

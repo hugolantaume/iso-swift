@@ -1,0 +1,722 @@
+---
+ALBPPLPW:
+  institution: ALIOR BANK SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+AFSLPLPW:
+  institution: ATLANTIC FUND SERVICES SP. Z O.O.
+  city: WARSZAWA
+  branch: ''
+ESSIPLPX:
+  institution: BANCO ESPIRITO SANTO DE INVESTIMENTO S.A. SPOLKA AKCYJNA ODDZIAL W
+    POLSCE
+  city: WARSZAWA
+  branch: ''
+BPHKPLPK:
+  institution: BANK BPH SA
+  city: GDANSK
+  branch: ''
+BPHKPLPKCUS:
+  institution: BANK BPH SA
+  city: WARSZAWA
+  branch: CUSTODY DEPARTMENT
+GOPZPLPWBRK:
+  institution: BANK GOSPODARKI ZYWNOSCIOWEJ S.A.
+  city: WARSZAWA
+  branch: BROKERAGE OFFICE
+GOPZPLPW:
+  institution: BANK GOSPODARKI ZYWNOSCIOWEJ S.A.
+  city: WARSZAWA
+  branch: ''
+GOSKPLPW:
+  institution: BANK GOSPODARSTWA KRAJOWEGO
+  city: WARSZAWA
+  branch: ''
+CITIPLPXCCH:
+  institution: BANK HANDLOWY W WARSZAWIE SA
+  city: WARSZAWA
+  branch: WARSAW COMMODITY CLEARING HOUSE MESSAGES EXCHANGE ONLY
+CITIPLPX:
+  institution: BANK HANDLOWY W WARSZAWIE SA
+  city: WARSZAWA
+  branch: ''
+BIGBPLPWCUS:
+  institution: BANK MILLENNIUM S.A.
+  city: WARSZAWA
+  branch: CUSTODY DEPARTMENT
+BIGBPLPW:
+  institution: BANK MILLENNIUM S.A.
+  city: WARSZAWA
+  branch: ''
+EBOSPLPW216:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: BIALYSTOK
+  branch: ''
+EBOSPLPW261:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: BIELSKO BIALA
+  branch: ''
+EBOSPLPW018:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: BYDGOSZCZ
+  branch: ''
+EBOSPLPWCHA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: CHELM
+  branch: ''
+EBOSPLPW005:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: CZESTOCHOWA
+  branch: ''
+EBOSPLPW274:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: ELBLAG
+  branch: ''
+EBOSPLPW089:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: GDANSK
+  branch: ''
+EBOSPLPW199:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: JELENIA GORA
+  branch: JELENIA GORA
+EBOSPLPW119:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: KATOWICE
+  branch: ''
+EBOSPLPWKIA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: KIELCE
+  branch: ''
+EBOSPLPW232:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: KONIN
+  branch: ''
+EBOSPLPW034:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: KOSZALIN
+  branch: ''
+EBOSPLPW106:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: KRAKOW
+  branch: ''
+EBOSPLPW258:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: LEGNICA
+  branch: ''
+EBOSPLPW245:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: LODZ
+  branch: ''
+EBOSPLPWLOA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: LOMZA
+  branch: ''
+EBOSPLPW135:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: LUBLIN
+  branch: ''
+EBOSPLPW210:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: OBORNIKI WIELKOPOLKIE
+  branch: ''
+EBOSPLPW063:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: OLSZTYN
+  branch: ''
+EBOSPLPW229:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: OPOLE
+  branch: ''
+EBOSPLPW223:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: OSTROW WIELKOPOLSKI
+  branch: ''
+EBOSPLPWPIA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: PILA
+  branch: ''
+EBOSPLPW290:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: PLOCK
+  branch: ''
+EBOSPLPW047:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: POZNAN
+  branch: ''
+EBOSPLPW122:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: RZESZOW
+  branch: ''
+EBOSPLPWSUA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: SUWALKI
+  branch: ''
+EBOSPLPW076:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: SZCZECIN
+  branch: ''
+EBOSPLPW252:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: TARNOW
+  branch: ''
+EBOSPLPW304:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: TORUN
+  branch: ''
+EBOSPLPW017:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WARSZAWA
+  branch: CORPORATE CLIENTS UNIT
+EBOSPLPW102:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WARSZAWA
+  branch: I/O WARSZAWA
+EBOSPLPW157:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WARSZAWA
+  branch: II/O WARSZAWA
+EBOSPLPW287:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WARSZAWA
+  branch: III/O WARSZAWA
+EBOSPLPW:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WARSZAWA
+  branch: ''
+EBOSPLPW050:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WLOCLAWEK
+  branch: ''
+EBOSPLPW021:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: WROCLAW
+  branch: ''
+EBOSPLPWZAA:
+  institution: BANK OCHRONY SRODOWISKA S.A.
+  city: ZAMOSC
+  branch: ''
+BKCHPLPX:
+  institution: BANK OF CHINA (LUXEMBOURG) S.A. POLAND BRANCH
+  city: WARSZAWA
+  branch: ''
+BOTKPLPW:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+PKOPPLPWKRA:
+  institution: BANK POLSKA KASA OPIEKI SA – BANK PEKAO SA
+  city: KRAKOW
+  branch: KRAKOW REGIONAL OFFICE
+PKOPPLPWCUS:
+  institution: BANK POLSKA KASA OPIEKI SA – BANK PEKAO SA
+  city: WARSZAWA
+  branch: CUSTODY
+PKOPPLPW:
+  institution: BANK POLSKA KASA OPIEKI SA – BANK PEKAO SA
+  city: WARSZAWA
+  branch: HEAD OFFICE
+POLUPLPR:
+  institution: BANK POLSKIEJ SPOLDZIELCZOSCI SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+KRDBPLPWBIA:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: BIALYSTOK
+  branch: ''
+KRDBPLPWGDB:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: GDANSK
+  branch: BRANCH 2
+KRDBPLPWGDA:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: GDANSK
+  branch: ''
+KRDBPLPWKAT:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: KATOWICE
+  branch: BRANCH
+KRDBPLPWKOS:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: KOSZALIN
+  branch: ''
+KRDBPLPWKRA:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: KRAKOW
+  branch: ''
+KRDBPLPWLOD:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: LODZ
+  branch: ''
+KRDBPLPWPIL:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: PILA
+  branch: ''
+KRDBPLPWPOZ:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: POZNAN
+  branch: FIRST BRANCH
+KRDBPLPWPOB:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: POZNAN
+  branch: SECOND BRANCH
+KRDBPLPWRAS:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: RASZYN
+  branch: ''
+KRDBPLPWRZE:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: RZESZOW
+  branch: ''
+KRDBPLPWSZC:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: SZCZECIN
+  branch: BRANCH
+KRDBPLPWWAA:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WARSZAWA
+  branch: BRANCH 1
+KRDBPLPWWAE:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WARSZAWA
+  branch: BRANCH 5
+KRDBPLPWWAB:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WARSZAWA
+  branch: BRANCH NR. 2
+KRDBPLPWWAC:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WARSZAWA
+  branch: BRANCH NR. 3
+KRDBPLPWCUS:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WARSZAWA
+  branch: CUSTODY DEPARTMENT
+KRDBPLPWWRA:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WROCLAW
+  branch: BRANCH NR 1
+KRDBPLPW:
+  institution: BANK ZACHODNI WBK S.A.(FORMERLY KREDYT BANK S.A.)
+  city: WROCLAW
+  branch: ''
+WBKPPLPPCBM:
+  institution: BANK ZACHODNI WBK SA
+  city: POZNAN
+  branch: BZWBK BROKERAGE HOUSE
+WBKPPLPP:
+  institution: BANK ZACHODNI WBK SA
+  city: WROCLAW
+  branch: HEAD OFFICE
+PPABPLPK:
+  institution: BNP PARIBAS BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+BNPAPLPX:
+  institution: BNP PARIBAS S.A. BRANCH IN POLAND
+  city: WARSZAWA
+  branch: ''
+PARBPLPX:
+  institution: BNP PARIBAS SECURITIES POLAND BRANCH
+  city: WARSZAWA
+  branch: ''
+BONPPLP9:
+  institution: BONDSPOT S.A.
+  city: WARSZAWA
+  branch: ''
+AGRIPLPR:
+  institution: CREDIT AGRICOLE BANK POLSKA S.A.
+  city: WROCLAW
+  branch: ''
+DABAPLPW:
+  institution: DANSKE BANK A/S S.A. ODZIAL W POLSCE
+  city: WARSZAWA
+  branch: ''
+DEUTPLPX:
+  institution: DEUTSCHE BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+MHBFPLPW:
+  institution: DNB BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+GENOPLPW:
+  institution: DZ BANK AG S.A. POLAND BRANCH
+  city: WARSZAWA
+  branch: ''
+EBSAPLPR:
+  institution: EURO BANK S.A.
+  city: WROCLAW
+  branch: ''
+FBPLPLPW:
+  institution: FIAT BANK POLSKA SA
+  city: WARSZAWA
+  branch: ''
+PBPBPLPW:
+  institution: FM BANK PBP SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+PBPBPLPWFMB:
+  institution: FM BANK PBP SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+GBGCPLPK:
+  institution: GETIN NOBLE BANK SA
+  city: WARSZAWA
+  branch: ''
+HSBCPLPS:
+  institution: HSBC BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+HSBCPLPW:
+  institution: HSBC BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+ICBKPLPW:
+  institution: ICBC POLAND BRANCH
+  city: WARSZAWA
+  branch: ''
+IEEAPLPA:
+  institution: IDEA BANK SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+INGBPLPW:
+  institution: ING BANK SLASKI SA
+  city: KATOWICE
+  branch: ''
+BCITPLPW:
+  institution: INTESA SANPAOLO SPA
+  city: WARSZAWA
+  branch: ''
+KCCPPLPW:
+  institution: KDPW CCP
+  city: WARSZAWA
+  branch: ''
+KCCPPLPWOTC:
+  institution: KDPW CCP
+  city: WARSZAWA
+  branch: ''
+KDPWPLPW:
+  institution: KDPW S.A.
+  city: WARSZAWA
+  branch: ''
+EKIRPLPD:
+  institution: KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)
+  city: WARSZAWA
+  branch: ''
+SKOKPLPW:
+  institution: KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO-KREDYTOWA
+  city: SOPOT
+  branch: ''
+KRSPPLPK:
+  institution: KRAKOWSKI BANK SPOLDZIELCZY
+  city: KRAKOW
+  branch: ''
+CAIXPLPW:
+  institution: LA CAIXA, ODDZIAL W POLSCE
+  city: WARSZAWA
+  branch: ''
+RHBHPLPW:
+  institution: MBANK HIPOTECZNY SA
+  city: WARSZAWA
+  branch: ''
+BREXPLPWBIA:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: BIALYSTOK
+  branch: BIALYSTOK BRANCH
+BREXPLPWBIB:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: BIELSKO BIALA
+  branch: BIELSKO BIALA BRANCH
+BREXPLPWBYD:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: BYDGOSZCZ
+  branch: BYDGOSZCZ BRANCH
+BREXPLPWCZE:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: CZESTOCHOWA
+  branch: CZESTOCHOWA BRANCH
+BREXPLPWGDA:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: GDANSK
+  branch: ''
+BREXPLPWGDY:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: GDYNIA
+  branch: GDYNIA BRANCH
+BREXPLPWGOR:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: GORZOW WIELKOPOLSKI
+  branch: GORZOW WIELKOPOLSKI BRANCH
+BREXPLPWKAL:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KALISZ
+  branch: KALISZ BRANCH
+BREXPLPWRCO:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KATOWICE
+  branch: REGIONAL OPERATION CENTER
+BREXPLPWKAT:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KATOWICE
+  branch: ''
+BREXPLPWKIE:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KIELCE
+  branch: KIELCE BRANCH
+BREXPLPWKOS:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KOSZALIN
+  branch: CORPORATE BRANCH
+BREXPLPWKRA:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: KRAKOW
+  branch: ''
+BREXPLPWMBK:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: LODZ
+  branch: INTERNET BANKING
+BREXPLPWMUL:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: LODZ
+  branch: RETAIL BANKING
+BREXPLPWLOD:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: LODZ
+  branch: ''
+BREXPLPWLUB:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: LUBLIN
+  branch: ''
+BREXPLPWNWS:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: NOWY SACZ
+  branch: CORPORATE BRANCH
+BREXPLPWOLS:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: OLSZTYN
+  branch: CORPORATE BRANCH
+BREXPLPWOPO:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: OPOLE
+  branch: OPOLE BRANCH
+BREXPLPWPOZ:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: POZNAN
+  branch: ''
+BREXPLPWRYB:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: RYBNIK
+  branch: RYBNIK BRANCH
+BREXPLPWRZE:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: RZESZOW
+  branch: RZESZOW BRANCH
+BREXPLPWSZC:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: SZCZECIN
+  branch: ''
+BREXPLPWTOR:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: TORUN
+  branch: CORPORATE BRANCH
+BREXPLPWWAL:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WALBRZYCH
+  branch: CORPORATE BRANCH
+BREXPLPWWA1:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: BRANCH
+BREXPLPWWA4:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: CORPORATE BRANCH
+BREXPLPWCUS:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: CUSTODY DEPARTMENT
+BREXPLPW:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: HEAD OFFICE
+BREXPLPWWA2:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: WARSZAWA II BRANCH
+BREXPLPWWA3:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WARSZAWA
+  branch: WARSZAWA III BRANCH
+BREXPLPWWRO:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: WROCLAW
+  branch: ''
+BREXPLPWZIE:
+  institution: MBANK S.A. (FORMERLY BRE BANK S.A.)
+  city: ZIELONA GORA
+  branch: ZIELONA GORA BRANCH
+MBBPPLPW:
+  institution: MERCEDES-BENZ BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+BWEUPLPW:
+  institution: MERITUM BANK ICB S.A.
+  city: GDANSK
+  branch: HEAD OFFICE
+BWEUPLPWPOZ:
+  institution: MERITUM BANK ICB S.A.
+  city: POZNAN
+  branch: POZNAN BRANCH
+BWEUPLPWWRO:
+  institution: MERITUM BANK ICB S.A.
+  city: WROCLAW
+  branch: WROCLAW BRANCH
+NBPLPLPW:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: HEAD OFFICE
+NBPLPLPWKIR:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: INTERNAL ROUTING
+NBPLPLPDDSP:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: PLN – RTGS ONLY
+NBPLPLPA:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: ''
+NBPLPLPD:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: ''
+NBPLPLPWBAN:
+  institution: NARODOWY BANK POLSKI
+  city: WARSZAWA
+  branch: ''
+KDPWPLPA:
+  institution: NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)
+  city: WARSZAWA
+  branch: ''
+NDEAPLP2:
+  institution: NORDEA BANK POLSKA S.A.
+  city: GDYNIA
+  branch: ''
+HYVEPLP2:
+  institution: PEKAO BANK HIPOTECZNY SA
+  city: WARSZAWA
+  branch: ''
+IVSEPLPP:
+  institution: PLUS BANK S.A.
+  city: WARSZAWA
+  branch: HEAD OFFICE
+POCZPLP4:
+  institution: POCZTOWY BANK SA
+  city: BYDGOSZCZ
+  branch: ''
+BPKOPLPWBIA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: BIALYSTOK
+  branch: PKO O.REGIONALNY W BIALYMSTOKU
+BPKOPLPWTOB:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: BYDGOSZCZ
+  branch: ODDZIAL BYDGOSZCZ
+BPKOPLPWGDG:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: GDYNIA
+  branch: I/O GDYNIA
+BPKOPLPWGOA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: GORZOW WIELKOPOLSKI
+  branch: I/O GORZOW WIELKOPOLSKI
+BPKOPLPWKAB:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: KATOWICE
+  branch: ODDZIAL KATOWICE
+BPKOPLPWKRD:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: KRAKOW
+  branch: ODDZIAL KRAKOW
+BPKOPLPWLDA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: LODZ
+  branch: ODDZIAL LODZ
+BPKOPLPWLUA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: LUBLIN
+  branch: ODDZIAL LUBLIN
+BPKOPLPWOLS:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: OLSZTYN
+  branch: ODDZIAL OLSZTYN
+BPKOPLPWPOA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: POZNAN
+  branch: ODDZIAL POZNAN
+BPKOPLPWCSD:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: WARSZAWA
+  branch: CUSTODY SERVICES DIVISION
+BPKOPLPWTDH:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: WARSZAWA
+  branch: HEAD OFFICE – TREASURY DEPARTMENT
+BPKOPLPWWAA:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: WARSZAWA
+  branch: ODDZIAL WARSZAWA
+BPKOPLPW:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: WARSZAWA
+  branch: ''
+BPKOPLPWWRD:
+  institution: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA
+  city: WROCLAW
+  branch: ODDZIAL WROCLAW
+PSATPLPW:
+  institution: PROSERVICE AGENT TRANSFEROWY SP Z O.O.
+  city: WARSZAWA
+  branch: ''
+RABOPLPW:
+  institution: RABOBANK POLSKA SPOLKA AKCYJNA
+  city: WARSZAWA
+  branch: ''
+RCBWPLPW:
+  institution: RAIFFEISEN BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''
+ABNAPLPW:
+  institution: RBS BANK (POLSKA) S.A.
+  city: WARSZAWA
+  branch: ''
+SCFBPLPW:
+  institution: SANTANDER CONSUMER BANK SA
+  city: WROCLAW
+  branch: ''
+GBWCPLPP:
+  institution: SGB-BANK S.A. (FORMERLY GOSPODARCZY BANK WIELKOPOLSKI S.A.)
+  city: POZNAN
+  branch: ''
+ESSEPLPW:
+  institution: SKANDINAVISKA ENSKILDA BANKEN AB, SPOLKA AKCYJNA, ODDZIAL W POLSCE
+  city: WARSZAWA
+  branch: ''
+SOGEPLPW:
+  institution: SOCIETE GENERALE SPOLKA AKCYJNA ODDZIAL W POLSCE
+  city: WARSZAWA
+  branch: ''
+SKBBPLPW:
+  institution: SPOLDZIELCZY BANK RZEMIOSLA I ROLNICTWA
+  city: WOLOMIN
+  branch: ''
+HANDPLPW:
+  institution: SVENSKA HANDELSBANKEN AB SPOLKA AKCYJNA ODDZIAL W POLSCE
+  city: WARSZAWA
+  branch: ''
+VOWAPLP9:
+  institution: VOLKSWAGEN BANK POLSKA S.A.
+  city: WARSZAWA
+  branch: ''

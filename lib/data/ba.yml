@@ -1,0 +1,122 @@
+---
+BALVBA22:
+  institution: BANKA SRPSKE A.D. BANJA LUKA
+  city: BANJA LUKA
+  branch: ''
+BATOBA22:
+  institution: BOBAR BANKA A.D.
+  city: BIJELJINA
+  branch: ''
+BOIRBA22:
+  institution: BOR BANKA DD SARAJEVO
+  city: SARAJEVO
+  branch: ''
+BBIBBA22:
+  institution: BOSNA BANK INTERNATIONAL DD
+  city: SARAJEVO
+  branch: ''
+CBBSBA22:
+  institution: CENTRALNA BANKA BOSNE I HERCEGOVINE
+  city: SARAJEVO
+  branch: ''
+CBBSBA22PDS:
+  institution: CENTRALNA BANKA BOSNE I HERCEGOVINE
+  city: SARAJEVO
+  branch: DEPARTMENT FOR PUBLIC DEBT SERVICING
+IBBHBA22:
+  institution: DEVELOPMENT BANK OF THE FEDERATION OF BOSNIA AND HERZEGOVINA
+  city: SARAJEVO
+  branch: ''
+HAABBA2B:
+  institution: HYPO ALPE-ADRIA-BANK A.D.
+  city: BANJA LUKA
+  branch: ''
+HAABBA22:
+  institution: HYPO ALPE-ADRIA-BANK D.D.
+  city: MOSTAR
+  branch: ''
+UPBKBA22:
+  institution: INTESA SANPAOLO BANKA D.D. BOSNA I HERCEGOVINA
+  city: SARAJEVO
+  branch: ''
+IKBZBA2X:
+  institution: INVESTICIONO – KOMERCIJALNA BANKA DD ZENICA
+  city: ZENICA
+  branch: ''
+KOBBBA22:
+  institution: KOMERCIJALNA BANKA AD BANJA LUKA
+  city: BANJA LUKA
+  branch: ''
+KINBBA22:
+  institution: KOMERCIJALNO-INVESTICIONA BANKA DD VELIKA KLADUSA
+  city: VELIKA KLADUSA
+  branch: ''
+MFBLBA22:
+  institution: MF BANKA A.D. BANJA LUKA
+  city: BANJA LUKA
+  branch: ''
+FMBABA22:
+  institution: MOJA BANKA DD SARAJEVO
+  city: SARAJEVO
+  branch: ''
+TBTUBA22:
+  institution: NLB BANKA D.D., TUZLA
+  city: TUZLA
+  branch: ''
+RAZBBA22:
+  institution: NLB RAZVOJNA BANKA A.D. BANJA LUKA
+  city: BANJA LUKA
+  branch: ''
+NOBIBA22:
+  institution: NOVA BANKA AD BANJALUKA
+  city: BANJA LUKA
+  branch: ''
+PAVLBA22:
+  institution: PAVLOVIC INTERNATIONAL BANK A.D.
+  city: BIJELJINA
+  branch: ''
+PBSCBA22:
+  institution: PRIVREDNA BANKA SARAJEVO DD
+  city: SARAJEVO
+  branch: ''
+MEBBBA22:
+  institution: PROCREDIT BANK D.D. SARAJEVO, BOSNIA AND HERZEGOVINA
+  city: SARAJEVO
+  branch: ''
+RZBABA2S:
+  institution: RAIFFEISEN BANK D.D. BOSNA I HERCEGOVINA
+  city: SARAJEVO
+  branch: ''
+SABRBA2B:
+  institution: SBERBANK A.D. BANJA LUKA
+  city: BANJA LUKA
+  branch: ''
+SABRBA22:
+  institution: SBERBANK BH D.D., SARAJEVO
+  city: SARAJEVO
+  branch: ''
+ABSBBA22:
+  institution: SPARKASSE BANK DD
+  city: SARAJEVO
+  branch: ''
+UNCRBA22:
+  institution: UNICREDIT BANK
+  city: MOSTAR
+  branch: ''
+BLBABA22:
+  institution: UNICREDIT BANK A.D. BANJA LUKA (FORMER NOVA BANJALUCKA BANKA A.D. BANJA
+    LUKA)
+  city: BANJA LUKA
+  branch: ''
+UBKSBA22:
+  institution: UNION BANKA D.D. SARAJEVO
+  city: SARAJEVO
+  branch: ''
+VAKUBA22:
+  institution: VAKUFSKA BANKA DD SARAJEVO
+  city: SARAJEVO
+  branch: ''
+TZBBBA22:
+  institution: ZIRAATBANK BH D.D. SARAJEVO
+  city: SARAJEVO
+  branch: ''

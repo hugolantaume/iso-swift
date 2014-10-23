@@ -1,0 +1,57 @@
+---
+BCCUCUHHSLB:
+  institution: BANCO CENTRAL DE CUBA
+  city: LA HABANA
+  branch: REAL TIMEGROSS SETTLEMENT BRANCH
+BCCUCUHHSUC:
+  institution: BANCO CENTRAL DE CUBA
+  city: LA HABANA
+  branch: SISTEMA UNICO DE COMPENSACION REGIONAL
+BCCUCUHH:
+  institution: BANCO CENTRAL DE CUBA
+  city: LA HABANA
+  branch: ''
+BDCRCUHH:
+  institution: BANCO DE CREDITO Y COMERCIO
+  city: LA HABANA
+  branch: ''
+BICUCUHH:
+  institution: BANCO DE INVERSIONES S.A.
+  city: LA HABANA
+  branch: ''
+BECUCUHH:
+  institution: BANCO EXTERIOR DE CUBA
+  city: LA HABANA
+  branch: ''
+BFICCUHH:
+  institution: BANCO FINANCIERO INTERNACIONAL S.A.
+  city: LA HABANA
+  branch: ''
+INDSCUHH:
+  institution: BANCO INDUSTRIAL DE VENEZUELA CUBA S.A.
+  city: LA HABANA
+  branch: ''
+BIDCCUHH:
+  institution: BANCO INTERNACIONAL DE COMERCIO S.A.
+  city: LA HABANA
+  branch: ''
+BMNBCUHH:
+  institution: BANCO METROPOLITANO S.A.
+  city: LA HABANA
+  branch: ''
+BNACCUHH011:
+  institution: BANCO NACIONAL DE CUBA
+  city: LA HABANA
+  branch: DIVISION CENTRAL
+BNACCUHH613:
+  institution: BANCO NACIONAL DE CUBA
+  city: LA HABANA
+  branch: DIVISION COMERCIAL
+BNACCUHH:
+  institution: BANCO NACIONAL DE CUBA
+  city: LA HABANA
+  branch: ''
+BPAHCUHH:
+  institution: BANCO POPULAR DE AHORRO
+  city: LA HABANA
+  branch: ''

@@ -1,0 +1,525 @@
+---
+ABCIBHBM:
+  institution: ABC ISLAMIC BANK (E.C)
+  city: MANAMA
+  branch: ''
+AUBBBHBMISB:
+  institution: AHLI UNITED BANK B.S.C.
+  city: MANAMA
+  branch: ALHILAL ISLAMIC BANKING SERVICES
+AUBBBHBM:
+  institution: AHLI UNITED BANK B.S.C.
+  city: MANAMA
+  branch: ''
+ABIBBHBM:
+  institution: AL BARAKA ISLAMIC BANK
+  city: MANAMA
+  branch: ''
+ALSABHBM:
+  institution: AL SALAM BANK BAHRAIN
+  city: MANAMA
+  branch: ''
+ABBGBHBM:
+  institution: ALBARAKA BANKING GROUP
+  city: MANAMA
+  branch: ''
+ABLWBHBM:
+  institution: ALLIED BANK LIMITED, WHOLESALE BANKING BRANCH
+  city: MANAMA
+  branch: ''
+ALUBBHBM:
+  institution: ALUBAF ARAB INTERNATIONAL BANK B.S.C. (C)
+  city: MANAMA
+  branch: ''
+ARABBHBMMAN:
+  institution: ARAB BANK PLC
+  city: MANAMA
+  branch: COMMERCIAL BRANCH
+ARABBHBM:
+  institution: ARAB BANK PLC, OFFSHORE BANKING UNIT (OBU)
+  city: MANAMA
+  branch: ''
+ABCOBHBM:
+  institution: ARAB BANKING CORPORATION (B.S.C.)
+  city: MANAMA
+  branch: ''
+TAIQBHBM:
+  institution: ARAB INVESTMENT COMPANY, THE
+  city: MANAMA
+  branch: ''
+APICBHBMBH2:
+  institution: ARAB PETROLEUM INVESTMENTS CORPORATION
+  city: MANAMA
+  branch: APICORP BAHRAIN PROJECT
+APICBHBM:
+  institution: ARAB PETROLEUM INVESTMENTS CORPORATION
+  city: MANAMA
+  branch: ''
+FIIVBHBM:
+  institution: ARCAPITA
+  city: MANAMA
+  branch: ''
+ASCMBHBM:
+  institution: ASKARI BANK LIMITED, BAHRAIN BRANCH
+  city: MANAMA
+  branch: ''
+BHBNBHBM:
+  institution: BAHRAIN BOURSE
+  city: MANAMA
+  branch: ''
+BDBBBHBM:
+  institution: BAHRAIN DEVELOPMENT BANK B S C (C)
+  city: MANAMA
+  branch: ''
+BFCCBHBM:
+  institution: BAHRAIN FINANCING COMPANY
+  city: MANAMA
+  branch: ''
+BIBBBHBMINV:
+  institution: BAHRAIN ISLAMIC BANK B.S.C.
+  city: MANAMA
+  branch: INVESTMENT AND TREASURY BACK OFFICE
+BIBBBHBMTFD:
+  institution: BAHRAIN ISLAMIC BANK B.S.C.
+  city: MANAMA
+  branch: TRADE FINANCE DEPARTMENT
+BIBBBHBM:
+  institution: BAHRAIN ISLAMIC BANK B.S.C.
+  city: MANAMA
+  branch: ''
+BMEABHBM:
+  institution: BAHRAIN MIDDLE EAST BANK B.S.C
+  city: MANAMA
+  branch: ''
+BAHLBHBM:
+  institution: BANK AL HABIB LIMITED
+  city: MANAMA
+  branch: ''
+ALFHBHBM:
+  institution: BANK ALFALAH LIMITED BAHRAIN
+  city: MANAMA
+  branch: ''
+UINSBHBN:
+  institution: BANK AL-KHAIR B.S.C. (C)
+  city: MANAMA
+  branch: ''
+BARBBHBM:
+  institution: BANK OF BARODA
+  city: MANAMA
+  branch: ''
+BOTKBHBM:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  city: MANAMA
+  branch: BAHRAIN BRANCH
+BBKUBHBMADL:
+  institution: BBK
+  city: MANAMA
+  branch: ADLIYA BRANCH
+BBKUBHBMBUD:
+  institution: BBK
+  city: MANAMA
+  branch: BUDAIYA BRANCH
+BBKUBHBMCMK:
+  institution: BBK
+  city: MANAMA
+  branch: CENTRAL MARKET BRANCH
+BBKUBHBMCLG:
+  institution: BBK
+  city: MANAMA
+  branch: CLEARING SECTION
+BBKUBHBMMAX:
+  institution: BBK
+  city: MANAMA
+  branch: CREDIMAX
+BBKUBHBMLOP:
+  institution: BBK
+  city: MANAMA
+  branch: CREDIT SERVICES UNIT
+BBKUBHBMDIP:
+  institution: BBK
+  city: MANAMA
+  branch: DIPLOMATIC AREA BRANCH
+BBKUBHBMERF:
+  institution: BBK
+  city: MANAMA
+  branch: EAST RIFFA BRANCH
+BBKUBHBMEXH:
+  institution: BBK
+  city: MANAMA
+  branch: EXHIBITION BRANCH
+BBKUBHBMHTN:
+  institution: BBK
+  city: MANAMA
+  branch: HAMAD TOWN
+BBKUBHBMITN:
+  institution: BBK
+  city: MANAMA
+  branch: ISA TOWN BRANCH
+BBKUBHBMCSU:
+  institution: BBK
+  city: MANAMA
+  branch: LC DEPARTMENT
+BBKUBHBMMBR:
+  institution: BBK
+  city: MANAMA
+  branch: MAIN BRANCH
+BBKUBHBMMNM:
+  institution: BBK
+  city: MANAMA
+  branch: MANAMA BRANCH
+BBKUBHBMMHF:
+  institution: BBK
+  city: MANAMA
+  branch: MUHARRAQ BRANCH
+BBKUBHBMMSF:
+  institution: BBK
+  city: MANAMA
+  branch: MUHARRAQ SUQ BRANCH
+BBKUBHBMREC:
+  institution: BBK
+  city: MANAMA
+  branch: RECONCILIATION
+BBKUBHBMREF:
+  institution: BBK
+  city: MANAMA
+  branch: REFINERY BRANCH
+BBKUBHBMREM:
+  institution: BBK
+  city: MANAMA
+  branch: REMITTANCES DEPARTMENT
+BBKUBHBMSAL:
+  institution: BBK
+  city: MANAMA
+  branch: SALARIES DEPARTMENT
+BBKUBHBMSUW:
+  institution: BBK
+  city: MANAMA
+  branch: SUQ WAQIF BRANCH
+BBKUBHBMTSU:
+  institution: BBK
+  city: MANAMA
+  branch: TREASURY SERVICES UNIT
+BBKUBHBM:
+  institution: BBK
+  city: MANAMA
+  branch: ''
+BBKUBHBMWRF:
+  institution: BBK
+  city: WEST RIFFA
+  branch: WEST RIFFA BRANCH
+BMUSBHBMWMB:
+  institution: BMI BANK BSC (C)
+  city: MANAMA
+  branch: WEALTH MANAGEMENT BRANCH
+BMUSBHBM:
+  institution: BMI BANK BSC (C)
+  city: MANAMA
+  branch: ''
+BNPABHBW:
+  institution: BNP PARIBAS 3U
+  city: MANAMA
+  branch: ''
+BNPABHBMWMI:
+  institution: BNP PARIBAS BAHREIN – MANAMA OFFSHORE BANKING UNIT(OBU)
+  city: MANAMA
+  branch: MANAMA OFFSHORE BANKING UNITOBU
+BNPABHBM:
+  institution: BNP PARIBAS BAHREIN – MANAMA OFFSHORE BANKING UNIT(OBU)
+  city: MANAMA
+  branch: ''
+BNPABHBC:
+  institution: BNP PARIBAS MANAMA, FULL COMMERCIAL BRANCH (FCB)
+  city: MANAMA
+  branch: ''
+CNRBBHBM:
+  institution: CANARA BANK
+  city: MANAMA
+  branch: ''
+CMHBBHBM:
+  institution: CAPITAL MANAGEMENT HOUSE
+  city: MANAMA
+  branch: ''
+BMAGBHBM:
+  institution: CENTRAL BANK OF BAHRAIN
+  city: MANAMA
+  branch: ''
+CITIBHBXBBU:
+  institution: CITIBANK N.A.
+  city: MANAMA
+  branch: BAHRAIN OFFSHORE UNIT
+CITIBHBXTRD:
+  institution: CITIBANK N.A.
+  city: MANAMA
+  branch: TRADE
+CITIBHBX:
+  institution: CITIBANK N.A.
+  city: MANAMA
+  branch: ''
+CLIBBHBB:
+  institution: CREDIT LIBANAIS SAL
+  city: MANAMA
+  branch: ''
+DENIBHBX:
+  institution: DENIZBANK AS BAHRAIN BRANCH (OBU)
+  city: MANAMA
+  branch: ''
+ILAFBHBM:
+  institution: ELAF BANK BSC CLOSED
+  city: MANAMA
+  branch: ''
+ESKBBHBM:
+  institution: ESKAN BANK
+  city: MANAMA
+  branch: ''
+FNNBBHBM:
+  institution: FINANSBANK A.S. BAHRAIN BRANCH
+  city: MANAMA
+  branch: ''
+FEBBBHBM:
+  institution: FIRST ENERGY BANK
+  city: MANAMA
+  branch: ''
+GFHIBHBM:
+  institution: GULF FINANCE HOUSE
+  city: MANAMA
+  branch: ''
+GULFBHBM:
+  institution: GULF INTERNATIONAL BANK, B.S.C.
+  city: MANAMA
+  branch: ''
+GULFBHBMCLS:
+  institution: GULF INTERNATIONAL BANK, B.S.C.
+  city: MANAMA
+  branch: ''
+HABBBHBMOBU:
+  institution: HABIB BANK LTD.
+  city: MANAMA
+  branch: OFFSHORE BANKING UNIT
+HABBBHBM:
+  institution: HABIB BANK LTD.
+  city: MANAMA
+  branch: ''
+HDFCBHBM:
+  institution: HDFC BANK LIMITED
+  city: MANAMA
+  branch: ''
+HBHOBHBM:
+  institution: HOUSING BANK FOR TRADE AND FINANCE / BAHRAIN, MANAMA, THE
+  city: MANAMA
+  branch: ''
+BBMEBHBX:
+  institution: HSBC BANK MIDDLE EAST
+  city: MANAMA
+  branch: ''
+BBMEBHBXOBU:
+  institution: HSBC BANK MIDDLE EAST
+  city: MUHARRAQ
+  branch: OFFSHORE BANKING UNIT
+ICICBHBMCOP:
+  institution: ICICI BANK LTD
+  city: MANAMA
+  branch: CENTRAL OPERATIONS
+ICICBHBMGTS:
+  institution: ICICI BANK LTD
+  city: MANAMA
+  branch: GLOBAL TRADE SERVICE UNIT
+ICICBHBMIOG:
+  institution: ICICI BANK LTD
+  city: MANAMA
+  branch: IIOG
+ICICBHBMTMG:
+  institution: ICICI BANK LTD
+  city: MANAMA
+  branch: TREASURY
+ICICBHBM:
+  institution: ICICI BANK LTD
+  city: MANAMA
+  branch: ''
+INGBBHBM:
+  institution: ING BANK A.S. BAHRAIN BRANCH (FORMERLY OYAK BANK A.S. BAHRAIN BRANCH)
+  city: MANAMA
+  branch: ''
+INVCBHBM:
+  institution: INVESTCORP BANK B.S.C.
+  city: MANAMA
+  branch: ''
+FIBHBHBM:
+  institution: ITHMAAR BANK B.S.C.
+  city: MANAMA
+  branch: ''
+CHASBHBMKEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: MANAMA
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASBHBM:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: MANAMA
+  branch: ''
+KHCBBHBM:
+  institution: KHALEEJI COMMERCIAL BANK B.S.C. (C)
+  city: MANAMA
+  branch: ''
+KOEXBHBM:
+  institution: KOREA EXCHANGE BANK, BAHRAIN BRANCH
+  city: MANAMA
+  branch: ''
+KFHOBHBM:
+  institution: KUWAIT FINANCE HOUSE
+  city: MANAMA
+  branch: ''
+KTEFBHBM:
+  institution: KUWAIT TURKISH PARTICIPATION BANK INC. BAHRAIN BRANCH
+  city: MANAMA
+  branch: ''
+LMCSBHBM:
+  institution: LIQUIDITY MANAGEMENT CENTRE B.S.C
+  city: MANAMA
+  branch: ''
+BOMLBHBM:
+  institution: MASHREQBANK PSC.
+  city: MANAMA
+  branch: ''
+MUCBBHBM:
+  institution: MCB BANK LIMITED
+  city: MANAMA
+  branch: ''
+MFSCBHBM:
+  institution: MUBASHER FINANCIAL SERVICES BSC BAHRAIN
+  city: MANAMA
+  branch: ''
+NBADBHBMBRA:
+  institution: NATIONAL BANK OF ABU DHABI – OFFSHORE BANKING UNIT (OBU)
+  city: MANAMA
+  branch: BAHRAIN BRANCH
+NBADBHBMTFO:
+  institution: NATIONAL BANK OF ABU DHABI – OFFSHORE BANKING UNIT (OBU)
+  city: MANAMA
+  branch: TRADE FINANCE DEPARTMENT
+NBADBHBM:
+  institution: NATIONAL BANK OF ABU DHABI – OFFSHORE BANKING UNIT (OBU)
+  city: MANAMA
+  branch: ''
+NBOBBHBMMTD:
+  institution: NATIONAL BANK OF BAHRAIN
+  city: MANAMA
+  branch: MONEY TRANSFERS DEPARTMENT
+NBOBBHBMTOP:
+  institution: NATIONAL BANK OF BAHRAIN
+  city: MANAMA
+  branch: TREASURY OPERATION
+NBOBBHBM:
+  institution: NATIONAL BANK OF BAHRAIN
+  city: MANAMA
+  branch: ''
+NBOKBHBM:
+  institution: NATIONAL BANK OF KUWAIT SAK
+  city: MANAMA
+  branch: ''
+NBOKBHBMFCB:
+  institution: NATIONAL BANK OF KUWAIT SAK
+  city: MANAMA
+  branch: ''
+NBPABHBM:
+  institution: NATIONAL BANK OF PAKISTAN
+  city: MANAMA
+  branch: ''
+NCCOBHBM:
+  institution: NCB CAPITAL
+  city: MANAMA
+  branch: ''
+OSOLBHBM:
+  institution: OSOOL ASSET MANAGEMENT B.S.C. (C)
+  city: MANAMA
+  branch: ''
+RAFBBHBM:
+  institution: RAFIDAIN BANK
+  city: MANAMA
+  branch: ''
+SNCBBHBMCOM:
+  institution: SAUDI NATIONAL COMMERCIAL BANK – OBU
+  city: MANAMA
+  branch: FULL COMMERCIAL BRANCH
+SNCBBHBM861:
+  institution: SAUDI NATIONAL COMMERCIAL BANK – OBU
+  city: MANAMA
+  branch: S AND P BAHRAIN
+SNCBBHBM:
+  institution: SAUDI NATIONAL COMMERCIAL BANK – OBU
+  city: MANAMA
+  branch: ''
+SICSBHBM:
+  institution: SECURITIES AND INVESTMENT CO.(B.S.C)
+  city: MANAMA
+  branch: ''
+UIBBBHBM:
+  institution: SEERA INVESTMENT BANK B.S.C. (CLOSED)
+  city: MANAMA
+  branch: ''
+SCBLBHBM:
+  institution: STANDARD CHARTERED BANK
+  city: MANAMA
+  branch: ALL OFFICES
+SCBLBHBMOBU:
+  institution: STANDARD CHARTERED BANK
+  city: MANAMA
+  branch: OFFSHORE BANKING UNIT
+SBINBHBMFCB:
+  institution: STATE BANK OF INDIA, OBU
+  city: MANAMA
+  branch: FULL COMMERCIAL BRANCH
+SBINBHBM:
+  institution: STATE BANK OF INDIA, OBU
+  city: MANAMA
+  branch: ''
+TCPBBHBM:
+  institution: TADHAMON CAPITAL BSC(C)
+  city: MANAMA
+  branch: ''
+TAIBBHBM:
+  institution: TAIB BANK B.S.C.(C)
+  city: MANAMA
+  branch: ''
+TEBUBHBM:
+  institution: TURK EKONOMI BANKASI A.S. BAHRAIN BRANCH
+  city: MANAMA
+  branch: BAHRAIN BRANCH
+TRHBBHBM:
+  institution: TURKIYE HALK BANKASI A.S. BAHRAIN (OBU) BRANCH
+  city: MANAMA
+  branch: ''
+ISBKBHBM:
+  institution: TURKIYE IS BANKASI A.S. BAHRAIN BRANCH
+  city: MANAMA
+  branch: ''
+TVBABHBM:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O. BAHRAIN BRANCH (OBU)
+  city: MANAMA
+  branch: ''
+UNILBHBM:
+  institution: UNITED BANK LIMITED
+  city: MANAMA
+  branch: ''
+UGUBBHBM:
+  institution: UNITED GULF BANK B.S.C
+  city: MANAMA
+  branch: ''
+VCBKBHBM:
+  institution: VENTURE CAPITAL BANK BSC
+  city: MANAMA
+  branch: ''
+HVBKBHBM:
+  institution: WOORI BANK, MANAMA
+  city: MANAMA
+  branch: ''
+YAPIBHBX:
+  institution: YAPI VE KREDI BANKASI BAHRAIN OFFSHORE BANKING UN IT
+  city: MANAMA
+  branch: ''
+ZAINBHBM:
+  institution: ZAIN BAHRAIN B.S.C CLOSED
+  city: MANAMA
+  branch: ''
+ZENJBHBM:
+  institution: ZENJ EXCHANGE CO. W.L.L
+  city: MANAMA
+  branch: ''

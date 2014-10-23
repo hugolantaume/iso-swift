@@ -1,0 +1,1775 @@
+---
+ACCBIE2D:
+  institution: ACC BANK PLC
+  city: DUBLIN
+  branch: ''
+ACNTIE2D:
+  institution: ACCENTURE
+  city: DUBLIN
+  branch: ''
+AIBKIE2D:
+  institution: AIB BANK
+  city: DUBLIN
+  branch: ''
+AIBKIE2E:
+  institution: AIB INVESTMENT MANAGERS
+  city: DUBLIN
+  branch: ''
+AGITIE2DCUS:
+  institution: AIG ASSET MANAGEMENT (IRELAND) LIMITED
+  city: DUBLIN
+  branch: CUSTODIAN
+AGITIE2D:
+  institution: AIG ASSET MANAGEMENT (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+BOFAIE3XGDS:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: GLOBAL DERRIVATIVE SETTLEMENTS
+BOFAIE3XIFS:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: INTERNATIONAL FINANCIAL SERVICE CENTRE
+BOFAIE3XVAM:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: MANAGED TRANSACTION BANKING SERVICES
+BOFAIE3X:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: ''
+BOFAIE3XEQU:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: ''
+BOFAIE3XSBL:
+  institution: BANK OF AMERICA, N.A.
+  city: DUBLIN
+  branch: ''
+BOFIIE2D:
+  institution: BANK OF IRELAND
+  city: DUBLIN
+  branch: ''
+BIGTIE2D:
+  institution: BANK OF IRELAND TREASURY
+  city: DUBLIN
+  branch: ''
+BOFMIE2D:
+  institution: BANK OF MONTREAL IRELAND PLC
+  city: DUBLIN
+  branch: ''
+BOSIIE2D:
+  institution: BANK OF SCOTLAND PLC (FORMERLY BANK OF SCOTLAND, IRELAND)
+  city: DUBLIN
+  branch: ''
+BARCIE2D:
+  institution: BARCLAYS BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+DXIAIE2D:
+  institution: BELFIUS BANK SA/NV, DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+BNPAIE2D:
+  institution: BNP PARIBAS IRELAND – DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+HNADIE2DBNP:
+  institution: BNP PARIBAS SECURITIES SERVICES
+  city: DUBLIN
+  branch: SECURITIES SERVICES DUBLIN
+HNADIE2D:
+  institution: BNP PARIBAS SECURITIES SERVICES
+  city: DUBLIN
+  branch: ''
+DXMAIE2D:
+  institution: CAISSE FRANCAISE DE FINANCEMENT LOCAL DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+CNLIIE2D:
+  institution: CANALI FINANCE LTD
+  city: DUBLIN
+  branch: ''
+SPVWIE2D:
+  institution: CAPITA INTERNATIONAL FINANCIAL SERVICES LIMITED
+  city: DUBLIN
+  branch: ''
+SPVWIE2DBPV:
+  institution: CAPITA INTERNATIONAL FINANCIAL SERVICES LIMITED
+  city: DUBLIN
+  branch: ''
+IRCEIE2DAPS:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: ACCOUNTS DEPARTMENT
+IRCEIE2DCCB:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: CMAS
+IRCEIE2DCON:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: CONTINGENCY DEPARTMENT
+IRCEIE2DFOR:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: FUTURES
+IRCEIE2DIRC:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: IRISH ELECTRONIC CLEARING
+IRCEIE2DIPC:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: IRISH PAPER CLEARING
+IRCEIE2D:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: ''
+IRCEIE2DCRS:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: ''
+IRCEIE2DCUR:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: ''
+IRCEIE2DEPA:
+  institution: CENTRAL BANK OF IRELAND
+  city: DUBLIN
+  branch: ''
+CITCIE2D:
+  institution: CITCO BANK NEDERLAND N.V., DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+CFSHIE2D:
+  institution: CITCO FUND SERVICES IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+CFSHIE2DFEC:
+  institution: CITCO FUND SERVICES IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+CFSHIE2DSDU:
+  institution: CITCO FUND SERVICES IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+CITIIE4XITA:
+  institution: CITIBANK EUROPE PLC
+  city: DUBLIN
+  branch: TRANSFER AGENCY SERVICES
+CITIIE2X:
+  institution: CITIBANK EUROPE PLC
+  city: DUBLIN
+  branch: ''
+CITIIE3D:
+  institution: CITIBANK INTERNATIONAL PLC, DUBLIN
+  city: DUBLIN
+  branch: ''
+COBAIE2X:
+  institution: COMMERZ EUROPE (IRELAND)
+  city: DUBLIN
+  branch: ''
+CRESIE2D:
+  institution: CREDIT SUISSE INTERNATIONAL DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+DEFLIE2X:
+  institution: DAIWA EUROPE FUND MANAGERS IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+DABAIE2D633:
+  institution: DANSKE BANK A/S
+  city: ATHLONE
+  branch: ATHLONE
+DABAIE2D601:
+  institution: DANSKE BANK A/S
+  city: BAILIEBOROUGH
+  branch: BAILIEBOROUGH
+DABAIE2D606:
+  institution: DANSKE BANK A/S
+  city: BALBRIGGAN
+  branch: BALBRIGGAN
+DABAIE2D611:
+  institution: DANSKE BANK A/S
+  city: BALLINAMORE
+  branch: BALLINAMORE
+DABAIE2D615:
+  institution: DANSKE BANK A/S
+  city: BALLINASLOE
+  branch: BALLINASLOE
+DABAIE2D757:
+  institution: DANSKE BANK A/S
+  city: BALLINCOLLIG
+  branch: BALLINCOLLIG
+DABAIE2D621:
+  institution: DANSKE BANK A/S
+  city: BALLYBOFEY
+  branch: BALLYBOFEY
+DABAIE2D504:
+  institution: DANSKE BANK A/S
+  city: BLACKROCK
+  branch: BLACKROCK
+DABAIE2D502:
+  institution: DANSKE BANK A/S
+  city: BLANCHARDSTOWN
+  branch: BLANCHARDSTOWN
+DABAIE2D626:
+  institution: DANSKE BANK A/S
+  city: BOYLE
+  branch: BOYLE
+DABAIE2D631:
+  institution: DANSKE BANK A/S
+  city: BRAY
+  branch: BRAY
+DABAIE2D636:
+  institution: DANSKE BANK A/S
+  city: CARNDONAGH
+  branch: CARDONAGH
+DABAIE2D646:
+  institution: DANSKE BANK A/S
+  city: CARRICK-ON-SHANNON
+  branch: CARRICK-ON-SHANNON
+DABAIE2D661:
+  institution: DANSKE BANK A/S
+  city: CARRICK-ON-SHANNON
+  branch: DRUMSHANBO
+DABAIE2D696:
+  institution: DANSKE BANK A/S
+  city: CARRICK-ON-SHANNON
+  branch: MOHILL
+DABAIE2D648:
+  institution: DANSKE BANK A/S
+  city: CASTLEBAR
+  branch: CASTLEBAR
+DABAIE2D751:
+  institution: DANSKE BANK A/S
+  city: CAVAN
+  branch: CAVAN
+DABAIE2D668:
+  institution: DANSKE BANK A/S
+  city: CLONMEL
+  branch: CLONMEL
+DABAIE2D992:
+  institution: DANSKE BANK A/S
+  city: CORK
+  branch: CORK BC
+DABAIE2D653:
+  institution: DANSKE BANK A/S
+  city: CORK
+  branch: CORK
+DABAIE2D804:
+  institution: DANSKE BANK A/S
+  city: CORK
+  branch: REGIONAL OFFICE – SW
+DABAIE2D655:
+  institution: DANSKE BANK A/S
+  city: CORK
+  branch: WILTON
+DABAIE2D753:
+  institution: DANSKE BANK A/S
+  city: DROGHEDA
+  branch: ''
+DABAIE2D779:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ADMIN PROJECTS
+DABAIE2D882:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ALM IRELAND
+DABAIE2D829:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ASSET FINANCE FRONT OFF
+DABAIE2D921:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ATMS NIB
+DABAIE2D938:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: AUDIT DEPARTMENT – NIB
+DABAIE2D835:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BA CUSTOMER NIB
+DABAIE2D884:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BA. LONG RISK NIB
+DABAIE2D520:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BAGGOT STREET
+DABAIE2D888:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BAGGOT STREET
+DABAIE2D800:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BANKING ACTIV. NIB
+DABAIE2D827:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BFS NIB
+DABAIE2D824:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BFS SUPPORT
+DABAIE2D912:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BRANCH SERVICES – NIB
+DABAIE2D930:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BUS PARTNER NIB
+DABAIE2D943:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BUSINESS DEVELOPMENT – NIB
+DABAIE2D974:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BUSINESS DIRECT INACTIVE
+DABAIE2D988:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BUSINESS DIRECT
+DABAIE2D830:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: BUSINESS FIN- FRONT OFF
+DABAIE2D775:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CARD NIB
+DABAIE2D786:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CARD, CASH AND TELLER SUPPORT
+DABAIE2D919:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CASH SERVICES – NIB
+DABAIE2D509:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CENTRAL DEPOSIT UNIT
+DABAIE2D940:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CEO OFFICE NIB
+DABAIE2D907:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CHANGE MANAGEMENT – NIB
+DABAIE2D782:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CITY CENTRE BRANCHES
+DABAIE2D925:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CLEARINGS SERVICES – NIB
+DABAIE2D501:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: COLLEGE GREEN
+DABAIE2D592:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: COMMERCIAL BANKING
+DABAIE2D991:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: COMMERCIAL PROPERTY
+DABAIE2D936:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CORP AFFAIRS NIB
+DABAIE2D900:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: COSTCENTRE NIB
+DABAIE2D942:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CREDIT DEPARTMENT NIB
+DABAIE2D785:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CROSS BORDER DESK PERSONAL
+DABAIE2D821:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOM BUSINESS
+DABAIE2D902:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOMER DIRECT – NIB
+DABAIE2D973:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOMER DIRECT INACTIVE
+DABAIE2D903:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOMER DIRECT SALES – NIB
+DABAIE2D904:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOMER DIRECT SERVICES – NIB
+DABAIE2D889:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: CUSTOMER DIRECT
+DABAIE2D781:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DANICA PENSION
+DABAIE2D899:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DANSKE BANK – DUBLIN BR
+DABAIE2D913:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DEBT MANAGEMENT – NIB
+DABAIE2D972:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DM STRAP IRELAND
+DABAIE2D515:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DONNYBROOK
+DABAIE2D836:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DORMANT ACCOUNTS – NIB
+DABAIE2D993:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: DUBLIN BC
+DABAIE2D946:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ELIM NIB GROUP
+DABAIE2D971:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ELIM NIB SUB/SUB
+DABAIE2D968:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ELIM. NIB ASSET FIN
+DABAIE2D947:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ELIM. NIB PARENT
+DABAIE2D950:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: EXT, SUPPL. NIB LOCAL RECHARGE
+DABAIE2D951:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: EXT. SUPPL. NIB CENTRAL RECHARGE
+DABAIE2D817:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FACILITIES MANAGEMENT NIB
+DABAIE2D934:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE – NIB
+DABAIE2D812:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE CENTRE – DUBLIN
+DABAIE2D813:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE CENTRE – MIDLAND
+DABAIE2D811:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE CENTRE – NW
+DABAIE2D987:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE CENTRE
+DABAIE2D956:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE IB POOL – NIB CONTINUED
+DABAIE2D935:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE IB POOL – NIB
+DABAIE2D978:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCE NIB HIST 20061231
+DABAIE2D923:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINANCIAL INFRASTRUCTURE UNIT
+DABAIE2D503:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FINGLAS
+DABAIE2D945:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FIXED ASSETS – NIB
+DABAIE2D963:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FIXED ASSETS – NIIB
+DABAIE2D818:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: FUTURE PROJECT NIB
+DABAIE2D933:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: GRP CAPITAL MGT NIB
+DABAIE2D962:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: H/P NAT IRISH INVESTMENT BK
+DABAIE2D915:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: HANDLING SERVICES – NIB
+DABAIE2D822:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: HIGH LEVEL BFS NIB
+DABAIE2D690:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: HOWTH ROAD
+DABAIE2D926:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: HR SERVICES / PROJECTS
+DABAIE2D806:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: INACTIVE BRANCES NIB
+DABAIE2D990:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: INSTITUTIONAL NIB
+DABAIE2D783:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: INTERNATIONAL CORPORATE BANKING
+DABAIE2D508:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: INTERNATIONAL PAYMENTS
+DABAIE2D832:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: INVESTIGATIONS NIB COSTS
+DABAIE2D881:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – BUSINESS LOANS
+DABAIE2D893:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – CUSTOMER SECTION
+DABAIE2D896:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – MM RETAIL SEC – RESHAR
+DABAIE2D894:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – MM RETAIL SECURITIES
+DABAIE2D895:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – MONEY MARKET D/D
+DABAIE2D892:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – MONEY MARKET
+DABAIE2D891:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: IRELAND – SPOT
+DABAIE2D887:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LARGE PROPERTY CUSTOMERS
+DABAIE2D961:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LEASING – NAT IRISH INVESTMENT BK
+DABAIE2D944:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LEGAL DEPARTMENT – NIB
+DABAIE2D914:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LENDING SERVICES
+DABAIE2D918:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LOGISTICS ADM – NIB
+DABAIE2D883:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LONG FUNDING NIB
+DABAIE2D885:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: LORO. NIB
+DABAIE2D937:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: MARKETING NIB
+DABAIE2D880:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: MARKETS NIB
+DABAIE2D773:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: MASTERCARD BUSINESS COLLECTION
+DABAIE2D772:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: MASTERCARD COLLECTION
+DABAIE2D949:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: MIGRATION COSTS
+DABAIE2D966:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NAT AUST GROUP SSP R.I TRUSTEE
+DABAIE2D964:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NAT IRISH BANK FINANCIAL SERVICES
+DABAIE2D965:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NAT IRISH BANK PENSIONS LTD
+DABAIE2D969:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NAT IRISH LIFE AND PENSION SERV
+DABAIE2D932:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NATIONAL IRISH BANK – CAPITAL
+DABAIE2D958:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NATIONAL IRISH BANK LTD
+DABAIE2D839:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB CALCULATED EQUITY
+DABAIE2D816:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB COLLECTIONS
+DABAIE2D955:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB CONTINUED CAPITAL
+DABAIE2D954:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB CONTINUED
+DABAIE2D777:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB DEBT MANAGEMENT
+DABAIE2D778:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB DEBT MANAGEMENT
+DABAIE2D957:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB HIST D31FA TP 20070331
+DABAIE2D959:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB HIST SET OFF D31FA 20070331
+DABAIE2D970:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB NOMINEES
+DABAIE2D807:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB OTHER BANK ACTIVITIES
+DABAIE2D948:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB OTHERS
+DABAIE2D808:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB SUB HIST M31FJ
+DABAIE2D809:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB SUB HIST SET OFF
+DABAIE2D960:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB SUBSIDIARIES
+DABAIE2D843:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB TEMP CERTEGY
+DABAIE2D844:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NIB TEMP KAPITI
+DABAIE2D967:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: NORFIN INVESTMENTS
+DABAIE2D506:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: O CONNELL STREET
+DABAIE2D928:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: OPERATIONS NIB
+DABAIE2D910:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: OPS IRELAND HIST – NIB
+DABAIE2D823:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: OTHER BFS NIB
+DABAIE2D929:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: P AND C CORPRATE NIB
+DABAIE2D924:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PAYMENT SERVICES – NIB
+DABAIE2D831:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PAYMENTS – FRONT OFF
+DABAIE2D834:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PREMIUM NIB
+DABAIE2D784:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PRIVATE BANKING
+DABAIE2D908:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PRODUCT MGMT
+DABAIE2D916:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PROPERTIES NIB
+DABAIE2D917:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: PURCHASING NIB RECHARGES
+DABAIE2D927:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: RECRUITMENT
+DABAIE2D999:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: REG FOR LOCAL REPORT IN NIB
+DABAIE2D837:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: REG FOR LOCAL REPORT
+DABAIE2D825:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: REGIONAL CREDIT NIB
+DABAIE2D802:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: REGIONAL OFFICE – DUBLIN
+DABAIE2D801:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: REGIONAL OFFICE – NW
+DABAIE2D819:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: RESTRUCTURING PROGRAMME
+DABAIE2D810:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: RETAIL BRANCHES NIB
+DABAIE2D939:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: RISK MANAGEMENT – NIB
+DABAIE2D911:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: RS SUPPORT – NIB
+DABAIE2D922:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SECURITIES SERV AND TREASURY SETTL
+DABAIE2D901:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SHARED SERVICES NIB
+DABAIE2D909:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SHARED SERVS MGT
+DABAIE2D886:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SME PROPERTY CUSTOMERS
+DABAIE2D905:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SOLUTIONS – NIB
+DABAIE2D511:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SOUTH CIRCULAR ROAD
+DABAIE2D756:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SOUTH DOCKS
+DABAIE2D828:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SPECIAL PROJECTS NIB
+DABAIE2D833:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SPECIALIST SALES TOTAL
+DABAIE2D845:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT CUSTOMER DIRECT
+DABAIE2D846:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT DEVELOPMENT
+DABAIE2D850:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT HR SERVICES
+DABAIE2D848:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT LOGISTICS
+DABAIE2D847:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT RETAIL SERVICES
+DABAIE2D849:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC CLEAR OUT TRANS SERVICES
+DABAIE2D952:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC NIB HIST 20061231
+DABAIE2D953:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: SSC NIB HIST SET OFF 20061231
+DABAIE2D774:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: STAFF BRANCH
+DABAIE2D851:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 1
+DABAIE2D860:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 11
+DABAIE2D870:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 11
+DABAIE2D861:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 12
+DABAIE2D871:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 12
+DABAIE2D862:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 13
+DABAIE2D872:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 13
+DABAIE2D863:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 14
+DABAIE2D873:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 14
+DABAIE2D864:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 15
+DABAIE2D874:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 15
+DABAIE2D865:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 16
+DABAIE2D875:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 16
+DABAIE2D866:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 17
+DABAIE2D876:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 17
+DABAIE2D867:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 18
+DABAIE2D877:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 18
+DABAIE2D868:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 19
+DABAIE2D878:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 19
+DABAIE2D852:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 2
+DABAIE2D869:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 20
+DABAIE2D879:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 20
+DABAIE2D853:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 3
+DABAIE2D854:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 4
+DABAIE2D855:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 5
+DABAIE2D755:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 6
+DABAIE2D856:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 6
+DABAIE2D857:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 7
+DABAIE2D858:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 8
+DABAIE2D758:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 9
+DABAIE2D859:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TALLAGHT 9
+DABAIE2D941:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TECHNOLOGY NIB
+DABAIE2D906:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TECHNOLOGY OPERATIONS – NIB
+DABAIE2D729:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TERENURE
+DABAIE2D826:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TOTAL CORPORATE SEGMENT NIB
+DABAIE2D920:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TRADE AND EXPORT FINANCE
+DABAIE2D931:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TRAINING CENTRE – MIGRATION – NIB
+DABAIE2D500:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TRANSACTION SERVICES NIB
+DABAIE2D890:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TREASURY NIB ONLY FOR CONV.
+DABAIE2D780:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: TREASURY OPERATIONS
+DABAIE2D770:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: VISA COLLECTION
+DABAIE2D771:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: VISA GOLD COLLECTION
+DABAIE2D522:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: WALKINSTOWN
+DABAIE2D838:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: WEALTH MANAGEMENT – NIB
+DABAIE2D550:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: WILTON TERRACE
+DABAIE2D:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D748:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D749:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D759:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D760:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D761:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D762:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D763:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D764:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D765:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D766:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D767:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D768:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D769:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D840:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D841:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D842:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D897:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D898:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D975:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D976:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D977:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D979:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D995:
+  institution: DANSKE BANK A/S
+  city: DUBLIN
+  branch: ''
+DABAIE2D600:
+  institution: DANSKE BANK A/S
+  city: DUN LAOGHAIRE
+  branch: DUN LAOGHAIRE
+DABAIE2D663:
+  institution: DANSKE BANK A/S
+  city: DUNDALK
+  branch: DUNDALK
+DABAIE2D666:
+  institution: DANSKE BANK A/S
+  city: DUNGLOE
+  branch: DUNGLOE
+DABAIE2D667:
+  institution: DANSKE BANK A/S
+  city: ENNIS
+  branch: ENNIS
+DABAIE2D649:
+  institution: DANSKE BANK A/S
+  city: FERMOY
+  branch: FERMOY
+DABAIE2D994:
+  institution: DANSKE BANK A/S
+  city: GALWAY
+  branch: GALWAY BC
+DABAIE2D754:
+  institution: DANSKE BANK A/S
+  city: GALWAY
+  branch: GALWAY FSC
+DABAIE2D671:
+  institution: DANSKE BANK A/S
+  city: GALWAY
+  branch: GALWAY
+DABAIE2D676:
+  institution: DANSKE BANK A/S
+  city: KELLS
+  branch: KELLS
+DABAIE2D803:
+  institution: DANSKE BANK A/S
+  city: KELLS
+  branch: REGIONAL OFFICE – MIDLAND
+DABAIE2D678:
+  institution: DANSKE BANK A/S
+  city: KILKENNY
+  branch: KILKENNY
+DABAIE2D680:
+  institution: DANSKE BANK A/S
+  city: KILLARNEY
+  branch: KILLARNEY
+DABAIE2D681:
+  institution: DANSKE BANK A/S
+  city: KINGSCOURT
+  branch: KINGSCOURT
+DABAIE2D686:
+  institution: DANSKE BANK A/S
+  city: LANESBOROUGH
+  branch: LANESBOROUGH
+DABAIE2D674:
+  institution: DANSKE BANK A/S
+  city: LETTERKENNY
+  branch: GWEEDORE
+DABAIE2D683:
+  institution: DANSKE BANK A/S
+  city: LETTERKENNY
+  branch: LETTERKENNY
+DABAIE2D634:
+  institution: DANSKE BANK A/S
+  city: LIMERICK
+  branch: BALLINACURRA
+DABAIE2D814:
+  institution: DANSKE BANK A/S
+  city: LIMERICK
+  branch: FINANCE CENTER – SW
+DABAIE2D815:
+  institution: DANSKE BANK A/S
+  city: LIMERICK
+  branch: FINANCE CENTRE – SE
+DABAIE2D687:
+  institution: DANSKE BANK A/S
+  city: LIMERICK
+  branch: LIMERICK
+DABAIE2D805:
+  institution: DANSKE BANK A/S
+  city: LIMERICK
+  branch: REGIONAL OFFICE – SE
+DABAIE2D688:
+  institution: DANSKE BANK A/S
+  city: MALAHIDE
+  branch: MALAHIDE
+DABAIE2D750:
+  institution: DANSKE BANK A/S
+  city: MALLOW
+  branch: MALLOW
+DABAIE2D691:
+  institution: DANSKE BANK A/S
+  city: MILFORD
+  branch: MILFORD
+DABAIE2D697:
+  institution: DANSKE BANK A/S
+  city: MONAGHAN
+  branch: MONAGHAN
+DABAIE2D698:
+  institution: DANSKE BANK A/S
+  city: MULLINGAR
+  branch: MULLINGAR
+DABAIE2D699:
+  institution: DANSKE BANK A/S
+  city: NAAS
+  branch: NAAS
+DABAIE2D752:
+  institution: DANSKE BANK A/S
+  city: NAVAN
+  branch: NAVAN
+DABAIE2D711:
+  institution: DANSKE BANK A/S
+  city: RAPHOE
+  branch: RAPHOE
+DABAIE2D716:
+  institution: DANSKE BANK A/S
+  city: SHERCOCK
+  branch: SHERCOCK
+DABAIE2D721:
+  institution: DANSKE BANK A/S
+  city: SKERRIES
+  branch: SKERRIES
+DABAIE2D723:
+  institution: DANSKE BANK A/S
+  city: SLIGO
+  branch: SLIGO
+DABAIE2D513:
+  institution: DANSKE BANK A/S
+  city: STILLORGAN
+  branch: STILLORGAN
+DABAIE2D728:
+  institution: DANSKE BANK A/S
+  city: SWORDS
+  branch: SWORDS
+DABAIE2D731:
+  institution: DANSKE BANK A/S
+  city: VIRGINIA
+  branch: VIRGINIA
+DABAIE2D741:
+  institution: DANSKE BANK A/S
+  city: WATERFORD
+  branch: WATERFORD
+DABAIE2D744:
+  institution: DANSKE BANK A/S
+  city: WEXFORD
+  branch: WEXFORD
+DPFAIE3X:
+  institution: DEPFA ACS BANK
+  city: DUBLIN
+  branch: ''
+DPFAIE2D:
+  institution: DEPFA BANK PLC
+  city: DUBLIN
+  branch: ''
+DPFAIE2D001:
+  institution: DEPFA BANK PLC
+  city: DUBLIN
+  branch: ''
+DPFAIE2D002:
+  institution: DEPFA BANK PLC
+  city: DUBLIN
+  branch: ''
+CLFRIE2D:
+  institution: DEXIA CREDIT LOCAL DUBLIN
+  city: DUBLIN
+  branch: ''
+ZHBKIE2D:
+  institution: DUNBAR ASSETS IRELAND
+  city: DUBLIN
+  branch: ''
+GENOIE2D:
+  institution: DZ BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+WELAIE2X:
+  institution: EAA COVERED BOND BANK PLC
+  city: DUBLIN
+  branch: ''
+EBSIIE2DEMF:
+  institution: EBS LIMITED
+  city: DUBLIN
+  branch: EBS MORTGAGE FINANCE
+EBSIIE2D:
+  institution: EBS LIMITED
+  city: DUBLIN
+  branch: ''
+EBSIIE2DSDD:
+  institution: EBS LIMITED
+  city: DUBLIN
+  branch: ''
+USBKIE2DCTS:
+  institution: ELAVON FINANCIAL SERVICES LIMITED
+  city: DUBLIN
+  branch: CORPORATE TRUST SERVICES
+USBKIE2D:
+  institution: ELAVON FINANCIAL SERVICES LIMITED
+  city: DUBLIN
+  branch: ''
+EMRTIE2D:
+  institution: EMERSUB TREASURY IRELAND
+  city: DUBLIN
+  branch: ''
+FEXMIE2D:
+  institution: FEXCO MERCHANT SERVICES
+  city: KILLORGLIN
+  branch: ''
+FTIFIE2D:
+  institution: FTI FINANCE LTD T/A FTI TREASURY
+  city: DUBLIN
+  branch: ''
+GLAMIE2D:
+  institution: GAM FUND MANAGEMENT LIMITED
+  city: DUBLIN
+  branch: ''
+GOSRIE2E:
+  institution: GOLDMAN SACHS IRELAND FINANCE PUBLIC LIMITED COMPANY
+  city: DUBLIN
+  branch: ''
+HSBCIE2DSDD:
+  institution: HSBC BANK PLC
+  city: DUBLIN
+  branch: SEPA DIRECT DEBITS
+HSBCIE2D:
+  institution: HSBC BANK PLC
+  city: DUBLIN
+  branch: ''
+BTDLIE2D:
+  institution: HSBC INSTITUTIONAL TRUST SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+INGBIE2DICM:
+  institution: ING BANK NV-DUBLIN BRANCH
+  city: DUBLIN
+  branch: 'DUBLIN BRANCH: INTERNATIONAL CASH MANAGEMENT ICM / EU'
+INGBIE2D:
+  institution: ING BANK NV-DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+INGBIE3D:
+  institution: ING EUROPEAN FINANCIAL SERVICES PLC (FORMERLY OYAK EUROPEAN FINANCE
+    PLC)
+  city: DUBLIN
+  branch: ''
+IRIFIE2D:
+  institution: INGERSOLL-RAND INTERNATIONAL FINANCE LIMITED
+  city: SWORDS
+  branch: ''
+EPAYIE2K:
+  institution: INTERPAY LTD
+  city: KILKENNY
+  branch: ''
+BCITIE2D:
+  institution: INTESA SANPAOLO BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+INVDIE2D:
+  institution: INVESCO GLOBAL ASSET MANAGEMENT LIMITED
+  city: DUBLIN
+  branch: ''
+TRIBIE2D:
+  institution: INVESTEC BANK PLC (IRISH BRANCH)
+  city: DUBLIN
+  branch: ''
+NCBBIE2DALL:
+  institution: INVESTEC CAPITAL AND INVESTMENTS (IRELAND)LTD TRADING AS INVESTEC
+  city: DUBLIN
+  branch: WEALTH MANAGEMENT DIVISION
+NCBBIE2D:
+  institution: INVESTEC CAPITAL AND INVESTMENTS (IRELAND)LTD TRADING AS INVESTEC
+  city: DUBLIN
+  branch: ''
+ITGLIE2D:
+  institution: INVESTMENT TECHNOLOGY GROUP LTD.
+  city: DUBLIN
+  branch: ''
+ITGLIE2DAUS:
+  institution: INVESTMENT TECHNOLOGY GROUP LTD.
+  city: DUBLIN
+  branch: ''
+ITGLIE2DCAN:
+  institution: INVESTMENT TECHNOLOGY GROUP LTD.
+  city: DUBLIN
+  branch: ''
+ITGLIE2DHKD:
+  institution: INVESTMENT TECHNOLOGY GROUP LTD.
+  city: DUBLIN
+  branch: ''
+ITGLIE2DNYC:
+  institution: INVESTMENT TECHNOLOGY GROUP LTD.
+  city: DUBLIN
+  branch: ''
+ANGOIE2DDET:
+  institution: IRISH BANK RESOLUTION CORPORATION LIMITED
+  city: DUBLIN
+  branch: AGENCY SERVICES
+ANGOIE2D:
+  institution: IRISH BANK RESOLUTION CORPORATION LIMITED
+  city: DUBLIN
+  branch: ''
+IPSIIE2D:
+  institution: IRISH PROGRESSIVE SERVICES INTERNATIONAL LTD
+  city: DUBLIN
+  branch: ''
+CHASIE2DVAN:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: CHASE DUBLIN VANGUARD
+CHASIE2DBGI:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: DUBLIN TRANSFER AGENCY BGI
+CHASIE2XBGI:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: DUBLIN TRANSFER AGENCY
+CHASIE2XENQ:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+CHASIE2XKEY:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASIE2D:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: ''
+CHASIE2X:
+  institution: J.P. MORGAN BANK (IRELAND) PLC
+  city: DUBLIN
+  branch: ''
+JPMBIE2D:
+  institution: J.P. MORGAN BANK DUBLIN PLC
+  city: DUBLIN
+  branch: ''
+ICONIE2D:
+  institution: KBC BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+KBDUIE2D:
+  institution: KBC BANK NV DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+KBENIE2D:
+  institution: KLEINWORT BENSON INVESTORS DUBLIN LIMITED
+  city: DUBLIN
+  branch: ''
+LPLNIE2D:
+  institution: LEASEPLAN FINANCE N.V. (DUBLIN BRANCH)
+  city: DUBLIN
+  branch: ''
+LEEOIE2D:
+  institution: LEE OVERLAY PARTNERS LTD
+  city: DUBLIN
+  branch: ''
+BLFLIE2D:
+  institution: LGT BANK (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+MEATIE2R:
+  institution: MEDIOLANUM ASSET MANAGEMENT LIMITED
+  city: BALLSBRIDGE
+  branch: ''
+MLMBIE2XFUT:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: FUTURES
+MLMBIE2XLON:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: LOANS
+MLMBIE2DMCS:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: ML COMMODITIES INC.
+MLMBIE2XMSO:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: ML SECURITIES OOO
+MLMBIE2XFFO:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: MLI CLEARED DERIVATIVES
+MLMBIE2XIST:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: MLMD
+MLMBIE2XMTB:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: MLT BROKERAGE PROPRIETARY TRADING SERVICES DEPARTMENT
+MLMBIE2XMET:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: PRECIOUS METALS BRANCH
+MLMBIE2D:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: ''
+MLMBIE2X:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: ''
+MLMBIE2XITL:
+  institution: MERRILL LYNCH INTERNATIONAL BANK LIMITED
+  city: DUBLIN
+  branch: ''
+NTMAIE2D:
+  institution: NATIONAL TREASURY MANAGEMENT AGENCY
+  city: DUBLIN
+  branch: ''
+CNORIE2DETA:
+  institution: NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: EUROPEAN TRANSFER AGENCY
+CNORIE2D:
+  institution: NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+PNSEIE2D:
+  institution: PACNET SERVICES LTD
+  city: SHANNON
+  branch: ''
+IPBSIE2D:
+  institution: PERMANENT TSB P.L.C.
+  city: DUBLIN
+  branch: ''
+PERLIE2D:
+  institution: PERSHING SECURITIES INTERNATIONAL LTD
+  city: DUBLIN
+  branch: ''
+PFIZIE2DGFS:
+  institution: PFIZER SERVICE COMPANY IRELAND
+  city: DUBLIN
+  branch: SSC DUBLIN
+PFIZIE2D:
+  institution: PFIZER SERVICE COMPANY IRELAND
+  city: DUBLIN
+  branch: ''
+PFIZIE2DHDO:
+  institution: PFIZER SERVICE COMPANY IRELAND
+  city: DUBLIN
+  branch: ''
+PFPCIE2D:
+  institution: PNC GLOBAL INVESTMENT SERVICING (EUROPE) LIMITED
+  city: DUBLIN
+  branch: ''
+RABOIE2D:
+  institution: RABOBANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+RABIIE2D:
+  institution: RABODIRECT (A REGISTERED NAME IN IRELAND OF COOPERRATIEVE RAIFFEISEN-BOERENLEENBANK
+    BA)
+  city: DUBLIN
+  branch: ''
+BILLIE2D:
+  institution: RBC INVESTOR SERVICES IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+CPAYIE2D:
+  institution: REALEX FINANCIAL SERVICES LIMITED
+  city: DUBLIN
+  branch: ''
+SFPLIE2X:
+  institution: SANTANDER FINANCIAL PRODUCTS LTD.
+  city: DUBLIN
+  branch: ''
+NOSCIE2X:
+  institution: SCOTIABANK (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+SLTDIE2M:
+  institution: SENTENIAL LTD
+  city: MAYNOOTH
+  branch: ''
+ROKLIE2D:
+  institution: SKANDIA LIFE IRELAND LIMITED
+  city: DUBLIN
+  branch: ''
+SMKTIE22:
+  institution: SMURFIT KAPPA TREASURY
+  city: DUBLIN
+  branch: ''
+SBOSIE2DTAD:
+  institution: STATE STREET FUND SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: TRANSFER AGENCY DEPARTMENT
+SBOSIE2D:
+  institution: STATE STREET FUND SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+SMFDIE2D:
+  institution: SUMITOMO MITSUI FINANCE (DUBLIN) LTD
+  city: DUBLIN
+  branch: ''
+BNYMIE2D:
+  institution: THE BANK OF NEW YORK MELLON SA./NV, DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+ABNAIE2D:
+  institution: THE ROYAL BANK OF SCOTLAND PLC IRELAND (FORMERLY KNOWN AS RBS NV)
+  city: DUBLIN
+  branch: ''
+UBSWIE3D:
+  institution: UBS (LUXEMBOURG) SA DUBLIN BRANCH
+  city: DUBLIN
+  branch: ''
+UBSWIE2D:
+  institution: UBS FUND SERVICES (IRELAND) LIMITED
+  city: DUBLIN
+  branch: ''
+ULSBIE2DUCM:
+  institution: ULSTER BANK IRELAND LTD DUBLIN
+  city: DUBLIN
+  branch: CAPITAL MARKETS
+ULSBIE2DECO:
+  institution: ULSTER BANK IRELAND LTD DUBLIN
+  city: DUBLIN
+  branch: ECO DUBLIN
+ULSBIE2DMDK:
+  institution: ULSTER BANK IRELAND LTD DUBLIN
+  city: DUBLIN
+  branch: MONEY DESK
+ULSBIE2D:
+  institution: ULSTER BANK IRELAND LTD DUBLIN
+  city: DUBLIN
+  branch: ''
+UNCRIE2D:
+  institution: UNICREDIT BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+PNBPIE2D:
+  institution: WELLS FARGO BANK INTERNATIONAL
+  city: DUBLIN
+  branch: ''
+WGZIIE22:
+  institution: WGZ BANK IRELAND PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DPBS:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: PB SOLUTION
+ZURIIE2DZLA:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ZLAP
+ZURIIE2D:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCBE:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCDK:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCFI:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCFR:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCGB:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCIT:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCNL:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCNO:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''
+ZURIIE2DCSE:
+  institution: ZURICH INSURANCE PLC
+  city: DUBLIN
+  branch: ''

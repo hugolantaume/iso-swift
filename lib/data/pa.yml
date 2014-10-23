@@ -1,0 +1,293 @@
+---
+ALLKPAPA:
+  institution: ALLBANK CORP.
+  city: PANAMA
+  branch: ''
+BACAPAPA:
+  institution: ANDBANC (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+AUBAPAPA:
+  institution: AUSTROBANK (OVERSEAS) PANAMA S.A.
+  city: PANAMA
+  branch: ''
+ACPMPAPA:
+  institution: AUTORIDAD DEL CANAL DE PANAMA
+  city: PANAMA
+  branch: ''
+BCINPAPA:
+  institution: BAC INTERNATIONAL BANK, INC.
+  city: PANAMA
+  branch: ''
+BTACPAPA:
+  institution: BALBOA BANK AND TRUST CORP
+  city: PANAMA
+  branch: ''
+BPANPAPA:
+  institution: BANCA PRIVADA D’ANDORRA (PANAMA) SA
+  city: PANAMA
+  branch: ''
+BAALPAPA:
+  institution: BANCO ALIADO, S.A.
+  city: PANAMA
+  branch: ''
+AZTKPAPA:
+  institution: BANCO AZTECA DE PANAMA SA
+  city: PANAMA
+  branch: ''
+BBVAPAPA:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+BACUPAPANOS:
+  institution: BANCO CITIBANK (PANAMA), S.A.
+  city: PANAMA
+  branch: PANAMA BRANCH
+BACUPAPA:
+  institution: BANCO CITIBANK (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+COLPPAPA:
+  institution: BANCO COLPATRIA PANAMA
+  city: PANAMA
+  branch: ''
+CAFEPAPAZLC:
+  institution: BANCO DAVIVIENDA (PANAMA), S.A.
+  city: COLON
+  branch: SUCURSAL ZONA LIBRE
+CAFEPAPA:
+  institution: BANCO DAVIVIENDA (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+BBOGPAPA:
+  institution: BANCO DE BOGOTA (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+BBOGPAPB:
+  institution: BANCO DE BOGOTA S.A
+  city: PANAMA
+  branch: ''
+NACNPAPA:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: PANAMA
+  branch: ''
+OCCIPAPA:
+  institution: BANCO DE OCCIDENTE (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+PACIPAPX:
+  institution: BANCO DEL PACIFICO (PANAMA) S.A.
+  city: PANAMA
+  branch: ''
+BDSAPAPA:
+  institution: BANCO DELTA, S.A.
+  city: PANAMA
+  branch: ''
+FCOHPAPA:
+  institution: BANCO FICOHSA (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+BAGEPAPA:
+  institution: BANCO GENERAL S A
+  city: PANAMA
+  branch: ''
+COSRPAPA:
+  institution: BANCO INTERNACIONAL DE COSTA RICA S.A.
+  city: PANAMA
+  branch: ''
+BCCEPAPA:
+  institution: BANCO LAFISE PANAMA
+  city: PANAMA
+  branch: ''
+BLAEPAPA:
+  institution: BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)
+  city: PANAMA
+  branch: ''
+NAPAPAPA:
+  institution: BANCO NACIONAL DE PANAMA
+  city: PANAMA
+  branch: ''
+BPTYPAPA:
+  institution: BANCO PANAMA S.A.
+  city: PANAMA
+  branch: ''
+BPVVPAPA:
+  institution: BANCO PANAMENO DE LA VIVIENDA
+  city: PANAMA
+  branch: ''
+PICHPAPA:
+  institution: BANCO PICHINCHA PANAMA
+  city: PANAMA
+  branch: ''
+BUNVPAPA:
+  institution: BANCO UNIVERSAL S.A.
+  city: DAVID
+  branch: ''
+COLOPAPA:
+  institution: BANCOLOMBIA PANAMA S.A.
+  city: PANAMA
+  branch: ''
+COLOPAPS:
+  institution: BANCOLOMBIA SUCURSAL PANAMA
+  city: PANAMA
+  branch: ''
+BANSPAPA:
+  institution: BANESCO S.A.
+  city: PANAMA
+  branch: ''
+GUAYPAPA:
+  institution: BANISI, S.A.
+  city: PANAMA
+  branch: ''
+MIDLPAPACLN:
+  institution: BANISTMO S.A
+  city: COLON
+  branch: COLON BRANCH
+MIDLPAPA:
+  institution: BANISTMO S.A
+  city: PANAMA
+  branch: PANAMA BRANCH
+MIDLPAPA001:
+  institution: BANISTMO S.A
+  city: PANAMA
+  branch: SECURITIES
+LUMIPAPA:
+  institution: BANK LEUMI LE ISRAEL B.M.
+  city: PANAMA
+  branch: ''
+BKCHPAPA:
+  institution: BANK OF CHINA, PANAMA BRANCH
+  city: PANAMA
+  branch: ''
+NOSCPAPA:
+  institution: BANK OF NOVA SCOTIA, THE
+  city: PANAMA
+  branch: ''
+BBOLPAPA:
+  institution: BBP BANK, S.A.
+  city: PANAMA
+  branch: ''
+BCTBPAPA:
+  institution: BCT BANK INTERNATIONAL, S.A.
+  city: PANAMA
+  branch: ''
+BHINPAPA:
+  institution: BHD INTERNATIONAL BANK (PANAMA), S.A.
+  city: PANAMA
+  branch: ''
+BSILPAPA:
+  institution: BSI BANK (PANAMA)
+  city: PANAMA
+  branch: ''
+CAHRPAPA:
+  institution: CAJA DE AHORROS
+  city: PANAMA
+  branch: ''
+CAPBPAPA:
+  institution: CAPITAL BANK INC.
+  city: PANAMA
+  branch: ''
+LPTYPAPA:
+  institution: CENTRAL LATINOAMERICANA DE VALORES
+  city: PANAMA
+  branch: ''
+CITIPAPASFE:
+  institution: CITIBANK N.A. SUCURSAL PANAMA
+  city: PANAMA
+  branch: SECURITY SERVICES PANAMA
+CITIPAPA:
+  institution: CITIBANK N.A. SUCURSAL PANAMA
+  city: PANAMA
+  branch: ''
+CRLDPAPA:
+  institution: CREDICORP BANK S.A
+  city: PANAMA
+  branch: ''
+CRDAPAPA:
+  institution: CREDIT ANDORRA PANAMA
+  city: PANAMA
+  branch: ''
+ESBPPAPA:
+  institution: ES BANK (PANAMA) S.A.
+  city: PANAMA
+  branch: ''
+FCINPAPA:
+  institution: FIRST CENTRAL INTERNATIONAL BANK INC.
+  city: PANAMA
+  branch: ''
+FPBIPAPA:
+  institution: FPB BANK INC.
+  city: PANAMA
+  branch: ''
+GLBLPAPA:
+  institution: GLOBAL BANK CORPORATION
+  city: PANAMA
+  branch: ''
+GNBKPAPA:
+  institution: GNB SUDAMERIS BANK S.A.
+  city: PANAMA
+  branch: ''
+BCTOPAPA:
+  institution: HELM BANK (PANAMA) S.A.
+  city: PANAMA
+  branch: ''
+IBNKPAPA:
+  institution: INTELIGO BANK LTD
+  city: PANAMA
+  branch: ''
+IUBKPAPA:
+  institution: INTERNATIONAL UNION BANK S.A.
+  city: PANAMA
+  branch: ''
+KEHPPAPA:
+  institution: KEEN HOLDING S.A, (BANCO PRIVAL S.A.)
+  city: PANAMA
+  branch: ''
+KOEXPAPA:
+  institution: KOREA EXCHANGE BANK
+  city: PANAMA
+  branch: ''
+ICBCPAPAZLC:
+  institution: MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.
+  city: PANAMA
+  branch: COLON FREE ZONE BRANCH
+ICBCPAPA:
+  institution: MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.
+  city: PANAMA
+  branch: ''
+MPANPAPA:
+  institution: MERCANTIL BANK (PANAMA) S.A.
+  city: PANAMA
+  branch: ''
+METOPAPA:
+  institution: METROBANK S.A.
+  city: PANAMA
+  branch: ''
+MMGBPAPA:
+  institution: MMG BANK CORPORATION
+  city: PANAMA
+  branch: ''
+MCTBPAPA:
+  institution: MULTIBANK INC.
+  city: PANAMA
+  branch: ''
+BPDOPAPA:
+  institution: POPULAR BANK LTD. INC.
+  city: PANAMA
+  branch: ''
+PRODPAPA:
+  institution: PRODUBANK PANAMA S.A.
+  city: PANAMA
+  branch: ''
+STGBPAPA:
+  institution: ST. GEORGES BANK
+  city: PANAMA
+  branch: ''
+TOWEPAPA:
+  institution: TOWERBANK INTERNATIONAL, INC.
+  city: PANAMA
+  branch: ''
+UNIBPAPA:
+  institution: UNIBANK, S.A.
+  city: PANAMA
+  branch: ''

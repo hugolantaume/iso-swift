@@ -1,0 +1,5446 @@
+---
+ADABTRIS:
+  institution: ADABANK A.S.
+  city: ISTANBUL
+  branch: ''
+AKBKTRIS002:
+  institution: AKBANK T.A.S.
+  city: ADANA
+  branch: ''
+AKBKTRIS005:
+  institution: AKBANK T.A.S.
+  city: ANKARA
+  branch: ''
+AKBKTRIS056:
+  institution: AKBANK T.A.S.
+  city: ANTALYA
+  branch: ''
+AKBKTRIS043:
+  institution: AKBANK T.A.S.
+  city: BURSA
+  branch: ''
+AKBKTRIS012:
+  institution: AKBANK T.A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+AKBKTRIS057:
+  institution: AKBANK T.A.S.
+  city: GAZIANTEP
+  branch: ''
+AKBKTRIS035:
+  institution: AKBANK T.A.S.
+  city: ISKENDERUN
+  branch: ''
+AKBKTRIS004:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: BAHCEKAPI BRANCH
+AKBKTRIS039:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: BEYOGLU BRANCH
+AKBKTRIS019:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: GALATA BRANCH
+AKBKTRIS888:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: INTERNATIONAL OPERATIONS
+AKBKTRIS020:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: KADIKOY BRANCH
+AKBKTRIS192:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: MAIN BRANCH
+AKBKTRIS:
+  institution: AKBANK T.A.S.
+  city: ISTANBUL
+  branch: ''
+AKBKTRIS006:
+  institution: AKBANK T.A.S.
+  city: IZMIR
+  branch: ''
+AKBKTRIS066:
+  institution: AKBANK T.A.S.
+  city: IZMIT
+  branch: ''
+AKBKTRIS999:
+  institution: AKBANK T.A.S.
+  city: KOCAELI
+  branch: TREASURY OPERATIONS
+AKBKTRIS622:
+  institution: AKBANK T.A.S.
+  city: MERSIN
+  branch: MERSIN FREE ZONE BRANCH
+AKBKTRIS018:
+  institution: AKBANK T.A.S.
+  city: MERSIN
+  branch: ''
+AKBKTRIS059:
+  institution: AKBANK T.A.S.
+  city: SAMSUN
+  branch: ''
+CAYTTRIS:
+  institution: AKTIF YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+CAYTTRIS001:
+  institution: AKTIF YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+CAYTTRIS002:
+  institution: AKTIF YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+CAYTTRIS003:
+  institution: AKTIF YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+BTFHTRIS:
+  institution: ALBARAKA TURK PARTICIPATION BANK
+  city: ISTANBUL
+  branch: ''
+ALFBTRIS909:
+  institution: ALTERNATIFBANK A.S.
+  city: ANKARA
+  branch: ANKARA BRANCH
+ALFBTRIS908:
+  institution: ALTERNATIFBANK A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+ALFBTRIS:
+  institution: ALTERNATIFBANK A.S.
+  city: ISTANBUL
+  branch: ''
+ALFBTRIS907:
+  institution: ALTERNATIFBANK A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+ANDLTRISTUZ:
+  institution: ANADOLUBANK A.S.
+  city: ISTANBUL
+  branch: TUZLA FREE ZONE BRANCH
+ANDLTRIS:
+  institution: ANADOLUBANK A.S.
+  city: ISTANBUL
+  branch: ''
+ATUBTRIS:
+  institution: ARAB TURKISH BANK
+  city: ISTANBUL
+  branch: ''
+ASYATRIS004:
+  institution: ASYA KATILIM BANKASI A.S.
+  city: ISTANBUL
+  branch: MERTER BRANCH
+ASYATRIS005:
+  institution: ASYA KATILIM BANKASI A.S.
+  city: ISTANBUL
+  branch: SISLI BRANCH
+ASYATRIS:
+  institution: ASYA KATILIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+ASYATRIS007:
+  institution: ASYA KATILIM BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+BOTKTRIS:
+  institution: BANK OF TOKYO-MITSUBISHI UFJ TURKEY A.S.
+  city: ISTANBUL
+  branch: ''
+BPTRTRIS:
+  institution: BANKPOZITIF KREDI VE KALKINMA BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+BAYDTRIS:
+  institution: BIRLESIK FON BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+TEKFTRIS970:
+  institution: BURGAN BANK A.S.
+  city: ISTANBUL
+  branch: A.H.L. SERBEST BOLGE BRANCH
+TEKFTRIS946:
+  institution: BURGAN BANK A.S.
+  city: ISTANBUL
+  branch: FACTORING
+TEKFTRIS901:
+  institution: BURGAN BANK A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE
+TEKFTRIS:
+  institution: BURGAN BANK A.S.
+  city: ISTANBUL
+  branch: ''
+TEKFTRISSEC:
+  institution: BURGAN BANK A.S.
+  city: ISTANBUL
+  branch: ''
+CITITRIXANK:
+  institution: CITIBANK A.S.
+  city: ANKARA
+  branch: ''
+CITITRIX:
+  institution: CITIBANK A.S.
+  city: ISTANBUL
+  branch: ''
+CITITRIXIZM:
+  institution: CITIBANK A.S.
+  city: IZMIR
+  branch: ''
+DENITRIS940:
+  institution: DENIZBANK A.S.
+  city: ADANA
+  branch: ADANA BRANCH
+DENITRIS234:
+  institution: DENIZBANK A.S.
+  city: ADANA
+  branch: ADANA CARSI
+DENITRIS323:
+  institution: DENIZBANK A.S.
+  city: ADANA
+  branch: KUZEY ADANA
+DENITRIS327:
+  institution: DENIZBANK A.S.
+  city: ADANA
+  branch: YUREGIR
+DENITRIS201:
+  institution: DENIZBANK A.S.
+  city: ADAPAZARI
+  branch: ADAPAZARI BRANCH
+DENITRIS338:
+  institution: DENIZBANK A.S.
+  city: ADIYAMAN
+  branch: ADIYAMAN
+DENITRIS212:
+  institution: DENIZBANK A.S.
+  city: AFYON
+  branch: AFYON
+DENITRIS336:
+  institution: DENIZBANK A.S.
+  city: AKSARAY
+  branch: AKSARAY
+DENITRIS341:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: ANKARA BASKENT OZEL BANKACILIK MERKEZI
+DENITRIS909:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: ANKARA BRANCH
+DENITRIS979:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: BAHCELIEVELER BRANCH
+DENITRIS343:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: BASKENT UNIVERSITESI
+DENITRIS965:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: CANKAYA BRANCH
+DENITRIS216:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: CEBECI
+DENITRIS910:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: GAZIOSMANPASA BRANCH
+DENITRIS218:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: GIMAT BRANCH
+DENITRIS362:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: KECIOREN
+DENITRIS271:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: MITHATPASA
+DENITRIS310:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: OSTIM
+DENITRIS352:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: POLATLI
+DENITRIS373:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: SINCAN
+DENITRIS320:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: SITELER ANKARA
+DENITRIS933:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: ULUS BRANCH
+DENITRIS211:
+  institution: DENIZBANK A.S.
+  city: ANKARA
+  branch: YILDIZ BRANCH
+DENITRIS972:
+  institution: DENIZBANK A.S.
+  city: ANTAKYA
+  branch: ANTAKYA BRANCH
+DENITRIS368:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: AKDENIZ TICARI MERKEZ
+DENITRIS291:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: ALANYA CARSI
+DENITRIS916:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+DENITRIS289:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: ANTALYA CARSI
+DENITRIS275:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: ANTALYA HAL
+DENITRIS296:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: DEMRE
+DENITRIS297:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: GAZIPASA
+DENITRIS235:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: KUMLUCA
+DENITRIS333:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: LARA
+DENITRIS292:
+  institution: DENIZBANK A.S.
+  city: ANTALYA
+  branch: SIDE
+DENITRIS280:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: CINE
+DENITRIS279:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: GERMENCIK
+DENITRIS256:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: INCIRLIOVA
+DENITRIS997:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: KUSADASI BRANCH
+DENITRIS287:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: KUSADASI CARSI
+DENITRIS994:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: NAZILLI
+DENITRIS259:
+  institution: DENIZBANK A.S.
+  city: AYDIN
+  branch: SOKE
+DENITRIS254:
+  institution: DENIZBANK A.S.
+  city: BALIKESIR
+  branch: AYVALIK
+DENITRIS962:
+  institution: DENIZBANK A.S.
+  city: BALIKESIR
+  branch: BALIKESIR BRANCH
+DENITRIS236:
+  institution: DENIZBANK A.S.
+  city: BALIKESIR
+  branch: BANDIRMA
+DENITRIS255:
+  institution: DENIZBANK A.S.
+  city: BALIKESIR
+  branch: EDREMIT
+DENITRIS251:
+  institution: DENIZBANK A.S.
+  city: BATMAN
+  branch: BATMAN
+DENITRIS982:
+  institution: DENIZBANK A.S.
+  city: BOLU
+  branch: BOLU
+DENITRIS908:
+  institution: DENIZBANK A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+DENITRIS947:
+  institution: DENIZBANK A.S.
+  city: BURSA
+  branch: BURSA HEYKEL BRANCH
+DENITRIS316:
+  institution: DENIZBANK A.S.
+  city: BURSA
+  branch: BURSA YILDIRIM
+DENITRIS989:
+  institution: DENIZBANK A.S.
+  city: BURSA
+  branch: CEKIRGE BRANCH
+DENITRIS334:
+  institution: DENIZBANK A.S.
+  city: BURSA
+  branch: INEGOL
+DENITRIS237:
+  institution: DENIZBANK A.S.
+  city: CANAKKALE
+  branch: CANAKKALE
+DENITRIS968:
+  institution: DENIZBANK A.S.
+  city: CORUM
+  branch: CORUM
+DENITRIS917:
+  institution: DENIZBANK A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+DENITRIS313:
+  institution: DENIZBANK A.S.
+  city: DENIZLI
+  branch: HALK CADDESI
+DENITRIS359:
+  institution: DENIZBANK A.S.
+  city: DIYARBAKIR
+  branch: DAGKAPI
+DENITRIS941:
+  institution: DENIZBANK A.S.
+  city: DIYARBAKIR
+  branch: DIYARBAKIR BRANCH
+DENITRIS202:
+  institution: DENIZBANK A.S.
+  city: DIYARBAKIR
+  branch: SILOPI
+DENITRIS335:
+  institution: DENIZBANK A.S.
+  city: DUZCE
+  branch: DUZCE
+DENITRIS969:
+  institution: DENIZBANK A.S.
+  city: EDIRNE
+  branch: EDIRNE
+DENITRIS967:
+  institution: DENIZBANK A.S.
+  city: ELAZIG
+  branch: ELAZIG BRANCH
+DENITRIS315:
+  institution: DENIZBANK A.S.
+  city: ERZURUM
+  branch: ERZURUM
+DENITRIS988:
+  institution: DENIZBANK A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR BRANCH
+DENITRIS360:
+  institution: DENIZBANK A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR SANAYI
+DENITRIS939:
+  institution: DENIZBANK A.S.
+  city: GAZIANTEP
+  branch: GAZIANTEP BRANCH
+DENITRIS330:
+  institution: DENIZBANK A.S.
+  city: GIRESUN
+  branch: GIRESUN
+DENITRIS954:
+  institution: DENIZBANK A.S.
+  city: ISKENDERUN
+  branch: ISKENDERUN BRANCH
+DENITRIS974:
+  institution: DENIZBANK A.S.
+  city: ISPARTA
+  branch: ISPARTA
+DENITRIS963:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: 1.LEVENT BRANCH
+DENITRIS984:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: 4.LEVENT BRANCH
+DENITRIS239:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: A.H.L. FREE ZONE BRANCH
+DENITRIS961:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: AKSARAY BRANCH
+DENITRIS281:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ALTIN BORSASI
+DENITRIS245:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ALTIYOL BRANCH
+DENITRIS993:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ALTUNIZADE BRANCH
+DENITRIS920:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ATAKOY BRANCH
+DENITRIS927:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ATRIUM
+DENITRIS929:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+DENITRIS985:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: AYAZAGA BRANCH
+DENITRIS238:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAGCILAR
+DENITRIS936:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAHCELIEVLER
+DENITRIS378:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAHCESEHIR UNIVERSITESI
+DENITRIS912:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY BRANCH
+DENITRIS204:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY CARSI
+DENITRIS355:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BANKALAR CADDESI
+DENITRIS349:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BASAKSEHIR
+DENITRIS925:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+DENITRIS937:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BEBEK BRANCH
+DENITRIS308:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BESIKTAS
+DENITRIS240:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BESYUZEVLER
+DENITRIS242:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BEYLIKDUZU BRANCH
+DENITRIS975:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BEYOGLU BRANCH
+DENITRIS346:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: BUYUKADA
+DENITRIS246:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: CAGLAYAN BRANCH
+DENITRIS247:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: CARSI IKITELLI
+DENITRIS337:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: CIFTEHAVUZLAR
+DENITRIS321:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: DEMIRCILER SITESI
+DENITRIS992:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: DUDULLU BRANCH
+DENITRIS905:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ELMADAG BRANCH
+DENITRIS923:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ETILER BRANCH
+DENITRIS971:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: FATIH BRANCH
+DENITRIS244:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: FINDIKZADE
+DENITRIS219:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: GOP BRANCH
+DENITRIS252:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: GOZTEPE ISTASYON BRANCH
+DENITRIS918:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+DENITRIS227:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: GUNGOREN BRANCH
+DENITRIS206:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: HARBIYE BRANCH
+DENITRIS221:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: IKITELLI BRANCH
+DENITRIS344:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ISTINYE
+DENITRIS329:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ISTOC
+DENITRIS956:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KADIKOY BRANCH
+DENITRIS902:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KARAKOY BRANCH
+DENITRIS911:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KARTAL BRANCH
+DENITRIS958:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KARTAL CARSI BRANCH
+DENITRIS241:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KAVACIK BRANCH
+DENITRIS924:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KAZASKER BRANCH
+DENITRIS374:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KERESTECILER SITESI
+DENITRIS921:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KIZILTOPRAK BRANCH
+DENITRIS906:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI BRANCH
+DENITRIS318:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: KUCUKYALI
+DENITRIS945:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: LEVENT BRANCH
+DENITRIS932:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MALTEPE BRANCH
+DENITRIS210:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MASLAK BRANCH
+DENITRIS326:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MECIDIYEKOY
+DENITRIS261:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MEGA CENTER
+DENITRIS303:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MERCAN SUBESI
+DENITRIS966:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MERTER BRANCH
+DENITRIS314:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: MODA
+DENITRIS996:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: NISANTASI BRANCH
+DENITRIS243:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: NURUOSMANIYE
+DENITRIS322:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ORTAKOY
+DENITRIS357:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: OTOCENTER
+DENITRIS340:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: OZEL BANKACILIK MERKEZI
+DENITRIS223:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: PENDIK BRANCH
+DENITRIS276:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: PERPA
+DENITRIS224:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: RAMI
+DENITRIS324:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SAHRAYICEDIT
+DENITRIS225:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SASKINBAKKAL BRANCH
+DENITRIS957:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SEFAKOY BRANCH
+DENITRIS944:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SIRINEVLER BRANCH
+DENITRIS926:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SUADIYE BRANCH
+DENITRIS306:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SULTANCIFTLIGI
+DENITRIS904:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: SULTANHAMAM BRANCH
+DENITRIS226:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: TOPCULAR BRANCH
+DENITRIS317:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: TOPKAPI SANAYI
+DENITRIS915:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: TREASURY OPERATIONS DIVISION
+DENITRIS248:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: TUZLA TERSANE BRANCH
+DENITRIS952:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: UMRANIYE BRANCH
+DENITRIS372:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: UMRANIYE SANAYII
+DENITRIS986:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: USKUDAR BRANCH
+DENITRIS134:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: VOSTRO DEPARTMENT
+DENITRIS922:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: YESILKOY BRANCH
+DENITRIS931:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: YESILYURT BRANCH
+DENITRIS977:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ZEYTINBURNU BRANCH
+DENITRIS914:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ZINCIRLIKUYU BRANCH
+DENITRIS:
+  institution: DENIZBANK A.S.
+  city: ISTANBUL
+  branch: ''
+DENITRIS919:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: ALSANCAK BRANCH
+DENITRIS353:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: BALCOVA
+DENITRIS272:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: BERGAMA
+DENITRIS942:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: BORNOVA BRANCH
+DENITRIS309:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: BUCA
+DENITRIS342:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: EGE OZEL BANKACILIK MERKEZI
+DENITRIS970:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: EGE SERBEST BOLGE BRANCH
+DENITRIS361:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: GAZIEMIR
+DENITRIS976:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: HATAY IZMIR
+DENITRIS278:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: ISIKKENT
+DENITRIS907:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+DENITRIS208:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: IZMIR GIDA CARSISI BRANCH
+DENITRIS998:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: KARABAGLAR BRANCH
+DENITRIS948:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: KARSIYAKA
+DENITRIS274:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: MENEMEN
+DENITRIS277:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: MIMAR KEMALETTIN
+DENITRIS257:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: ODEMIS
+DENITRIS286:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: SAIR ESREF
+DENITRIS260:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: TIRE
+DENITRIS258:
+  institution: DENIZBANK A.S.
+  city: IZMIR
+  branch: TORBALI
+DENITRIS978:
+  institution: DENIZBANK A.S.
+  city: IZMIT
+  branch: GEBZE BRANCH
+DENITRIS200:
+  institution: DENIZBANK A.S.
+  city: IZMIT
+  branch: IZMIT BRANCH
+DENITRIS207:
+  institution: DENIZBANK A.S.
+  city: KAHRAMANMARAS
+  branch: KAHRAMANMARAS BRANCH
+DENITRIS222:
+  institution: DENIZBANK A.S.
+  city: KARABUK
+  branch: KARABUK BRANCH
+DENITRIS943:
+  institution: DENIZBANK A.S.
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+DENITRIS354:
+  institution: DENIZBANK A.S.
+  city: KIRIKKALE
+  branch: KIRIKKALE
+DENITRIS953:
+  institution: DENIZBANK A.S.
+  city: KIRKLARELI
+  branch: LULEBURGAZ
+DENITRIS949:
+  institution: DENIZBANK A.S.
+  city: KONYA
+  branch: KONYA BRANCH
+DENITRIS311:
+  institution: DENIZBANK A.S.
+  city: KONYA
+  branch: MEVLANA
+DENITRIS229:
+  institution: DENIZBANK A.S.
+  city: KONYA
+  branch: YENI TOPTANCILAR BRANCH
+DENITRIS249:
+  institution: DENIZBANK A.S.
+  city: KUTAHYA
+  branch: KUTAHYA
+DENITRIS980:
+  institution: DENIZBANK A.S.
+  city: MALATYA
+  branch: MALATYA BRANCH
+DENITRIS262:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: AKHISAR
+DENITRIS263:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: ALASEHIR
+DENITRIS928:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: MANISA BRANCH
+DENITRIS266:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: SALIHLI
+DENITRIS295:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: SARIGOL
+DENITRIS325:
+  institution: DENIZBANK A.S.
+  city: MANISA
+  branch: TURGUTLU
+DENITRIS300:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: ANAMUR
+DENITRIS955:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: MERSIN BRANCH
+DENITRIS990:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: MERSIN SERBEST BOLGE BRANCH
+DENITRIS365:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: METROPOL
+DENITRIS347:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: SILIFKE
+DENITRIS350:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: TARSUS HAL
+DENITRIS312:
+  institution: DENIZBANK A.S.
+  city: MERSIN
+  branch: TARSUS
+DENITRIS964:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: BODRUM BRANCH
+DENITRIS267:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: CARSI BODRUM
+DENITRIS367:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: DALAMAN HAVALIMANI
+DENITRIS217:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: FETHIYE
+DENITRIS264:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: MILAS
+DENITRIS265:
+  institution: DENIZBANK A.S.
+  city: MUGLA
+  branch: ORTACA
+DENITRIS364:
+  institution: DENIZBANK A.S.
+  city: NEVSEHIR
+  branch: GOREME
+DENITRIS231:
+  institution: DENIZBANK A.S.
+  city: NEVSEHIR
+  branch: NEVSEHIR
+DENITRIS288:
+  institution: DENIZBANK A.S.
+  city: NEVSEHIR
+  branch: URGUP
+DENITRIS987:
+  institution: DENIZBANK A.S.
+  city: ORDU
+  branch: ORDU BRANCH
+DENITRIS348:
+  institution: DENIZBANK A.S.
+  city: RIZE
+  branch: RIZE
+DENITRIS356:
+  institution: DENIZBANK A.S.
+  city: SAMSUN
+  branch: BAFRA
+DENITRIS983:
+  institution: DENIZBANK A.S.
+  city: SAMSUN
+  branch: SAMSUN BRANCH
+DENITRIS233:
+  institution: DENIZBANK A.S.
+  city: SANLIURFA
+  branch: SANLIURFA
+DENITRIS345:
+  institution: DENIZBANK A.S.
+  city: SANLIURFA
+  branch: ZAHIRECILER BORSASI
+DENITRIS995:
+  institution: DENIZBANK A.S.
+  city: SIVAS
+  branch: SIVAS BRANCH
+DENITRIS938:
+  institution: DENIZBANK A.S.
+  city: TEKIRDAG
+  branch: CORLU BRANCH
+DENITRIS331:
+  institution: DENIZBANK A.S.
+  city: TEKIRDAG
+  branch: TEKIRDAG
+DENITRIS351:
+  institution: DENIZBANK A.S.
+  city: TOKAT
+  branch: TOKAT
+DENITRIS903:
+  institution: DENIZBANK A.S.
+  city: TRABZON
+  branch: TRABZON BRANCH
+DENITRIS209:
+  institution: DENIZBANK A.S.
+  city: USAK
+  branch: USAK BRANCH
+DENITRIS250:
+  institution: DENIZBANK A.S.
+  city: VAN
+  branch: VAN
+DENITRIS946:
+  institution: DENIZBANK A.S.
+  city: ZONGULDAK
+  branch: KARADENIZ EREGLI BRANCH
+DENITRIS213:
+  institution: DENIZBANK A.S.
+  city: ZONGULDAK
+  branch: ZONGULDAK
+DEUTTRISCUS:
+  institution: DEUTSCHE BANK A.S.
+  city: ISTANBUL
+  branch: CUSTODY SERVICES
+DEUTTRISPBC:
+  institution: DEUTSCHE BANK A.S.
+  city: ISTANBUL
+  branch: PRIVATE BANKING DEPARTMENT
+DEUTTRIS:
+  institution: DEUTSCHE BANK A.S.
+  city: ISTANBUL
+  branch: ''
+BKTRTRISCUS:
+  institution: DEUTSCHE BANK ISTANBUL
+  city: ISTANBUL
+  branch: CUSTODY DEPARTMENT
+BKTRTRISGFX:
+  institution: DEUTSCHE BANK ISTANBUL
+  city: ISTANBUL
+  branch: GLOBAL MARKETS
+BKTRTRIS:
+  institution: DEUTSCHE BANK ISTANBUL
+  city: ISTANBUL
+  branch: ''
+DYAKTRIS:
+  institution: DILER YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+ECTVTRIS:
+  institution: ECO TRADE AND DEVELOPMENT BANK
+  city: ISTANBUL
+  branch: ''
+EKSFTRI2:
+  institution: EKSPO FAKTORING A.S.
+  city: ISTANBUL
+  branch: ''
+ESIETRI2:
+  institution: ERSTE SECURITIES ISTANBUL MENKUL DEGERLER A.S.
+  city: ISTANBUL
+  branch: ''
+FBHLTRIS:
+  institution: FIBABANKA A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE
+FNNBTRISADA:
+  institution: FINANSBANK A.S.
+  city: ADANA
+  branch: ADANA BRANCH
+FNNBTRISANK:
+  institution: FINANSBANK A.S.
+  city: ANKARA
+  branch: ANKARA BRANCH
+FNNBTRISNCT:
+  institution: FINANSBANK A.S.
+  city: ANKARA
+  branch: NECATIBEY BRANCH
+FNNBTRISSIT:
+  institution: FINANSBANK A.S.
+  city: ANKARA
+  branch: SITELER BRANCH
+FNNBTRISAUS:
+  institution: FINANSBANK A.S.
+  city: ANKARA
+  branch: ULUS BRANCH
+FNNBTRISATK:
+  institution: FINANSBANK A.S.
+  city: ANTAKYA
+  branch: ANTAKYA BRANCH
+FNNBTRISANT:
+  institution: FINANSBANK A.S.
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+FNNBTRISMNV:
+  institution: FINANSBANK A.S.
+  city: ANTALYA
+  branch: MANAVGAT BRANCH
+FNNBTRISKUS:
+  institution: FINANSBANK A.S.
+  city: AYDIN
+  branch: KUSADASI BRANCH
+FNNBTRISBLS:
+  institution: FINANSBANK A.S.
+  city: BALIKESIR
+  branch: BALIKESIR BRANCH
+FNNBTRISBUR:
+  institution: FINANSBANK A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+FNNBTRISDEN:
+  institution: FINANSBANK A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+FNNBTRISDIY:
+  institution: FINANSBANK A.S.
+  city: DIYARBAKIR
+  branch: DIYARBAKIR BRANCH
+FNNBTRISESK:
+  institution: FINANSBANK A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR BRANCH
+FNNBTRISGZT:
+  institution: FINANSBANK A.S.
+  city: GAZIANTEP
+  branch: GAZIANTEP BRANCH
+FNNBTRISALT:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: ALTUNIZADE BRANCH
+FNNBTRISAHL:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: ATATURK HAVALIMANI FREE ZONE BRANCH, ISTANBUL
+FNNBTRISAVC:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+FNNBTRISBAY:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+FNNBTRISELM:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: ELMADAG BRANCH
+FNNBTRISGAY:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: GAYRETTEPE BRANCH
+FNNBTRISIGP:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: GAZIOSMANPASA BRANCH
+FNNBTRISGUN:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+FNNBTRISOPS:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE OPERATIONS CENTER
+FNNBTRISIKT:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: IKITELLI BRANCH
+FNNBTRISIMS:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: IMES BRANCH
+FNNBTRISKRK:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: KARAKOY BRANCH
+FNNBTRISKTL:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: KARTAL BRANCH
+FNNBTRISKOZ:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI BRANCH
+FNNBTRISLSA:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: LEVENT SANAYI BRANCH
+FNNBTRIS:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: MAIN BRANCH AND HEAD OFFICE
+FNNBTRISMSL:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: MASLAK BRANCH-ISTANBUL
+FNNBTRISMEC:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: MECIDIYEKOY BRANCH
+FNNBTRISMRT:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: MERTER BRANCH
+FNNBTRISSUL:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: SULTANHAMAM BRANCH
+FNNBTRISTPK:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: TOPKAPI BRANCH
+FNNBTRISTRO:
+  institution: FINANSBANK A.S.
+  city: ISTANBUL
+  branch: TREASURY OPERATIONS
+FNNBTRISBRN:
+  institution: FINANSBANK A.S.
+  city: IZMIR
+  branch: BORNOVA BRANCH-IZMIR
+FNNBTRISGMR:
+  institution: FINANSBANK A.S.
+  city: IZMIR
+  branch: GAZIEMIR BRANCH
+FNNBTRISIZM:
+  institution: FINANSBANK A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+FNNBTRISTOC:
+  institution: FINANSBANK A.S.
+  city: IZMIR
+  branch: TOPTANCILAR CARSISI BRANCH
+FNNBTRISKHM:
+  institution: FINANSBANK A.S.
+  city: KAHRAMANMARAS
+  branch: KAHRAMANMARAS BRANCH
+FNNBTRISKYS:
+  institution: FINANSBANK A.S.
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+FNNBTRISKSN:
+  institution: FINANSBANK A.S.
+  city: KAYSERI
+  branch: KAYSERI SANAYI BRANCH
+FNNBTRISGEB:
+  institution: FINANSBANK A.S.
+  city: KOCAELI
+  branch: GEBZE BRANCH
+FNNBTRISKOC:
+  institution: FINANSBANK A.S.
+  city: KOCAELI
+  branch: IZMIT BRANCH
+FNNBTRISKNY:
+  institution: FINANSBANK A.S.
+  city: KONYA
+  branch: KONYA BRANCH
+FNNBTRISMLT:
+  institution: FINANSBANK A.S.
+  city: MALATYA
+  branch: MALATYA BRANCH
+FNNBTRISMAN:
+  institution: FINANSBANK A.S.
+  city: MANISA
+  branch: MANISA BRANCH
+FNNBTRISMRS:
+  institution: FINANSBANK A.S.
+  city: MERSIN
+  branch: MERSIN BRANCH
+FNNBTRISBOD:
+  institution: FINANSBANK A.S.
+  city: MUGLA
+  branch: BODRUM BRANCH
+FNNBTRISMAR:
+  institution: FINANSBANK A.S.
+  city: MUGLA
+  branch: MARMARIS BRANCH
+FNNBTRISADP:
+  institution: FINANSBANK A.S.
+  city: SAKARYA
+  branch: ADAPAZARI BRANCH
+FNNBTRISSAM:
+  institution: FINANSBANK A.S.
+  city: SAMSUN
+  branch: SAMSUN BRANCH
+FNNBTRISURF:
+  institution: FINANSBANK A.S.
+  city: SANLIURFA
+  branch: SANLIURFA BRANCH
+FNNBTRISTRB:
+  institution: FINANSBANK A.S.
+  city: TRABZON
+  branch: TRABZON BRANCH
+GSDBTRIS:
+  institution: GSD YATIRIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+HABBTRIS:
+  institution: HABIB BANK LTD.
+  city: ISTANBUL
+  branch: ''
+HSBCTRIX727:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: ATATURK HAVA LIMANI FREE ZONE BRANCH
+HSBCTRIX002:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: CHEQUE AND CLEARING CENTER
+HSBCTRIX113:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: CUSTODY AND CLEARING
+HSBCTRIX933:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: FC CUSTOMER PAYMENTS
+HSBCTRIX956:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: FOREIGN OPERATIONS CENTER
+HSBCTRIX001:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: INTERNATIONAL DIVISION
+HSBCTRIXHYM:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: SECURITIES
+HSBCTRIX:
+  institution: HSBC BANK A.S.
+  city: ISTANBUL
+  branch: ''
+HSBYTRIS:
+  institution: HSBC YATIRIM MENKUL DEGERLER A.S
+  city: ISTANBUL
+  branch: ''
+INGBTRIS679:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: ADANA BARAJ YOLU BRANCH
+INGBTRIS260:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: ADANA BRANCH
+INGBTRIS381:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: BARKAL BRANCH
+INGBTRIS206:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: GAZIPASA BRANCH
+INGBTRIS205:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: KUCUKSAAT BRANCH
+INGBTRIS736:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: SEYHAN BRANCH
+INGBTRIS446:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADANA
+  branch: TURGUT OZAL BULVARI BRANCH
+INGBTRIS169:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADAPAZARI
+  branch: ADAPAZARI BRANCH
+INGBTRIS674:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ADIYAMAN
+  branch: ADIYAMAN BRANCH
+INGBTRIS181:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AFYON
+  branch: AFYONKARAHISAR BRANCH
+INGBTRIS321:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AGRI
+  branch: AGRI BRANCH
+INGBTRIS113:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AKHISAR
+  branch: AKHISAR BRANCH
+INGBTRIS297:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AKSARAY
+  branch: AKSARAY BRANCH
+INGBTRIS146:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ALANYA
+  branch: ALANYA BRANCH
+INGBTRIS313:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ALIAGA
+  branch: ALIAGA BRANCH
+INGBTRIS274:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AMASYA
+  branch: AMASYA BRANCH
+INGBTRIS213:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ANKARA KURUMSAL BRANCH
+INGBTRIS728:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ANKARA NATO YOLU BRANCH
+INGBTRIS359:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ANKARA OPTIMUM
+INGBTRIS318:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ARMADA BRANCH
+INGBTRIS190:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: BAHCELIEVLER BRANCH
+INGBTRIS207:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: BAKANLIKLAR BRANCH
+INGBTRIS208:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: CANKAYA BRANCH
+INGBTRIS714:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: CANKAYA OZEL BANKACILIK BRANCH
+INGBTRIS209:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: CEBECI BRANCH
+INGBTRIS278:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: CETIN EMEC BRANCH
+INGBTRIS499:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: DIKMEN BRANCH
+INGBTRIS406:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ERYAMAN BRANCH
+INGBTRIS720:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ETIMESGUT BRANCH
+INGBTRIS430:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: GIMAT BRANCH
+INGBTRIS456:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: IVEDIK ORGANIZE SANAYI BRANCH
+INGBTRIS211:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: KAZIM KARABEKIR BRANCH
+INGBTRIS441:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: KECIOREN BRANCH
+INGBTRIS212:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: KOROGLU BRANCH
+INGBTRIS270:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: KUCUKESAT BRANCH
+INGBTRIS299:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: KURTULUS OYAK UYE HIZMETLERI BRANCH
+INGBTRIS111:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: NECATIBEY BRANCH
+INGBTRIS174:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: OSTIM BRANCH
+INGBTRIS727:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: PURSAKLAR BRANCH
+INGBTRIS670:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: SASMAZ BRANCH
+INGBTRIS308:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: SITELER BRANCH
+INGBTRIS151:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: TURAN GUNES BRANCH
+INGBTRIS246:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: ULUS BRANCH
+INGBTRIS315:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: UMITKOY BRANCH
+INGBTRIS418:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: YENIMAHALLE BRANCH
+INGBTRIS279:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANKARA
+  branch: YENISEHIR BRANCH
+INGBTRIS176:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTAKYA
+  branch: ANTAKYA BRANCH
+INGBTRIS193:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: ANTALYA AKDENIZ BRANCH
+INGBTRIS286:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+INGBTRIS690:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: ANTALYA FENER BRANCH
+INGBTRIS434:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: ASPENDOS BULVARI BRANCH
+INGBTRIS479:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: CALLI BRANCH
+INGBTRIS653:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: KONYAALTI BRANCH
+INGBTRIS665:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: KUMLUCA
+INGBTRIS429:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ANTALYA
+  branch: LARA BRANCH
+INGBTRIS114:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AYDIN
+  branch: AYDIN BRANCH
+INGBTRIS277:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: AYVALIK
+  branch: AYVALIK BRANCH
+INGBTRIS129:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BALIKESIR
+  branch: BALIKESIR BRANCH
+INGBTRIS215:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BANDIRMA
+  branch: BANDIRMA BRANCH
+INGBTRIS337:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BARTIN
+  branch: BARTIN BRANCH
+INGBTRIS295:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BATMAN
+  branch: BATMAN BRANCH
+INGBTRIS115:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BERGAMA
+  branch: BERGAMA BRANCH
+INGBTRIS338:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BILECIK
+  branch: BILECIK BRANCH
+INGBTRIS145:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BODRUM
+  branch: BODRUM BRANCH
+INGBTRIS671:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BODRUM
+  branch: BODRUM CARSI BRANCH
+INGBTRIS216:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BOLU
+  branch: BOLU BRANCH
+INGBTRIS298:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURDUR
+  branch: BURDUR BRANCH
+INGBTRIS454:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: BESEVLER SANAYI BRANCH
+INGBTRIS256:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: BURSA BRANCH
+INGBTRIS733:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: BURSA CALI YOLU BRANCH
+INGBTRIS732:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: BURSA KESTEL OSB BRANCH
+INGBTRIS724:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: BURSA ORGANIZE SANAYI
+INGBTRIS660:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: DEMIRTAS ORGANIZE SANAYI BRANCH
+INGBTRIS685:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: GEMLIK BRANCH
+INGBTRIS217:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: HEYKEL BRANCH
+INGBTRIS666:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: INEGOL BRANCH
+INGBTRIS651:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: NILUFER BRANCH
+INGBTRIS686:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: OZLUCE BRANCH
+INGBTRIS450:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: BURSA
+  branch: YILDIRIM BRANCH
+INGBTRIS281:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CANAKKALE
+  branch: CANAKKALE BRANCH
+INGBTRIS330:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CANKIRI
+  branch: CANKIRI BRANCH
+INGBTRIS305:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CESME
+  branch: ALACATI BRANCH
+INGBTRIS128:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CESME
+  branch: CESME BRANCH
+INGBTRIS314:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CIZRE
+  branch: CIZRE BRANCH
+INGBTRIS156:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CORLU
+  branch: CORLU BRANCH
+INGBTRIS179:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: CORUM
+  branch: CORUM BRANCH
+INGBTRIS681:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DENIZLI
+  branch: BAYRAMYERI BRANCH
+INGBTRIS495:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DENIZLI
+  branch: DELIKLICINAR BRANCH
+INGBTRIS116:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+INGBTRIS431:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DIYARBAKIR
+  branch: DICLEKENT BRANCH
+INGBTRIS194:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DIYARBAKIR
+  branch: DIYARBAKIR BRANCH
+INGBTRIS282:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: DUZCE
+  branch: DUZCE BRANCH
+INGBTRIS218:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: EDIRNE
+  branch: EDIRNE BRANCH
+INGBTRIS219:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ELAZIG
+  branch: ELAZIG BRANCH
+INGBTRIS220:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ERZINCAN
+  branch: ERZINCAN BRANCH
+INGBTRIS290:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ERZURUM
+  branch: ERZURUM BRANCH
+INGBTRIS138:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ESKISEHIR
+  branch: ESKISEHIR BRANCH
+INGBTRIS440:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ESKISEHIR
+  branch: ESKISEHIR ORGANIZE SANAYI BRANCH
+INGBTRIS726:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ESKISEHIR
+  branch: KOPRUBASI BRANCH
+INGBTRIS117:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: FETHIYE
+  branch: FETHIYE BRANCH
+INGBTRIS319:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: FOCA
+  branch: FOCA BRANCH
+INGBTRIS688:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: BINEVLER BRANCH
+INGBTRIS652:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: GATEM BRANCH
+INGBTRIS188:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: GAZIANTEP BRANCH
+INGBTRIS721:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: GAZIANTEP TICARI BRANCH
+INGBTRIS723:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: IPEKYOLU BRANCH
+INGBTRIS377:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: SIREHAN BRANCH
+INGBTRIS135:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GAZIANTEP
+  branch: SUBURCU BRANCH
+INGBTRIS164:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GEBZE
+  branch: GEBZE BRANCH
+INGBTRIS275:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GIRESUN
+  branch: GIRESUN BRANCH
+INGBTRIS331:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: GOLCUK
+  branch: GOLCUK BRANCH
+INGBTRIS133:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISKENDERUN
+  branch: ISKENDERUN BRANCH
+INGBTRIS152:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISPARTA
+  branch: ISPARTA BRANCH
+INGBTRIS199:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: 4. LEVENT BRANCH
+INGBTRIS398:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ACIBADEM BRANCH
+INGBTRIS249:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: AKSARAY BRANCH
+INGBTRIS221:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ALTUNIZADE BRANCH
+INGBTRIS451:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ANADOLU HISARI BRANCH
+INGBTRIS710:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ARNAVUTKOY BRANCH
+INGBTRIS717:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ATAKOY 5. KISIM BRANCH
+INGBTRIS657:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ATASEHIR BRANCH
+INGBTRIS183:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ATATURK CADDESI BRANCH
+INGBTRIS397:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ATRIUM BRANCH
+INGBTRIS161:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+INGBTRIS222:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAGCILAR BRANCH
+INGBTRIS722:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAGCILAR INONU
+INGBTRIS713:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAGDAT CADDESI OZEL BANKACILIK BRANCH
+INGBTRIS195:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAHCEKAPI BRANCH
+INGBTRIS250:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAHCELIEVLER ISTANBUL BRANCH
+INGBTRIS445:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAHCESEHIR BRANCH
+INGBTRIS106:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAKIRKOY BRANCH
+INGBTRIS716:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAKIRKOY INCIRLI BRANCH
+INGBTRIS255:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+INGBTRIS184:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEBEK OZEL BANKACILIK BRANCH
+INGBTRIS196:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BESIKTAS BRANCH
+INGBTRIS458:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BESYUZEVLER BRANCH
+INGBTRIS307:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEYAZIT BRANCH
+INGBTRIS731:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEYKENT BRANCH
+INGBTRIS333:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEYKOZ BRANCH
+INGBTRIS658:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEYLIKDUZU BRANCH
+INGBTRIS223:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BEYOGLU BRANCH
+INGBTRIS661:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BOSTANCI BRANCH
+INGBTRIS224:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: BUYUKCEKMECE BRANCH
+INGBTRIS147:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: CADDEBOSTAN BRANCH
+INGBTRIS265:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: CAGLAYAN BRANCH
+INGBTRIS718:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: CEKMEKOY BRANCH
+INGBTRIS672:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: DEMIRCILER SITESI BRANCH
+INGBTRIS452:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: DES SANYI SITESI BRANCH
+INGBTRIS366:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: DUDULLU BRANCH
+INGBTRIS433:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: E-5 PENDIK BRANCH
+INGBTRIS730:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ESENLER BRANCH
+INGBTRIS200:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ESENYURT BRANCH
+INGBTRIS185:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ETILER BRANCH
+INGBTRIS227:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: FATIH BRANCH
+INGBTRIS683:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: FINDIKZADE BRANCH
+INGBTRIS228:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: FLORYA BRANCH
+INGBTRIS192:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: GAZIOSMANPASA BRANCH
+INGBTRIS323:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: GOKTURK BRANCH
+INGBTRIS395:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: GOZTEPE-ISTANBUL
+INGBTRIS263:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+INGBTRIS229:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: HADIMKOY BRANCH
+INGBTRIS142:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: HARBIYE BRANCH
+INGBTRIS485:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: HASANPASA BRANCH
+INGBTRIS:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: HEAD OFFICE
+INGBTRIS504:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: I.A.H.L. FREE ZONE BRANCH
+INGBTRIS328:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: IKITELLI BRANCH
+INGBTRIS225:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: IMES BRANCH
+INGBTRIS455:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: IMSAN SANAYI SITESI BRANCH
+INGBTRIS230:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ISKELE BRANCH
+INGBTRIS457:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ISTOC BRANCH
+INGBTRIS191:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KALAMIS BRANCH
+INGBTRIS252:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KARAKOY BRANCH
+INGBTRIS177:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KARTAL BANCH
+INGBTRIS442:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KAVACIK BRANCH
+INGBTRIS198:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KAZASKER BRANCH
+INGBTRIS254:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KIZILTOPRAK BRANCH
+INGBTRIS403:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KOSUYOLU BRANCH
+INGBTRIS264:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KOZYATAGI BRANCH
+INGBTRIS676:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: 'KUCUKBAKKALKOY BRANCH '
+INGBTRIS472:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KUCUKYALI BRANCH
+INGBTRIS496:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KURTKOY BRANCH
+INGBTRIS404:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: KURTULUS BRANCH
+INGBTRIS178:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: LEVENT BRANCH
+INGBTRIS475:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: LIBADIYE BRANCH
+INGBTRIS247:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MAIN BRANCH
+INGBTRIS159:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MALTEPE BRANCH
+INGBTRIS107:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MECIDIYEKOY BRANCH
+INGBTRIS487:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MEGA CENTER BRANCH
+INGBTRIS144:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MERCAN BRANCH
+INGBTRIS143:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MERTER BRANCH
+INGBTRIS233:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: MODA BRANCH
+INGBTRIS491:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: NATO YOLU BRANCH
+INGBTRIS186:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: NISANTASI BRANCH
+INGBTRIS719:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: OZEL BANKACILIK CENTRAL BRANCH
+INGBTRIS234:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: PENDIK BRANCH
+INGBTRIS444:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: PERPA BANCH
+INGBTRIS680:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SARIYER BRANCH
+INGBTRIS007:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SECURITIES
+INGBTRIS443:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SEFAKOY BRANCH
+INGBTRIS494:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SILIVRI BRANCH
+INGBTRIS235:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SIRINEVLER BRANCH
+INGBTRIS202:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SISLI BRANCH
+INGBTRIS396:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SOGANLIK BRANCH
+INGBTRIS201:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SUADIYE BRANCH
+INGBTRIS484:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SULTANBEYLI BRANCH
+INGBTRIS725:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: SULTANGAZI BRANCH
+INGBTRIS488:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TESVIKIYE BRANCH
+INGBTRIS160:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TOPCULAR BRANCH
+INGBTRIS492:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TOPKAPI SANAYI BRANCH
+INGBTRIS005:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TREASURY OPERATIONS
+INGBTRIS449:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TUMSAN SANAYI SITESI BRANCH
+INGBTRIS696:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TUZLA ICMELER
+INGBTRIS476:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: TUZLA ORGANIZE SANAYI BRANCH
+INGBTRIS158:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: UMRANIYE BRANCH
+INGBTRIS266:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: USKUDAR BRANCH
+INGBTRIS335:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: YENIBOSNA BRANCH
+INGBTRIS237:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: YESILYURT BRANCH
+INGBTRIS253:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: YILDIZPOSTA BRANCH
+INGBTRIS203:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ISTANBUL
+  branch: ZEYTINBURNU BRANCH
+INGBTRIS204:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: ALSANCAK BRANCH
+INGBTRIS267:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: ATATURK ORGANIZE SANAYI BRANCH
+INGBTRIS371:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: BALCOVA BRANCH
+INGBTRIS154:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: BORNOVA BRANCH
+INGBTRIS153:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: BOSTANLI BRANCH
+INGBTRIS170:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: CAMDIBI BRANCH
+INGBTRIS650:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: GAZIEMIR BRANCH
+INGBTRIS109:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: GIDA CARSISI BRANCH
+INGBTRIS365:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: GIRNE BULVARI BRANCH
+INGBTRIS238:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: GOZTEPE BRANCH
+INGBTRIS102:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: HATAY/IZMIR BRANCH
+INGBTRIS439:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: IZMIR 1. SANAYI SITESI BRANCH
+INGBTRIS262:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: IZMIR BRANCH
+INGBTRIS306:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: IZMIR CARSI BRANCH
+INGBTRIS268:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: KARABAGLAR BRANCH
+INGBTRIS103:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: KARSIYAKA BRANCH
+INGBTRIS438:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: KEMALPASA BRANCH
+INGBTRIS482:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: KORDON OZEL BANKACILIK BRANCH
+INGBTRIS382:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: NARLIDERE BRANCH
+INGBTRIS486:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: PINARBASI BRANCH
+INGBTRIS483:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: SIRINYER BRANCH
+INGBTRIS172:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: UCKUYULAR BRANCH
+INGBTRIS240:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIR
+  branch: YENIGUN BRANCH
+INGBTRIS257:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIT
+  branch: IZMIT BRANCH
+INGBTRIS687:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIT
+  branch: IZMIT HURRIYET CADDESI BRANCH
+INGBTRIS656:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: IZMIT
+  branch: KOCAELI BRANCH
+INGBTRIS175:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KAHRAMANMARAS
+  branch: KAHRAMANMARAS BRANCH
+INGBTRIS241:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KARABUK
+  branch: KARABUK BRANCH
+INGBTRIS327:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KARADENIZ EREGLI
+  branch: KARADENIZ EREGLI BRANCH
+INGBTRIS287:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KARAMAN
+  branch: KARAMAN BRANCH
+INGBTRIS293:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KARS
+  branch: KARS BRANCH
+INGBTRIS280:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KASTAMONU
+  branch: KASTAMONU BRANCH
+INGBTRIS136:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+INGBTRIS654:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KAYSERI
+  branch: KAYSERI SIVAS CADDESI BRANCH
+INGBTRIS410:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KAYSERI
+  branch: YENI SANAYI BRANCH
+INGBTRIS312:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KESAN
+  branch: KESAN BRANCH
+INGBTRIS289:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KIRIKKALE
+  branch: KIRIKKALE BRANCH
+INGBTRIS273:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KIRKLARELI
+  branch: KIRKLARELI BRANCH
+INGBTRIS283:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KIRSEHIR
+  branch: KIRSEHIR BRANCH
+INGBTRIS729:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KOCAELI
+  branch: IBRAHIMAGA CADDESI BRANCH
+INGBTRIS373:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KOCAELI
+  branch: KORFEZ BRANCH
+INGBTRIS667:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KONYA
+  branch: KARATAY SANAYI BRANCH
+INGBTRIS137:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KONYA
+  branch: KONYA BRANCH
+INGBTRIS668:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KONYA
+  branch: KONYA BUSAN SANAYI BRANCH
+INGBTRIS682:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KONYA
+  branch: KONYA EREGLI BRANCH
+INGBTRIS405:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KONYA
+  branch: MEVLANA BRANCH
+INGBTRIS149:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KUSADASI
+  branch: KUSADASI BRANCH
+INGBTRIS288:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: KUTAHYA
+  branch: KUTAHYA BRANCH
+INGBTRIS370:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: LULEBURGAZ
+  branch: LULEBURGAZ BRANCH
+INGBTRIS112:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MALATYA
+  branch: MALATYA BRANCH
+INGBTRIS735:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MALATYA
+  branch: MALATYA CEVREYOLU BRANCH
+INGBTRIS334:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MALKARA
+  branch: MALKARA BRANCH
+INGBTRIS296:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MANAVGAT
+  branch: MANAVGAT BRANCH
+INGBTRIS118:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MANISA
+  branch: MANISA BRANCH
+INGBTRIS390:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MANISA
+  branch: MANISA SANAYI BRANCH
+INGBTRIS673:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MANISA
+  branch: TURGUTLU BRANCH
+INGBTRIS320:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MARDIN
+  branch: MARDIN BRANCH
+INGBTRIS157:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MARMARIS
+  branch: MARMARIS BRANCH
+INGBTRIS134:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MERSIN
+  branch: MERSIN BRANCH
+INGBTRIS436:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MERSIN
+  branch: METROPOL BRANCH
+INGBTRIS677:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MERSIN
+  branch: MEZITLI BRANCH
+INGBTRIS500:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MERSIN
+  branch: POZCU BRANCH
+INGBTRIS329:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MERZIFON
+  branch: MERZIFON BRANCH
+INGBTRIS120:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: MUGLA
+  branch: MUGLA BRANCH
+INGBTRIS121:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: NAZILLI
+  branch: NAZILLI BRANCH
+INGBTRIS292:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: NEVSEHIR
+  branch: NEVSEHIR BRANCH
+INGBTRIS284:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: NIGDE
+  branch: NIGDE BRANCH
+INGBTRIS122:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ODEMIS
+  branch: ODEMIS BRANCH
+INGBTRIS243:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ORDU
+  branch: ORDU BRANCH
+INGBTRIS272:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: OSMANIYE
+  branch: OSMANIYE BRANCH
+INGBTRIS271:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: POLATLI
+  branch: POLATLI BRANCH
+INGBTRIS244:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: RIZE
+  branch: RIZE BRANCH
+INGBTRIS123:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SALIHLI
+  branch: SALIHLI BRANCH
+INGBTRIS490:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SAMSUN
+  branch: CIFTLIK BRANCH
+INGBTRIS734:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SAMSUN
+  branch: GULSAN BRANCH
+INGBTRIS139:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SAMSUN
+  branch: SAMSUN BRANCH
+INGBTRIS180:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SANLIURFA
+  branch: SANLIURFA BRANCH
+INGBTRIS353:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SIIRT
+  branch: SIIRT BRANCH
+INGBTRIS448:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SINCAN
+  branch: SINCAN BRANCH
+INGBTRIS302:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SIRNAK
+  branch: SIRNAK BRANCH
+INGBTRIS245:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SIVAS
+  branch: SIVAS BRANCH
+INGBTRIS276:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SOKE
+  branch: SOKE BRANCH
+INGBTRIS124:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: SOMA
+  branch: SOMA BRANCH
+INGBTRIS242:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TARSUS
+  branch: TARSUS BRANCH
+INGBTRIS339:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TATVAN
+  branch: TATVAN BRANCH
+INGBTRIS309:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TAVSANLI
+  branch: TAVSANLI BRANCH
+INGBTRIS489:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TEKIRDAG
+  branch: CERKEZKOY BRANCH
+INGBTRIS715:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TEKIRDAG
+  branch: CORLU EMLAKKENT BRANCH
+INGBTRIS248:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TEKIRDAG
+  branch: TEKIRDAG BRANCH
+INGBTRIS285:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TOKAT
+  branch: TOKAT BRANCH
+INGBTRIS664:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TRABZON
+  branch: AKCAABAT BRANCH
+INGBTRIS173:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TRABZON
+  branch: TRABZON BRANCH
+INGBTRIS689:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TRABZON
+  branch: TRABZON DEGIRMENDERE BRANCH
+INGBTRIS357:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: TUNCELI
+  branch: TUNCELI BRANCH
+INGBTRIS675:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: UNYE
+  branch: UNYE BRANCH
+INGBTRIS126:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: URLA
+  branch: URLA BRANCH
+INGBTRIS127:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: USAK
+  branch: USAK BRANCH
+INGBTRIS317:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: UZUNKOPRU
+  branch: UZUNKOPRU BRANCH
+INGBTRIS291:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: VAN
+  branch: VAN BRANCH
+INGBTRIS324:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: YALOVA
+  branch: YALOVA BRANCH
+INGBTRIS294:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: YOZGAT
+  branch: YOZGAT BRANCH
+INGBTRIS182:
+  institution: ING BANK A.S. (FORMERLY OYAK BANK A.S.)
+  city: ZONGULDAK
+  branch: ZONGULDAK BRANCH
+ISISTRIS:
+  institution: IS YATIRIM MENKUL DEGERLER AS
+  city: ISTANBUL
+  branch: ''
+TVSBTRIS:
+  institution: ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+CHASTRISENQ:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ISTANBUL
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+CHASTRISKEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ISTANBUL
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASTRIS:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ISTANBUL
+  branch: ''
+KTEFTRIS:
+  institution: KUVEYT TURK KATILIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+MKKCTRIS:
+  institution: MERKEZI KAYIT KURULUSU A.S.
+  city: ISTANBUL
+  branch: ''
+MEYYTRISMMD:
+  institution: MERRILL LYNCH YATIRIM BANK AS
+  city: ISTANBUL
+  branch: MLMD
+MEYYTRISMLB:
+  institution: MERRILL LYNCH YATIRIM BANK AS
+  city: ISTANBUL
+  branch: MLYB
+MEYYTRISIST:
+  institution: MERRILL LYNCH YATIRIM BANK AS
+  city: ISTANBUL
+  branch: TREASURY
+MEYYTRIS:
+  institution: MERRILL LYNCH YATIRIM BANK AS
+  city: ISTANBUL
+  branch: ''
+MSMDTRIS:
+  institution: MORGAN STANLEY MENKUL DEGERLER ANONIM SIRKETI
+  city: ISTANBUL
+  branch: ''
+NUROTRIS:
+  institution: NUROL INVESTMENT BANK INC. (NUROL YATIRIM BANKASI A.S.)
+  city: ISTANBUL
+  branch: ''
+ODEATRIS:
+  institution: ODEABANK A.S.
+  city: ISTANBUL
+  branch: ''
+WELATRIS:
+  institution: PORTIGON AG
+  city: ISTANBUL
+  branch: ''
+ABNATRIS:
+  institution: ROYAL BANK OF SCOTLAND PLC TURKEY (FORMERLY KNOWN AS RBS NV)
+  city: ISTANBUL
+  branch: ''
+SEKETR2AAHL:
+  institution: SEKERBANK T.A.S.
+  city: ISTANBUL
+  branch: ATATURK HAVA LIMANI BRANCH
+SEKETR2AAIS:
+  institution: SEKERBANK T.A.S.
+  city: ISTANBUL
+  branch: ISTANBUL
+SEKETR2A:
+  institution: SEKERBANK T.A.S.
+  city: ISTANBUL
+  branch: ''
+SEKETR2AKSB:
+  institution: SEKERBANK T.A.S.
+  city: KAYSERI
+  branch: SERBEST BOLGE
+SOGETRIS:
+  institution: SOCIETE GENERALE
+  city: ISTANBUL
+  branch: ''
+SCBLTRIS:
+  institution: STANDARD CHARTERED YATIRIM BANKASI TURK A.S.
+  city: ISTANBUL
+  branch: ''
+TBNKTRIS036:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ADANA
+  branch: ADANA BRANCH
+TBNKTRIS037:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ANKARA
+  branch: ANKARA-OSTIM BRANCH
+TBNKTRIS022:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ANKARA
+  branch: BAKANLIKLAR BRANCH
+TBNKTRIS010:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+TBNKTRIS030:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+TBNKTRIS042:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+TBNKTRIS040:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: GAZIANTEP
+  branch: GAZIANTEP BRANCH
+TBNKTRIS017:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: ATATURK AIRPORT FREE TRADE ZONE BRANCH
+TBNKTRIS044:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+TBNKTRIS029:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+TBNKTRIS032:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: BEYLIKDUZU BRANCH
+TBNKTRIS039:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: CADDEBOSTAN BRANCH
+TBNKTRIS043:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: DOLAYOBA BRANCH
+TBNKTRIS034:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: DUDULLU BRANCH
+TBNKTRIS015:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: ETILER BRANCH
+TBNKTRIS025:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+TBNKTRIS038:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: IKITELLI BRANCH
+TBNKTRIS023:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: KADIKOY BRANCH
+TBNKTRIS026:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI BRANCH
+TBNKTRIS033:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: LEVENT BRANCH
+TBNKTRIS004:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: MERKEZ BRANCH
+TBNKTRIS:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: ISTANBUL
+  branch: ''
+TBNKTRIS035:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+TBNKTRIS041:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+TBNKTRIS031:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: KOCAELI
+  branch: GEBZE BRANCH
+TBNKTRIS045:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: KOCAELI
+  branch: IZMIT BRANCH
+TBNKTRIS028:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: KONYA
+  branch: KONYA BRANCH
+TBNKTRIS027:
+  institution: T BANK-TURKLAND BANK A.S.
+  city: MANAVGAT
+  branch: MANAVGAT BRANCH
+TEKBTRISADN:
+  institution: TEKSTIL BANKASI A.S.
+  city: ADANA
+  branch: ADANA BRANCH
+TEKBTRISANK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ANKARA
+  branch: ANKARA BRANCH
+TEKBTRISNEC:
+  institution: TEKSTIL BANKASI A.S.
+  city: ANKARA
+  branch: NECATIQBEY BRANCH
+TEKBTRISOST:
+  institution: TEKSTIL BANKASI A.S.
+  city: ANKARA
+  branch: OSTIM
+TEKBTRISATK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ANTAKYA
+  branch: ANTAKYA
+TEKBTRISANT:
+  institution: TEKSTIL BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+TEKBTRISAYD:
+  institution: TEKSTIL BANKASI A.S.
+  city: AYDIN
+  branch: AYDIN
+TEKBTRISBAL:
+  institution: TEKSTIL BANKASI A.S.
+  city: BALIKESIR
+  branch: BALIKESIR
+TEKBTRISBUR:
+  institution: TEKSTIL BANKASI A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+TEKBTRISDNZ:
+  institution: TEKSTIL BANKASI A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+TEKBTRISESK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR BRANCH
+TEKBTRISISK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISKENDERUN
+  branch: ISKENDERUN
+TEKBTRISAVC:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+TEKBTRISBKY:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY
+TEKBTRISBYP:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+TEKBTRISBSK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: BESIKTAS
+TEKBTRISDLY:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: DALYAN
+TEKBTRISMTP:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: E-5 KUCUKYALI
+TEKBTRISETL:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: ETILER
+TEKBTRISGUN:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+TEKBTRISIKT:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: IKITELLI
+TEKBTRISTZL:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL DERI S.B. BRANCH
+TEKBTRISKDK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: KADIKOY BRANCH
+TEKBTRISKZY:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI
+TEKBTRISLVT:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: LEVENT BRANCH
+TEKBTRISMER:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: MAIN BRANCH
+TEKBTRISMAL:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: MALTEPE
+TEKBTRISBAK:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: MERTER BRANCH
+TEKBTRISMOD:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: MODA BRANCH
+TEKBTRISPNG:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: PANGALTI BRANCH
+TEKBTRISTKM:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: TAKSIM
+TEKBTRISTKS:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: TEKSTILKENT
+TEKBTRISTSV:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: TESVIKIYE BRANCH
+TEKBTRISUMR:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: UMRANIYE BRANCH
+TEKBTRIS:
+  institution: TEKSTIL BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+TEKBTRISBOR:
+  institution: TEKSTIL BANKASI A.S.
+  city: IZMIR
+  branch: BORNOVA BRANCH
+TEKBTRISBST:
+  institution: TEKSTIL BANKASI A.S.
+  city: IZMIR
+  branch: BOSTANLI
+TEKBTRISIZM:
+  institution: TEKSTIL BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+TEKBTRISKYS:
+  institution: TEKSTIL BANKASI A.S.
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+TEKBTRISKON:
+  institution: TEKSTIL BANKASI A.S.
+  city: KONYA
+  branch: KONYA BRANCH
+TEKBTRISMRS:
+  institution: TEKSTIL BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN
+TEKBTRISBOD:
+  institution: TEKSTIL BANKASI A.S.
+  city: MUGLA
+  branch: BODRUM
+TEKBTRISSMS:
+  institution: TEKSTIL BANKASI A.S.
+  city: SAMSUN
+  branch: SAMSUN
+TEKBTRISTRB:
+  institution: TEKSTIL BANKASI A.S.
+  city: TRABZON
+  branch: TRABZON
+TEKBTRISUSK:
+  institution: TEKSTIL BANKASI A.S.
+  city: USAK
+  branch: USAK
+TEBUTRIS535:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA ATIKOP BRANCH
+TEBUTRIS026:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA BRANCH
+TEBUTRIS445:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA CARSI BRANCH
+TEBUTRIS578:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA CEMALPASA BRANCH
+TEBUTRIS524:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA CUKUROVA BRANCH
+TEBUTRIS566:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA KUCUKESAT BRANCH
+TEBUTRIS269:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA MOBILYACILAR BRANCH
+TEBUTRIS446:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ADANA TOROS BRANCH
+TEBUTRIS117:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: ATATURK CADDESI ADANA BRANCH
+TEBUTRIS164:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: BARKAL BRANCH
+TEBUTRIS656:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: CEYHAN BRANCH
+TEBUTRIS359:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: CUKUROVA KURUMSAL BRANCH
+TEBUTRIS059:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: GAZIPASA BULVARI BRANCH
+TEBUTRIS662:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: INCIRLIK 10. TANKER US KOMUTANLIGI BRANCH
+TEBUTRIS374:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: KENAN EVREN ADANA BRANCH
+TEBUTRIS312:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: SARICAM BRANCH
+TEBUTRIS206:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: SAYDAM CADDESI BRANCH
+TEBUTRIS573:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: YENI ADANA BRANCH
+TEBUTRIS156:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADANA
+  branch: YUREGIR BRANCH
+TEBUTRIS281:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ADIYAMAN
+  branch: ADIYAMAN BRANCH
+TEBUTRIS116:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AFYON
+  branch: AFYON BRANCH
+TEBUTRIS510:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AFYON
+  branch: AFYON KADIANA BRANCH
+TEBUTRIS715:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AGRI
+  branch: AGRI BRANCH
+TEBUTRIS354:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AKSARAY
+  branch: AKSARAY BRANCH
+TEBUTRIS108:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ALANYA
+  branch: ALANYA BRANCH
+TEBUTRIS687:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AMASYA
+  branch: AMASYA BRANCH
+TEBUTRIS323:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AMASYA
+  branch: MERZIFON BRANCH
+TEBUTRIS285:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ANKARA 4. KOLORDU BRANCH
+TEBUTRIS006:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ANKARA BRANCH
+TEBUTRIS616:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ANKARA MALTEPE BRANCH
+TEBUTRIS453:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ANKARA OSTIM BRANCH
+TEBUTRIS517:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: BAKANLIKLAR BRANCH
+TEBUTRIS150:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: BALGAT BRANCH
+TEBUTRIS382:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: BASKENT BRANCH
+TEBUTRIS456:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: BASKENT KURUMSAL BRANCH
+TEBUTRIS307:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: CANKAYA ANKARA BRANCH
+TEBUTRIS650:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: CEBECI BRANCH
+TEBUTRIS342:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: CETIN EMEC BRANCH
+TEBUTRIS670:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: DEMETEVLER BRANCH
+TEBUTRIS627:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: DIKMEN BRANCH
+TEBUTRIS252:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ETIMESGUT BRANCH
+TEBUTRIS667:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ETLIK BRANCH
+TEBUTRIS101:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: GAZIOSMANPASA ANKARA BRANCH
+TEBUTRIS230:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: GIMAT BRANCH
+TEBUTRIS474:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: IKINCISITE BRANCH
+TEBUTRIS167:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: IVEDIK BRANCH
+TEBUTRIS548:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: IVEDIK ORGANIZE BRANCH
+TEBUTRIS309:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: KAZIM KARABEKIR BRANCH
+TEBUTRIS308:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: KECIOREN BRANCH
+TEBUTRIS138:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: KIZILAY BRANCH
+TEBUTRIS105:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: MESRUTIYET CADDESI BRANCH
+TEBUTRIS344:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: MITHATPASA BRANCH
+TEBUTRIS136:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: NECATIBEY BRANCH
+TEBUTRIS057:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ORTA ANADOLU KURUMSAL BRANCH
+TEBUTRIS124:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: OSTIM BRANCH
+TEBUTRIS657:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: POLATLI BRANCH
+TEBUTRIS701:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: POLATLI TOPCU VE FUZE OKULU KOMUTANLIGI BRANCH
+TEBUTRIS239:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: SASMAZ BRANCH
+TEBUTRIS583:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: SINCAN ANKARA CADDESI BRANCH
+TEBUTRIS191:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: SINCAN BRANCH
+TEBUTRIS141:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: SITELER BRANCH
+TEBUTRIS682:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: SOGUTOZU BRANCH
+TEBUTRIS311:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: TUNALI HILMI BRANCH
+TEBUTRIS499:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ULUCANLAR BRANCH
+TEBUTRIS034:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: ULUS ANKARA BRANCH
+TEBUTRIS226:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: UMITKOY BRANCH
+TEBUTRIS426:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: YENISEHIR BRANCH
+TEBUTRIS163:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANKARA
+  branch: YILDIZ BRANCH
+TEBUTRIS073:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTAKYA
+  branch: ANTAKYA BRANCH
+TEBUTRIS204:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: AKDENIZ SANAYI BRANCH
+TEBUTRIS173:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ALANYA MAHMUTLAR BRANCH
+TEBUTRIS604:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ALANYA SANAYI BRANCH
+TEBUTRIS025:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA BRANCH
+TEBUTRIS387:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA MURATPASA BRANCH
+TEBUTRIS560:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA SANAYI BRANCH
+TEBUTRIS318:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA TOPTANCI HALI BRANCH
+TEBUTRIS641:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ASPENDOS BULVARI BRANCH
+TEBUTRIS282:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: ASPENDOS KURUMSAL BRANCH
+TEBUTRIS188:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: CALLI BRANCH
+TEBUTRIS293:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: FENER BRANCH
+TEBUTRIS174:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: KEMER BRANCH
+TEBUTRIS704:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: KEPEZ BRANCH
+TEBUTRIS172:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: 'KONYAALTI BRANCH '
+TEBUTRIS331:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: KUMLUCA BRANCH
+TEBUTRIS115:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: LARA BRANCH
+TEBUTRIS107:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: MANAVGAT BRANCH
+TEBUTRIS478:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: MANAVGAT CARSI BRANCH
+TEBUTRIS330:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: SERIK BRANCH
+TEBUTRIS462:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: SIRINYALI BRANCH
+TEBUTRIS149:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: UC KAPILAR BRANCH
+TEBUTRIS275:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: UNCALI BRANCH
+TEBUTRIS353:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: YENIKOY ANTALYA BRANCH
+TEBUTRIS256:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ANTALYA
+  branch: YUZUNCUYIL ANTALYA BRANCH
+TEBUTRIS290:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ARTVIN
+  branch: HOPA BRANCH
+TEBUTRIS154:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: " DIDIM BRANCH"
+TEBUTRIS075:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: AYDIN BRANCH
+TEBUTRIS512:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: AYDIN CARSI BRANCH
+TEBUTRIS477:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: KUSADASI BRANCH
+TEBUTRIS321:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: NAZILLI BRANCH
+TEBUTRIS659:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: AYDIN
+  branch: SOKE BRANCH
+TEBUTRIS714:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: AYVALIK BRANCH
+TEBUTRIS077:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: BALIKESIR BRANCH
+TEBUTRIS498:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: BALIKESIR CARSI BRANCH
+TEBUTRIS351:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: BANDIRMA BRANCH
+TEBUTRIS190:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: EDREMIT BRANCH
+TEBUTRIS660:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BALIKESIR
+  branch: GONEN BRANCH
+TEBUTRIS677:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BARTIN
+  branch: BARTIN BRANCH
+TEBUTRIS328:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BATMAN
+  branch: BATMAN BRANCH
+TEBUTRIS620:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BATMAN
+  branch: BATMAN CARSI BRANCH
+TEBUTRIS686:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BILECIK
+  branch: BOZUYUK BRANCH
+TEBUTRIS681:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BITLIS
+  branch: TATVAN BRANCH
+TEBUTRIS142:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BOLU
+  branch: BOLU BRANCH
+TEBUTRIS347:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURDUR
+  branch: BUCAK BRANCH
+TEBUTRIS273:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURDUR
+  branch: BURDUR BRANCH
+TEBUTRIS363:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: ALTIPARMAK BRANCH
+TEBUTRIS120:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BESEVLER SANAYI BRANCH
+TEBUTRIS532:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA ATATURK CADDESI BRANCH
+TEBUTRIS017:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA BRANCH
+TEBUTRIS465:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA CEKIRGE BRANCH
+TEBUTRIS587:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA CUMHURIYET CADDESI BRANCH
+TEBUTRIS384:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA ORGANIZE SANAYI BRANCH
+TEBUTRIS272:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA OTOSANAYI SITESI BRANCH
+TEBUTRIS065:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: BURSA SERBEST BOLGE BRANCH
+TEBUTRIS298:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: DEMIRTAS BRANCH
+TEBUTRIS457:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: DEMIRTAS ORGANIZE SANAYI BRANCH
+TEBUTRIS165:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: GARAJLAR BRANCH
+TEBUTRIS162:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: GAZCILAR BRANCH
+TEBUTRIS193:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: GEMLIK BRANCH
+TEBUTRIS151:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: HEYKEL BRANCH
+TEBUTRIS297:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: HURRIYET BRANCH
+TEBUTRIS266:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: 'INEGOL BRANCH '
+TEBUTRIS291:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: KARACABEY BRANCH
+TEBUTRIS315:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: KESTEL BRANCH
+TEBUTRIS058:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: MARMARA KURUMSAL BRANCH
+TEBUTRIS103:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: NILUFER BRANCH
+TEBUTRIS369:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: ORHANGAZI BRANCH
+TEBUTRIS579:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: OZLUCE BRANCH
+TEBUTRIS280:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: BURSA
+  branch: YILDIRIM BRANCH
+TEBUTRIS277:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CANAKKALE
+  branch: BIGA BRANCH
+TEBUTRIS534:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CANAKKALE
+  branch: CANAKKALE ANAFARTALAR BRANCH
+TEBUTRIS185:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CANAKKALE
+  branch: CANAKKALE BRANCH
+TEBUTRIS673:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CANKIRI
+  branch: CANKIRI BRANCH
+TEBUTRIS144:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CORUM
+  branch: CORUM BRANCH
+TEBUTRIS488:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: CORUM
+  branch: CORUM INONU CADDESI BRANCH
+TEBUTRIS098:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: BAYRAMYERI BRANCH
+TEBUTRIS199:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: CINAR BRANCH
+TEBUTRIS019:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: DENIZLI BRANCH
+TEBUTRIS684:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: DENIZLI CIVRIL BRANCH
+TEBUTRIS551:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: DENIZLI SANAYI BRANCH
+TEBUTRIS388:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DENIZLI
+  branch: DENIZLI SARAYLAR BRANCH
+TEBUTRIS128:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DIYARBAKIR
+  branch: DIYARBAKIR BRANCH
+TEBUTRIS599:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DIYARBAKIR
+  branch: DIYARBAKIR KAYAPINAR BRANCH
+TEBUTRIS480:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DIYARBAKIR
+  branch: DIYARBAKIR SURICI BRANCH
+TEBUTRIS303:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DIYARBAKIR
+  branch: OFIS BRANCH
+TEBUTRIS287:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: DUZCE
+  branch: DUZCE BRANCH
+TEBUTRIS213:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: EDIRNE
+  branch: EDIRNE BRANCH
+TEBUTRIS294:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: EDIRNE
+  branch: KESAN BRANCH
+TEBUTRIS693:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: EDIRNE
+  branch: UZUNKOPRU BRANCH
+TEBUTRIS161:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ELAZIG
+  branch: ELAZIG BRANCH
+TEBUTRIS602:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ELAZIG
+  branch: ELAZIG HURRIYET CADDESI BRANCH
+TEBUTRIS316:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ERZINCAN
+  branch: ERZINCAN BRANCH
+TEBUTRIS148:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ERZURUM
+  branch: ERZURUM BRANCH
+TEBUTRIS607:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ERZURUM
+  branch: ERZURUM CUMHURIYET BRANCH
+TEBUTRIS567:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR BAGLAR BRANCH
+TEBUTRIS041:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR BRANCH
+TEBUTRIS413:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ESKISEHIR
+  branch: ESKISEHIR IKI EYLUL CADDESI BRANCH
+TEBUTRIS227:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ESKISEHIR
+  branch: SAKARYA BRANCH
+TEBUTRIS184:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ESKISEHIR
+  branch: TEKSAN BRANCH
+TEBUTRIS324:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: BINEVLER GAZIANTEP BRANCH
+TEBUTRIS175:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: GATEM BRANCH
+TEBUTRIS028:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: GAZIANTEP BRANCH
+TEBUTRIS409:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: GAZIANTEP INCILIPINAR BRANCH
+TEBUTRIS358:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: GUNEYDOGU ANADOLU KURUMSAL BRANCH
+TEBUTRIS250:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: NIZIP BRANCH
+TEBUTRIS097:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: SEHITKAMIL GAZIANTEP BRANCH
+TEBUTRIS337:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: SIREHANI BRANCH
+TEBUTRIS196:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GAZIANTEP
+  branch: SUBURCU BRANCH
+TEBUTRIS035:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GEBZE
+  branch: GEBZE BRANCH
+TEBUTRIS145:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GEBZE
+  branch: KORFEZ KURUMSAL BRANCH
+TEBUTRIS270:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: GIRESUN
+  branch: GIRESUN BRANCH
+TEBUTRIS575:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: HATAY
+  branch: ANTAKYA CARSI BRANCH
+TEBUTRIS492:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: HATAY
+  branch: ANTAKYA SANAYI BRANCH
+TEBUTRIS707:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: HATAY
+  branch: DORTYOL BRANCH
+TEBUTRIS085:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: HATAY
+  branch: 'ISKENDERUN BRANCH '
+TEBUTRIS425:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: HATAY
+  branch: ISKENDERUN SEHIT PAMIR CADDESI BRANCH
+TEBUTRIS584:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ICEL
+  branch: MERSIN POZCU BRANCH
+TEBUTRIS255:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ICEL
+  branch: MEZITLI BRANCH
+TEBUTRIS466:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ICEL
+  branch: TARSUS MAKAM BRANCH
+TEBUTRIS243:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISPARTA
+  branch: ISPARTA BRANCH
+TEBUTRIS183:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ACIBADEM BRANCH
+TEBUTRIS072:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: AKSARAY BRANCH
+TEBUTRIS463:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: AKSARAY ORDU CADDESI BRANCH
+TEBUTRIS561:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ALIBEYKOY BRANCH
+TEBUTRIS267:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: 'ALTINTEPE BRANCH '
+TEBUTRIS087:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ALTIYOL BRANCH
+TEBUTRIS095:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ALTUNIZADE BRANCH
+TEBUTRIS669:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ANADOLU ADLIYESI BRANCH
+TEBUTRIS718:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ARNAVUTKOY BRANCH
+TEBUTRIS159:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ATAKOY BRANCH
+TEBUTRIS435:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ATASEHIR BRANCH
+TEBUTRIS472:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ATRIUM BRANCH
+TEBUTRIS222:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: 'AVCILAR BORUSAN BRANCH '
+TEBUTRIS074:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: AVCILAR BRANCH
+TEBUTRIS241:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: AVCILAR CARSI BRANCH
+TEBUTRIS597:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: AVCILAR E-5 BRANCH
+TEBUTRIS176:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAGCILAR BRANCH
+TEBUTRIS234:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAHCELIEVLER BRANCH
+TEBUTRIS719:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAHCELIEVLER SOGANLIK BRANCH
+TEBUTRIS076:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAHCESEHIR BRANCH
+TEBUTRIS014:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: 'BAKIRKOY BRANCH '
+TEBUTRIS539:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY CARSI BRANCH
+TEBUTRIS393:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY MEYDAN BRANCH
+TEBUTRIS212:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BANKALAR CADDESI BRANCH
+TEBUTRIS674:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BATI ATASEHIR BRANCH
+TEBUTRIS022:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAYRAMPASA BRANCH
+TEBUTRIS048:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEBEK BRANCH
+TEBUTRIS078:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BESIKTAS BRANCH
+TEBUTRIS079:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BESYUZEVLER BRANCH
+TEBUTRIS123:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYAZIT BRANCH
+TEBUTRIS470:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYAZIT BRANCH
+TEBUTRIS637:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYKENT BRANCH
+TEBUTRIS663:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYKENT UNIVERSITESI BRANCH
+TEBUTRIS047:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYLIKDUZU BRANCH
+TEBUTRIS407:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BEYLIKDUZU E-5 BRANCH
+TEBUTRIS432:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BOGAZICI KURUMSAL BRANCH
+TEBUTRIS431:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BOSTANCI E-5 BRANCH
+TEBUTRIS189:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: BUYUKCEKMECE BRANCH
+TEBUTRIS110:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CADDEBOSTAN BRANCH
+TEBUTRIS157:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CAGLAYAN BRANCH
+TEBUTRISCMD:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CASH MANAGEMENT DIVISION
+TEBUTRIS143:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CEKMEKOY BRANCH
+TEBUTRIS341:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CENGELKOY BRANCH
+TEBUTRIS591:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CENNET MAHALLESI BRANCH
+TEBUTRIS543:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CEVAHIR AVM BRANCH
+TEBUTRIS562:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CEVIZLI BRANCH
+TEBUTRISCHQ:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CHEQUE PROCESSING DEPARTMENT
+TEBUTRIS134:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CIFTEHAVUZLAR BRANCH
+TEBUTRIS235:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: CIHANGIR BRANCH
+TEBUTRIS096:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: DAVUTPASA BRANCH
+TEBUTRIS221:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: DEMIRCILER SITESI BRANCH
+TEBUTRIS179:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: DES SANAYI BRANCH
+TEBUTRIS721:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: DUDULLU BRANCH
+TEBUTRIS468:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: DUDULLU IHLAMURKUYU BRANCH
+TEBUTRIS029:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: EMINONU BRANCH
+TEBUTRIS389:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ERENKOY BRANCH
+TEBUTRIS336:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ESENYURT BRANCH
+TEBUTRIS016:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ETILER BRANCH
+TEBUTRIS335:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: FATIH BRANCH
+TEBUTRIS377:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: FINDIKLI BRANCH
+TEBUTRIS430:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: FINDIKZADE BRANCH
+TEBUTRIS202:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: FLORYA BRANCH
+TEBUTRIS699:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GOKTURK BRANCH
+TEBUTRIS146:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GOZTEPE ISTANBUL BRANCH
+TEBUTRIS214:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GULTEPE BRANCH
+TEBUTRIS039:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GUNESLI BRANCH
+TEBUTRIS404:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GUNESLI GULBAHAR CADDESI BRANCH
+TEBUTRIS612:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: GUNGOREN BRANCH
+TEBUTRIS119:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: HADIMKOY BRANCH
+TEBUTRIS380:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: HARBIYE BRANCH
+TEBUTRIS523:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: HASANPASA BRANCH
+TEBUTRIS434:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: HAZNEDAR BAHCELIEVLER BRANCH
+TEBUTRIS:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE
+TEBUTRIS152:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ICERENKOY BRANCH
+TEBUTRIS060:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: IKITELLI BRANCH
+TEBUTRIS460:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: IKITELLI ORGANIZE SANAYI BRANCH
+TEBUTRIS565:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: IMES KEYAP BRANCH
+TEBUTRIS061:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: IMES SANAYI SITESI BRANCH
+TEBUTRIS228:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: IMSAN BRANCH
+TEBUTRIS207:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: INCIRLI BRANCH
+TEBUTRIS536:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL ANADOLU KURUMSAL BRANCH
+TEBUTRIS542:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL BESIKTAS CARSI BRANCH
+TEBUTRIS451:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL BEYOGLU BRANCH
+TEBUTRIS186:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL GAZIOSMANPASA BRANCH
+TEBUTRIS012:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL KURUMSAL BRANCH
+TEBUTRIS427:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL MECIDIYEKOY BRANCH
+TEBUTRIS450:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL NISANTASI BRANCH
+TEBUTRIS618:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL SEYRANTEPE BRANCH
+TEBUTRIS611:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL SIRACEVIZLER BRANCH
+TEBUTRIS596:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL SOGANLIK BRANCH
+TEBUTRIS503:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL TRABYA BRANCH
+TEBUTRIS220:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL ULUS BRANCH
+TEBUTRIS346:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTINYE BRANCH
+TEBUTRIS197:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTOC BRANCH
+TEBUTRIS452:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KADIKOY CARSI BRANCH
+TEBUTRIS137:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KADIKOY RIHTIM BRANCH
+TEBUTRIS476:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KAGITHANE BRANCH
+TEBUTRIS042:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KALAMIS BRANCH
+TEBUTRIS440:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KAPALICARSI BRANCH
+TEBUTRIS139:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KARAKOY BRANCH
+TEBUTRIS140:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KARTAL CARSI BRANCH
+TEBUTRIS554:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KASIMPASA BRANCH
+TEBUTRIS155:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KAVACIK BRANCH
+TEBUTRIS278:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KAYNARCA BRANCH
+TEBUTRIS111:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KAZASKER BRANCH
+TEBUTRIS408:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KERESTECILER SITESI BRANCH
+TEBUTRIS654:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KIRAC BRANCH
+TEBUTRIS489:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KIZILTOPRAK BRANCH
+TEBUTRIS563:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KOSUYOLU BRANCH
+TEBUTRIS056:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI BRANCH
+TEBUTRIS018:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI KURUMSAL BRANCH
+TEBUTRIS558:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KUCUKBAKKALKOY BRANCH
+TEBUTRIS187:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KURTKOY BRANCH
+TEBUTRIS209:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KURTULUS ISTANBUL BRANCH
+TEBUTRIS302:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KUYUBASI BRANCH
+TEBUTRIS271:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: KUYUMCUKENT BRANCH
+TEBUTRIS210:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: LALELI BRANCH
+TEBUTRIS500:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: LALELI BRANCH
+TEBUTRIS112:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: LEVENT CARSI BRANCH
+TEBUTRIS049:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: LEVENT SANAYI BRANCH
+TEBUTRIS653:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: LIBADIYE BRANCH
+TEBUTRIS045:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MACKA BRANCH
+TEBUTRIS630:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MALTEPE ATATURK CADDESI BRANCH
+TEBUTRIS121:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MALTEPE BRANCH
+TEBUTRIS232:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MALTEPE CARSI BRANCH
+TEBUTRIS441:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MALTEPE E-5 BRANCH
+TEBUTRIS129:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MASLAK BRANCH
+TEBUTRIS406:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MASLAK SANAYI BRANCH
+TEBUTRIS064:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MECIDIYEKOY BRANCH
+TEBUTRIS180:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MEGA CENTER BRANCH
+TEBUTRIS449:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MERCAN BRANCH
+TEBUTRIS032:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: MERTER BRANCH
+TEBUTRIS254:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: NURUOSMANIYE BRANCH
+TEBUTRIS125:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ORTAKLAR CADDESI BRANCH
+TEBUTRIS130:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ORTAKOY BRANCH
+TEBUTRIS013:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: OSMANBEY BRANCH
+TEBUTRIS070:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: OZEL BANKACILIK MERKEZI BRANCH
+TEBUTRIS131:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: PENDIK BRANCH
+TEBUTRIS037:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: PENDIK E5 BRANCH
+TEBUTRIS127:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: PERPA BRANCH
+TEBUTRIS636:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: RUMELI KURUMSAL BRANCH
+TEBUTRIS424:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SANAYI MAHALLESI BRANCH
+TEBUTRIS402:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SANTRAL UMRANIYE BRANCH
+TEBUTRIS343:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SARIGAZI BRANCH
+TEBUTRIS201:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SARIYER BRANCH
+TEBUTRIS122:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SEFAKOY BRANCH
+TEBUTRIS418:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SEFAKOY HALKALI CADDESI BRANCH
+TEBUTRIS487:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SENESENEVLER BRANCH
+TEBUTRIS261:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SILIVRI BRANCH
+TEBUTRIS233:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SIRINEVLER BRANCH
+TEBUTRIS391:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SIRKECI BRANCH
+TEBUTRIS383:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SISLI MEYDAN BRANCH
+TEBUTRIS015:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SUADIYE BRANCH
+TEBUTRIS194:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SULTANBEYLI BRANCH
+TEBUTRIS606:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: SULTANGAZI BRANCH
+TEBUTRIS147:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TAHTAKALE BRANCH
+TEBUTRIS104:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TAKSIM BRANCH
+TEBUTRIS930:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TEB SECURITIES SERV ICES
+TEBUTRIS614:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TERAZIDERE BRANCH
+TEBUTRIS178:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TOPCULAR BRANCH
+TEBUTRIS528:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TOPKAPI BRANCH
+TEBUTRIS055:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TRAKYA KURUMSAL BRANCH
+TEBUTRIS223:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TUMSAN SANAYI BRANCH
+TEBUTRIS236:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TUZLA BRANCH
+TEBUTRIS680:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TUZLA CARSI BRANCH
+TEBUTRIS320:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TUZLA DENIZ HARP OKULU BRANCH
+TEBUTRIS218:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: TUZLA OSB BRANCH
+TEBUTRIS043:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: UMRANIYE BRANCH
+TEBUTRIS610:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: UMRANIYE SANAYI BRANCH
+TEBUTRIS132:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: USKUDAR BRANCH
+TEBUTRIS219:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: VALIKONAGI BRANCH
+TEBUTRIS538:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YEDITEPE KURUMSAL BRANCH
+TEBUTRIS574:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YELDEGIRMENI BRANCH
+TEBUTRIS329:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YENIBOSNA BRANCH
+TEBUTRIS615:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YENIBOSNA CARSI BRANCH
+TEBUTRIS251:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YENIKOY BRANCH
+TEBUTRIS054:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YESILKOY BRANCH
+TEBUTRIS483:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YESILYURT BRANCH
+TEBUTRIS392:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: YILDIZ POSTA BRANCH
+TEBUTRIS370:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ZEKERIYAKOY BRANCH
+TEBUTRIS093:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ZEYTINBURNU BRANCH
+TEBUTRIS521:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ISTANBUL
+  branch: ZEYTINBURNU BRANCH
+TEBUTRIS345:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: 4. SANAYI BRANCH
+TEBUTRIS211:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: ALIAGA BRANCH
+TEBUTRIS067:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: AOS / CIGLI BRANCH
+TEBUTRIS216:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BALCOVA BRANCH
+TEBUTRIS697:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BERGAMA BRANCH
+TEBUTRIS100:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BORNOVA BRANCH
+TEBUTRIS398:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BORNOVA CARSI BRANCH
+TEBUTRIS231:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BOSTANLI BRANCH
+TEBUTRIS696:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: BUCA BRANCH
+TEBUTRIS066:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: CARSI BRANCH
+TEBUTRIS248:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: CESME BRANCH
+TEBUTRIS461:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: EFES KURUMSAL BRANCH
+TEBUTRIS068:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: EGE KURUMSAL BRANCH
+TEBUTRIS279:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: GAZIEMIR BRANCH
+TEBUTRIS086:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: GIRNE BULVARI BRANCH
+TEBUTRIS246:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: GUL SOKAK BRANCH
+TEBUTRIS322:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: HATAY IZMIR BRANCH
+TEBUTRIS208:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR 1.SANAYI BRANCH
+TEBUTRIS455:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR ALSANCAK BRANCH
+TEBUTRIS040:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR BRANCH
+TEBUTRIS577:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR CAMDIBI BRANCH
+TEBUTRIS200:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR CANKAYA BRANCH
+TEBUTRIS555:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR CIGLI BRANCH
+TEBUTRIS160:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR GOZTEPE BRANCH
+TEBUTRIS069:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR GUNDOGDU BRANCH
+TEBUTRIS533:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR KEMERALTI BRANCH
+TEBUTRIS053:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: KARABAGLAR BRANCH
+TEBUTRIS394:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: KARSIYAKA BRANCH
+TEBUTRIS051:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: KEMALPASA BRANCH
+TEBUTRIS296:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: KONAK BRANCH
+TEBUTRIS625:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: MANAVKUYU BRANCH
+TEBUTRIS229:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: MENEMEN BRANCH
+TEBUTRIS381:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: MONTRO BRANCH
+TEBUTRIS703:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: NARLIDERE BRANCH
+TEBUTRIS249:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: ODEMIS BRANCH
+TEBUTRIS050:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: PINARBASI BRANCH
+TEBUTRIS679:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: SEMIKLER BRANCH
+TEBUTRIS276:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: SIRINYER BRANCH
+TEBUTRIS253:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: TIRE BRANCH
+TEBUTRIS319:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: TOPTANCILAR CARSISI IZMIR BRANCH
+TEBUTRIS356:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIR
+  branch: TORBALI BRANCH
+TEBUTRIS609:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: IZMIT
+  branch: ESENLER BRANCH
+TEBUTRIS685:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAHRAMANMARAS
+  branch: ELBISTAN BRANCH
+TEBUTRIS031:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAHRAMANMARAS
+  branch: KAHRAMANMARAS BRANCH
+TEBUTRIS486:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAHRAMANMARAS
+  branch: KAHRAMANMARAS CARSI BRANCH
+TEBUTRIS283:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KARABUK
+  branch: KARABUK BRANCH
+TEBUTRIS672:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KARAMAN
+  branch: KARAMAN BRANCH
+TEBUTRIS678:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KARS
+  branch: IGDIR BRANCH
+TEBUTRIS378:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KARS
+  branch: KARS BRANCH
+TEBUTRIS268:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KASTAMONU
+  branch: KASTOMONU BRANCH
+TEBUTRIS023:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: KAYSERI BRANCH
+TEBUTRIS405:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: KAYSERI CARSI BRANCH
+TEBUTRIS572:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: KAYSERI ESKI SANAYI BRANCH
+TEBUTRIS593:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: KAYSERI KURUMSAL BRANCH
+TEBUTRIS713:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: KOCASINAN KAYSERI BRANCH
+TEBUTRIS170:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: SANAYI BRANCH
+TEBUTRIS238:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KAYSERI
+  branch: SIVAS CADDESI BRANCH
+TEBUTRIS379:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KIRIKKALE
+  branch: KIRIKKALE BRANCH
+TEBUTRIS339:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KIRKLARELI
+  branch: KIRKLARELI BRANCH
+TEBUTRIS205:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KIRKLARELI
+  branch: LULEBURGAZ BRANCH
+TEBUTRIS668:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KIRSEHIR
+  branch: KIRSEHIR BRANCH
+TEBUTRIS348:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: ALEMDAR BRANCH
+TEBUTRIS313:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: BEKIRPASA BRANCH
+TEBUTRIS416:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: CARSI IZMIT BRANCH
+TEBUTRIS722:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: DARICA BRANCH
+TEBUTRIS683:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: GEBZE AKSE SAPAGI BRANCH
+TEBUTRIS411:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: GEBZE CARSI BRANCH
+TEBUTRIS244:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: GEBZE E5 BRANCH
+TEBUTRIS217:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: GOLCUK BRANCH
+TEBUTRIS020:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: IZMIT BRANCH
+TEBUTRIS326:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: IZMIT KORFEZ BRANCH
+TEBUTRIS306:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KOCAELI
+  branch: IZMIT KUCUK SANAYI BRANCH
+TEBUTRIS286:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: AKSEHIR BRANCH
+TEBUTRIS118:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: BUSAN SANAYI BRANCH
+TEBUTRIS260:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: EREGLI BRANCH
+TEBUTRIS030:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: KONYA BRANCH
+TEBUTRIS708:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: KONYA BUGDAY PAZARI BRANCH
+TEBUTRIS644:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: KONYA KARATAY BRANCH
+TEBUTRIS717:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: KONYA LARENDE BRANCH
+TEBUTRIS257:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: MEVLANA BRANCH
+TEBUTRIS412:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: NALCACI KONYA BRANCH
+TEBUTRIS332:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: ZAFER BRANCH
+TEBUTRIS225:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KONYA
+  branch: ZAFER SANAYI BRANCH
+TEBUTRIS643:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KUTAHYA
+  branch: KUTAHYA BRANCH
+TEBUTRIS712:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: KUTAHYA
+  branch: TAVSANLI BRANCH
+TEBUTRIS245:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MALATYA
+  branch: INONU CADDESI MALATYA BRANCH
+TEBUTRIS089:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MALATYA
+  branch: MALATYA BRANCH
+TEBUTRIS690:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MALATYA
+  branch: MALATYA CARSI BRANCH
+TEBUTRIS259:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: AKHISAR BRANCH
+TEBUTRIS664:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: ALASEHIR BRANCH
+TEBUTRIS114:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: MANISA BRANCH
+TEBUTRIS203:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: MANISA KES BRANCH
+TEBUTRIS192:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: SALIHLI BRANCH
+TEBUTRIS340:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: SOMA BRANCH
+TEBUTRIS292:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MANISA
+  branch: TURGUTLU BRANCH
+TEBUTRIS666:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MARDIN
+  branch: KIZILTEPE BRANCH
+TEBUTRIS327:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MARDIN
+  branch: MARDIN BRANCH
+TEBUTRIS304:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: ANAMUR BRANCH
+TEBUTRIS702:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: ERDEMLI BRANCH
+TEBUTRIS038:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN BRANCH
+TEBUTRIS385:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN CAMLIBEL BRANCH
+TEBUTRIS444:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN CARSI BRANCH
+TEBUTRIS652:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN TOPTANCILAR SITESI BRANCH
+TEBUTRIS352:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: METROPOL MERSIN BRANCH
+TEBUTRIS688:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: SILIFKE BRANCH
+TEBUTRIS237:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MERSIN
+  branch: TARSUS BRANCH
+TEBUTRIS240:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: AKSAZ BRANCH
+TEBUTRIS106:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: BODRUM BRANCH
+TEBUTRIS169:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: BODRUM CARSI BRANCH
+TEBUTRIS314:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: BODRUM GUMBET BRANCH
+TEBUTRIS133:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: FETHIYE BRANCH
+TEBUTRIS168:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: FETHIYE INONU BULVARI BRANCH
+TEBUTRIS496:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: FETHIYE LIKYA BRANCH
+TEBUTRIS709:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: FETHIYE SEYDIKEMER BRANCH
+TEBUTRIS419:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: KARYA BODRUM BRANCH
+TEBUTRIS102:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: MARMARIS BRANCH
+TEBUTRIS665:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: MILAS BRANCH
+TEBUTRIS258:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: MUGLA BRANCH
+TEBUTRIS692:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: MUGLA
+  branch: YALIKAVAK BRANCH
+TEBUTRIS694:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: NEVSEHIR
+  branch: NEVSEHIR BRANCH
+TEBUTRIS166:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: NIGDE
+  branch: NIGDE BRANCH
+TEBUTRIS153:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ORDU
+  branch: FATSA BRANCH
+TEBUTRIS182:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ORDU
+  branch: ORDU BRANCH
+TEBUTRIS698:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ORDU
+  branch: UNYE BRANCH
+TEBUTRIS689:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: OSMANIYE
+  branch: KADIRLI BRANCH
+TEBUTRIS642:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: OSMANIYE
+  branch: OSMANIYE BRANCH
+TEBUTRIS195:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: RIZE
+  branch: RIZE BRANCH
+TEBUTRIS113:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAKARYA
+  branch: ADAPAZARI BRANCH
+TEBUTRIS505:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAKARYA
+  branch: ADAPAZARI CARSI BRANCH
+TEBUTRIS288:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAKARYA
+  branch: ERENLER SANAYI BRANCH
+TEBUTRIS333:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: BAFRA BRANCH
+TEBUTRIS158:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: CARSAMBA BRANCH
+TEBUTRIS090:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: SAMSUN BRANCH
+TEBUTRIS198:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: SAMSUN CIFTLIK BRANCH
+TEBUTRIS494:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: SAMSUN MECIDIYE BRANCH
+TEBUTRIS181:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SAMSUN
+  branch: SAMSUN SANAYI BRANCH
+TEBUTRIS135:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SANLIURFA
+  branch: SANLIURFA BRANCH
+TEBUTRIS695:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SANLIURFA
+  branch: SANLIURFA EMNIYET CADDESI BRANCH
+TEBUTRIS262:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SANLIURFA
+  branch: VIRANSEHIR BRANCH
+TEBUTRIS671:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SIIRT
+  branch: SIIRT BRANCH
+TEBUTRIS691:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SINOP
+  branch: SINOP BRANCH
+TEBUTRIS423:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SIRNAK
+  branch: SANLIURFA SARAYONU CADDESI BRANCH
+TEBUTRIS247:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SIVAS
+  branch: SIVAS BRANCH
+TEBUTRIS706:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: SIVAS
+  branch: TOPTANCILAR SITESI SIVAS BRANCH
+TEBUTRIS284:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TEKIRDAG
+  branch: CERKEZKOY BRANCH
+TEBUTRIS109:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TEKIRDAG
+  branch: CORLU BRANCH
+TEBUTRIS289:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TEKIRDAG
+  branch: CORLU CARSI BRANCH
+TEBUTRIS224:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TEKIRDAG
+  branch: TEKIRDAG BRANCH
+TEBUTRIS676:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TEKIRDAG
+  branch: TEKIRDAG KOPRUBASI BRANCH
+TEBUTRIS651:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TOKAT
+  branch: TOKAT BRANCH
+TEBUTRIS711:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TOKAT
+  branch: TOKAT ERBAA BRANCH
+TEBUTRIS177:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TRABZON
+  branch: AKCAABAT BRANCH
+TEBUTRIS242:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TRABZON
+  branch: DEGIRMENDERE TRABZON BRANCH
+TEBUTRIS091:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TRABZON
+  branch: TRABZON BRANCH
+TEBUTRIS415:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: TRABZON
+  branch: TRABZON GAZIPASA BRANCH
+TEBUTRIS092:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: USAK
+  branch: USAK BRANCH
+TEBUTRIS518:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: USAK
+  branch: USAK CARSI BRANCH
+TEBUTRIS215:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: VAN
+  branch: VAN BRANCH
+TEBUTRIS710:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: VAN
+  branch: VAN IPEKYOLU BRANCH
+TEBUTRIS310:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: YALOVA
+  branch: YALOVA BRANCH
+TEBUTRIS559:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: YALOVA
+  branch: YALOVA ISKELE BRANCH
+TEBUTRIS700:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: YOZGAT
+  branch: YOZGAT BRANCH
+TEBUTRIS088:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ZONGULDAK
+  branch: KARADENIZ EREGLISI BRANCH
+TEBUTRIS634:
+  institution: TURK EKONOMI BANKASI A.S.
+  city: ZONGULDAK
+  branch: ZONGULDAK BRANCH
+TUBATRISTBL:
+  institution: TURKISH BANK A.S.
+  city: ISTANBUL
+  branch: FOREIGN OPERATIONS DEPARTMENT
+TUBATRIS:
+  institution: TURKISH BANK A.S.
+  city: ISTANBUL
+  branch: ''
+TCMBTR2A:
+  institution: TURKIYE CUMHURIYET MERKEZ BANKASI (CENTRAL BANK OF THE REPUBLIC OF
+    TURKEY)
+  city: ANKARA
+  branch: ''
+TCZBTR2AANK:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: ANKARA
+  branch: CORPORATE BANKING BRANCH
+TCZBTR2A:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: ANKARA
+  branch: HEAD OFFICE
+TCZBTR2AANT:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: ANTALYA
+  branch: ANTALYA FREE TRADE ZONE BRANCH
+TCZBTR2AIST:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE FOREIGN OPERATIONS BRANCH
+TCZBTR2AIZM:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: IZMIR
+  branch: IZMIR CORPORATE BANKING BRANCH
+TCZBTR2AMER:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN FREE TRADE ZONE BRANCH
+AFKBTRIS:
+  institution: TURKIYE FINANS KATILIM BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+TGBATRIS382:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: BAKIRKOY CORPORATE BANKING OPERATIONS DIVISION
+TGBATRIS384:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: BASKENT CORPORATE BANKING OPERATIONS DIVISION
+TGBATRIS987:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: CHEQUE AND PROMISSORY NOTE PROCESSING DIVISION
+TGBATRIS441:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: I.A.H.L. FREE ZONE BRANCH
+TGBATRIS381:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL CORPORATE BANKING OPERATIONS DIVISION
+TGBATRIS366:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: ISTANBUL LEATHER FREE ZONE BRANCH
+TGBATRIS383:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: KOZYATAGI CORPORATE BANKING OPERATIONS DIVISION
+TGBATRIS986:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: RECONCILIATIONS DIVISION
+TGBATRIS982:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: TREASURY PLANNING AND OPERATIONS DIVISION
+TGBATRIS093:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: TRY VOSTRO ACCOUNTS SERVICES
+TGBATRIS:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+TGBATRIS489:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: IZMIR
+  branch: AEGEAN FREE ZONE BRANCH
+TGBATRIS310:
+  institution: TURKIYE GARANTI BANKASI A.S.
+  city: MERSIN
+  branch: MERSIN FREE ZONE BRANCH
+TRHBTR2AFIS:
+  institution: TURKIYE HALK BANKASI A.S. (HEAD OFFICE)
+  city: ISTANBUL
+  branch: FINANCIAL INSTITUTIONS AND SUBSIDIARIES DEPARTMENT
+TRHBTR2ARCN:
+  institution: TURKIYE HALK BANKASI A.S. (HEAD OFFICE)
+  city: ISTANBUL
+  branch: RECONCILIATION DIVISION
+TRHBTR2ATRY:
+  institution: TURKIYE HALK BANKASI A.S. (HEAD OFFICE)
+  city: ISTANBUL
+  branch: TREASURY OPERATIONS
+TRHBTR2A:
+  institution: TURKIYE HALK BANKASI A.S. (HEAD OFFICE)
+  city: ISTANBUL
+  branch: ''
+TIKBTR2AKRD:
+  institution: TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)
+  city: ANKARA
+  branch: EFIL 4 CREDIT
+TIKBTR2A:
+  institution: TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)
+  city: ANKARA
+  branch: ''
+ISBKTRIS:
+  institution: TURKIYE IS BANKASI A.S.
+  city: ISTANBUL
+  branch: ALL TURKEY OFFICES
+ISBKTRISCUS:
+  institution: TURKIYE IS BANKASI A.S.
+  city: ISTANBUL
+  branch: CUSTODY DEPARTMENT
+ISBKTRISINT:
+  institution: TURKIYE IS BANKASI A.S.
+  city: ISTANBUL
+  branch: LC’S, COLLECTIONS AND TREASURY TRANSACTIONS
+ISBKTRISISP:
+  institution: TURKIYE IS BANKASI A.S.
+  city: ISTANBUL
+  branch: PORTFOLIO MANAGEMENT
+TKBNTR2A:
+  institution: TURKIYE KALKINMA BANKASI A.S.
+  city: ANKARA
+  branch: ''
+TSKBTRIS:
+  institution: TURKIYE SINAI KALKINMA BANKASI A.S.
+  city: ISTANBUL
+  branch: ''
+TVBATR2ACUS:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ANKARA
+  branch: CUSTODY MAIN BRANCH
+TVBATR2AFEX:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ANKARA
+  branch: TREASURY DEPARTMENT
+TVBATR2A320:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ISTANBUL
+  branch: ATATURK HAVA LIMANI A.H.L. FREE ZONE
+TVBATR2A358:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ISTANBUL
+  branch: ISTANBUL DERI VE ENDUSTRI FREE ZONE
+TVBATR2A596:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ISTANBUL
+  branch: ISTANBUL DIS OPERASYONLAR MUDURLUGU
+TVBATR2A:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: ISTANBUL
+  branch: ''
+TVBATR2A337:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: IZMIR
+  branch: EGE FREE ZONE
+TVBATR2A304:
+  institution: TURKIYE VAKIFLAR BANKASI T.A.O.
+  city: MERSIN
+  branch: MERSIN FREE ZONE
+YAPITRIS612:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: AHL FREE ZONE BRANCH
+YAPITRISAUD:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: AUDIT DEPARTMENT
+YAPITRISCHQ:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: CHEQUE DEPARTMENT
+YAPITRISCOM:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: COMMUNICATION DEPARTMENT
+YAPITRISCOR:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: CORRESPONDENT DEPARTMENT
+YAPITRISCRC:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: CREDIT CARDS DEPARTMENT
+YAPITRISFAC:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: FAKTORING
+YAPITRISFEX:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: FX/MM OPERATIONS
+YAPITRIS072:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: HEAD OFFICE
+YAPITRISINQ:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: INQUIRY DEPARTMENT
+YAPITRISINV:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: INVESTMENT
+YAPITRISPNR:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: PAY AND RECEIVE DEPARTMENT
+YAPITRISREC:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: RECONCILIATION DEPARTMENT
+YAPITRIS:
+  institution: YAPI VE KREDI BANKASI A.S.
+  city: ISTANBUL
+  branch: ''

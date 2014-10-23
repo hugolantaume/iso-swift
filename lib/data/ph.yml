@@ -1,0 +1,245 @@
+---
+ABCMPHMM:
+  institution: ALLIED BANKING CORPORATION
+  city: MANILA
+  branch: ''
+AUBKPHMM:
+  institution: ASIA UNITED BANK CORPORATION
+  city: PASIG CITY
+  branch: ''
+ASDBPHMM:
+  institution: ASIAN DEVELOPMENT BANK
+  city: MANILA
+  branch: ''
+ANZBPHMX:
+  institution: AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+  city: MANILA
+  branch: ''
+PHCBPHMC:
+  institution: BANGKO SENTRAL NG PILIPINAS
+  city: MANILA
+  branch: ''
+PHCBPHMD:
+  institution: BANGKO SENTRAL NG PILIPINAS
+  city: MANILA
+  branch: ''
+PHCBPHMM:
+  institution: BANGKO SENTRAL NG PILIPINAS
+  city: MANILA
+  branch: ''
+BKKBPHMM:
+  institution: BANGKOK BANK PUBLIC COMPANY LIMITED MANILA BRANCH
+  city: MANILA
+  branch: ''
+BOFAPH2X:
+  institution: BANK OF AMERICA N.A. MANILA
+  city: MANILA
+  branch: ''
+BKCHPHMM:
+  institution: BANK OF CHINA MANILA BRANCH
+  city: MANILA
+  branch: ''
+PABIPHMM:
+  institution: BANK OF COMMERCE
+  city: MANILA
+  branch: ''
+BOPIPHMMTRY:
+  institution: BANK OF THE PHILIPPINE ISLANDS
+  city: MANILA
+  branch: TREASURY GROUP
+BOPIPHMM:
+  institution: BANK OF THE PHILIPPINE ISLANDS
+  city: MANILA
+  branch: ''
+BOTKPHMM:
+  institution: BANK OF TOKYO MITSUBISHI UFJ LTD. THE
+  city: MANILA
+  branch: MANILA BRANCH
+BOPBPHMM:
+  institution: BDO PRIVATE BANK INC.
+  city: MANILA
+  branch: ''
+BNORPHMM:
+  institution: BDO UNIBANK INC.
+  city: MANILA
+  branch: ''
+BNPAPHMM:
+  institution: BNP PARIBAS MANILA OFFSHORE BRANCH
+  city: MANILA
+  branch: ''
+CHBKPHMM:
+  institution: CHINA BANKING CORPORATION
+  city: MANILA
+  branch: ''
+CTCBPHMM:
+  institution: CHINATRUST (PHILS.) COMMERCIAL BANK MANILA
+  city: MANILA
+  branch: ''
+CITIPHMXCBU:
+  institution: CITIBANK N.A. MANILA BRANCH
+  city: CEBU
+  branch: ''
+CITIPHMX:
+  institution: CITIBANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: HEAD OFFICE
+CITIPHMXTSU:
+  institution: CITIBANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: IBG-TREASURY SERVICES UNIT
+CITIPH2X:
+  institution: CITIBANK SAVINGS INC.
+  city: QUEZON CITY
+  branch: ''
+DEUTPHMM:
+  institution: DEUTSCHE BANK AG
+  city: MANILA
+  branch: ''
+DEUTPHMMGMO:
+  institution: DEUTSCHE BANK AG
+  city: MANILA
+  branch: ''
+DBPHPHMM:
+  institution: DEVELOPMENT BANK OF THE PHILIPPINES
+  city: MANILA
+  branch: ''
+EWBCPHMM:
+  institution: EAST WEST BANKING CORPORATION
+  city: MANILA
+  branch: ''
+HSBCPHMMCEB:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE
+  city: CEBU
+  branch: CEBU BRANCH
+HSBCPHMMSEC:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE
+  city: MANILA
+  branch: CUSTODY AND CLEARING
+HSBCPHMMTRY:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE
+  city: MANILA
+  branch: MNL TREASURY DEPARTMENT
+HSBCPHMM:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE
+  city: TAGUIG CITY
+  branch: ''
+HBPHPHMM:
+  institution: HSBC SAVINGS BANK (PHILIPINES) INC.
+  city: MANILA
+  branch: ''
+INGBPHMM:
+  institution: ING BANK N.V.
+  city: MANILA
+  branch: ''
+CHASPHMMOBU:
+  institution: JPMORGAN CHASE BANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: OFFHORE BANKING UNIT
+CHASPHMMENQ:
+  institution: JPMORGAN CHASE BANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+CHASPHMMKEY:
+  institution: JPMORGAN CHASE BANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASPHMM:
+  institution: JPMORGAN CHASE BANK N.A. MANILA BRANCH
+  city: MANILA
+  branch: ''
+KOEXPHMM:
+  institution: KOREA EXCHANGE BANK
+  city: MAKATI CITY
+  branch: ''
+TLBPPHMM:
+  institution: LAND BANK OF THE PHILIPPINES
+  city: MANILA
+  branch: ''
+MBBEPHMM:
+  institution: MAYBANK PHILIPPINES INC
+  city: MANILA
+  branch: ''
+ICBCPHMM:
+  institution: MEGA INTERNATIONAL COMMERCIAL BANK CO. LTD. MANILA BRANCH
+  city: MANILA
+  branch: ''
+MBTCPHMM:
+  institution: METROPOLITAN BANK AND TRUST CO.
+  city: MANILA
+  branch: ''
+MHCBPHMM:
+  institution: MIZUHO BANK LTD. MANILA BRANCH
+  city: MANILA
+  branch: ''
+NESNPHMN:
+  institution: NESTLE BUSINESS SERVICES AOA INC
+  city: MANILA
+  branch: ''
+CPHIPHMM:
+  institution: PHILIPPINE BANK OF COMMUNICATIONS
+  city: MANILA
+  branch: ''
+PPBUPHMM:
+  institution: PHILIPPINE BUSINESS BANK
+  city: CALOOCAN CITY
+  branch: ''
+PNBMPHMMTOD:
+  institution: PHILIPPINE NATIONAL BANK
+  city: MANILA
+  branch: TREASURY OPERATIONS DIVISION
+PNBMPHMM:
+  institution: PHILIPPINE NATIONAL BANK
+  city: MANILA
+  branch: ''
+PHSBPHMM:
+  institution: PHILIPPINE SAVINGS BANK
+  city: MANILA
+  branch: ''
+PHVBPHMM:
+  institution: PHILIPPINE VETERANS BANK
+  city: MANILA
+  branch: ''
+PHTBPHMM:
+  institution: PHILTRUST BANK (PHILIPPINE TRUST COMPANY)
+  city: MANILA
+  branch: ''
+RCBCPHMM:
+  institution: RIZAL COMMERCIAL BANKING CORPORATION
+  city: MANILA
+  branch: ''
+ROBPPHMQ:
+  institution: ROBINSONS BANK CORPORATION
+  city: QUEZON CITY
+  branch: ''
+SETCPHMM:
+  institution: SECURITY BANK CORPORATION
+  city: MANILA
+  branch: ''
+SCBLPHMMEQI:
+  institution: STANDARD CHARTERED BANK
+  city: MANILA
+  branch: CUSTODIAL DEPARTMENT
+SCBLPHMM:
+  institution: STANDARD CHARTERED BANK
+  city: MANILA
+  branch: ''
+TACBPHMM:
+  institution: TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH
+  city: MANILA
+  branch: ''
+TYBKPHMM:
+  institution: TONG YANG SAVINGS BANK INC.
+  city: MANILA
+  branch: ''
+UBPHPHMM:
+  institution: UNION BANK OF THE PHILIPPINES
+  city: PASIG CITY
+  branch: ''
+UCPBPHMM:
+  institution: UNITED COCONUT PLANTERS BANK
+  city: MANILA
+  branch: ''
+UOVBPHMM:
+  institution: UNITED OVERSEAS BANK PHILIPPINES
+  city: MANILA
+  branch: ''

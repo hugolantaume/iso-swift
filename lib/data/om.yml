@@ -1,0 +1,121 @@
+---
+AUBOOMRUALH:
+  institution: AHLI BANK S.A.O.G
+  city: MUSCAT
+  branch: AL HILAL
+AUBOOMRU:
+  institution: AHLI BANK S.A.O.G
+  city: RUWI
+  branch: ''
+IZZBOMRU:
+  institution: ALIZZ ISLAMIC BANK
+  city: MUSCAT
+  branch: ''
+BDOFOMRUMIB:
+  institution: BANK DHOFAR (S.A.O.G.)
+  city: RUWI
+  branch: MAISARAH ISLAMIC BANKING SERVICES
+BDOFOMRU:
+  institution: BANK DHOFAR (S.A.O.G.)
+  city: RUWI
+  branch: ''
+BNZWOMRX:
+  institution: BANK NIZWA
+  city: MUSCAT
+  branch: ''
+BARBOMMXSAL:
+  institution: BANK OF BARODA, GREATER MUTTRAH BRANCH
+  city: MUTTRAH
+  branch: SALALAH BRANCH
+BARBOMMX:
+  institution: BANK OF BARODA, GREATER MUTTRAH BRANCH
+  city: RUWI
+  branch: ''
+BABEOMRX:
+  institution: BANK OF BEIRUT S.A.L.- OMAN BRANCH
+  city: MUSCAT
+  branch: ''
+BSHROMRUISL:
+  institution: BANK SOHAR S.A.O.G
+  city: RUWI
+  branch: SOHAR ISLAMIC
+BSHROMRU:
+  institution: BANK SOHAR S.A.O.G
+  city: RUWI
+  branch: ''
+BMUSOMRX:
+  institution: BANKMUSCAT SAOG
+  city: MUSCAT
+  branch: ''
+CBOMOMRU:
+  institution: CENTRAL BANK OF OMAN
+  city: RUWI
+  branch: ''
+HABBOMRX:
+  institution: HABIB BANK OMAN
+  city: RUWI
+  branch: ''
+BBMEOMRX:
+  institution: HSBC BANK OMAN S.A.O.G (FORMERLY HSBC BANK MIDDLE EAST)
+  city: RUWI
+  branch: ''
+MINIOMRU:
+  institution: MINISTRY OF FINANCE
+  city: MUSCAT
+  branch: ''
+NBADOMRX:
+  institution: NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH
+  city: MUSCAT
+  branch: ''
+NBADOMRXTFO:
+  institution: NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH
+  city: MUTTRAH
+  branch: TRADE FINANCE DEPARTMENT
+NBOMOMRXTSS:
+  institution: NATIONAL BANK OF OMAN
+  city: MUSCAT
+  branch: TRADE SERVICES
+NBOMOMRX:
+  institution: NATIONAL BANK OF OMAN
+  city: MUSCAT
+  branch: ''
+NBOMOMRXIBS:
+  institution: NATIONAL BANK OF OMAN
+  city: RUWI
+  branch: MUZN ISLAMIC BANKING
+NBOMOMRXITF:
+  institution: NATIONAL BANK OF OMAN
+  city: RUWI
+  branch: MUZN ISLAMIC TRADE FINANCE
+OPCFOMRX:
+  institution: OCTAL PETROCHEMICALS FZC
+  city: MUSCAT
+  branch: ''
+OUAEOMRU:
+  institution: OMAN AND UAE EXCHANGE CENTRE CO LLC
+  city: RUWI
+  branch: ''
+OMABOMRUYSR:
+  institution: OMAN ARAB BANK SAOC
+  city: RUWI
+  branch: AL-YUSR ISLAMIC BANKING
+OMABOMRU:
+  institution: OMAN ARAB BANK SAOC
+  city: RUWI
+  branch: ''
+QNBAOMRX:
+  institution: QATAR NATIONAL BANK
+  city: MUSCAT
+  branch: ''
+SCBLOMRX:
+  institution: STANDARD CHARTERED BANK
+  city: MUSCAT
+  branch: ''
+SBINOMRX:
+  institution: STATE BANK OF INDIA, MUSCAT, OMAN
+  city: MUSCAT
+  branch: ''
+SGRFOMRX:
+  institution: STATE GENERAL RESERVE FUND – MINISTRY OF FINANCE
+  city: MUSCAT
+  branch: ''

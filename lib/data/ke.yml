@@ -1,0 +1,441 @@
+---
+ABCLKENA:
+  institution: AFRICAN BANKING CORPORATION LTD
+  city: NAIROBI
+  branch: ''
+AFRIKENX002:
+  institution: BANK OF AFRICA KENYA LTD
+  city: MOMBASA
+  branch: MOMBASA BRANCH
+AFRIKENX:
+  institution: BANK OF AFRICA KENYA LTD
+  city: NAIROBI
+  branch: ''
+BARBKENAKAK:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: KAKAMEGA
+  branch: KAKAMEGA BRANCH
+BARBKENAKIS:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: KISUMU
+  branch: KISUMU BRANCH
+BARBKENAMOM:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: MOMBASA
+  branch: DIGO ROAD, MOMBASA
+BARBKENANYA:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: MOMBASA
+  branch: NYALI BRANCH, MOMBASA, KENYA
+BARBKENAIND:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: NAIROBI
+  branch: INDUSTRIAL AREA BR.
+BARBKENANMO:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: NAIROBI
+  branch: NAIROBI MAIN
+BARBKENASAR:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: NAIROBI
+  branch: SARIT CENTRE
+BARBKENA:
+  institution: BANK OF BARODA (KENYA) LTD
+  city: NAIROBI
+  branch: ''
+BKIDKENAMSA:
+  institution: BANK OF INDIA
+  city: MOMBASA
+  branch: MOMBASA BR
+BKIDKENAIAB:
+  institution: BANK OF INDIA
+  city: NAIROBI
+  branch: INDUSTRIAL AREA BR
+BKIDKENAWST:
+  institution: BANK OF INDIA
+  city: NAIROBI
+  branch: WESTLANDS BR
+BKIDKENA:
+  institution: BANK OF INDIA
+  city: NAIROBI
+  branch: ''
+BARCKENXELD:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: ELDORET
+  branch: ELDORET BRANCH
+BARCKENXMDR:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: MOMBASA
+  branch: DIGO ROAD MOMBASA
+BARCKENXMNR:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: MOMBASA
+  branch: NKRUMAH ROAD BRANCH
+BARCKENXOCB:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: BACK OFFICE PROCESSING CENTRE, BANK HOUSE
+BARCKENXNCC:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: CARD CENTRE NAIROBI
+BARCKENXDLR:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: DEALERS DEPARTMENT H/O
+BARCKENXNDC:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: NAIROBI DISTRIBUTION CENTRE
+BARCKENXPIS:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: PAYMENTS AND INTERNATIONAL SERVICES
+BARCKENXNPB:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: PLAZA BUSINESS CENTRE
+BARCKENXTPC:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: TRADE PROCESSING CENTRE
+BARCKENXVPC:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: VOUCHER PROCESSING CENTRE
+BARCKENX:
+  institution: BARCLAYS BANK OF KENYA, LTD.
+  city: NAIROBI
+  branch: ''
+CBKEKENXBKG:
+  institution: CENTRAL BANK OF KENYA
+  city: NAIROBI
+  branch: BANKING DIVISION
+CBKEKENXCNY:
+  institution: CENTRAL BANK OF KENYA
+  city: NAIROBI
+  branch: CURRENCY DIVISION
+CBKEKENXNDO:
+  institution: CENTRAL BANK OF KENYA
+  city: NAIROBI
+  branch: NATIONAL DEBT DIVISION
+CBKEKENX:
+  institution: CENTRAL BANK OF KENYA
+  city: NAIROBI
+  branch: ''
+SBICKENXSSP:
+  institution: CFC STANBIC BANK LIMITED
+  city: NAIROBI
+  branch: STRUCTURED PAYMENTS
+SBICKENX:
+  institution: CFC STANBIC BANK LIMITED
+  city: NAIROBI
+  branch: ''
+CKENKENA:
+  institution: CHASE BANK (KENYA) LIMITED
+  city: NAIROBI
+  branch: ''
+CITIKENATRD:
+  institution: CITIBANK N.A. NAIROBI
+  city: NAIROBI
+  branch: TRADE SERVICES DEPARTMENT
+CITIKENA:
+  institution: CITIBANK N.A. NAIROBI
+  city: NAIROBI
+  branch: ''
+CBAFKENX:
+  institution: COMMERCIAL BANK OF AFRICA LTD.
+  city: NAIROBI
+  branch: ''
+CONKKENA:
+  institution: CONSOLIDATED BANK OF KENYA LTD
+  city: NAIROBI
+  branch: ''
+KCOOKENA:
+  institution: COOPERATIVE BANK OF KENYA LTD., THE
+  city: NAIROBI
+  branch: ''
+CRBTKENA:
+  institution: CREDIT BANK LIMITED
+  city: NAIROBI
+  branch: ''
+DEVKKENA:
+  institution: DEVELOPMENT BANK OF KENYA LIMITED
+  city: NAIROBI
+  branch: ''
+DTKEKENA:
+  institution: DIAMOND TRUST BANK KENYA LIMITED
+  city: NAIROBI
+  branch: HEAD OFFICE
+DUKNKENA:
+  institution: DUBAI BANK KENYA LTD
+  city: NAIROBI
+  branch: ''
+ESATKENA:
+  institution: EASTERN AND SOUTHERN AFRICAN TRADE AND DEVELOPMENTBANK
+  city: NAIROBI
+  branch: ''
+ECOCKENA:
+  institution: ECOBANK KENYA LTD
+  city: NAIROBI
+  branch: ''
+EQUAKENA:
+  institution: EQUATORIAL COMMERCIAL BANK LTD
+  city: NAIROBI
+  branch: ''
+EQBLKENA:
+  institution: EQUITY BANK LIMITED
+  city: NAIROBI
+  branch: ''
+FABLKENA:
+  institution: FAMILY BANK LIMITED
+  city: NAIROBI
+  branch: ''
+FCBLKENA:
+  institution: FIDELITY COMMERCIAL BANK LTD
+  city: NAIROBI
+  branch: ''
+FBAKKENA:
+  institution: FINA BANK LTD
+  city: NAIROBI
+  branch: ''
+IFCBKENA:
+  institution: FIRST COMMUNITY BANK LIMITED
+  city: NAIROBI
+  branch: ''
+GIROKENX:
+  institution: GIRO COMMERCIAL BANK LTD
+  city: NAIROBI
+  branch: ''
+GUARKENA:
+  institution: GUARDIAN BANK LIMITED
+  city: NAIROBI
+  branch: ''
+GAFRKENA:
+  institution: GULF AFRICAN BANK LTD
+  city: NAIROBI
+  branch: ''
+HBZUKENA:
+  institution: HABIB BANK AG ZURICH
+  city: NAIROBI
+  branch: ''
+HABBKENX:
+  institution: HABIB BANK LIMITED
+  city: NAIROBI
+  branch: ''
+HFCOKENA:
+  institution: HOUSING FINANCE COMPANY OF KENYA
+  city: NAIROBI
+  branch: ''
+IMBLKENAFTR:
+  institution: I AND M BANK LTD
+  city: NAIROBI
+  branch: FUNDS TRANSFER DEPARTMENT
+IMBLKENASTL:
+  institution: I AND M BANK LTD
+  city: NAIROBI
+  branch: SETTLEMENT DEPARTMENT
+IMBLKENATRD:
+  institution: I AND M BANK LTD
+  city: NAIROBI
+  branch: TRADE FINANCE DEPARTMENT
+IMBLKENA:
+  institution: I AND M BANK LTD
+  city: NAIROBI
+  branch: ''
+CIFIKENA:
+  institution: JAMII BORA BANK LTD
+  city: NAIROBI
+  branch: ''
+KCBLKENX080:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: MOMBASA
+  branch: TREASURY SQUARE
+KCBLKENXDMM:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: DOMESTIC MONEY MARKET UNIT
+KCBLKENX012:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: GIGIRI-UNEP BRANCH
+KCBLKENX:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: HEAD OFFICE
+KCBLKENX002:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: INDUSTRIAL AREA
+KCBLKENX005:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: KIPANDE HOUSE
+KCBLKENX077:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: KISUMU MAIN
+KCBLKENX017:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: MOI AVENUE
+KCBLKENXTMK:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: TREASURY
+KCBLKENXTFS:
+  institution: KENYA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: ''
+KREPKENA:
+  institution: K-REP BANK LIMITED
+  city: NAIROBI
+  branch: ''
+MIEKKENA:
+  institution: MIDDLE EAST BANK KENYA LTD
+  city: NAIROBI
+  branch: ''
+NBKEKENX302:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: AWENDO BRANCH
+NBKEKENX957:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: BUNGOMA BRANCH
+NBKEKENX828:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: BUSIA BRANCH
+NBKEKENX310:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: CORPORATE DIVISION
+NBKEKENX789:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: ELDORET BRANCH
+NBKEKENX711:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: HARAMBEE AVENUE BRANCH
+NBKEKENX808:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: HILL PLAZA BRANCH
+NBKEKENX329:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: HOSPITAL BRANCH
+NBKEKENX965:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KAPSABET BRANCH
+NBKEKENX841:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KARATINA BRANCH
+NBKEKENX725:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KENYATTA AVENUE BRANCH
+NBKEKENX815:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KISII BRANCH
+NBKEKENX761:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KISUMU BRANCH
+NBKEKENX884:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KITALE BRANCH
+NBKEKENX930:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: KITUI BRANCH
+NBKEKENX922:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: LIMURU BRANCH
+NBKEKENX833:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: MERU BRANCH
+NBKEKENX743:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: MOI AVENUE BRANCH
+NBKEKENX949:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: MOLO BRANCH
+NBKEKENX973:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: MOMBASA MOI BRANCH
+NBKEKENX739:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: MOMBASA NKURUMAH BRANCH
+NBKEKENX757:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: NAKURU BRANCH
+NBKEKENX868:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: NAROK BRANCH
+NBKEKENX876:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: NYERI BRANCH
+NBKEKENX:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: NAIROBI
+  branch: ''
+NBKEKENX337:
+  institution: NATIONAL BANK OF KENYA LTD.
+  city: RUIRU
+  branch: RUIRU BRANCH
+NINCKENA:
+  institution: NIC BANK LIMITED
+  city: NAIROBI
+  branch: HEAD OFFICE
+DELFKENA:
+  institution: ORIENTAL COMMERCIAL BANK LTD
+  city: NAIROBI
+  branch: ''
+PAUTKENA:
+  institution: PARAMOUNT UNIVERSAL BANK LIMITED
+  city: NAIROBI
+  branch: ''
+PRIEKENX:
+  institution: PRIME BANK LTD.
+  city: NAIROBI
+  branch: ''
+SCBLKENXSSU:
+  institution: STANDARD CHARTERED BANK KENYA LIMITED
+  city: NAIROBI
+  branch: SECURITIES SERVICES UNIT
+SCBLKENXTRD:
+  institution: STANDARD CHARTERED BANK KENYA LIMITED
+  city: NAIROBI
+  branch: TRADE
+SCBLKENX:
+  institution: STANDARD CHARTERED BANK KENYA LIMITED
+  city: NAIROBI
+  branch: ''
+TNBLKENA:
+  institution: TRANS-NATIONAL BANK LIMITED
+  city: NAIROBI
+  branch: ''
+UNAFKENA:
+  institution: UBA KENYA BANK LIMITED
+  city: NAIROBI
+  branch: ''
+VICMKENA:
+  institution: VICTORIA COMMERCIAL BANK LIMITED
+  city: NAIROBI
+  branch: ''

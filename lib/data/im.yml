@@ -1,0 +1,94 @@
+---
+ANILIMDX:
+  institution: ABBEY NATIONAL TREASURY INTERNATIONAL LIMITED, ISLE OF MAN
+  city: DOUGLAS
+  branch: ''
+AIBKIMDX:
+  institution: AIB BANK (CI) LTD – ISLE OF MAN BRANCH
+  city: DOUGLAS
+  branch: ''
+BIGTIMDX:
+  institution: BANK OF IRELAND (IOM) LIMITED
+  city: DOUGLAS
+  branch: ''
+BIGTIMDXBWI:
+  institution: BANK OF IRELAND (IOM) LIMITED
+  city: DOUGLAS
+  branch: ''
+CIGLIMDDCFM:
+  institution: CAPITAL INTERNATIONAL LIMTED
+  city: DOUGLAS
+  branch: CAPITAL FINANCIAL MARKETS
+CIGLIMDDCFS:
+  institution: CAPITAL INTERNATIONAL LIMTED
+  city: DOUGLAS
+  branch: CAPITAL FUND SERVICES
+CIGLIMDDCTS:
+  institution: CAPITAL INTERNATIONAL LIMTED
+  city: DOUGLAS
+  branch: CAPITAL TREASURY SERVICES
+CIGLIMDD:
+  institution: CAPITAL INTERNATIONAL LIMTED
+  city: DOUGLAS
+  branch: ''
+CIGLIMDDCIL:
+  institution: CAPITAL INTERNATIONAL LIMTED
+  city: DOUGLAS
+  branch: ''
+CNNIIMD2:
+  institution: CONISTER BANK LIMITED
+  city: DOUGLAS
+  branch: ''
+COUTIMDD:
+  institution: COUTTS AND CO (MANX) LIMITED
+  city: DOUGLAS
+  branch: ''
+HBZUIMDD:
+  institution: HABIB EUROPEAN BANK LIMITED
+  city: DOUGLAS
+  branch: ''
+RBOSIMD2:
+  institution: ISLE OF MAN BANK
+  city: DOUGLAS
+  branch: ''
+CLOSIMDD:
+  institution: KLEINWORT BENSON BANK (ISLE OF MAN) LTD (FORMERLY CLOSE BANK (ISLE
+    OF MAN) LIMITED)
+  city: DOUGLAS
+  branch: ''
+RBOSIMDD:
+  institution: NATWEST – ISLE OF MAN
+  city: DOUGLAS
+  branch: ''
+RFLCIMDX:
+  institution: NEDBANK PRIVATE WEALTH LTD.
+  city: DOUGLAS
+  branch: ''
+RTNLIMDD:
+  institution: RATIONAL GROUP LTD
+  city: ONCHAN
+  branch: ''
+RBOSIMDX:
+  institution: ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE
+  city: DOUGLAS
+  branch: ''
+ROKLIMDIOPS:
+  institution: ROYAL SKANDIA LIFE ASSURANCE LIMITED
+  city: ONCHAN
+  branch: BRANCH OPERATIONS
+ROKLIMDI:
+  institution: ROYAL SKANDIA LIFE ASSURANCE LIMITED
+  city: ONCHAN
+  branch: ''
+SBICIMDX:
+  institution: STANDARD BANK ISLE OF MAN LIMITED
+  city: DOUGLAS
+  branch: ''
+SBZAIMDD:
+  institution: STANDARD BANK OF SOUTH AFRICA LTD, ISLE OF MAN BRANCH
+  city: DOUGLAS
+  branch: ''
+ZBILIMDD:
+  institution: ZURICH BANK INTERNATIONAL LIMITED
+  city: DOUGLAS
+  branch: ''

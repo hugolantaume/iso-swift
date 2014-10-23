@@ -1,0 +1,274 @@
+---
+BACABSNS:
+  institution: ANDBANC (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+BITCBSNS:
+  institution: ANSBACHER (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+FBZUBSNS:
+  institution: ANSBACHER (BAHAMAS) LIMITED (FORMERLY FINTER BANK AND TRUST LIMITED)
+  city: NASSAU
+  branch: ''
+BASEBSNS:
+  institution: BANCA DEL SEMPIONE (OVERSEAS) LTD
+  city: NASSAU
+  branch: ''
+BBOGBSNX:
+  institution: BANCO DE BOGOTA (NASSAU) LTD.
+  city: NASSAU
+  branch: ''
+CBBABSNSBNF:
+  institution: BANCO ITAU BBA S.A. – NASSAU BRANCH
+  city: NASSAU
+  branch: CASH CUSTOMERS TRANFS
+CBBABSNS:
+  institution: BANCO ITAU BBA S.A. – NASSAU BRANCH
+  city: NASSAU
+  branch: ''
+CBBABSNSGCH:
+  institution: BANCO ITAU BBA S.A. – NASSAU BRANCH
+  city: NASSAU
+  branch: ''
+BNMXBSNX:
+  institution: BANCO NACIONAL DE MEXICO
+  city: NASSAU
+  branch: ''
+SCHTBSNS:
+  institution: BANCO SANTANDER BAHAMAS INTL. LTD.
+  city: NASSAU
+  branch: ''
+BAVOBSNS:
+  institution: BANCO VOTORANTIM S/A – NASSAU BRANCH
+  city: NASSAU
+  branch: ''
+BSAFBSNS:
+  institution: BANK J. SAFRA SARASIN (BAHAMAS) LTD.
+  city: NASSAU
+  branch: ''
+BARBBSNS:
+  institution: BANK OF BARODA, OFFSHOREBANKING UNIT, NASSAU, BAHAMAS
+  city: NASSAU
+  branch: ''
+NOSCBSNT:
+  institution: BANK OF NOVA SCOTIA TRUST COMPANY (BAHAMAS) LTD,THE
+  city: NASSAU
+  branch: ''
+BOTBBSNS0FR:
+  institution: BANK OF THE BAHAMAS LIMITED
+  city: FREEPORT
+  branch: ''
+BOTBBSNS0N2:
+  institution: BANK OF THE BAHAMAS LIMITED
+  city: INAGUA
+  branch: ''
+BOTBBSNS0N3:
+  institution: BANK OF THE BAHAMAS LIMITED
+  city: NASSAU
+  branch: MAIN BRANCH
+BOTBBSNS:
+  institution: BANK OF THE BAHAMAS LIMITED
+  city: NASSAU
+  branch: ''
+PRIBBSNS:
+  institution: BANQUE PRIVEE EDMOND DE ROTHSCHILD LTD.
+  city: NASSAU
+  branch: ''
+BSIOBSNX:
+  institution: BSI OVERSEAS (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+CUBLBSNS:
+  institution: CAPITAL UNION BANK
+  city: NASSAU
+  branch: ''
+BSSABSNS:
+  institution: CBH (BAHAMAS) LTD.
+  city: NASSAU
+  branch: ''
+CBBHBSNS:
+  institution: CENTRAL BANK OF THE BAHAMAS,THE
+  city: NASSAU
+  branch: ''
+CIBCBSNB:
+  institution: CIBC TRUST COMPANY (BAHAMAS) LTD SOLOMON’S BUILDING
+  city: NASSAU
+  branch: ''
+CITCBSNS:
+  institution: CITCO BANK AND TRUST COMPANY (BAHAMAS) LTD.
+  city: NASSAU
+  branch: ''
+CITIBSNATPS:
+  institution: CITIBANK NA
+  city: NASSAU
+  branch: CITITRUST BAHAMAS THIRD PARTY STATEMENTS
+CITIBSNA:
+  institution: CITIBANK NA
+  city: NASSAU
+  branch: ''
+COMWBSNS:
+  institution: COMMONWEALTH BANK LIMITED
+  city: NASSAU
+  branch: ''
+AGRIBSNX:
+  institution: CREDIT AGRICOLE SUISSE (BAHAMAS) LTD
+  city: NASSAU
+  branch: ''
+CRESBSNS:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH
+  city: NASSAU
+  branch: NASSAU BRANCH
+CRESBSNSSIP:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH
+  city: NASSAU
+  branch: STRUCTURED PRODUCTS
+GBLIBSNX:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH, LATAM INVESTMENT BANKING
+  city: NASSAU
+  branch: ''
+CRESBSNSCRE:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH, PRIVATE BANKING
+  city: NASSAU
+  branch: PRIVATE BANKING
+CRESBSNSNAS:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH, TREASURY AND ISSUANCE
+  city: NASSAU
+  branch: NASSAU BRANCH
+CRESBSNX:
+  institution: CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT
+  city: NASSAU
+  branch: ''
+BIGABSNS:
+  institution: CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+DBTLBSNS:
+  institution: DELTEC BANK AND TRUST LIMITED
+  city: NASSAU
+  branch: ''
+EFGBBSNS:
+  institution: EFG BANK AND TRUST (BAHAMAS) LTD
+  city: NASSAU
+  branch: ''
+BTAMBSNS:
+  institution: FIDELITY BANK (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+FOBLBSNS:
+  institution: FIRST OVERSEAS BANK LIMITED
+  city: NASSAU
+  branch: ''
+FCIBBSNS:
+  institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+GONEBSNS:
+  institution: GONET BANK AND TRUST LIMITED
+  city: NASSAU
+  branch: ''
+HSBCBSNS:
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE
+  city: NASSAU
+  branch: NASSAU BRANCH
+HOBTBSNS:
+  institution: HOTTINGER BANK AND TRUST LIMITED
+  city: NASSAU
+  branch: ''
+JBBTBSNS:
+  institution: JULIUS BAER BANK AND TRUST (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+KENFBSNS:
+  institution: KENFORTH LIFE INSURANCE LIMITED
+  city: NASSAU
+  branch: ''
+LOCYBSNSNDP:
+  institution: LOMBARD ODIER AND CIE (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: NDP DEPT
+LOCYBSNS:
+  institution: LOMBARD ODIER AND CIE (BAHAMAS) LIMITED
+  city: NASSAU
+  branch: ''
+MMGBBSNS:
+  institution: MMG BANK AND TRUST
+  city: NASSAU
+  branch: ''
+PICTBSNX:
+  institution: PICTET BANK AND TRUST LIMITED
+  city: NASSAU
+  branch: ''
+PNCCBSNS:
+  institution: PNC BANK, N.A. NASSAU BRANCH
+  city: NASSAU
+  branch: ''
+DWCIBSNS:
+  institution: PRIVATE INVESTMENT BANK LIMITED
+  city: NASSAU
+  branch: ''
+ROYCBSNSFRE:
+  institution: RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    NASSAU)
+  city: FREEPORT
+  branch: FREEPORT BRANCH
+ROYCBSNS:
+  institution: RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    NASSAU)
+  city: NASSAU
+  branch: ALL OFFICES
+ROYCBSNSOPC:
+  institution: RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    NASSAU)
+  city: NASSAU
+  branch: HEAD OFFICE OPERATIONS CENTRE
+ROYCBSNSMAI:
+  institution: RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    NASSAU)
+  city: NASSAU
+  branch: MAIN BRANCH
+ROYCBSNSPAL:
+  institution: RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA
+    NASSAU)
+  city: NASSAU
+  branch: PALMDALE BRANCH
+NOSCBSNSFPO:
+  institution: SCOTIABANK (BAHAMAS) LTD
+  city: FREEPORT
+  branch: FREEPORT BRANCH
+NOSCBSNSTMK:
+  institution: SCOTIABANK (BAHAMAS) LTD
+  city: NASSAU
+  branch: CARIBBEAN TREASURY UNIT
+NOSCBSNS:
+  institution: SCOTIABANK (BAHAMAS) LTD
+  city: NASSAU
+  branch: ''
+SBINBSNS:
+  institution: STATE BANK OF INDIA, NASSAU OBU
+  city: NASSAU
+  branch: ''
+UBSWBSNS:
+  institution: UBS (BAHAMAS) LTD
+  city: NASSAU
+  branch: ''
+NFZBBSNSFND:
+  institution: UNION BANCAIRE PRIVEE
+  city: NASSAU
+  branch: FUND ADMINISTRATION DEPARTMENT
+NFZBBSNS:
+  institution: UNION BANCAIRE PRIVEE
+  city: NASSAU
+  branch: ''
+UBPGBSNS:
+  institution: UNION BANCAIRE PRIVEE (BAHAMAS) LTD
+  city: NASSAU
+  branch: ''
+VBLTBSNX:
+  institution: VOTORANTIM BANK LIMITED
+  city: NASSAU
+  branch: ''
+WNTRBSNS:
+  institution: WINTERBOTHAM TRUST COMPANY LIMITED, THE
+  city: NASSAU
+  branch: ''

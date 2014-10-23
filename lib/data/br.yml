@@ -1,0 +1,949 @@
+---
+ABCBBRSP:
+  institution: BANCO ABC BRASIL S.A.
+  city: SAO PAULO
+  branch: ''
+AUFABRSP:
+  institution: BANCO ALFA DE INVESTIMENTO S.A. SAO PAULO
+  city: SAO PAULO
+  branch: ''
+AZTKBRCR:
+  institution: BANCO AZTECA DO BRASIL S/A
+  city: RECIFE
+  branch: ''
+BCLYBRSP:
+  institution: BANCO BARCLAYS SA
+  city: SAO PAULO
+  branch: ''
+BBINBRRJ:
+  institution: BANCO BBM S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+BBMFBRSP:
+  institution: BANCO BMF DE SERVICOS DE LIQ.E DE CUSTODIA S.A.
+  city: SAO PAULO
+  branch: ''
+BBMFBRSPDBL:
+  institution: BANCO BMF DE SERVICOS DE LIQ.E DE CUSTODIA S.A.
+  city: SAO PAULO
+  branch: ''
+BNPABRSPB2S:
+  institution: BANCO BNP PARIBAS BRASIL S/A
+  city: BRASILIA
+  branch: BANCO BNP PARIBAS BRASIL S/A
+BNPABRSP:
+  institution: BANCO BNP PARIBAS BRASIL S/A
+  city: SAO PAULO
+  branch: SAO PAOLO BRANCH
+BBONBRSP:
+  institution: BANCO BONSUCESSO SA
+  city: BELO HORIZONTE
+  branch: ''
+BBDEBRSPBLM:
+  institution: BANCO BRADESCO S.A.
+  city: BELEM
+  branch: ''
+BBDEBRSPBHE:
+  institution: BANCO BRADESCO S.A.
+  city: BELO HORIZONTE
+  branch: ''
+BBDEBRSPBNU:
+  institution: BANCO BRADESCO S.A.
+  city: BLUMENAU
+  branch: ''
+BBDEBRSPBSA:
+  institution: BANCO BRADESCO S.A.
+  city: BRASILIA
+  branch: ''
+BBDEBRSPCAS:
+  institution: BANCO BRADESCO S.A.
+  city: CAMPINAS
+  branch: ''
+BBDEBRSPCTA:
+  institution: BANCO BRADESCO S.A.
+  city: CURITIBA
+  branch: ''
+BBDEBRSPFLA:
+  institution: BANCO BRADESCO S.A.
+  city: FORTALEZA
+  branch: ''
+BBDEBRSPFAC:
+  institution: BANCO BRADESCO S.A.
+  city: FRANCA
+  branch: ''
+BBDEBRSPJVE:
+  institution: BANCO BRADESCO S.A.
+  city: JOINVILLE
+  branch: ''
+BBDEBRSPMNS:
+  institution: BANCO BRADESCO S.A.
+  city: MANAUS
+  branch: ''
+BBDEBRSPNHO:
+  institution: BANCO BRADESCO S.A.
+  city: NOVO HAMBURGO
+  branch: ''
+BBDEBRSPPAE:
+  institution: BANCO BRADESCO S.A.
+  city: PORTO ALEGRE
+  branch: ''
+BBDEBRSPRCE:
+  institution: BANCO BRADESCO S.A.
+  city: RECIFE
+  branch: ''
+BBDEBRSPRJO:
+  institution: BANCO BRADESCO S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+BBDEBRSPSDR:
+  institution: BANCO BRADESCO S.A.
+  city: SALVADOR
+  branch: ''
+BBDEBRSPSTS:
+  institution: BANCO BRADESCO S.A.
+  city: SANTOS
+  branch: ''
+BBDEBRSPCON:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: BANK RECONCILIATION
+BBDEBRSPBEX:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: BRADEX
+BBDEBRSPSPO:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: BRANCH
+BBDEBRSPCSH:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: CASH MANAGEMENT
+BBDEBRSPOCO:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: HEAD OFFICE
+BBDEBRSPMTZ:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: MATRIZ
+BBDEBRSP:
+  institution: BANCO BRADESCO S.A.
+  city: SAO PAULO
+  branch: ''
+BBDEBRSPVTA:
+  institution: BANCO BRADESCO S.A.
+  city: VITORIA
+  branch: ''
+BRJBBRRJ:
+  institution: BANCO BRJ S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+BPABBRRJ:
+  institution: BANCO BTG PACTUAL S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+BVABBRRJ:
+  institution: BANCO BVA SA
+  city: RIO DE JANEIRO
+  branch: ''
+CGDIBRSP:
+  institution: BANCO CAIXA GERAL BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+BCBZBRSP:
+  institution: BANCO CARGILL S/A
+  city: SAO PAULO
+  branch: ''
+BCBRBRDFORG:
+  institution: BANCO CENTRAL DO BRASIL
+  city: BRASILIA
+  branch: DEPTO. DA DIVIDA EXTERNA E DE RELACOES INTERNACIONAIS
+BCBRBRDFINT:
+  institution: BANCO CENTRAL DO BRASIL
+  city: BRASILIA
+  branch: DEPTO. DE OPERACOES INTERNACIONAIS
+BCBRBRDFBSA:
+  institution: BANCO CENTRAL DO BRASIL
+  city: BRASILIA
+  branch: SEDE
+BCBRBRDFSNC:
+  institution: BANCO CENTRAL DO BRASIL
+  city: BRASILIA
+  branch: SISTEMA NACIONAL DE CAMBIO
+BCBRBRDF:
+  institution: BANCO CENTRAL DO BRASIL
+  city: BRASILIA
+  branch: ''
+BCBRBRDFRJO:
+  institution: BANCO CENTRAL DO BRASIL
+  city: RIO DE JANEIRO
+  branch: ''
+BCBRBRDFSPO:
+  institution: BANCO CENTRAL DO BRASIL
+  city: SAO PAULO
+  branch: ''
+CITIBRBR:
+  institution: BANCO CITIBANK SA
+  city: SAO PAULO
+  branch: ''
+BKCOBRSP:
+  institution: BANCO CONFIDENCE DE CAMBIO SA
+  city: SAO PAULO
+  branch: ''
+BCSIBRRS:
+  institution: BANCO COOPERATIVO SICREDI SA BANSICREDI
+  city: PORTO ALEGRE
+  branch: ''
+BAGBBRSP:
+  institution: BANCO CREDIT AGRICOLE BRASIL SA
+  city: SAO PAULO
+  branch: ''
+AMABBRAB:
+  institution: BANCO DA AMAZONIA S.A.
+  city: BELEM
+  branch: ''
+DAYCBRSP:
+  institution: BANCO DAYCOVAL S/A
+  city: SAO PAULO
+  branch: ''
+BIGABRRJHGF:
+  institution: BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.
+  city: SAO PAULO
+  branch: HEDGING GRIFFO
+BIGABRRJ:
+  institution: BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.
+  city: SAO PAULO
+  branch: ''
+BIGABRRJSPO:
+  institution: BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.
+  city: SAO PAULO
+  branch: ''
+NACNBRSPRJO:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: RIO DE JANEIRO
+  branch: SUCURSAL RIO DE JANEIRO
+NACNBRSP:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SAO PAULO
+  branch: SUCURSAL SAN PAULO
+PRBABRSP:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: SAO PAULO
+  branch: ''
+BROUBRSP:
+  institution: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  city: SAO PAULO
+  branch: ''
+BOTKBRSX:
+  institution: BANCO DE TOKYO MITSUBISHI UFJ BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+BRASBRRJBLM:
+  institution: BANCO DO BRASIL S.A.
+  city: BELEM
+  branch: GECEX BELEM
+BRASBRRJBHE:
+  institution: BANCO DO BRASIL S.A.
+  city: BELO HORIZONTE
+  branch: 'GECEX BELO HORIZONTE '
+BRASBRRJBNU:
+  institution: BANCO DO BRASIL S.A.
+  city: BLUMENAU
+  branch: GECEX BLUMENAU
+BRASBRRJBSA:
+  institution: BANCO DO BRASIL S.A.
+  city: BRASILIA
+  branch: 'GECEX BRASILIA '
+BRASBRRJPPC:
+  institution: BANCO DO BRASIL S.A.
+  city: BRASILIA
+  branch: PREPAID CARD DICAR
+BRASBRRJSUP:
+  institution: BANCO DO BRASIL S.A.
+  city: BRASILIA
+  branch: S.W.I.F.T. SUPPORT INTERFACE/INFRASTRUCTURE
+BRASBRRJGFN:
+  institution: BANCO DO BRASIL S.A.
+  city: BRASILIA
+  branch: SWIFT FOR CORPORATES – DICOM
+BRASBRRJ:
+  institution: BANCO DO BRASIL S.A.
+  city: BRASILIA
+  branch: ''
+BRASBRRJCAS:
+  institution: BANCO DO BRASIL S.A.
+  city: CAMPINAS
+  branch: GECEX CAMPINAS
+BRASBRRJCSL:
+  institution: BANCO DO BRASIL S.A.
+  city: CAXIAS DO SUL
+  branch: GECEX CAXIAS DO SUL
+BRASBRRJCTA:
+  institution: BANCO DO BRASIL S.A.
+  city: CURITIBA
+  branch: GECEX CURITIBA
+BRASBRRJFLA:
+  institution: BANCO DO BRASIL S.A.
+  city: FORTALEZA
+  branch: GECEX FORTALEZA
+BRASBRRJMNS:
+  institution: BANCO DO BRASIL S.A.
+  city: MANAUS
+  branch: GECEX MANAUS
+BRASBRRJPAE:
+  institution: BANCO DO BRASIL S.A.
+  city: PORTO ALEGRE
+  branch: GECEX PORTO ALEGRE
+BRASBRRJRCE:
+  institution: BANCO DO BRASIL S.A.
+  city: RECIFE
+  branch: GECEX RECIFE
+BRASBRRJRPO:
+  institution: BANCO DO BRASIL S.A.
+  city: RIBEIRAO PRETO
+  branch: GECEX RIBEIRAO PRETO
+BRASBRRJCGR:
+  institution: BANCO DO BRASIL S.A.
+  city: RIO DE JANEIRO
+  branch: ACCOUNT RECONCILIATION AND STATEMENTS COGER
+BRASBRRJRJ1:
+  institution: BANCO DO BRASIL S.A.
+  city: RIO DE JANEIRO
+  branch: ACCOUNT RECONCILIATION AND STATEMENTS
+BRASBRRJADR:
+  institution: BANCO DO BRASIL S.A.
+  city: RIO DE JANEIRO
+  branch: 'ADR AMERICAN DEPOSITARY RECEIPTS DIMEC '
+BRASBRRJRJO:
+  institution: BANCO DO BRASIL S.A.
+  city: RIO DE JANEIRO
+  branch: GECEX RIO DE JANEIRO
+BRASBRRJRJ3:
+  institution: BANCO DO BRASIL S.A.
+  city: RIO DE JANEIRO
+  branch: INTERNACIONAL CASH MANAGEMENT AND FOREIGN EXCHANGE DIFIN/DIMEC
+BRASBRRJSDR:
+  institution: BANCO DO BRASIL S.A.
+  city: SALVADOR
+  branch: GECEX SALVADOR
+BRASBRRJIBR:
+  institution: BANCO DO BRASIL S.A.
+  city: SAO PAULO
+  branch: FINANCIAL INSTITUTIONS DIRIN
+BRASBRRJSBO:
+  institution: BANCO DO BRASIL S.A.
+  city: SAO PAULO
+  branch: GECEX SAO PAULO I
+BRASBRRJSPO:
+  institution: BANCO DO BRASIL S.A.
+  city: SAO PAULO
+  branch: GECEX SAO PAULO II
+BRASBRRJOCO:
+  institution: BANCO DO BRASIL S.A.
+  city: SAO PAULO
+  branch: GECEX SAO PAULO III
+BRASBRRJVTA:
+  institution: BANCO DO BRASIL S.A.
+  city: VITORIA
+  branch: GECEX VITORIA
+BRGSBRRSPAE:
+  institution: BANCO DO ESTADO DO RIO GRANDE DO SUL S/A
+  city: PORTO ALEGRE
+  branch: HEAD OFFICE
+BRGSBRRS:
+  institution: BANCO DO ESTADO DO RIO GRANDE DO SUL S/A
+  city: PORTO ALEGRE
+  branch: ''
+BNBRBRCFBHE:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: BELO HORIZONTE
+  branch: ''
+BNBRBRCF:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: FORTALEZA
+  branch: HEAD OFFICE
+BNBRBRCFFLA:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: FORTALEZA
+  branch: ''
+BNBRBRCFMCO:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: MACEIO
+  branch: ''
+BNBRBRCFNTL:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: NATAL
+  branch: ''
+BNBRBRCFRCE:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: RECIFE
+  branch: ''
+BNBRBRCFRJO:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: RIO DE JANEIRO
+  branch: ''
+BNBRBRCFSDR:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: SALVADOR
+  branch: ''
+BNBRBRCFSPO:
+  institution: BANCO DO NORDESTE DO BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+FIBIBRSP:
+  institution: BANCO FIBRA S.A.
+  city: SAO PAULO
+  branch: ''
+BIBRBRSP:
+  institution: BANCO INDUSTRIAL DO BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+BICBBRSP:
+  institution: BANCO INDUSTRIAL E COMERCIAL S.A. BICBANCO
+  city: SAO PAULO
+  branch: ''
+IDVLBRSP:
+  institution: BANCO INDUSVAL S/A
+  city: SAO PAULO
+  branch: ''
+ICAPBRSP:
+  institution: BANCO INTERCAP SA
+  city: SAO PAULO
+  branch: ''
+CBBABRSPBHE:
+  institution: BANCO ITAU BBA S.A.
+  city: BELO HORIZONTE
+  branch: BELO HORIZONTE BRANCH
+CBBABRSPCAS:
+  institution: BANCO ITAU BBA S.A.
+  city: CAMPINAS
+  branch: CAMPINAS BRANCH
+CBBABRSPPAE:
+  institution: BANCO ITAU BBA S.A.
+  city: PORTO ALEGRE
+  branch: PORTO ALEGRE BRANCH
+CBBABRSPRJO:
+  institution: BANCO ITAU BBA S.A.
+  city: RIO DE JANEIRO
+  branch: RIO DE JANEIRO BRANCH
+CBBABRSP:
+  institution: BANCO ITAU BBA S.A.
+  city: SAO PAULO
+  branch: ''
+CHASBRSPDCC:
+  institution: BANCO JP MORGAN S.A.
+  city: SAO PAULO
+  branch: DIRECT CUSTODY CLEARING
+CHASBRSPGCC:
+  institution: BANCO JP MORGAN S.A.
+  city: SAO PAULO
+  branch: GLOBAL CORE CAPABILITIES
+CHASBRSPTSM:
+  institution: BANCO JP MORGAN S.A.
+  city: SAO PAULO
+  branch: JPMORGAN TS MANAGEMENT
+CHASBRSPKEY:
+  institution: BANCO JP MORGAN S.A.
+  city: SAO PAULO
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASBRSP:
+  institution: BANCO JP MORGAN S.A.
+  city: SAO PAULO
+  branch: ''
+KODBBRSP:
+  institution: BANCO KDB DO BRASIL S.A.
+  city: SAO PAULO
+  branch: ''
+KOEXBRSP:
+  institution: BANCO KEB DO BRASIL S.A.
+  city: SAO PAULO
+  branch: ''
+BLBCBRSP:
+  institution: BANCO LUSO BRASILEIRO S.A.
+  city: SAO PAULO
+  branch: ''
+BMAXBRRJ:
+  institution: BANCO MAXIMA
+  city: RIO DE JANEIRO
+  branch: ''
+BMBRBRRB:
+  institution: BANCO MERCANTIL DO BRASIL S.A.
+  city: BELO HORIZONTE
+  branch: ''
+MLBOBRSXTRA:
+  institution: BANCO MERRILL LYNCH DE INVESTIMENTOS S.A.
+  city: SAO PAULO
+  branch: TRADES
+MLBOBRSP:
+  institution: BANCO MERRILL LYNCH DE INVESTIMENTOS S.A.
+  city: SAO PAULO
+  branch: ''
+MLBOBRSX:
+  institution: BANCO MERRILL LYNCH DE INVESTIMENTOS S.A.
+  city: SAO PAULO
+  branch: ''
+MODABRRJ:
+  institution: BANCO MODAL S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+MSDWBRSP:
+  institution: BANCO MORGAN STANLEY DEAN WITTER S.A.
+  city: SAO PAULO
+  branch: ''
+MSDWBRSPTSY:
+  institution: BANCO MORGAN STANLEY DEAN WITTER S.A.
+  city: SAO PAULO
+  branch: ''
+NACDBRRJ:
+  institution: BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL BNDES
+  city: RIO DE JANEIRO
+  branch: ''
+BJBSBRSP:
+  institution: BANCO ORIGINAL DO AGRONEGOCIO S.A.
+  city: SAO PAULO
+  branch: ''
+BORIBRSP:
+  institution: BANCO ORIGINAL S.A.
+  city: SAO PAULO
+  branch: ''
+OURIBRSP:
+  institution: BANCO OURINVEST S.A
+  city: SAO PAULO
+  branch: ''
+BPNMBRSP:
+  institution: BANCO PANAMERICANO S.A.
+  city: SAO PAULO
+  branch: ''
+PAULBRSP:
+  institution: BANCO PAULISTA S.A.
+  city: SAO PAULO
+  branch: ''
+PBBRBRSP:
+  institution: BANCO PINE S.A.
+  city: SAO PAULO
+  branch: ''
+RABOBRSP:
+  institution: BANCO RABOBANK INTERNATIONAL BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+RENDBRSP:
+  institution: BANCO RENDIMENTO S/A
+  city: SAO PAULO
+  branch: ''
+RUBABRRB:
+  institution: BANCO RURAL S.A.
+  city: BELO HORIZONTE
+  branch: ''
+RUBABRRBSIM:
+  institution: BANCO RURAL S.A.
+  city: BELO HORIZONTE
+  branch: ''
+SAFRBRSPRJO:
+  institution: BANCO SAFRA S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+SAFRBRSP:
+  institution: BANCO SAFRA S.A.
+  city: SAO PAULO
+  branch: HEAD OFFICE
+SAFRBRSPSPO:
+  institution: BANCO SAFRA S.A.
+  city: SAO PAULO
+  branch: ''
+BSCHBRSP:
+  institution: BANCO SANTANDER (BRASIL) S.A.
+  city: SAO PAULO
+  branch: HEAD OFFICE
+BSCHBRSPSPO:
+  institution: BANCO SANTANDER (BRASIL) S.A.
+  city: SAO PAULO
+  branch: SAO PAULO BRANCH
+BSCHBRSPSEC:
+  institution: BANCO SANTANDER (BRASIL) S.A.
+  city: SAO PAULO
+  branch: SECURITIES DEPARTMENT
+BSCHBRSPGEB:
+  institution: BANCO SANTANDER (BRASIL) S.A.
+  city: SAO PAULO
+  branch: ''
+BSCHBRSPBKR:
+  institution: BANCO SANTANDER (BRASIL) S.A.
+  city: SAO PAULO
+  branch: ''
+SCHABRSP:
+  institution: BANCO SCHAHIN S/A
+  city: SAO PAULO
+  branch: ''
+BSOGBRSP:
+  institution: BANCO SOCIETE GENERALE BRASIL S/A
+  city: SAO PAULO
+  branch: ''
+BSBSBRSP:
+  institution: BANCO SOFISA S.A.
+  city: SAO PAULO
+  branch: ''
+SBLLBRSP:
+  institution: BANCO STANDARD DE INVESTIMENTOS S.A.
+  city: SAO PAULO
+  branch: ''
+SUBRBRSP:
+  institution: BANCO SUMITOMO MITSUI BRASILEIRO S.A.
+  city: SAO PAULO
+  branch: ''
+TOPZBRRS:
+  institution: BANCO TOPAZIO S.A.
+  city: PORTO ALEGRE
+  branch: ''
+BAVOBRSP:
+  institution: BANCO VOTORANTIM S.A.
+  city: SAO PAULO
+  branch: ''
+BAVOBRSPCST:
+  institution: BANCO VOTORANTIM S.A.
+  city: SAO PAULO
+  branch: ''
+WELABRSP:
+  institution: BANCO WESTLB DO BRASIL S.A.
+  city: SAO PAULO
+  branch: ''
+HVBKBRSP:
+  institution: BANCO WOORI BANK DO BRASIL
+  city: SAO PAULO
+  branch: ''
+BEESBRRJ:
+  institution: BANESTES S.A. BANCO DO ESTADO DO ESPIRITO SANTO
+  city: VITORIA
+  branch: ''
+BNIFBRRJ:
+  institution: BANIF BANCO INTERNACIONAL DO FUNCHAL (BRASIL) SA
+  city: SAO PAULO
+  branch: ''
+BKCHBRSP:
+  institution: BANK OF CHINA BRASIL S.A.
+  city: SAO PAULO
+  branch: ''
+BBMIBRRJ:
+  institution: BBM I GESTAO DE RECURSOS LTDA
+  city: RIO DE JANEIRO
+  branch: ''
+BDMGBRRB:
+  institution: BDMG BANCO DE DESENVOLVIMENTO DE MINAS GERAIS
+  city: BELO HORIZONTE
+  branch: ''
+BESBBRSPBES:
+  institution: BES INVESTIMENTO DO BRASIL S/A BANCO DE INVESTIMENTO
+  city: SAO PAULO
+  branch: BES SECURITIES
+BESBBRSP:
+  institution: BES INVESTIMENTO DO BRASIL S/A BANCO DE INVESTIMENTO
+  city: SAO PAULO
+  branch: ''
+XBMFBRBRCRD:
+  institution: BMF CAMARA DE DERIVATIVOS
+  city: SAO PAULO
+  branch: DIRETORIA DE LIQUIDACAO E CUSTODIA
+XBMFBRBR:
+  institution: BMF CAMARA DE DERIVATIVOS
+  city: SAO PAULO
+  branch: ''
+BNYMBRRJ:
+  institution: BNY MELLON SERVICOS FINANCEIROS DTVM SA
+  city: RIO DE JANEIRO
+  branch: ''
+XBMFBRSPDBL:
+  institution: BOLSA DE MERCADORIAS E FUTUROS BM E F
+  city: SAO PAULO
+  branch: DEPARTAMENTO DE CUSTODIA
+XBMFBRSPCRD:
+  institution: BOLSA DE MERCADORIAS E FUTUROS BM E F
+  city: SAO PAULO
+  branch: DIRETORIA DE LIQUIDACAO E CUSTODIA
+XBMFBRSP:
+  institution: BOLSA DE MERCADORIAS E FUTUROS BM E F
+  city: SAO PAULO
+  branch: ''
+BPBMBRSP:
+  institution: BPN BRASIL BANCO MULTIPLO S.A.
+  city: SAO PAULO
+  branch: ''
+BBDMBRSP:
+  institution: BRAM BRADESCO ASSET MANAGEMENT
+  city: SAO PAULO
+  branch: ''
+BRBSBRDF:
+  institution: BRB BANCO DE BRASILIA S.A.
+  city: BRASILIA
+  branch: ''
+CEFXBRSP:
+  institution: CAIXA ECONOMICA FEDERAL
+  city: SAO PAULO
+  branch: ''
+CCIPBRSP:
+  institution: CAMARA INTERBANCARIA DE PAGAMENTOS CIP
+  city: SAO PAULO
+  branch: ''
+CITIBRSPRJO:
+  institution: CITIBANK N.A.
+  city: RIO DE JANEIRO
+  branch: ''
+CITIBRSPHOF:
+  institution: CITIBANK N.A.
+  city: SAO PAULO
+  branch: HEAD OFFICE
+CITIBRSPSEC:
+  institution: CITIBANK N.A.
+  city: SAO PAULO
+  branch: INTERNATIONAL SECURITY
+CITIBRSP:
+  institution: CITIBANK N.A.
+  city: SAO PAULO
+  branch: ''
+CITIBRSX:
+  institution: CITIBANK N.A.
+  city: SAO PAULO
+  branch: ''
+CLCBBRRJ:
+  institution: COMPANHIA BRASILEIRA DE LIQUIDACAO E CUSTODIA
+  city: SAO PAULO
+  branch: ''
+DEUTBRSPRJO:
+  institution: DEUTSCHE BANK S.A. BANCO ALEMAO
+  city: RIO DE JANEIRO
+  branch: ''
+DEUTBRSPSPO:
+  institution: DEUTSCHE BANK S.A. BANCO ALEMAO
+  city: SAO PAULO
+  branch: ''
+DEUTBRSP:
+  institution: DEUTSCHE BANK S.A. BANCO ALEMAO
+  city: SAO PAULO
+  branch: ''
+BEXSBRSP:
+  institution: DIDIER LEVY BANCO DE CAMBIO S/A
+  city: SAO PAULO
+  branch: ''
+ESTRBRRJ:
+  institution: ESTRATEGIA INVESTIMENTOS S/A CVC
+  city: RIO DE JANEIRO
+  branch: ''
+GOLDBRSP:
+  institution: GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.
+  city: SAO PAULO
+  branch: ''
+GSBCBRSP:
+  institution: GOLDMAN SACHS DO BRASIL CORRETORA DE VALORES MOBILIARIOS LTDA
+  city: SAO PAULO
+  branch: ''
+BCBBBRPRBLM:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: BELEM
+  branch: ''
+BCBBBRPRBHE:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: BELO HORIZONTE
+  branch: ''
+BCBBBRPRBNU:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: BLUMENAU
+  branch: ''
+BCBBBRPRCAS:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: CAMPINAS
+  branch: ''
+BCBBBRPRFDS:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: CURITIBA
+  branch: HSS FUNDS
+BCBBBRPRTSY:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: CURITIBA
+  branch: TREASURY OPERATIONS
+BCBBBRPRCTA:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: CURITIBA
+  branch: ''
+BCBBBRPRFLA:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: FORTALEZA
+  branch: ''
+BCBBBRPRJVE:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: JOINVILLE
+  branch: ''
+BCBBBRPRMNS:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: MANAUS
+  branch: ''
+BCBBBRPRPNG:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: PARANAGUA
+  branch: ''
+BCBBBRPRPAE:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: PORTO ALEGRE
+  branch: ''
+BCBBBRPRRCE:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: RECIFE
+  branch: ''
+BCBBBRPRRJO:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: RIO DE JANEIRO
+  branch: ''
+BCBBBRPRSDR:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SALVADOR
+  branch: ''
+BCBBBRPRSTS:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SANTOS
+  branch: ''
+BCBBBRPRCGB:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: GLOBAL CUSTODY
+BCBBBRPR:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: HEAD OFFICE
+BCBBBRPROFS:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: OFFSHORE FUNDS
+BCBBBRPRSPO:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: ''
+BCBBBRPRNET:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: ''
+BCBBBRPRCOR:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: ''
+BCBBBRPRVTA:
+  institution: HSBC BANK BRASIL S.A. BANCO MULTIPLO
+  city: VITORIA
+  branch: ''
+ICATBRRJ:
+  institution: ICATU DTVM LTDA.
+  city: RIO DE JANEIRO
+  branch: ''
+ICBKBRSP:
+  institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA(BRAZIL)
+  city: SAO PAULO
+  branch: ''
+INGBBRSPATA:
+  institution: ING BANK N.V.
+  city: SAO PAULO
+  branch: ASSET TRADING ADMINISTRATION
+INGBBRSP:
+  institution: ING BANK N.V.
+  city: SAO PAULO
+  branch: ''
+ITAUBRSPBHE:
+  institution: ITAU UNIBANCO S/A
+  city: BELO HORIZONTE
+  branch: ''
+ITAUBRSPBNU:
+  institution: ITAU UNIBANCO S/A
+  city: BLUMENAU
+  branch: ''
+ITAUBRSPCAS:
+  institution: ITAU UNIBANCO S/A
+  city: CAMPINAS
+  branch: ''
+ITAUBRSPCTA:
+  institution: ITAU UNIBANCO S/A
+  city: CURITIBA
+  branch: ''
+ITAUBRSPJVE:
+  institution: ITAU UNIBANCO S/A
+  city: JOINVILLE
+  branch: ''
+ITAUBRSPNHO:
+  institution: ITAU UNIBANCO S/A
+  city: NOVO HAMBURGO
+  branch: ''
+ITAUBRSPPAE:
+  institution: ITAU UNIBANCO S/A
+  city: PORTO ALEGRE
+  branch: ''
+ITAUBRSPRJO:
+  institution: ITAU UNIBANCO S/A
+  city: RIO DE JANEIRO
+  branch: ''
+ITAUBRSPADR:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: ASSESSORIA ADR
+ITAUBRSPLOC:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: CUSTODIA LOCAL
+ITAUBRSPISS:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: GERENCIA DE FUNDOS E CARTEIRAS INTERNACIONAL
+ITAUBRSPINT:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: GERENCIA DE FUNDOS E CARTEIRAS INTERNACIONAL
+ITAUBRSP:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: HEAD OFFICE
+ITAUBRSPSAO:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: SUPERINTENDENCIA ADMINISTRATIVA OPERACIONAL
+ITAUBRSPSPO:
+  institution: ITAU UNIBANCO S/A
+  city: SAO PAULO
+  branch: ''
+DABEBRSXIBA:
+  institution: MERCEDES BENZ DO BRASIL LTDA
+  city: SAO BERNARDO DO CAMPO
+  branch: INDUSTRIAL ACCOUNTS
+DABEBRSX:
+  institution: MERCEDES BENZ DO BRASIL LTDA
+  city: SAO BERNARDO DO CAMPO
+  branch: ''
+COMEBRRS:
+  institution: NBC BANK BRASIL SA BANK MULTIPLO
+  city: PORTO ALEGRE
+  branch: ''
+NESNBRSX:
+  institution: NESTLE BRAZIL LTDA
+  city: SAO PAULO
+  branch: ''
+PEBRBRRJ001:
+  institution: PETROLEO BRASILEIRO S.A. PETROBRAS
+  city: RIO DE JANEIRO
+  branch: PETROBRAS BOLIVIA
+PEBRBRRJ:
+  institution: PETROLEO BRASILEIRO S.A. PETROBRAS
+  city: RIO DE JANEIRO
+  branch: ''
+NOSCBRSP:
+  institution: SCOTIABANK BRASIL S.A. BANCO MULTIPLO
+  city: SAO PAULO
+  branch: ''
+SCBLBRSP:
+  institution: STANDARD CHARTERED BANK (BRASIL) S.A. BANCO DE INVESTIMENTO
+  city: SAO PAULO
+  branch: ''
+DATRBRSX:
+  institution: STAREXPORT TRADING S.A.
+  city: SAO BERNARDO DO CAMPO
+  branch: ''
+VAEEBRRJ:
+  institution: VALE S.A.
+  city: RIO DE JANEIRO
+  branch: ''
+VCTMBRSP:
+  institution: VOTORANTIM CORRETORA DE TIT E VAL MOB LTDA
+  city: SAO PAULO
+  branch: ''

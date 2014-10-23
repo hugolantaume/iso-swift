@@ -1,0 +1,210 @@
+---
+ANILJESHTSY:
+  institution: ABBEY NATIONAL INTERNATIONAL LIMITED
+  city: ST. HELIER
+  branch: TREASURY OPERATIONS
+ANILJESH:
+  institution: ABBEY NATIONAL INTERNATIONAL LIMITED
+  city: ST. HELIER
+  branch: ''
+ABNAJESH:
+  institution: ABN AMRO BANK N.V. JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+AIBKJESH:
+  institution: AIB BANK (CI) LIMITED
+  city: ST. HELIER
+  branch: ''
+BKIDJESH:
+  institution: BANK OF INDIA, JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+BNPAJESH:
+  institution: BANQUE NATIONALE DE PARIS
+  city: ST. HELIER
+  branch: ''
+BARCJESX:
+  institution: BARCLAYS BANK PLC FIDUCIARY DEPOSIT BUSINESS
+  city: ST. HELIER
+  branch: ''
+BARCJESA:
+  institution: BARCLAYS PRIVATE CLIENTS INTERNATIONAL LIMITED, JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+BEDLJESH:
+  institution: BEDELL TRUST COMPANY LIMITED
+  city: ST. HELIER
+  branch: ''
+BPPBJESH:
+  institution: BNP PARIBAS (SUISSE) SA JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+PARBJESHISI:
+  institution: BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH
+  city: ST. HELIER
+  branch: GLOBAL CUSTODY
+PARBJESHFDA:
+  institution: BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH
+  city: ST. HELIER
+  branch: JERSEY
+PARBJESH:
+  institution: BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+CITIJEJX:
+  institution: CITIBANK (CHANNEL ISLANDS) LIMITED
+  city: ST. HELIER
+  branch: ''
+CITIJESXEFX:
+  institution: CITIBANK N.A.
+  city: ST. HELIER
+  branch: CITIBANK JERSEY EMFX CONFIRMATIONS
+CITIJESXLPN:
+  institution: CITIBANK N.A.
+  city: ST. HELIER
+  branch: PRIVATE BANKING GROUP
+CITIJESX:
+  institution: CITIBANK N.A.
+  city: ST. HELIER
+  branch: ''
+CITIJEHX:
+  institution: CITICORP BANKING CORPORATION
+  city: ST. HELIER
+  branch: ''
+MGCOJESH:
+  institution: DEUTSCHE BANK INTERNATIONAL LIMITED
+  city: ST. HELIER
+  branch: ''
+EFGBJESH:
+  institution: EFG PRIVATE BANK (C.I.) LT, JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+HAWKJESH:
+  institution: HAWKSFORD TRUST COMPANY JERSEY LIMITED
+  city: ST. HELIER
+  branch: ''
+MIDLJESH:
+  institution: HSBC BANK INTERNATIONAL LIMITED
+  city: ST. HELIER
+  branch: ''
+MIDLJESH01A:
+  institution: HSBC BANK INTERNATIONAL LIMITED
+  city: ST. HELIER
+  branch: ''
+HSBCJESX:
+  institution: HSBC PRIVATE BANK (C.I.) LIMITED, JERSEY BRANCH (FORMERLY HSBC PRIVATE
+    BANK (JERSEY) LIMITED)
+  city: ST. HELIER
+  branch: ''
+CHASJESXENQ:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ST. HELIER
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+CHASJESXKEY:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ST. HELIER
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASJESX:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ST. HELIER
+  branch: ''
+LOYDJESH:
+  institution: LLOYDS TSB BANK PLC, JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+HSAMJESH:
+  institution: LLOYDS TSB OFFSHORE LTD
+  city: ST. HELIER
+  branch: ''
+MLPMJESXHLD:
+  institution: MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: HLD
+MLPMJESXSTP:
+  institution: MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: STP
+MLPMJESX:
+  institution: MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: ''
+MLPMJESXCIT:
+  institution: MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: ''
+MLPMJESXFST:
+  institution: MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: ''
+MTCSJESH:
+  institution: MINERVA TRUST AND CORPORATE SERVICES LIMITED
+  city: ST. HELIER
+  branch: ''
+MSJYJESH:
+  institution: MOORE STEPHENS
+  city: ST. HELIER
+  branch: ''
+RBOSJESH:
+  institution: NATWEST-JERSEY
+  city: ST. HELIER
+  branch: ''
+NAUTJESH:
+  institution: NAUTILUS TRUST COMPANY LIMITED
+  city: ST. HELIER
+  branch: ''
+RFLCJESX:
+  institution: NEDBANK PRIVATE WEALTH LTD
+  city: ST. HELIER
+  branch: ''
+GMNYJESH:
+  institution: NET-GOLD SERVICES LTD
+  city: ST. HELIER
+  branch: ''
+PERLJESH:
+  institution: PERSHING (CHANNEL ISLANDS) LIMITED
+  city: ST. HELIER
+  branch: ''
+RBOSJESX:
+  institution: ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE
+  city: ST. HELIER
+  branch: ''
+HAMBJESX:
+  institution: SG HAMBROS BANK (CHANNEL ISLANDS)
+  city: ST. HELIER
+  branch: ''
+SBICJESH:
+  institution: STANDARD BANK JERSEY LTD.
+  city: ST. HELIER
+  branch: ''
+SCBLJESH:
+  institution: STANDARD CHARTERED BANK (CI) LTD.
+  city: ST. HELIER
+  branch: ''
+SCBLJEJH:
+  institution: STANDARD CHARTERED BANK JERSEY, CHANNEL ISLANDS BRANCH
+  city: ST. HELIER
+  branch: ''
+SBOSJESH:
+  institution: STATE STREET BANK AND TRUST COMPANY
+  city: ST. HELIER
+  branch: ''
+SDTSJESH:
+  institution: STONEHAGE DEALING AND TREASURY SERVICES (JERSEY) LTD
+  city: ST. HELIER
+  branch: ''
+SFSHJESH:
+  institution: STONEHAGE TRUST HOLDINGS (JERSEY) LIMITED
+  city: ST. HELIER
+  branch: ''
+UBSWJESH:
+  institution: UBS AG JERSEY BRANCH
+  city: ST. HELIER
+  branch: ''
+UBPGJESX:
+  institution: UNION BANCAIRE PRIVEE, UBP
+  city: ST. HELIER
+  branch: ''
+VISTJESH:
+  institution: VISTRA (JERSEY) LIMITED
+  city: ST. HELIER
+  branch: ''

@@ -1,0 +1,377 @@
+---
+BBDEARBA:
+  institution: BANCO BRADESCO ARGENTINA S/A
+  city: BUENOS AIRES
+  branch: ''
+BCRAARBA:
+  institution: BANCO CENTRAL DE LA REPUBLICA ARGENTINA
+  city: BUENOS AIRES
+  branch: ''
+CMFBARBA:
+  institution: BANCO CMF S.A.
+  city: BUENOS AIRES
+  branch: ''
+QUILARBA:
+  institution: BANCO COMAFI S.A.
+  city: BUENOS AIRES
+  branch: ''
+BCOOARBA:
+  institution: BANCO CREDICOOP COOPERATIVO LIMITADO
+  city: BUENOS AIRES
+  branch: ''
+BFSAARBF:
+  institution: BANCO DE FORMOSA S.A.
+  city: FORMOSA
+  branch: ''
+GABAARBA:
+  institution: BANCO DE GALICIA Y BUENOS AIRES
+  city: BUENOS AIRES
+  branch: ''
+BICXARBA:
+  institution: BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.
+  city: BUENOS AIRES
+  branch: ''
+BACIARBA:
+  institution: BANCO DE LA CIUDAD DE BUENOS AIRES
+  city: BUENOS AIRES
+  branch: ''
+NACNARBABAH:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: BAHIA BLANCA
+  branch: BAHIA BLANCA BRANCH
+NACNARBACCL:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: BUENOS AIRES
+  branch: CASA CENTRAL
+NACNARBA:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: BUENOS AIRES
+  branch: ''
+NACNARBACON:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: CONCORDIA
+  branch: CONCORDIA BRANCH
+NACNARBACOR:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: CORDOBA
+  branch: CORDOBA BRANCH
+NACNARBACTS:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: CORRIENTES
+  branch: CORRIENTES BRANCH
+NACNARBAMPL:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: MAR DEL PLATA
+  branch: MAR DEL PLATA BRANCH
+NACNARBAMEN:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: MENDOZA
+  branch: MENDOZA BRANCH
+NACNARBANEU:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: NEUQUEN
+  branch: NEUQUEN BRANCH
+NACNARBAPER:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: PERGAMINO
+  branch: PERGAMINO BRANCH
+NACNARBAPOS:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: POSADAS
+  branch: POSADAS BRANCH
+NACNARBARAF:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: RAFAELA
+  branch: RAFAELA BRANCH
+NACNARBAREC:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: RECONQUISTA
+  branch: RECONQUISTA BRANCH
+NACNARBARCU:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: RIO CUARTO
+  branch: RIO CUARTO BRANCH
+NACNARBAROS:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: ROSARIO
+  branch: ROSARIO BRANCH
+NACNARBASAL:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SALTA
+  branch: SALTA BRANCH
+NACNARBASJU:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SAN JUAN
+  branch: SAN JUAN BRANCH
+NACNARBASMT:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SAN MIGUEL DE TUCUMAN
+  branch: SAN MIGUEL DE TUCUMAN BRANCH
+NACNARBASRA:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SAN RAFAEL
+  branch: SAN RAFAEL BRANCH
+NACNARBASFE:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: SANTA FE
+  branch: SANTA FE BRANCH
+NACNARBAVMA:
+  institution: BANCO DE LA NACION ARGENTINA
+  city: VILLA MARIA
+  branch: VILLA MARIA BRANCH
+PAMPARBA:
+  institution: BANCO DE LA PAMPA S.E.M.
+  city: BUENOS AIRES
+  branch: ''
+PAMPARBA200:
+  institution: BANCO DE LA PAMPA S.E.M.
+  city: GENERAL PICO
+  branch: ''
+PAMPARBA001:
+  institution: BANCO DE LA PAMPA S.E.M.
+  city: SANTA ROSA
+  branch: ''
+PRBAARBABAH:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: BAHIA BLANCA
+  branch: BAHIA BLANCA BRANCH
+PRBAARBADIV:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: BUENOS AIRES
+  branch: DEPARTAMENTO DE CONTABILIDAD INTERNATIONAL BRANCH
+PRBAARBA:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: BUENOS AIRES
+  branch: ''
+PRBAARBALPT:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: LA PLATA
+  branch: LA PLATA HOUSE
+PRBAARBAMP1:
+  institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  city: MAR DEL PLATA
+  branch: ''
+CORDARBA:
+  institution: BANCO DE LA PROVINCIA DE CORDOBA
+  city: BUENOS AIRES
+  branch: ''
+CORDARBACOR:
+  institution: BANCO DE LA PROVINCIA DE CORDOBA
+  city: CORDOBA
+  branch: GERENCIA DE COMERCIO EXTERIOR
+BPNEARBA:
+  institution: BANCO DE LA PROVINCIA DEL NEUQUEN S.A.
+  city: BUENOS AIRES
+  branch: ''
+BROUARBA:
+  institution: BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY
+  city: BUENOS AIRES
+  branch: ''
+BSJUARBJ:
+  institution: BANCO DE SAN JUAN SA
+  city: SAN JUAN
+  branch: ''
+BPSCARBA:
+  institution: BANCO DE SANTA CRUZ S A
+  city: RIO GALLEGOS
+  branch: ''
+BSTIARBA:
+  institution: BANCO DE SERVICIOS Y TRANSACCIONES SA
+  city: BUENOS AIRES
+  branch: ''
+BAVAARBA:
+  institution: BANCO DE VALORES
+  city: BUENOS AIRES
+  branch: ''
+BPCHARBA:
+  institution: BANCO DEL CHUBUT S.A.
+  city: BUENOS AIRES
+  branch: ''
+BDTUARBM:
+  institution: BANCO DEL TUCUMAN S.A.
+  city: SAN MIGUEL DE TUCUMAN
+  branch: ''
+BFSUARBA:
+  institution: BANCO FINANSUR S.A.
+  city: BUENOS AIRES
+  branch: ''
+BHIPARBA:
+  institution: BANCO HIPOTECARIO S.A.
+  city: BUENOS AIRES
+  branch: ''
+NBIAARBA:
+  institution: BANCO INDUSTRIAL S.A.
+  city: BUENOS AIRES
+  branch: ''
+BIINARBA:
+  institution: BANCO INTERFINANZAS S.A.
+  city: BUENOS AIRES
+  branch: ''
+ITAUARBA:
+  institution: BANCO ITAU ARGENTINA S.A.
+  city: BUENOS AIRES
+  branch: ''
+BOSUARBA:
+  institution: BANCO MACRO S.A.
+  city: BUENOS AIRES
+  branch: ''
+MARIARBA:
+  institution: BANCO MARIVA S.A.
+  city: BUENOS AIRES
+  branch: ''
+BMRDARBA:
+  institution: BANCO MERIDIAN S.A.
+  city: BUENOS AIRES
+  branch: ''
+MUNRARBR:
+  institution: BANCO MUNICIPAL DE ROSARIO
+  city: ROSARIO
+  branch: ''
+BSUDARBA:
+  institution: BANCO PATAGONIA S.A.
+  city: BUENOS AIRES
+  branch: ''
+BAPIARBA:
+  institution: BANCO PIANO S.A.
+  city: BUENOS AIRES
+  branch: ''
+TTFAARBA:
+  institution: BANCO PROVINCIA DE TIERRA DEL FUEGO
+  city: BUENOS AIRES
+  branch: ''
+BSAEARBA:
+  institution: BANCO SAENZ S.A.
+  city: BUENOS AIRES
+  branch: ''
+BSCHARBASSS:
+  institution: BANCO SANTANDER RIO S.A.
+  city: BUENOS AIRES
+  branch: SECURITIES SERVICES SYSTEM
+BSCHARBA:
+  institution: BANCO SANTANDER RIO S.A.
+  city: BUENOS AIRES
+  branch: ''
+BSUPARBAEXT:
+  institution: BANCO SUPERVIELLE
+  city: BUENOS AIRES
+  branch: DTO. COMERCIO EXTERIOR
+BSUPARBAFIN:
+  institution: BANCO SUPERVIELLE
+  city: BUENOS AIRES
+  branch: DTO. OPERACIONES DE MERCADO
+BSUPARBATIT:
+  institution: BANCO SUPERVIELLE
+  city: BUENOS AIRES
+  branch: DTO. OPERACIONES DE TITULOS
+BSUPARBADOC:
+  institution: BANCO SUPERVIELLE
+  city: BUENOS AIRES
+  branch: OPERACIONES CENTRALIZADAS
+BSUPARBA:
+  institution: BANCO SUPERVIELLE
+  city: BUENOS AIRES
+  branch: ''
+BOTKARBA:
+  institution: BANK OF TOKYO MITSUBISHI UFJ LTD. THE
+  city: BUENOS AIRES
+  branch: BUENOS AIRES BRANCH
+BFRPARBA:
+  institution: BBVA BANCO FRANCES S.A.
+  city: BUENOS AIRES
+  branch: ''
+BNPAARBA:
+  institution: BNP PARIBAS SUCCURSALE DE BUENOS AIRES
+  city: BUENOS AIRES
+  branch: ''
+CAVLARBA:
+  institution: CAJA DE VALORES S.A.
+  city: BUENOS AIRES
+  branch: ''
+COLUARBA:
+  institution: CAMBIO EXCURSIONES TURISMO COLUMBUS S.A.
+  city: BUENOS AIRES
+  branch: ''
+CITIARBA:
+  institution: CITIBANK N.A.
+  city: BUENOS AIRES
+  branch: ''
+DEUTARBA:
+  institution: DEUTSCHE BANK SA
+  city: BUENOS AIRES
+  branch: ''
+FXSAARBA:
+  institution: FOREXCAMBIO SA
+  city: BUENOS AIRES
+  branch: ''
+BACOARBARCM:
+  institution: HSBC BANK ARGENTINA SA
+  city: BUENOS AIRES
+  branch: CAPITAL MARKETS DEPARTMENT
+BACOARBA:
+  institution: HSBC BANK ARGENTINA SA
+  city: BUENOS AIRES
+  branch: ''
+SBSAARBAGCD:
+  institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.
+  city: BUENOS AIRES
+  branch: GLOBAL CUSTODY DEPARTMENT
+SBSAARBA:
+  institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.
+  city: BUENOS AIRES
+  branch: ''
+CHASARBATSS:
+  institution: JPMORGAN CHASE BANK N.A.
+  city: BUENOS AIRES
+  branch: N.A. SUCURSAL BUENOS AIRES – TREASURY SERVICES
+CHASARBAKEY:
+  institution: JPMORGAN CHASE BANK N.A.
+  city: BUENOS AIRES
+  branch: TEST KEY AND BKE ADMINISTRATION
+CHASARBA:
+  institution: JPMORGAN CHASE BANK N.A.
+  city: BUENOS AIRES
+  branch: ''
+MCFAARBA:
+  institution: METROPOLIS COMPANIA FINANCIERA S.A.
+  city: BUENOS AIRES
+  branch: ''
+MFCFARBA:
+  institution: MULTIFINANZAS COMPANIA FINANCIERA S.A.
+  city: BUENOS AIRES
+  branch: ''
+BERAARBA:
+  institution: NUEVO BANCO DE ENTRE RIOS S.A.
+  city: PARANA (ENTRE RIOS)
+  branch: ''
+BPSFARBA:
+  institution: NUEVO BANCO DE SANTA FE S.A.
+  city: BUENOS AIRES
+  branch: ''
+BPSFARBAA86:
+  institution: NUEVO BANCO DE SANTA FE S.A.
+  city: RIO GALLEGOS
+  branch: ''
+BPSFARBA000:
+  institution: NUEVO BANCO DE SANTA FE S.A.
+  city: ROSARIO
+  branch: ''
+BPSFARBAA45:
+  institution: NUEVO BANCO DE SANTA FE S.A.
+  city: SAN JUAN
+  branch: ''
+BPSFARBA500:
+  institution: NUEVO BANCO DE SANTA FE S.A.
+  city: SANTA FE
+  branch: ''
+BACHARBA:
+  institution: NUEVO BANCO DEL CHACO S.A.
+  city: BUENOS AIRES
+  branch: ''
+ABNAARBA:
+  institution: ROYAL BANK OF SCOTLAND NV (SUC ARGENTINA)
+  city: BUENOS AIRES
+  branch: ''
+GFTCARBA:
+  institution: TRANSCAMBIO S.A.
+  city: BUENOS AIRES
+  branch: ''

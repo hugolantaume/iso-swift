@@ -1,0 +1,229 @@
+---
+ABDIIQBA:
+  institution: ABU DHABI ISLAMIC BANK
+  city: BAGHDAD
+  branch: ''
+BTFHIQBA:
+  institution: AL BARAKA TURK KATILIM BANKASI A.S. ERBIL BRANCH
+  city: ARBIL
+  branch: ''
+RAFBIQBA:
+  institution: AL RAFIDAIN BANK
+  city: BAGHDAD
+  branch: ''
+AIIFIQBA:
+  institution: AL-BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE
+  city: BAGHDAD
+  branch: ''
+BHDAIQBA:
+  institution: AL-HUDA BANK
+  city: BAGHDAD
+  branch: ''
+IRAQIQBA:
+  institution: AL-IRAQIA FOR MONEY TRANSFER CO.
+  city: BAGHDAD
+  branch: ''
+AIBIIQBA:
+  institution: ASHUR INTERNATIONAL BANK FOR INVESTMENT
+  city: BAGHDAD
+  branch: ''
+ASYAIQBA:
+  institution: ASYA KATILIM BANKASI A.S. ARBIL BRANCH
+  city: ARBIL
+  branch: ''
+BABKIQBA:
+  institution: BABYLON BANK COMPANY
+  city: BAGHDAD
+  branch: ''
+BABIIQBA:
+  institution: BANK OF BAGHDAD
+  city: BAGHDAD
+  branch: ''
+MEDLIQBAARB:
+  institution: BANKMED SAL, IRAQ
+  city: ARBIL
+  branch: ''
+MEDLIQBA:
+  institution: BANKMED SAL, IRAQ
+  city: BAGHDAD
+  branch: ''
+BLFSIQBA:
+  institution: BANQUE LIBANO-FRANAISE SAL – IRAQ
+  city: BAGHDAD
+  branch: ''
+BBACIQBA:
+  institution: BBAC SAL ERBIL BRANCH
+  city: ARBIL
+  branch: ''
+BYBAIQBA:
+  institution: BYBLOS BANK SAL IRAQ
+  city: ARBIL
+  branch: ''
+BYBAIQBABAG:
+  institution: BYBLOS BANK SAL IRAQ
+  city: BAGHDAD
+  branch: BYBLOS BANK SAL
+BYBAIQBABAS:
+  institution: BYBLOS BANK SAL IRAQ
+  city: BASRAH
+  branch: ''
+CBIRIQBA:
+  institution: CENTRAL BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+CIHBIQBA:
+  institution: CIHAN BANK FOR ISLAMIC INVESTMENT AND FINANCE
+  city: ARBIL
+  branch: ''
+AUBBIQBA:
+  institution: COMMERCIAL BANK OF IRAQ (S.A.)
+  city: BAGHDAD
+  branch: ''
+CBIQIQBA:
+  institution: CREDIT BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+CLIBIQBA:
+  institution: CREDIT LIBANAIS SAL
+  city: BAGHDAD
+  branch: ''
+DSIVIQBA:
+  institution: DAR ES SALAAM INVESTMENT BANK
+  city: BAGHDAD
+  branch: ''
+DFDIIQBA:
+  institution: DIJLAH AND FURAT BANK
+  city: BAGHDAD
+  branch: ''
+ECOVIQBA616:
+  institution: ECONOMY BANK FOR INVESTMENT AND FINANCE
+  city: BAGHDAD
+  branch: ALSHORJAH
+ECOVIQBA:
+  institution: ECONOMY BANK FOR INVESTMENT AND FINANCE
+  city: BAGHDAD
+  branch: ''
+ELAFIQBA:
+  institution: ELAF ISLAMIC BANK
+  city: BAGHDAD
+  branch: ''
+EMERIQBA:
+  institution: EMERALD BANK
+  city: ARBIL
+  branch: ''
+EBIFIQBA:
+  institution: ERBIL BANK FOR INVESTMENT AND FINANCE
+  city: ARBIL
+  branch: ''
+GUCEIQBA:
+  institution: GULF COMMERCIAL BANK
+  city: BAGHDAD
+  branch: ''
+INLEIQBA:
+  institution: IBL BANK, SAL
+  city: BAGHDAD
+  branch: ''
+IDBQIQBA:
+  institution: INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND ISLAMIC FINANCE
+  city: BAGHDAD
+  branch: ''
+IVBIIQBA:
+  institution: INVESTMENT BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+IRIBIQBA:
+  institution: IRAQI ISLAMIC BANK FOR INVESTMENT AND DEVELOPMENT
+  city: BAGHDAD
+  branch: ''
+IMEBIQBA:
+  institution: IRAQI MIDDLE EAST INVESTMENT BANK
+  city: BAGHDAD
+  branch: ''
+RCDFIQBA:
+  institution: ISLAMIC REGIONAL COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT (S.A.)
+  city: BAGHDAD
+  branch: ''
+KIBIIQBAERB:
+  institution: KURDISTAN INTERNATIONAL BANK
+  city: ARBIL
+  branch: PESHWA ERBIL BRANCH
+KIBIIQBA:
+  institution: KURDISTAN INTERNATIONAL BANK
+  city: ARBIL
+  branch: ''
+KIBIIQBABGH:
+  institution: KURDISTAN INTERNATIONAL BANK
+  city: BAGHDAD
+  branch: BAGHDAD BRANCH
+KIBIIQBADHK:
+  institution: KURDISTAN INTERNATIONAL BANK
+  city: DUHOK
+  branch: DUHOK BRANCH
+KIBIIQBASUL:
+  institution: KURDISTAN INTERNATIONAL BANK
+  city: SULAYMINYA
+  branch: SULAYMINYA BRANCH
+MBIVIQBA:
+  institution: MANSOUR BANK FOR INVESTMENT
+  city: BAGHDAD
+  branch: ''
+MOUUIQBA:
+  institution: MOSUL BANK
+  city: MOSUL
+  branch: ''
+NBIQIQBA:
+  institution: NATIONAL BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+NISBIQBA:
+  institution: NATIONAL ISLAMIC BANK
+  city: BAGHDAD
+  branch: ''
+NRTTIQBA:
+  institution: NORTH BANK
+  city: BAGHDAD
+  branch: ''
+RDBAIQBB:
+  institution: RASHEED BANK
+  city: BAGHDAD
+  branch: ''
+SCBLIQBD:
+  institution: STANDARD CHARTERED BANK IRAQ BRANCH
+  city: BAGHDAD
+  branch: ''
+SUCIIQBA:
+  institution: SUMER COMMERCIAL BANK
+  city: BAGHDAD
+  branch: ''
+TRIQIQBA:
+  institution: TRADE BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+TIRAIQBA:
+  institution: TRANS IRAQ BANK
+  city: BAGHDAD
+  branch: ''
+TCZBIQBA:
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.
+  city: BAGHDAD
+  branch: ''
+ISBKIQBA:
+  institution: TURKIYE IS BANKASI A.S. ARBIL BRANCH
+  city: ARBIL
+  branch: ''
+TVBAIQBR:
+  institution: TURKIYE VAKIFLAR BANKASI ERBIL BRANCH
+  city: ARBIL
+  branch: ''
+UNRAIQBA:
+  institution: UNION BANK OF IRAQ
+  city: BAGHDAD
+  branch: ''
+UNTVIQBA:
+  institution: UNITED BANK FOR INVESTMENT
+  city: BAGHDAD
+  branch: ''
+WAIVIQBA:
+  institution: WARKA BANK FOR INVESTMENT AND FINANCE
+  city: BAGHDAD
+  branch: ''

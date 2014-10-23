@@ -1,0 +1,441 @@
+---
+ACHCCOBB:
+  institution: ACH COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+ACDPCOBB:
+  institution: ADMINISTRADORA COLOMBIANA DE PENSIONES – COLPENSIONES
+  city: BOGOTA
+  branch: ''
+HUBCCOBBLWE:
+  institution: ALLIANCE ENTERPRISE S.A.S.
+  city: BOGOTA
+  branch: LOWE SSP-3 SA
+HUBCCOBB:
+  institution: ALLIANCE ENTERPRISE S.A.S.
+  city: BOGOTA
+  branch: ''
+CCAICOBB:
+  institution: BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL
+    Y MINERO)
+  city: BOGOTA
+  branch: ''
+BAVICOBB:
+  institution: BANCO AV VILLAS S.A.
+  city: BOGOTA
+  branch: ''
+GEROCOBBBO1:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.
+  city: BOGOTA
+  branch: HEADQUARTERS
+GEROCOBB:
+  institution: BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+CASOCOBB:
+  institution: BANCO CAJA SOCIAL
+  city: BOGOTA
+  branch: ''
+COLPCOBB:
+  institution: BANCO COLPATRIA
+  city: BOGOTA
+  branch: ''
+BSCHCOBBBAQ:
+  institution: BANCO CORPBANCA COLOMBIA S.A.
+  city: BARRANQUILLA
+  branch: ''
+BSCHCOBBSSC:
+  institution: BANCO CORPBANCA COLOMBIA S.A.
+  city: BOGOTA
+  branch: SECURITY SERVICES COLOMBIA
+BSCHCOBB:
+  institution: BANCO CORPBANCA COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+BSCHCOBBBO1:
+  institution: BANCO CORPBANCA COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+BSCHCOBBCL1:
+  institution: BANCO CORPBANCA COLOMBIA S.A.
+  city: CALI
+  branch: ''
+CAFECOBBBAQ:
+  institution: BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)
+  city: BARRANQUILLA
+  branch: ''
+CAFECOBB:
+  institution: BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)
+  city: BOGOTA
+  branch: ''
+CAFECOBBCL1:
+  institution: BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)
+  city: CALI
+  branch: ''
+CAFECOBBMD1:
+  institution: BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)
+  city: MEDELLIN
+  branch: ''
+BBOGCOBBBAQ:
+  institution: BANCO DE BOGOTA
+  city: BARRANQUILLA
+  branch: ''
+BBOGCOBBBO1:
+  institution: BANCO DE BOGOTA
+  city: BOGOTA
+  branch: HEADQUARTERS OFFICES
+BBOGCOBB:
+  institution: BANCO DE BOGOTA
+  city: BOGOTA
+  branch: ''
+BBOGCOBBBGA:
+  institution: BANCO DE BOGOTA
+  city: BUCARAMANGA
+  branch: ''
+BBOGCOBBCL1:
+  institution: BANCO DE BOGOTA
+  city: CALI
+  branch: ''
+BBOGCOBBCTG:
+  institution: BANCO DE BOGOTA
+  city: CARTAGENA
+  branch: ''
+BBOGCOBBCUC:
+  institution: BANCO DE BOGOTA
+  city: CUCUTA
+  branch: ''
+BBOGCOBBMZ1:
+  institution: BANCO DE BOGOTA
+  city: MANIZALES
+  branch: ''
+BBOGCOBBMD1:
+  institution: BANCO DE BOGOTA
+  city: MEDELLIN
+  branch: ''
+BBOGCOBBPEI:
+  institution: BANCO DE BOGOTA
+  city: PEREIRA
+  branch: ''
+BBOGCOBBADZ:
+  institution: BANCO DE BOGOTA
+  city: SAN ANDRES
+  branch: ''
+BCEXCOBB:
+  institution: BANCO DE COMERCIO EXTERIOR S.A.
+  city: BOGOTA
+  branch: ''
+BREPCOBB:
+  institution: BANCO DE LA REPUBLICA
+  city: BOGOTA
+  branch: ''
+OCCICOBCBAQ:
+  institution: BANCO DE OCCIDENTE
+  city: BARRANQUILLA
+  branch: ''
+OCCICOBCBO2:
+  institution: BANCO DE OCCIDENTE
+  city: BOGOTA
+  branch: ''
+OCCICOBCBGA:
+  institution: BANCO DE OCCIDENTE
+  city: BUCARAMANGA
+  branch: ''
+OCCICOBCCL1:
+  institution: BANCO DE OCCIDENTE
+  city: CALI
+  branch: BRANCH
+OCCICOBC:
+  institution: BANCO DE OCCIDENTE
+  city: CALI
+  branch: HEADQUARTERS
+OCCICOBCCTG:
+  institution: BANCO DE OCCIDENTE
+  city: CARTAGENA
+  branch: ''
+OCCICOBCMD4:
+  institution: BANCO DE OCCIDENTE
+  city: MEDELLIN
+  branch: ''
+OCCICOBCADZ:
+  institution: BANCO DE OCCIDENTE
+  city: SAN ANDRES
+  branch: ''
+FALACOBB:
+  institution: BANCO FALABELLA S.A.
+  city: BOGOTA
+  branch: ''
+BSUDCOBBBAQ:
+  institution: BANCO GNB SUDAMERIS
+  city: BARRANQUILLA
+  branch: ''
+BSUDCOBB:
+  institution: BANCO GNB SUDAMERIS
+  city: BOGOTA
+  branch: ''
+BSUDCOBBBGA:
+  institution: BANCO GNB SUDAMERIS
+  city: BUCARAMANGA
+  branch: ''
+BSUDCOBBCL1:
+  institution: BANCO GNB SUDAMERIS
+  city: CALI
+  branch: ''
+BSUDCOBBCTG:
+  institution: BANCO GNB SUDAMERIS
+  city: CARTAGENA
+  branch: ''
+BSUDCOBBMZ1:
+  institution: BANCO GNB SUDAMERIS
+  city: MANIZALES
+  branch: ''
+BSUDCOBBMD1:
+  institution: BANCO GNB SUDAMERIS
+  city: MEDELLIN
+  branch: ''
+PICHCOBB:
+  institution: BANCO PICHINCHA S.A.
+  city: BOGOTA
+  branch: ''
+BPOPCOBBAXM:
+  institution: BANCO POPULAR-COLOMBIA
+  city: ARMENIA
+  branch: ''
+BPOPCOBBBAQ:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BARRANQUILLA
+  branch: ZONA NORTE
+BPOPCOBB:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BOGOTA
+  branch: HEADQUARTERS
+BPOPCOBBBO1:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BOGOTA
+  branch: ZONA 1
+BPOPCOBBBO2:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BOGOTA
+  branch: ZONA 2
+BPOPCOBBBO3:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BOGOTA
+  branch: ZONA 3
+BPOPCOBBBGA:
+  institution: BANCO POPULAR-COLOMBIA
+  city: BUCARAMANGA
+  branch: ZONA ORIENTAL
+BPOPCOBBCL1:
+  institution: BANCO POPULAR-COLOMBIA
+  city: CALI
+  branch: ZONA SUR
+BPOPCOBBCTG:
+  institution: BANCO POPULAR-COLOMBIA
+  city: CARTAGENA
+  branch: ''
+BPOPCOBBIBE:
+  institution: BANCO POPULAR-COLOMBIA
+  city: IBAGUE
+  branch: ZONA CENTRAL
+BPOPCOBBMZ1:
+  institution: BANCO POPULAR-COLOMBIA
+  city: MANIZALES
+  branch: ''
+BPOPCOBBMD1:
+  institution: BANCO POPULAR-COLOMBIA
+  city: MEDELLIN
+  branch: ZONA NOROCCIDENTAL
+BPOPCOBBPEI:
+  institution: BANCO POPULAR-COLOMBIA
+  city: PEREIRA
+  branch: ''
+BPOPCOBBADZ:
+  institution: BANCO POPULAR-COLOMBIA
+  city: SAN ANDRES
+  branch: ''
+PRCBCOBB:
+  institution: BANCO PROCREDIT COLOMBIA SA
+  city: BOGOTA
+  branch: ''
+SANTCOBB:
+  institution: BANCO SANTANDER DE NEGOCIOS COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+COLOCOBMBAQ:
+  institution: BANCOLOMBIA S.A.
+  city: BARRANQUILLA
+  branch: ''
+COLOCOBMBGA:
+  institution: BANCOLOMBIA S.A.
+  city: BUCARAMANGA
+  branch: ''
+COLOCOBMCL1:
+  institution: BANCOLOMBIA S.A.
+  city: CALI
+  branch: ''
+COLOCOBMCTG:
+  institution: BANCOLOMBIA S.A.
+  city: CARTAGENA
+  branch: ''
+COLOCOBM:
+  institution: BANCOLOMBIA S.A.
+  city: MEDELLIN
+  branch: ''
+COLOCOBMMD1:
+  institution: BANCOLOMBIA S.A.
+  city: MEDELLIN
+  branch: ''
+COLOCOBMPEI:
+  institution: BANCOLOMBIA S.A.
+  city: PEREIRA
+  branch: ''
+BNPACOBBB2S:
+  institution: BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.
+  city: BOGOTA
+  branch: SECURITIES SERVICES
+BNPACOBB:
+  institution: BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.
+  city: BOGOTA
+  branch: ''
+CCDCCOBB:
+  institution: CAMARA DE COMPENSACION DE DIVISAS DE COLOMBIA S.A.
+  city: BOGOTA
+  branch: ''
+CTLHCOBB:
+  institution: CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S.
+  city: BOGOTA
+  branch: ''
+CITICOBB:
+  institution: CITIBANK COLOMBIA
+  city: BOGOTA
+  branch: ''
+TIGOCOBB:
+  institution: COLOMBIA MOVIL SA ESP
+  city: BOGOTA
+  branch: ''
+CLTECOBM:
+  institution: COLTEFINANCIERA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL
+  city: MEDELLIN
+  branch: ''
+PDBCCOBB:
+  institution: COMPANIA DE PROFESIONALES DE BOLSA S.A.
+  city: BOGOTA
+  branch: ''
+CFVACOBCBAQ:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: BARRANQUILLA
+  branch: BARRANQUILLA AGENCY
+CFVACOBCBO1:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: BOGOTA
+  branch: BOGOTA AGENCY
+CFVACOBC:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: CALI
+  branch: HEADQUARTERS
+CFVACOBCCL1:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: CALI
+  branch: INTERNATIONAL BRANCH
+CFVACOBCFXO:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: CALI
+  branch: ''
+CFVACOBCMD1:
+  institution: CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA
+    DEL VALLE S.A.)
+  city: MEDELLIN
+  branch: MEDELLIN AGENCY
+CRVLCOBB:
+  institution: CORREVAL S.A.
+  city: BOGOTA
+  branch: ''
+ECOPCOBB:
+  institution: ECOPETROL S.A.
+  city: BOGOTA
+  branch: ''
+ETBCCOBB:
+  institution: EMPRESA DE TELECOMUNICACIONES DE BOGOTA S.A E.SP.
+  city: BOGOTA
+  branch: ''
+FBOGCOBB:
+  institution: FIDUCIARIA BOGOTA
+  city: BOGOTA
+  branch: ''
+FIBFCOBB:
+  institution: FINANCIERA CAMBIAMOS S.A. C.F.C.
+  city: BOGOTA
+  branch: ''
+FENSCOBB:
+  institution: FINANCIERA DE DESARROLLO NACIONAL S.A. FORMALLY FINANCIERA ENERGETICA
+    NACIONAL S.A.-FEN
+  city: BOGOTA
+  branch: ''
+FOGICOBB:
+  institution: FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS
+  city: BOGOTA
+  branch: ''
+FLARCOBB:
+  institution: FONDO LATINOAMERICANO DE RESERVAS
+  city: BOGOTA
+  branch: ''
+GYDVCOBC:
+  institution: GIROS Y FINANZAS C.F.C. S.A.
+  city: CALI
+  branch: ''
+BCTOCOBBBAQ:
+  institution: HELM BANK
+  city: BARRANQUILLA
+  branch: ''
+BCTOCOBB:
+  institution: HELM BANK
+  city: BOGOTA
+  branch: ''
+BCTOCOBBCL1:
+  institution: HELM BANK
+  city: CALI
+  branch: ''
+BCTOCOBBMD1:
+  institution: HELM BANK
+  city: MEDELLIN
+  branch: ''
+HCOLCOBB:
+  institution: HOCOL S.A.
+  city: BOGOTA
+  branch: ''
+BISTCOBB:
+  institution: HSBC COLOMBIA , S.A.
+  city: BOGOTA
+  branch: ''
+CBBACOBB:
+  institution: ITAU BBA COLOMBIA SA CORPORACION FINANCEIRA
+  city: BOGOTA
+  branch: ''
+CHASCOBB:
+  institution: JPMORGAN CORPORACION FINANCIERA S.A.
+  city: BOGOTA
+  branch: ''
+MCTBCOBB:
+  institution: MACROFINANCIERA, S.A.
+  city: BOGOTA
+  branch: ''
+MUMDCOBM:
+  institution: MUNICIPIO DE MEDELLIN
+  city: MEDELLIN
+  branch: ''
+PPCOCOBB:
+  institution: POLIPROPILENO DEL CARIBE S.A.
+  city: BOGOTA
+  branch: ''
+RCARCOB2PTA:
+  institution: REFINERIA DE CARTAGENA S.A.
+  city: BOGOTA
+  branch: PATRIMONIO AUTONOMO
+RCARCOB2:
+  institution: REFINERIA DE CARTAGENA S.A.
+  city: BOGOTA
+  branch: ''

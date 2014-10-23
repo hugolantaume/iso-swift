@@ -1,0 +1,5995 @@
+---
+KBAGCH22:
+  institution: AARGAUISCHE KANTONALBANK
+  city: AARAU
+  branch: ''
+ABBCCHZZ:
+  institution: ABB CAPITAL B.V., ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+ACRGCH22:
+  institution: ACREVIS BANK AG
+  city: ST. GALLEN
+  branch: ''
+AEKTCH22:
+  institution: AEK BANK 1826
+  city: THUN
+  branch: ''
+AKBPCHZZ:
+  institution: AKB PRIVATBANK ZUERICH AG
+  city: ZURICH
+  branch: ''
+APHACH22:
+  institution: ALCON PHARMACEUTICALS LIMITED
+  city: FRIBOURG
+  branch: ''
+ARBHCH22:
+  institution: ALPHA RHEINTAL BANK AG
+  city: HEERBRUGG
+  branch: ''
+AAMACHGG:
+  institution: ANDPRIVATEWEALTH S.A.
+  city: GENEVA
+  branch: AIM/POMS SERVICE
+ANPRCH22:
+  institution: AP ANLAGE UND PRIVATBANK AG
+  city: ZURICH
+  branch: ''
+AIKACH22:
+  institution: APPENZELLER KANTONALBANK
+  city: APPENZELL
+  branch: ''
+AQULCHZZ:
+  institution: AQUILA UND CO. AG
+  city: ZURICH
+  branch: ''
+ARBSCHZZ:
+  institution: ARAB BANK (SWITZERLAND) LTD
+  city: ZURICH
+  branch: ''
+ASFSCH2W:
+  institution: ASPIAG FINANCE AND SERVICES AG
+  city: WIDNAU
+  branch: ''
+AFCLCHZZ:
+  institution: ATLANTIC FORFAITIERUNGS AG
+  city: ZURICH
+  branch: ''
+AXIPCHZZ:
+  institution: AXA VERSICHERUNGEN AG
+  city: ZURICH
+  branch: ''
+UNCECH22:
+  institution: AXION SWISS BANK SA
+  city: LUGANO
+  branch: ''
+BAAMCHBBBEL:
+  institution: BALOISE ASSET MANAGEMENT SCHWEIZ AG
+  city: BASLE
+  branch: EINZELLEBEN
+BAAMCHBBBKL:
+  institution: BALOISE ASSET MANAGEMENT SCHWEIZ AG
+  city: BASLE
+  branch: KOLLEKTIVLEBEN
+BAAMCHBB:
+  institution: BALOISE ASSET MANAGEMENT SCHWEIZ AG
+  city: BASLE
+  branch: ''
+BAAMCHBBBVG:
+  institution: BALOISE ASSET MANAGEMENT SCHWEIZ AG
+  city: BASLE
+  branch: ''
+BAAMCHBBVST:
+  institution: BALOISE ASSET MANAGEMENT SCHWEIZ AG
+  city: BASLE
+  branch: ''
+KBSOCH2225G:
+  institution: BALOISE BANK SOBA
+  city: GRENCHEN
+  branch: ''
+KBSOCH2246A:
+  institution: BALOISE BANK SOBA
+  city: OLTEN
+  branch: ''
+KBSOCH22:
+  institution: BALOISE BANK SOBA
+  city: SOLOTHURN
+  branch: HEAD OFFICE
+KBSOCH2245A:
+  institution: BALOISE BANK SOBA
+  city: SOLOTHURN
+  branch: HEAD OFFICE
+VRBPCH22:
+  institution: BANCA ALETTI E C. (SUISSE) SA (BANCO POPOLARE GROUP)
+  city: LUGANO
+  branch: ''
+ARNECH22:
+  institution: BANCA ARNER S.A.
+  city: LUGANO
+  branch: ''
+COOPCHBB69A:
+  institution: BANCA COOP SA
+  city: LUGANO
+  branch: ''
+BCRECH22:
+  institution: BANCA CREDINVEST SA
+  city: LUGANO
+  branch: ''
+BACECH22:
+  institution: BANCA DEL CERESIO SA
+  city: LUGANO
+  branch: ''
+BASECH2265A:
+  institution: BANCA DEL SEMPIONE SA
+  city: BELLINZONA
+  branch: ''
+BASECH2268B:
+  institution: BANCA DEL SEMPIONE SA
+  city: CHIASSO
+  branch: ''
+BASECH2266A:
+  institution: BANCA DEL SEMPIONE SA
+  city: LOCARNO
+  branch: ''
+BASECH23:
+  institution: BANCA DEL SEMPIONE SA
+  city: LUGANO
+  branch: AIM/POMS SERVICE
+BASECH22:
+  institution: BANCA DEL SEMPIONE SA
+  city: LUGANO
+  branch: ''
+BSCTCH22:
+  institution: BANCA DELLO STATO DEL CANTONE TICINO
+  city: BELLINZONA
+  branch: ''
+BSCTCH22CHI:
+  institution: BANCA DELLO STATO DEL CANTONE TICINO
+  city: CHIASSO
+  branch: ''
+BSCTCH22LOC:
+  institution: BANCA DELLO STATO DEL CANTONE TICINO
+  city: LOCARNO
+  branch: ''
+BSCTCH22LUG:
+  institution: BANCA DELLO STATO DEL CANTONE TICINO
+  city: LUGANO
+  branch: ''
+POSOCH22:
+  institution: BANCA POPOLARE DI SONDRIO (SUISSE)
+  city: LUGANO
+  branch: ''
+SOLBCH22:
+  institution: BANCA PRIVATA EDMOND DE ROTHSCHILD LUGANO S.A.
+  city: LUGANO
+  branch: ''
+EUBACH22:
+  institution: BANCA ZARATTINI AND CO SA
+  city: LUGANO
+  branch: ''
+ITAUCHZZ:
+  institution: BANCO ITAU (SUISSE) SA
+  city: ZURICH
+  branch: ''
+BSCHCHGG:
+  institution: BANCO SANTANDER (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+RBABCH22888:
+  institution: BANK BSU GENOSSENSCHAFT
+  city: USTER
+  branch: ''
+CIALCHBB:
+  institution: BANK CIC (SWITZERLAND) LTD.
+  city: BASLE
+  branch: ''
+COOPCHBB:
+  institution: BANK COOP AG
+  city: BASLE
+  branch: ''
+COOPCHBB30A:
+  institution: BANK COOP AG
+  city: BERNE
+  branch: ''
+COOPCHBB25A:
+  institution: BANK COOP AG
+  city: BIEL (BIENNE)
+  branch: ''
+COOPCHBB52A:
+  institution: BANK COOP AG
+  city: BRUGG
+  branch: ''
+COOPCHBB60A:
+  institution: BANK COOP AG
+  city: LUCERNE
+  branch: ''
+COOPCHBB46A:
+  institution: BANK COOP AG
+  city: OLTEN
+  branch: ''
+COOPCHBB82A:
+  institution: BANK COOP AG
+  city: SCHAFFHAUSEN
+  branch: ''
+COOPCHBB90A:
+  institution: BANK COOP AG
+  city: ST. GALLEN
+  branch: ''
+COOPCHBB80A:
+  institution: BANK COOP AG
+  city: ZURICH
+  branch: ''
+EEKBCH22:
+  institution: BANK EEK
+  city: BERNE
+  branch: ''
+EKIICH22:
+  institution: BANK EKI GENOSSENSCHAFT
+  city: INTERLAKEN
+  branch: ''
+BISBCHBB:
+  institution: BANK FOR INTERNATIONAL SETTLEMENTS
+  city: BASLE
+  branch: ''
+FREYCHZZ:
+  institution: BANK FREY AND CO. AG
+  city: ZURICH
+  branch: ''
+BTVACH22:
+  institution: BANK FUER TIROL UND VORARLBERG AG, INNSBRUCK, ZWEIGNIEDERLASSUNG STAAD
+  city: STAAD
+  branch: ''
+BGUTCHZZ:
+  institution: BANK GUTENBERG AG
+  city: ZURICH
+  branch: ''
+POALCHZZGVA:
+  institution: BANK HAPOALIM (SWITZERLAND) LTD
+  city: GENEVA
+  branch: BRANCH GENEVA
+POALCHZZ:
+  institution: BANK HAPOALIM (SWITZERLAND) LTD
+  city: ZURICH
+  branch: ''
+RBABCH22964:
+  institution: BANK IN ZUZWIL AG
+  city: ZUZWILL
+  branch: ''
+SARACHBB:
+  institution: BANK J. SAFRA SARASIN LTD
+  city: BASLE
+  branch: ''
+BJSBCHGG:
+  institution: BANK J. SAFRA SARASIN LTD
+  city: GENEVA
+  branch: ''
+SARACHBBZRH:
+  institution: BANK J. SAFRA SARASIN LTD
+  city: ZURICH
+  branch: ''
+BAERCHZZ:
+  institution: BANK JULIUS BAER AND CO.LTD., ZURICH
+  city: ZURICH
+  branch: ''
+BAERCHZA:
+  institution: BANK JULIUS BAER AND CO.LTD.,ZURICH
+  city: ZURICH
+  branch: AIM/POMS SERVICE
+MLBSCHGG:
+  institution: BANK JULIUS BAER CO LTD FORMERLY MERRILL LYNCH BANK (SUISSE) S.A.
+  city: ZURICH
+  branch: ''
+RBABCH22588:
+  institution: BANK LEERAU GENOSSENSCHAFT
+  city: KIRCHLEERAU
+  branch: ''
+LINSCH23:
+  institution: BANK LINTH LLB AG
+  city: UZNACH
+  branch: ''
+MSSACHZX:
+  institution: BANK MORGAN STANLEY AG
+  city: ZURICH
+  branch: ''
+MSSACHZXFXO:
+  institution: BANK MORGAN STANLEY AG
+  city: ZURICH
+  branch: ''
+MSSACHZXLMT:
+  institution: BANK MORGAN STANLEY AG
+  city: ZURICH
+  branch: ''
+MSSACHZXMIS:
+  institution: BANK MORGAN STANLEY AG
+  city: ZURICH
+  branch: ''
+MSSACHZXSWI:
+  institution: BANK MORGAN STANLEY AG
+  city: ZURICH
+  branch: ''
+RBABCH22450:
+  institution: BANK OBERAARGAU AG (FORMERLY CLIENTIS BANK HUTTWILAG)
+  city: HUTTWIL
+  branch: ''
+BSZHCHZZ:
+  institution: BANK SPARHAFEN ZUERICH AG
+  city: ZURICH
+  branch: ''
+BKTHCH22:
+  institution: BANK THALWIL (FORMERLY SPARKASSE THALWIL)
+  city: THALWIL
+  branch: ''
+RBABCH22977:
+  institution: BANK THUR GENOSSENSCHAFT
+  city: EBNAT-KAPPEL
+  branch: ''
+VRLLCHZZ:
+  institution: BANK VON ROLL AG
+  city: ZURICH
+  branch: ''
+VONTCHZZVAM:
+  institution: BANK VONTOBEL AG
+  city: ZURICH
+  branch: ASSET MANAGEMENT DEPARTMENT
+VONTCHZZ:
+  institution: BANK VONTOBEL AG
+  city: ZURICH
+  branch: ''
+RBABCH22824:
+  institution: BANK ZIMMERBERG AG FORMERLY SPARKASSE HORGEN AG
+  city: HORGEN
+  branch: ''
+BZPLCHZZ:
+  institution: BANK ZWEIPLUS AG
+  city: ZURICH
+  branch: ''
+BJAGCH2G:
+  institution: BANKHAUS JUNGHOLZ
+  city: ST. GALLEN
+  branch: ''
+MEDSCHGG:
+  institution: BANKMED (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+AEXTCHZZ:
+  institution: BANQUE ALGERIENNE DU COMMERCE EXTERIEUR S.A.
+  city: ZURICH
+  branch: ''
+AUDSCHGG:
+  institution: BANQUE AUDI
+  city: GENEVA
+  branch: ''
+BABRCHGG:
+  institution: BANQUE BARING BROTHERS STURDZA S.A.
+  city: GENEVA
+  branch: ''
+BQBHCHGG:
+  institution: BANQUE BENEDICT HENTSCH ET CIE SA
+  city: GENEVA
+  branch: ''
+BONHCH22:
+  institution: BANQUE BONHOTE ET CIE SA
+  city: NEUCHATEL
+  branch: ''
+BEFRCH22:
+  institution: BANQUE CANTONALE DE FRIBOURG
+  city: FRIBOURG
+  branch: ''
+BCGECHGG:
+  institution: BANQUE CANTONALE DE GENEVE
+  city: GENEVA
+  branch: ''
+BCJUCH22:
+  institution: BANQUE CANTONALE DU JURA
+  city: PORRENTRUY
+  branch: ''
+BCVSCH2L:
+  institution: BANQUE CANTONALE DU VALAIS
+  city: SION/SITTEN
+  branch: ''
+BCNNCH22:
+  institution: BANQUE CANTONALE NEUCHATELOISE
+  city: NEUCHATEL
+  branch: ''
+BCVLCH2L:
+  institution: BANQUE CANTONALE VAUDOISE
+  city: LAUSANNE
+  branch: ''
+COOPCHBB12A:
+  institution: BANQUE COOP, SA
+  city: GENEVA
+  branch: ''
+COOPCHBB10A:
+  institution: BANQUE COOP, SA
+  city: LAUSANNE
+  branch: ''
+COOPCHBB20A:
+  institution: BANQUE COOP, SA
+  city: NEUCHATEL
+  branch: ''
+CRAMCHGG:
+  institution: BANQUE CRAMER ET CIE SA
+  city: GENEVA
+  branch: ''
+BPCPCHGG:
+  institution: BANQUE DE COMMERCE ET DE PLACEMENTS S.A.
+  city: GENEVA
+  branch: ''
+BGGECHGG:
+  institution: BANQUE GENEVOISE DE GESTION SA
+  city: GENEVA
+  branch: ''
+HFTCCHGG:
+  institution: BANQUE HERITAGE
+  city: GENEVA
+  branch: ''
+HOTTCHZZGVA:
+  institution: BANQUE HOTTINGER ET CIE SA
+  city: GENEVA
+  branch: GENEVA BRANCH
+HOTTCHZZ:
+  institution: BANQUE HOTTINGER ET CIE SA
+  city: ZURICH
+  branch: ''
+BILSCHZZ:
+  institution: BANQUE INTERNATIONALE A LUXEMBOURG (SUISSE) SA
+  city: ZURICH
+  branch: ''
+BICFCHGG:
+  institution: BANQUE INTERNATIONALE DE COMMERCE – BRED
+  city: GENEVA
+  branch: ''
+LOCYCHGGCUS:
+  institution: BANQUE LOMBARD ODIER ET CIE SA
+  city: GENEVA
+  branch: CUS DEPT
+LOCYCHGGNDP:
+  institution: BANQUE LOMBARD ODIER ET CIE SA
+  city: GENEVA
+  branch: NDP DEPT
+LOCYCHGGWND:
+  institution: BANQUE LOMBARD ODIER ET CIE SA
+  city: GENEVA
+  branch: WND DEPT
+LOCYCHGG:
+  institution: BANQUE LOMBARD ODIER ET CIE SA
+  city: GENEVA
+  branch: ''
+MORVCH22GEN:
+  institution: BANQUE MORVAL
+  city: GENEVA
+  branch: ''
+MORVCH22:
+  institution: BANQUE MORVAL
+  city: LUGANO
+  branch: ''
+BKPBCHGG:
+  institution: BANQUE PARIS BERTRAND STURDZA SA
+  city: GENEVA
+  branch: ''
+BPGECHGG:
+  institution: BANQUE PASCHE S.A.
+  city: GENEVA
+  branch: ''
+SFBKCHZZ:
+  institution: BANQUE PASCHE SA, ZN ZUERICH
+  city: ZURICH
+  branch: ''
+PICTCHGGFND:
+  institution: BANQUE PICTET ET CIE SA
+  city: GENEVA
+  branch: INVESTMENT FUNDS
+PICTCHGG:
+  institution: BANQUE PICTET ET CIE SA
+  city: GENEVA
+  branch: ''
+MILBCHGG:
+  institution: BANQUE PRIVEE BCP (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+PRIBCHGG:
+  institution: BANQUE PRIVEE EDMOND DE ROTHSCHILD S.A.
+  city: GENEVA
+  branch: ''
+CFESCH22:
+  institution: BANQUE PRIVEE ESPIRITO SANTO SA
+  city: PULLY
+  branch: ''
+BPDGCHGG:
+  institution: BANQUE PROFIL DE GESTION S.A.
+  city: GENEVA
+  branch: ''
+SYCOCHGGFDS:
+  institution: BANQUE SYZ AND CO SA
+  city: GENEVA
+  branch: FUNDS DEALING
+SYCOCHGG:
+  institution: BANQUE SYZ AND CO SA
+  city: GENEVA
+  branch: ''
+SYCOCHGG00Z:
+  institution: BANQUE SYZ AND CO SA
+  city: GENEVA
+  branch: ''
+SYCOCHGGSAM:
+  institution: BANQUE SYZ AND CO SA
+  city: GENEVA
+  branch: ''
+THALCHGG:
+  institution: BANQUE THALER S.A.
+  city: GENEVA
+  branch: ''
+BANTCH22:
+  institution: BANTLEON BANK AG
+  city: ZUG
+  branch: AIM/POMS SERVICE
+BARCCHGG:
+  institution: BARCLAYS BANK (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+BLKBCH2241D:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: ALLSCHWIL
+  branch: ''
+BLKBCH2241N:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: ARLESHEIM
+  branch: ''
+BLKBCH2241A:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: BINNINGEN
+  branch: ''
+BLKBCH2241F:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: BIRSFELDEN
+  branch: ''
+BLKBCH2244F:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: GELTERKINDEN
+  branch: ''
+BLKBCH2242C:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: LAUFEN
+  branch: ''
+BLKBCH22:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: LIESTAL
+  branch: HEAD OFFICE
+BLKBCH2241G:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: MUTTENZ
+  branch: ''
+BLKBCH2244D:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: OBERDORF
+  branch: ''
+BLKBCH2241H:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: PRATTELN
+  branch: ''
+BLKBCH2241Q:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: REINACH (BL)
+  branch: ''
+BLKBCH2244E:
+  institution: BASELLANDSCHAFTLICHE KANTONALBANK
+  city: SISSACH
+  branch: ''
+BKBBCHBB:
+  institution: BASLER KANTONALBANK
+  city: BASLE
+  branch: ''
+BKBBCHBB41E:
+  institution: BASLER KANTONALBANK
+  city: RIEHEN
+  branch: ''
+BAUMCHBB:
+  institution: BAUMANN ET CIE BANQUIERS
+  city: BASLE
+  branch: ''
+BUUUCHZZ:
+  institution: BAUMHAUS CAPITAL
+  city: ZURICH
+  branch: ''
+BBOBCH22:
+  institution: BBO BANK BRIENZ OBERHASLI AG
+  city: BRIENZ
+  branch: ''
+BBVACHZZ:
+  institution: BBVA SUIZA SA
+  city: ZURICH
+  branch: ''
+BEGOCHZZ:
+  institution: BERENBERG BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+KBBECH22:
+  institution: BERNER KANTONALBANK AG
+  city: BERNE
+  branch: ''
+KBBECH2225A:
+  institution: BERNER KANTONALBANK AG
+  city: BIEL (BIENNE)
+  branch: ''
+KBBECH2234A:
+  institution: BERNER KANTONALBANK AG
+  city: BURGDORF
+  branch: ''
+KBBECH2237L:
+  institution: BERNER KANTONALBANK AG
+  city: GSTAAD
+  branch: ''
+KBBECH2238A:
+  institution: BERNER KANTONALBANK AG
+  city: INTERLAKEN
+  branch: ''
+KBBECH2249A:
+  institution: BERNER KANTONALBANK AG
+  city: LANGENTHAL
+  branch: ''
+KBBECH2232E:
+  institution: BERNER KANTONALBANK AG
+  city: LYSS
+  branch: ''
+KBBECH2227F:
+  institution: BERNER KANTONALBANK AG
+  city: MOUTIER
+  branch: ''
+KBBECH2237A:
+  institution: BERNER KANTONALBANK AG
+  city: SPIEZ
+  branch: ''
+KBBECH2236A:
+  institution: BERNER KANTONALBANK AG
+  city: THUN
+  branch: ''
+RBABCH22313:
+  institution: BERNERLAND BANK AG
+  city: SUMISWALD
+  branch: ''
+BZSDCH22:
+  institution: BEZIRKS-SPARKASSE DIELSDORF
+  city: DIELSDORF
+  branch: ''
+BHFBCHZZ:
+  institution: BHF BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+RBABCH22980:
+  institution: BIENE BANK IM RHEINTAL GENOSSENSCHAFT
+  city: ALTSTAETTEN (SG)
+  branch: ''
+BIMLCH22:
+  institution: BIM (SUISSE) S.A.
+  city: LUGANO
+  branch: ''
+BPLSCH22:
+  institution: BIPIELLE BANK (SUISSE), (BANCO POPOLARE GROUP)
+  city: LUGANO
+  branch: HEAD OFFICE
+BLOMCHGG:
+  institution: BLOM BANK (SWITZERLAND) SA
+  city: GENEVA
+  branch: ''
+BPPBCHGG:
+  institution: BNP PARIBAS (SUISSE) SA
+  city: GENEVA
+  branch: ''
+PARBCHZZISI:
+  institution: BNP-PARIBAS SECURITIES SERVICES
+  city: ZURICH
+  branch: GLOBAL CUSTODY
+PARBCHZZ:
+  institution: BNP-PARIBAS SECURITIES SERVICES
+  city: ZURICH
+  branch: ''
+BORDCHGG:
+  institution: BORDIER ET CIE
+  city: GENEVA
+  branch: ''
+BIRCCHGG:
+  institution: BRIDPORT ET CIE S.A.
+  city: GENEVA
+  branch: ''
+BRKSCHZZ:
+  institution: BRINK’S SCHWEIZ AG
+  city: ZURICH
+  branch: ''
+BBHCCHZZ:
+  institution: BROWN BROTHERS HARRIMAN SERVICES AG
+  city: ZURICH
+  branch: ''
+RBABCH22858:
+  institution: BS BANK SCHAFFHAUSEN AG
+  city: SCHAFFHAUSEN
+  branch: ''
+BSILCH2275A:
+  institution: BSI AG
+  city: ST. MORITZ
+  branch: ''
+BSILCH2280A:
+  institution: BSI AG
+  city: ZURICH
+  branch: ''
+BSILCH2265A:
+  institution: BSI SA
+  city: BELLINZONA
+  branch: ''
+BSILCH2268B:
+  institution: BSI SA
+  city: CHIASSO
+  branch: ''
+BSILCH2212A:
+  institution: BSI SA
+  city: GENEVA
+  branch: ''
+BSILCH2210A:
+  institution: BSI SA
+  city: LAUSANNE
+  branch: ''
+BSILCH2266A:
+  institution: BSI SA
+  city: LOCARNO
+  branch: ''
+BSILCH22:
+  institution: BSI SA
+  city: LUGANO
+  branch: HEAD OFFICE
+BSILCH22PMY:
+  institution: BSI SA
+  city: LUGANO
+  branch: PATRIMONY
+BLTDCHGG:
+  institution: BUNGE S.A.
+  city: GENEVA
+  branch: ''
+DCBECH22:
+  institution: BURGERGEMEINDE BERN DC BANK
+  city: BERNE
+  branch: ''
+RBABCH22382:
+  institution: BURGERLICHE ERSPARNISKASSE BERN GENOSSENSCHAFT
+  city: BERNE
+  branch: ''
+BZBKCH2W:
+  institution: BZ BANK AKTIENGESELLSCHAFT
+  city: WILEN BEI WOLLERAU
+  branch: ''
+CIMMCHGG:
+  institution: C.I.M. BANQUE
+  city: GENEVA
+  branch: ''
+RBABCH22CEA:
+  institution: CAISSE DEP. DAUBONNE SOCIETE COOP
+  city: AUBONNE
+  branch: ''
+RBABCH22240:
+  institution: CAISSE D’EPARGNE CEC SA
+  city: COURTELARY
+  branch: ''
+RBABCH22182:
+  institution: CAISSE D’EPARGNE DE COSSONAY SOCIETE COOPERATIVE
+  city: COSSONAY
+  branch: ''
+CDDVCH21:
+  institution: CAISSE D’EPARGNE RIVIERA, SOCIETE COOPERATIVE
+  city: VEVEY
+  branch: ''
+CAGLCHGG:
+  institution: CAJA DE AHORROS DE GALICIA SUCCURSALE DE GENEVE
+  city: GENEVA
+  branch: ''
+CGIICHGG:
+  institution: CAPITAL INTERNATIONAL SARL
+  city: GENEVA
+  branch: ''
+BSSACHGG:
+  institution: CBH COMPAGNIE BANCAIRE HELVETIQUE SA
+  city: GENEVA
+  branch: ''
+CBZHCHZZ:
+  institution: CENTRUM BANK (SWITZERLAND) LTD.
+  city: ZURICH
+  branch: ''
+EONRCH22:
+  institution: CERN PENSION FUND EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH
+  city: MEYRIN
+  branch: ''
+WHEPCHGG:
+  institution: CERN-EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH
+  city: GENEVA
+  branch: ''
+CBSWCHZZ:
+  institution: CITIBANK (SWITZERLAND) AG
+  city: ZURICH
+  branch: ''
+CITICHZZ:
+  institution: CITIBANK N.A.
+  city: ZURICH
+  branch: ''
+RBABCH22434:
+  institution: CLIENTIS BANK IM THAL AG
+  city: BALSTHAL
+  branch: ''
+RBABCH22575:
+  institution: CLIENTIS BANK KUETTIGEN-ERLINSBACH AG
+  city: KUETTIGEN
+  branch: ''
+RBABCH22935:
+  institution: CLIENTIS BANK OBERUZWIL AG
+  city: OBERUZWIL
+  branch: ''
+RBABCH22955:
+  institution: CLIENTIS BANK TOGGENBURG AG
+  city: KIRCHBERG
+  branch: ''
+RBABCH22670:
+  institution: CLIENTIS EB ENTLEBUCHER BANK AG
+  city: SCHUEPFHEIM
+  branch: ''
+RBABCH22428:
+  institution: CLIENTIS SPARKASSE OFTRINGEN GENOSSENSCHAFT
+  city: OFTRINGEN
+  branch: ''
+RBABCH22850:
+  institution: CLIENTIS ZUERCHER REGIONALBANK GENOSSENSCHAFT (FORMERLY SPARKASSE ZURCHER
+    OBERLAND)
+  city: WETZIKON
+  branch: ''
+CFRACH22:
+  institution: COFRA HOLDING AG
+  city: ZUG
+  branch: ''
+COBACHZH:
+  institution: COMMERZBANK AG
+  city: ZURICH
+  branch: ''
+BIBMCH22:
+  institution: COMPAGNIE FINANCIERE MICHELIN
+  city: GRANGES-PACCOT
+  branch: ''
+CPCICHGG:
+  institution: COMPAGNIE PRIVEE DE CONSEILS ET D’INVESTISSEMENTS S.A.
+  city: GENEVA
+  branch: ''
+CMAECH21:
+  institution: COMPASS ASSET MANAGEMENT SA
+  city: PARADISO
+  branch: ''
+CBLUCH2268B:
+  institution: CORNER BANCA S.A.
+  city: CHIASSO
+  branch: ''
+CBLUCH2212A:
+  institution: CORNER BANCA S.A.
+  city: GENEVA
+  branch: ''
+CBLUCH2266A:
+  institution: CORNER BANCA S.A.
+  city: LOCARNO
+  branch: ''
+CBLUCH22:
+  institution: CORNER BANCA S.A.
+  city: LUGANO
+  branch: HEAD OFFICE
+CBLUCH22NRA:
+  institution: CORNER BANCA S.A.
+  city: LUGANO
+  branch: ''
+CBLUCH2280A:
+  institution: CORNER BANCA S.A.
+  city: ZURICH
+  branch: CORNER BANK AG
+COUTCHZZ:
+  institution: COUTTS AND CO LTD
+  city: ZURICH
+  branch: ''
+AGRICHGG:
+  institution: CREDIT AGRICOLE (SUISSE)SA
+  city: GENEVA
+  branch: ALL SWISS OFFICES
+AGRICHGX:
+  institution: CREDIT AGRICOLE FINANCEMENTS (SUISSE) SA
+  city: GENEVA
+  branch: ''
+FSUICHGG:
+  institution: CREDIT EUROPE BANK (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+RBABCH22180:
+  institution: CREDIT MUTUEL DE LA VALLEE SA
+  city: LE SENTIER
+  branch: ''
+CRESCHZZ50A:
+  institution: CREDIT SUISSE AG
+  city: AARAU
+  branch: ''
+CRESCHZZ89A:
+  institution: CREDIT SUISSE AG
+  city: AFFOLTERN AM ALBIS
+  branch: ''
+CRESCHZZ41D:
+  institution: CREDIT SUISSE AG
+  city: ALLSCHWIL
+  branch: ''
+CRESCHZZ64S:
+  institution: CREDIT SUISSE AG
+  city: ALTDORF
+  branch: LOHNPLATZ
+CRESCHZZ64K:
+  institution: CREDIT SUISSE AG
+  city: ALTDORF
+  branch: ''
+CRESCHZZ94N:
+  institution: CREDIT SUISSE AG
+  city: ALTSTAETTEN (SG)
+  branch: ''
+CRESCHZZ84G:
+  institution: CREDIT SUISSE AG
+  city: ANDELFINGEN
+  branch: ''
+CRESCHZZ70E:
+  institution: CREDIT SUISSE AG
+  city: AROSA
+  branch: ''
+CRESCHZZ66S:
+  institution: CREDIT SUISSE AG
+  city: ASCONA
+  branch: VIALE B. PAPIO
+CRESCHZZ66C:
+  institution: CREDIT SUISSE AG
+  city: ASCONA
+  branch: ''
+CRESCHZZ63S:
+  institution: CREDIT SUISSE AG
+  city: BAAR
+  branch: DORFSTRASSE 13
+CRESCHZZ63K:
+  institution: CREDIT SUISSE AG
+  city: BAAR
+  branch: ''
+CRESCHZZ54A:
+  institution: CREDIT SUISSE AG
+  city: BADEN
+  branch: ''
+CRESCHZZ73C:
+  institution: CREDIT SUISSE AG
+  city: BAD-RAGAZ
+  branch: ''
+CRESCHZZ68F:
+  institution: CREDIT SUISSE AG
+  city: BALERNA
+  branch: ''
+CRESCHZZ40D:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: BRAUSEBAD
+CRESCHZZ40B:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: CLARAPLATZ
+CRESCHZZ40S:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: CLARAPLATZ/REDGASSE
+CRESCHZZ40R:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: GERBERGASSE
+CRESCHZZ40E:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: GUNDELDINGEN
+CRESCHZZ40C:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: SPALENBERG
+CRESCHZZ40A:
+  institution: CREDIT SUISSE AG
+  city: BASLE
+  branch: ''
+CRESCHZZ65R:
+  institution: CREDIT SUISSE AG
+  city: BELLINZONA
+  branch: VIALE STAZIONE 26
+CRESCHZZ65A:
+  institution: CREDIT SUISSE AG
+  city: BELLINZONA
+  branch: ''
+CRESCHZZ30B:
+  institution: CREDIT SUISSE AG
+  city: BERNE
+  branch: BUEMPLIZ
+CRESCHZZ30R:
+  institution: CREDIT SUISSE AG
+  city: BERNE
+  branch: BUNDESGASSE
+CRESCHZZ30S:
+  institution: CREDIT SUISSE AG
+  city: BERNE
+  branch: FREUDENBERGERPLATZ
+CRESCHZZ30A:
+  institution: CREDIT SUISSE AG
+  city: BERNE
+  branch: ''
+CRESCHZZ27I:
+  institution: CREDIT SUISSE AG
+  city: BEVILARD
+  branch: ''
+CRESCHZZ67A:
+  institution: CREDIT SUISSE AG
+  city: BIASCA
+  branch: ''
+CRESCHZZ25C:
+  institution: CREDIT SUISSE AG
+  city: BIEL (BIENNE)
+  branch: METT
+CRESCHZZ25R:
+  institution: CREDIT SUISSE AG
+  city: BIEL (BIENNE)
+  branch: NIDAUGASSE
+CRESCHZZ25A:
+  institution: CREDIT SUISSE AG
+  city: BIEL (BIENNE)
+  branch: ''
+CRESCHZZ41A:
+  institution: CREDIT SUISSE AG
+  city: BINNINGEN
+  branch: ''
+CRESCHZZ39R:
+  institution: CREDIT SUISSE AG
+  city: BRIG (BRIGUE)
+  branch: BAHNHOFSTRASSE 12
+CRESCHZZ39A:
+  institution: CREDIT SUISSE AG
+  city: BRIG (BRIGUE)
+  branch: ''
+CRESCHZZ66F:
+  institution: CREDIT SUISSE AG
+  city: BRISSAGO
+  branch: ''
+CRESCHZZ94R:
+  institution: CREDIT SUISSE AG
+  city: BUCHS (SG)
+  branch: GALLERSTRASSE
+CRESCHZZ94P:
+  institution: CREDIT SUISSE AG
+  city: BUCHS (SG)
+  branch: ''
+CRESCHZZ81R:
+  institution: CREDIT SUISSE AG
+  city: BUELACH
+  branch: WINTERTHURERSTRASSE
+CRESCHZZ81M:
+  institution: CREDIT SUISSE AG
+  city: BUELACH
+  branch: ''
+CRESCHZZ16R:
+  institution: CREDIT SUISSE AG
+  city: BULLE
+  branch: PLACE DU TILLEUL
+CRESCHZZ16C:
+  institution: CREDIT SUISSE AG
+  city: BULLE
+  branch: ''
+CRESCHZZ34R:
+  institution: CREDIT SUISSE AG
+  city: BURGDORF
+  branch: BAHNHOFSTRASSE
+CRESCHZZ34A:
+  institution: CREDIT SUISSE AG
+  city: BURGDORF
+  branch: ''
+CRESCHZZ69M:
+  institution: CREDIT SUISSE AG
+  city: CANOBBIO
+  branch: ''
+CRESCHZZ12N:
+  institution: CREDIT SUISSE AG
+  city: CAROUGE
+  branch: PLACE DU MARCHE
+CRESCHZZ12S:
+  institution: CREDIT SUISSE AG
+  city: CAROUGE
+  branch: ''
+CRESCHZZ64C:
+  institution: CREDIT SUISSE AG
+  city: CHAM
+  branch: GST CHAM/ZG
+CRESCHZZ16A:
+  institution: CREDIT SUISSE AG
+  city: CHATEL-ST.DENIS
+  branch: ''
+CRESCHZZ23R:
+  institution: CREDIT SUISSE AG
+  city: CHAUX-DE-FONDS, LA
+  branch: AVENUE LEOPOLD-ROBERT 76
+CRESCHZZ23A:
+  institution: CREDIT SUISSE AG
+  city: CHAUX-DE-FONDS, LA
+  branch: ''
+CRESCHZZ10H:
+  institution: CREDIT SUISSE AG
+  city: CHAVANNES-ECUBLENS
+  branch: ''
+CRESCHZZ68D:
+  institution: CREDIT SUISSE AG
+  city: CHIASSO
+  branch: COLDRERIO
+CRESCHZZ68R:
+  institution: CREDIT SUISSE AG
+  city: CHIASSO
+  branch: CORSO S. GOTTARDO
+CRESCHZZ68B:
+  institution: CREDIT SUISSE AG
+  city: CHIASSO
+  branch: ''
+CRESCHZZ70S:
+  institution: CREDIT SUISSE AG
+  city: CHUR
+  branch: NEUSTADT
+CRESCHZZ70R:
+  institution: CREDIT SUISSE AG
+  city: CHUR
+  branch: POSTSTRASSE
+CRESCHZZ70A:
+  institution: CREDIT SUISSE AG
+  city: CHUR
+  branch: ''
+CRESCHZZ39T:
+  institution: CREDIT SUISSE AG
+  city: CRANS SUR SIERRE
+  branch: LE CONTINENTAL
+CRESCHZZ39N:
+  institution: CREDIT SUISSE AG
+  city: CRANS SUR SIERRE
+  branch: MONTANA
+CRESCHZZ72D:
+  institution: CREDIT SUISSE AG
+  city: DAVOS
+  branch: PLATZ
+CRESCHZZ28R:
+  institution: CREDIT SUISSE AG
+  city: DELEMONT
+  branch: RUE PIERRE-PEQUIGNAT
+CRESCHZZ28A:
+  institution: CREDIT SUISSE AG
+  city: DELEMONT
+  branch: ''
+CRESCHZZ81B:
+  institution: CREDIT SUISSE AG
+  city: DIELSDORF
+  branch: ''
+CRESCHZZ89R:
+  institution: CREDIT SUISSE AG
+  city: DIETIKON
+  branch: KIRCHSTRASSE
+CRESCHZZ89E:
+  institution: CREDIT SUISSE AG
+  city: DIETIKON
+  branch: ''
+CRESCHZZ83M:
+  institution: CREDIT SUISSE AG
+  city: DIETLIKON
+  branch: ''
+CRESCHZZ86R:
+  institution: CREDIT SUISSE AG
+  city: DUEBENDORF
+  branch: BAHNHOFSTRASSE
+CRESCHZZ86A:
+  institution: CREDIT SUISSE AG
+  city: DUEBENDORF
+  branch: ''
+CRESCHZZ31A:
+  institution: CREDIT SUISSE AG
+  city: DUEDINGEN
+  branch: ''
+CRESCHZZ60T:
+  institution: CREDIT SUISSE AG
+  city: EBIKON
+  branch: ZENTRALSTRASSE
+CRESCHZZ60K:
+  institution: CREDIT SUISSE AG
+  city: EBIKON
+  branch: ''
+CRESCHZZ83D:
+  institution: CREDIT SUISSE AG
+  city: EFFRETIKON
+  branch: ''
+CRESCHZZ88L:
+  institution: CREDIT SUISSE AG
+  city: EINSIEDELN
+  branch: ''
+CRESCHZZ60S:
+  institution: CREDIT SUISSE AG
+  city: EMMENBRUECKE
+  branch: GERLISWILSTRASSE 71
+CRESCHZZ60G:
+  institution: CREDIT SUISSE AG
+  city: EMMENBRUECKE
+  branch: ''
+CRESCHZZ63P:
+  institution: CREDIT SUISSE AG
+  city: ENGELBERG
+  branch: ''
+CRESCHZZ67B:
+  institution: CREDIT SUISSE AG
+  city: FAIDO
+  branch: ''
+CRESCHZZ70C:
+  institution: CREDIT SUISSE AG
+  city: FLIMS
+  branch: ''
+CRESCHZZ85R:
+  institution: CREDIT SUISSE AG
+  city: FRAUENFELD
+  branch: ZUERCHERSTRASSE
+CRESCHZZ85A:
+  institution: CREDIT SUISSE AG
+  city: FRAUENFELD
+  branch: ''
+CRESCHZZ17R:
+  institution: CREDIT SUISSE AG
+  city: FRIBOURG
+  branch: AVENUE DE LA GARE
+CRESCHZZ17A:
+  institution: CREDIT SUISSE AG
+  city: FRIBOURG
+  branch: ''
+CRESCHZZ44F:
+  institution: CREDIT SUISSE AG
+  city: GELTERKINDEN
+  branch: ''
+CRESCHZZ12M:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ACACIAS 24/RT D’ACACIAS 2
+CRESCHZZ12Q:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: BERNEX
+CRESCHZZ12D:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: CHAMPEL
+CRESCHZZ12H:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: CHARMILLES
+CRESCHZZ12R:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: CHENE-BOURG
+CRESCHZZ12E:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: EAUX-VIVES
+CRESCHZZ12G:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: GARE-CORNAVIN
+CRESCHZZ12K:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: GRAND-CASINO
+CRESCHZZ12C:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ICC GENEVE-COINTRIN
+CRESCHZZ12X:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: LE LIGNON
+CRESCHZZ12Y:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ONEX
+CRESCHZZ12I:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: PETIT-LANCY
+CRESCHZZ12Z:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: PETIT-SACONNEX
+CRESCHZZ12L:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: PLACE ST-GERVAIS
+CRESCHZZ12B:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: PRAILLE-ACACIAS
+CRESCHZZ13A:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: RIVE
+CRESCHZZ12A:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ''
+CRESCHZZ12F:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ''
+CRESCHZZ12J:
+  institution: CREDIT SUISSE AG
+  city: GENEVA
+  branch: ''
+CRESCHZZ65B:
+  institution: CREDIT SUISSE AG
+  city: GIUBIASCO
+  branch: ''
+CRESCHZZ87S:
+  institution: CREDIT SUISSE AG
+  city: GLARUS
+  branch: BURGSTRASSE
+CRESCHZZ87L:
+  institution: CREDIT SUISSE AG
+  city: GLARUS
+  branch: ''
+CRESCHZZ65E:
+  institution: CREDIT SUISSE AG
+  city: GORDOLA
+  branch: ''
+CRESCHZZ25S:
+  institution: CREDIT SUISSE AG
+  city: GRENCHEN
+  branch: AM MARKTPLATZ
+CRESCHZZ25G:
+  institution: CREDIT SUISSE AG
+  city: GRENCHEN
+  branch: ''
+CRESCHZZ37L:
+  institution: CREDIT SUISSE AG
+  city: GSTAAD
+  branch: ''
+CRESCHZZ94G:
+  institution: CREDIT SUISSE AG
+  city: HEERBRUGG
+  branch: ''
+CRESCHZZ61A:
+  institution: CREDIT SUISSE AG
+  city: HERGISWIL
+  branch: ''
+CRESCHZZ62L:
+  institution: CREDIT SUISSE AG
+  city: HOCHDORF
+  branch: ''
+CRESCHZZ88S:
+  institution: CREDIT SUISSE AG
+  city: HORGEN
+  branch: SEESTRASSE
+CRESCHZZ88G:
+  institution: CREDIT SUISSE AG
+  city: HORGEN
+  branch: ''
+CRESCHZZ60M:
+  institution: CREDIT SUISSE AG
+  city: HORW
+  branch: ''
+CRESCHZZ71A:
+  institution: CREDIT SUISSE AG
+  city: ILANZ
+  branch: ''
+CRESCHZZ38A:
+  institution: CREDIT SUISSE AG
+  city: INTERLAKEN
+  branch: ''
+CRESCHZZ86N:
+  institution: CREDIT SUISSE AG
+  city: JONA
+  branch: ''
+CRESCHZZ72B:
+  institution: CREDIT SUISSE AG
+  city: KLOSTERS
+  branch: ''
+CRESCHZZ83R:
+  institution: CREDIT SUISSE AG
+  city: KLOTEN
+  branch: SCHAFFHAUSERSTRASSE 151
+CRESCHZZ83A:
+  institution: CREDIT SUISSE AG
+  city: KLOTEN
+  branch: ''
+CRESCHZZ30E:
+  institution: CREDIT SUISSE AG
+  city: KOENIZ
+  branch: ''
+CRESCHZZ82S:
+  institution: CREDIT SUISSE AG
+  city: KREUZLINGEN
+  branch: HAUPTSTRASSE 53
+CRESCHZZ82P:
+  institution: CREDIT SUISSE AG
+  city: KREUZLINGEN
+  branch: ''
+CRESCHZZ60F:
+  institution: CREDIT SUISSE AG
+  city: KRIENS
+  branch: ''
+CRESCHZZ87A:
+  institution: CREDIT SUISSE AG
+  city: KUESNACHT (ZH)
+  branch: ''
+CRESCHZZ64A:
+  institution: CREDIT SUISSE AG
+  city: KUESSNACHT AM RIGI
+  branch: ''
+CRESCHZZ88M:
+  institution: CREDIT SUISSE AG
+  city: LACHEN
+  branch: ''
+CRESCHZZ68T:
+  institution: CREDIT SUISSE AG
+  city: LAMONE
+  branch: VIA VEDECCIO
+CRESCHZZ68E:
+  institution: CREDIT SUISSE AG
+  city: LAMONE
+  branch: ''
+CRESCHZZ49R:
+  institution: CREDIT SUISSE AG
+  city: LANGENTHAL
+  branch: MARKTGASSE 29
+CRESCHZZ49A:
+  institution: CREDIT SUISSE AG
+  city: LANGENTHAL
+  branch: ''
+CRESCHZZ42A:
+  institution: CREDIT SUISSE AG
+  city: LAUFEN
+  branch: ''
+CRESCHZZ10F:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: AVENUE D’OUCHY 14
+CRESCHZZ10R:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: AVENUE D’OUCHY 52
+CRESCHZZ10E:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: BOULEVARD DE GRANCY
+CRESCHZZ10C:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: LA-SALLAZ
+CRESCHZZ10D:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: MADELEINE
+CRESCHZZ10A:
+  institution: CREDIT SUISSE AG
+  city: LAUSANNE
+  branch: ''
+CRESCHZZ44R:
+  institution: CREDIT SUISSE AG
+  city: LIESTAL
+  branch: BAHNHOFSTRASSE
+CRESCHZZ44A:
+  institution: CREDIT SUISSE AG
+  city: LIESTAL
+  branch: ''
+CRESCHZZ66R:
+  institution: CREDIT SUISSE AG
+  city: LOCARNO
+  branch: VIA A. CISERI
+CRESCHZZ66A:
+  institution: CREDIT SUISSE AG
+  city: LOCARNO
+  branch: ''
+CRESCHZZ66D:
+  institution: CREDIT SUISSE AG
+  city: LOSONE
+  branch: ''
+CRESCHZZ60R:
+  institution: CREDIT SUISSE AG
+  city: LUCERNE
+  branch: BAHNHOFSTRASSE
+CRESCHZZ60A:
+  institution: CREDIT SUISSE AG
+  city: LUCERNE
+  branch: ''
+CRESCHZZ69N:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: LUGANO-UC
+CRESCHZZ69B:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: PIAZZALE P.PELLI
+CRESCHZZ69E:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: PIAZZA-RIFORMA
+CRESCHZZ69R:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: VIA G. VEGEZZI
+CRESCHZZ69A:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: ''
+CRESCHZZ69C:
+  institution: CREDIT SUISSE AG
+  city: LUGANO
+  branch: ''
+CRESCHZZ32A:
+  institution: CREDIT SUISSE AG
+  city: LYSS
+  branch: ''
+CRESCHZZ19R:
+  institution: CREDIT SUISSE AG
+  city: MARTIGNY
+  branch: AVENUE DE LA GARE
+CRESCHZZ19B:
+  institution: CREDIT SUISSE AG
+  city: MARTIGNY
+  branch: ''
+CRESCHZZ87R:
+  institution: CREDIT SUISSE AG
+  city: MEILEN
+  branch: DORFSTRASSE 126
+CRESCHZZ87D:
+  institution: CREDIT SUISSE AG
+  city: MEILEN
+  branch: ''
+CRESCHZZ68S:
+  institution: CREDIT SUISSE AG
+  city: MENDRISIO
+  branch: VIA LAVIZZARI 19A
+CRESCHZZ68C:
+  institution: CREDIT SUISSE AG
+  city: MENDRISIO
+  branch: ''
+CRESCHZZ66E:
+  institution: CREDIT SUISSE AG
+  city: MINUSIO
+  branch: ''
+CRESCHZZ18L:
+  institution: CREDIT SUISSE AG
+  city: MONTHEY
+  branch: ''
+CRESCHZZ18S:
+  institution: CREDIT SUISSE AG
+  city: MONTREUX
+  branch: PLACE DE LA PAIX 1
+CRESCHZZ18D:
+  institution: CREDIT SUISSE AG
+  city: MONTREUX
+  branch: ''
+CRESCHZZ11R:
+  institution: CREDIT SUISSE AG
+  city: MORGES
+  branch: GRAND-RUE
+CRESCHZZ11A:
+  institution: CREDIT SUISSE AG
+  city: MORGES
+  branch: ''
+CRESCHZZ27F:
+  institution: CREDIT SUISSE AG
+  city: MOUTIER
+  branch: ''
+CRESCHZZ30N:
+  institution: CREDIT SUISSE AG
+  city: MURI BEI BERN
+  branch: ''
+CRESCHZZ32B:
+  institution: CREDIT SUISSE AG
+  city: MURTEN/MORAT
+  branch: ''
+CRESCHZZ41G:
+  institution: CREDIT SUISSE AG
+  city: MUTTENZ
+  branch: ''
+CRESCHZZ81E:
+  institution: CREDIT SUISSE AG
+  city: OBERENGSTRINGEN
+  branch: ''
+CRESCHZZ47A:
+  institution: CREDIT SUISSE AG
+  city: OENSINGEN
+  branch: ''
+CRESCHZZ46R:
+  institution: CREDIT SUISSE AG
+  city: OLTEN
+  branch: FROHBURGSTRASSE 15
+CRESCHZZ46A:
+  institution: CREDIT SUISSE AG
+  city: OLTEN
+  branch: ''
+CRESCHZZ81G:
+  institution: CREDIT SUISSE AG
+  city: OPFIKON-GLATTBRUGG
+  branch: ''
+CRESCHZZ30T:
+  institution: CREDIT SUISSE AG
+  city: OSTERMUNDIGEN
+  branch: BERNSTRASSE 31
+CRESCHZZ30M:
+  institution: CREDIT SUISSE AG
+  city: OSTERMUNDIGEN
+  branch: ''
+CRESCHZZ69G:
+  institution: CREDIT SUISSE AG
+  city: PARADISO
+  branch: ''
+CRESCHZZ15C:
+  institution: CREDIT SUISSE AG
+  city: PAYERNE
+  branch: ''
+CRESCHZZ88F:
+  institution: CREDIT SUISSE AG
+  city: PFAEFFIKON
+  branch: ''
+CRESCHZZ69S:
+  institution: CREDIT SUISSE AG
+  city: PONTE TRESA
+  branch: VIA LUGANO
+CRESCHZZ69L:
+  institution: CREDIT SUISSE AG
+  city: PONTE TRESA
+  branch: ''
+CRESCHZZ75C:
+  institution: CREDIT SUISSE AG
+  city: PONTRESINA
+  branch: ''
+CRESCHZZ29A:
+  institution: CREDIT SUISSE AG
+  city: PORRENTRUY
+  branch: ''
+CRESCHZZ41R:
+  institution: CREDIT SUISSE AG
+  city: PRATTELN
+  branch: BAHNHOFSTRASSE 1
+CRESCHZZ41H:
+  institution: CREDIT SUISSE AG
+  city: PRATTELN
+  branch: ''
+CRESCHZZ10S:
+  institution: CREDIT SUISSE AG
+  city: PULLY
+  branch: PLACE DE LA GARE
+CRESCHZZ10N:
+  institution: CREDIT SUISSE AG
+  city: PULLY
+  branch: ''
+CRESCHZZ86M:
+  institution: CREDIT SUISSE AG
+  city: RAPPERSWIL
+  branch: ''
+CRESCHZZ81A:
+  institution: CREDIT SUISSE AG
+  city: REGENSDORF
+  branch: ''
+CRESCHZZ41S:
+  institution: CREDIT SUISSE AG
+  city: REINACH (BL)
+  branch: HAUPTSTRASSE
+CRESCHZZ41Q:
+  institution: CREDIT SUISSE AG
+  city: REINACH (BL)
+  branch: ''
+CRESCHZZ10P:
+  institution: CREDIT SUISSE AG
+  city: RENENS
+  branch: ''
+CRESCHZZ43A:
+  institution: CREDIT SUISSE AG
+  city: RHEINFELDEN
+  branch: ''
+CRESCHZZ41E:
+  institution: CREDIT SUISSE AG
+  city: RIEHEN
+  branch: ''
+CRESCHZZ85F:
+  institution: CREDIT SUISSE AG
+  city: ROMANSHORN
+  branch: ''
+CRESCHZZ16B:
+  institution: CREDIT SUISSE AG
+  city: ROMONT
+  branch: ''
+CRESCHZZ65C:
+  institution: CREDIT SUISSE AG
+  city: ROVEREDO (GR)
+  branch: ''
+CRESCHZZ27M:
+  institution: CREDIT SUISSE AG
+  city: SAIGNELEGIER
+  branch: ''
+CRESCHZZ75B:
+  institution: CREDIT SUISSE AG
+  city: SAMEDAN
+  branch: ''
+CRESCHZZ75L:
+  institution: CREDIT SUISSE AG
+  city: SAMNAUN
+  branch: ''
+CRESCHZZ60U:
+  institution: CREDIT SUISSE AG
+  city: SARNEN
+  branch: BAHNHOFPLATZ
+CRESCHZZ60P:
+  institution: CREDIT SUISSE AG
+  city: SARNEN
+  branch: ''
+CRESCHZZ19A:
+  institution: CREDIT SUISSE AG
+  city: SAXON
+  branch: ''
+CRESCHZZ82R:
+  institution: CREDIT SUISSE AG
+  city: SCHAFFHAUSEN
+  branch: BAHNHOFSTRASSE
+CRESCHZZ82A:
+  institution: CREDIT SUISSE AG
+  city: SCHAFFHAUSEN
+  branch: ''
+CRESCHZZ89D:
+  institution: CREDIT SUISSE AG
+  city: SCHLIEREN
+  branch: ''
+CRESCHZZ50B:
+  institution: CREDIT SUISSE AG
+  city: SCHONENWERD
+  branch: ''
+CRESCHZZ86B:
+  institution: CREDIT SUISSE AG
+  city: SCHWERZENBACH
+  branch: ''
+CRESCHZZ64R:
+  institution: CREDIT SUISSE AG
+  city: SCHWYZ
+  branch: HERRENGASSE
+CRESCHZZ64E:
+  institution: CREDIT SUISSE AG
+  city: SCHWYZ
+  branch: ''
+CRESCHZZ75H:
+  institution: CREDIT SUISSE AG
+  city: SCUOL
+  branch: ''
+CRESCHZZ39S:
+  institution: CREDIT SUISSE AG
+  city: SIERRE/SIDERS
+  branch: ROUTE DE SION
+CRESCHZZ39L:
+  institution: CREDIT SUISSE AG
+  city: SIERRE/SIDERS
+  branch: ''
+CRESCHZZ19S:
+  institution: CREDIT SUISSE AG
+  city: SION/SITTEN
+  branch: AVENUE DU MIDI
+CRESCHZZ19E:
+  institution: CREDIT SUISSE AG
+  city: SION/SITTEN
+  branch: ''
+CRESCHZZ45R:
+  institution: CREDIT SUISSE AG
+  city: SOLOTHURN
+  branch: WENGISTRASSE
+CRESCHZZ45A:
+  institution: CREDIT SUISSE AG
+  city: SOLOTHURN
+  branch: ''
+CRESCHZZAFG:
+  institution: CREDIT SUISSE AG
+  city: ST. GALLEN
+  branch: AFG ARENA
+CRESCHZZ90C:
+  institution: CREDIT SUISSE AG
+  city: ST. GALLEN
+  branch: GROSSACKER
+CRESCHZZ90R:
+  institution: CREDIT SUISSE AG
+  city: ST. GALLEN
+  branch: ST. LEONARD-STRASSE 33
+CRESCHZZ90A:
+  institution: CREDIT SUISSE AG
+  city: ST. GALLEN
+  branch: ''
+CRESCHZZ26B:
+  institution: CREDIT SUISSE AG
+  city: ST. IMIER
+  branch: ''
+CRESCHZZ94S:
+  institution: CREDIT SUISSE AG
+  city: ST. MARGRETHEN
+  branch: GRENZSTRASSE 11
+CRESCHZZ94F:
+  institution: CREDIT SUISSE AG
+  city: ST. MARGRETHEN
+  branch: ''
+CRESCHZZ75R:
+  institution: CREDIT SUISSE AG
+  city: ST. MORITZ
+  branch: VIA MAISTRA 9
+CRESCHZZ75A:
+  institution: CREDIT SUISSE AG
+  city: ST. MORITZ
+  branch: ''
+CRESCHZZ87F:
+  institution: CREDIT SUISSE AG
+  city: STAEFA
+  branch: ''
+CRESCHZZ63N:
+  institution: CREDIT SUISSE AG
+  city: STANS
+  branch: ''
+CRESCHZZ82D:
+  institution: CREDIT SUISSE AG
+  city: STEIN AM RHEIN
+  branch: ''
+CRESCHZZ62R:
+  institution: CREDIT SUISSE AG
+  city: SURSEE
+  branch: BAHNHOFSTRASSE 20
+CRESCHZZ62C:
+  institution: CREDIT SUISSE AG
+  city: SURSEE
+  branch: ''
+CRESCHZZ27N:
+  institution: CREDIT SUISSE AG
+  city: TAVANNES
+  branch: ''
+CRESCHZZ65G:
+  institution: CREDIT SUISSE AG
+  city: TENERO
+  branch: ''
+CRESCHZZ88R:
+  institution: CREDIT SUISSE AG
+  city: THALWIL
+  branch: GOTTHARDSTRASSE 21
+CRESCHZZ88A:
+  institution: CREDIT SUISSE AG
+  city: THALWIL
+  branch: ''
+CRESCHZZ12V:
+  institution: CREDIT SUISSE AG
+  city: THONEX
+  branch: ''
+CRESCHZZ36R:
+  institution: CREDIT SUISSE AG
+  city: THUN
+  branch: BAELLIZ
+CRESCHZZ36A:
+  institution: CREDIT SUISSE AG
+  city: THUN
+  branch: ''
+CRESCHZZ27O:
+  institution: CREDIT SUISSE AG
+  city: TRAMELAN
+  branch: ''
+CRESCHZZ46T:
+  institution: CREDIT SUISSE AG
+  city: TRIMBACH
+  branch: ''
+CRESCHZZ86E:
+  institution: CREDIT SUISSE AG
+  city: USTER
+  branch: ''
+CRESCHZZ92D:
+  institution: CREDIT SUISSE AG
+  city: UZWIL
+  branch: ''
+CRESCHZZ19D:
+  institution: CREDIT SUISSE AG
+  city: VERBIER
+  branch: ''
+CRESCHZZ12U:
+  institution: CREDIT SUISSE AG
+  city: VERSOIX
+  branch: ''
+CRESCHZZ12P:
+  institution: CREDIT SUISSE AG
+  city: VESENAZ
+  branch: ''
+CRESCHZZ18R:
+  institution: CREDIT SUISSE AG
+  city: VEVEY
+  branch: RUE LAUSANNE
+CRESCHZZ18A:
+  institution: CREDIT SUISSE AG
+  city: VEVEY
+  branch: ''
+CRESCHZZ18P:
+  institution: CREDIT SUISSE AG
+  city: VILLARS SUR GLANE
+  branch: ''
+CRESCHZZ18B:
+  institution: CREDIT SUISSE AG
+  city: VILLARS-SUR-OLLON
+  branch: ''
+CRESCHZZ65V:
+  institution: CREDIT SUISSE AG
+  city: VIRA (GAMBAROGNO)
+  branch: ''
+CRESCHZZ39G:
+  institution: CREDIT SUISSE AG
+  city: VISP
+  branch: ''
+CRESCHZZ88T:
+  institution: CREDIT SUISSE AG
+  city: WAEDENSWIL
+  branch: ZUGERSTRASSE
+CRESCHZZ88H:
+  institution: CREDIT SUISSE AG
+  city: WAEDENSWIL
+  branch: ''
+CRESCHZZ86D:
+  institution: CREDIT SUISSE AG
+  city: WALD
+  branch: ''
+CRESCHZZ83C:
+  institution: CREDIT SUISSE AG
+  city: WALLISELLEN
+  branch: ''
+CRESCHZZ85S:
+  institution: CREDIT SUISSE AG
+  city: WEINFELDEN
+  branch: BAHNHOFPLATZ
+CRESCHZZ85C:
+  institution: CREDIT SUISSE AG
+  city: WEINFELDEN
+  branch: ''
+CRESCHZZ86S:
+  institution: CREDIT SUISSE AG
+  city: WETZIKON
+  branch: BAHNHOFSTRASSE 3
+CRESCHZZ86F:
+  institution: CREDIT SUISSE AG
+  city: WETZIKON
+  branch: WETZIKON/ZH
+CRESCHZZ95R:
+  institution: CREDIT SUISSE AG
+  city: WIL (SG)
+  branch: ODERE BAHNHOFSTRASSE 33
+CRESCHZZ95A:
+  institution: CREDIT SUISSE AG
+  city: WIL (SG)
+  branch: ''
+CRESCHZZ84C:
+  institution: CREDIT SUISSE AG
+  city: WINTERTHUR
+  branch: BAHNHOF
+CRESCHZZ84R:
+  institution: CREDIT SUISSE AG
+  city: WINTERTHUR
+  branch: SCHAFFHAUSERSTRASSE 151
+CRESCHZZ84A:
+  institution: CREDIT SUISSE AG
+  city: WINTERTHUR
+  branch: ''
+CRESCHZZ30F:
+  institution: CREDIT SUISSE AG
+  city: WORB
+  branch: ''
+CRESCHZZ14R:
+  institution: CREDIT SUISSE AG
+  city: YVERDON-LES-BAINS
+  branch: RUE DU COLLEGE
+CRESCHZZ14A:
+  institution: CREDIT SUISSE AG
+  city: YVERDON-LES-BAINS
+  branch: ''
+CRESCHZZ39E:
+  institution: CREDIT SUISSE AG
+  city: ZERMATT
+  branch: ''
+CRESCHZZ48A:
+  institution: CREDIT SUISSE AG
+  city: ZOFINGEN
+  branch: ''
+CRESCHZZ87B:
+  institution: CREDIT SUISSE AG
+  city: ZOLLIKON
+  branch: ''
+CRESCHZZ63R:
+  institution: CREDIT SUISSE AG
+  city: ZUG
+  branch: NEUGASSE
+CRESCHZZ63A:
+  institution: CREDIT SUISSE AG
+  city: ZUG
+  branch: ''
+CRESCHZZ80M:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: AFFOLTERN
+CRESCHZZ80V:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: AIRPORT
+CRESCHZZ80S:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: ALSTETTEN/BADENERSTRASSE 697
+CRESCHZZ80E:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: ALTSTETTEN
+CRESCHZZ80B:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: AUSSERSIHL
+CRESCHZZ80W:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: BAHNHOF
+CRESCHZZ80Q:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: BAHNHOFSTRASSE
+CRESCHZZWRO:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: CENTER OF EXCELLENCE
+CRESCHZZ80C:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: ENGE
+CRESCHZZ80O:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: GALLERIA
+CRESCHZZGTP:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: GLOBAL TREASURY PROCESSING
+CRESCHZZ80A:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: HEAD OFFICE
+CRESCHZZ:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: HEAD OFFICE/ADMINISTRATION
+CRESCHZZ80I:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: HELVETIAPLATZ
+CRESCHZZ80P:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: HOENGG
+CRESCHZZ80J:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: HOTTINGEN
+CRESCHZZIKS:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: IKS
+CRESCHZZ81Z:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: LEUENHOF
+CRESCHZZ80F:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: OERLIKON
+CRESCHZZ80U:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: OERLIKON/QUERSTRASSE
+CRESCHZZPAY:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: PAYMENT EXPERT SERVICE
+CRESCHZZ80D:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: RATHAUSPLATZ
+CRESCHZZ80G:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: RIGIPLATZ
+CRESCHZZ80X:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: SCHAFFHAUSERPLATZ
+CRESCHZZEEO:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: SECURITIES ACCOUNTING
+CRESCHZZ80H:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: SEEFELD
+CRESCHZZ80Y:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: SEEFELD/SEEFELDSTRASSE 83
+CRESCHZZSTP:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: STRAIGHT THROUGH PROCESSING
+CRESCHZZ80N:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: UETLIHOF
+CRESCHZZ80K:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: UNTERSTRASS
+CRESCHZZ80L:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: WERDMUEHLEPLATZ
+CRESCHZZ80Z:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: WIEDIKON
+CRESCHZZ80R:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: WITIKON
+CRESCHZZ80T:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: WOLLISHOFEN
+CRESCHZZ81C:
+  institution: CREDIT SUISSE AG
+  city: ZURICH
+  branch: ''
+CRESCHZFADD:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ADD-SERVICE
+CRESCHZFANG:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ANG-SERVICE
+CRESCHZFARS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ARS-SERVICE
+CRESCHZFBPP:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: BPP-SERVICE
+CRESCHZFC88:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: C88-SERVICE
+CRESCHZFCPS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: CPS-SERVICE
+CRESCHZFCPU:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: CPU-SERVICE
+CRESCHZFCZA:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: CZA-SERVICES
+CRESCHZFDUF:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: DUF-SERVICE
+CRESCHZFE44:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: E44-SERVICE
+CRESCHZFEC2:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EC2-SERVICE
+CRESCHZFECP:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ECP-SERVICE
+CRESCHZFEEX:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EEX-SERVICE
+CRESCHZFEFT:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EFT-SERVICE
+CRESCHZFEFY:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EFY-SERVICE
+CRESCHZFEFZ:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EFZ SERVICE
+CRESCHZFEH3:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EH3-SERVICES
+CRESCHZFEL1:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: EL1-SERVICE
+CRESCHZFELC:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ELC-SERVICE
+CRESCHZFES4:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ES4-SERVICES
+CRESCHZFESH:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ESH-SERVICE
+CRESCHZFESS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ESS-SERVICES
+CRESCHZFESZ:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ESZ-SERVICE
+CRESCHZFETT:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ETT-SERVICE
+CRESCHZFGLL:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: GLL-SERVICE
+CRESCHZFGUG:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: GUG-SERVICE
+CRESCHZFGUS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: GUS-SERVICE
+CRESCHZFGVR:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: GVR-SERVICE
+CRESCHZFKMR:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: KMR-SERVICE
+CRESCHZFL36:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: L36-SERVICE
+CRESCHZFLDH:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: LDH-SERVICE
+CRESCHZFLTS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: LTS-SERVICE
+CRESCHZFM33:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: M33-SERVICE
+CRESCHZFMER:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: MER-SERVICE
+CRESCHZFMET:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: MET-SERVICE
+CRESCHZFNDR:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: NDR-SERVICE
+CRESCHZFNRL:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: NRL-SERVICE
+CRESCHZFPET:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: PET-SERVICE
+CRESCHZFSHL:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: SHL-SERVICE
+CRESCHZFSTA:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: STA-SERVICE
+CRESCHZFTFL:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: TFL-SERVICE
+CRESCHZFTFS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: TFS-SERVICE
+CRESCHZFTLX:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: TLX SERVICE
+CRESCHZFTRE:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: TRE-SERVICE
+CRESCHZFVTL:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: VTL-SERVICE
+CRESCHZFVTR:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: VTR-SERVICE
+CRESCHZFVTS:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: VTS-SERVICE
+CRESCHZFADG:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: XXX-SERVICE
+CRESCHZFADU:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: XXX-SERVICE
+CRESCHZFDEN:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: XXX-SERVICE
+CRESCHZFVTU:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: XXX-SERVICE
+CRESCHZF:
+  institution: CREDIT SUISSE AG (FIDES TREASURY SERVICES LTD)
+  city: ZURICH
+  branch: ''
+CRRRCH22:
+  institution: CREDITO PRIVATO COMMERCIALE SA
+  city: LUGANO
+  branch: ''
+CINQCH22:
+  institution: DCI SA
+  city: CHENE-BOURG
+  branch: ''
+DEAMCHZZ:
+  institution: DEUTSCHE ASSET MANAGEMENT SCHWEIZ
+  city: ZURICH
+  branch: ''
+DEUTCHGG:
+  institution: DEUTSCHE BANK (SUISSE) SA – PRIVATE BANKING -
+  city: GENEVA
+  branch: ''
+DEUTCHGGLUG:
+  institution: DEUTSCHE BANK (SVIZZERA) SA LUGANO – PRIVATE BANKING -
+  city: LUGANO
+  branch: ''
+DEUTCHZZ:
+  institution: DEUTSCHE BANK AG ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+DOMICHZZ:
+  institution: DOMINICK COMPANY AG
+  city: ZURICH
+  branch: ''
+DUFRCHBB:
+  institution: DUFRY MANAGEMENT LTD.
+  city: BASLE
+  branch: ''
+DUBACHGG:
+  institution: DUKASCOPY BANK SA
+  city: GENEVA
+  branch: ''
+GENOCHZZ:
+  institution: DZ PRIVATBANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+EFGBCHGG:
+  institution: E.F.G. BANK EUROPEAN FINANCIAL GROUP
+  city: GENEVA
+  branch: ''
+EATLCH22:
+  institution: ECOM AGROINDUSTRIAL CORP. LTD
+  city: PULLY
+  branch: ''
+ECOPCH2S:
+  institution: ECOPETROL CAPITAL A.G.
+  city: SCHAFFHAUSEN
+  branch: ''
+ATPRCH22:
+  institution: EDITIONS ATLAS
+  city: CHESEAUX-SUR-LAUSANNE
+  branch: ''
+EFGBCHZZ:
+  institution: EFG BANK AG
+  city: ZURICH
+  branch: ''
+EFVBCH22ZVB:
+  institution: EIDGENOESSISCHE FINANZVERWALTUNG
+  city: BERNE
+  branch: PAYMENT DEPARTMENT
+EFVBCH22BVP:
+  institution: EIDGENOESSISCHE FINANZVERWALTUNG
+  city: BERNE
+  branch: PAYMENTS BVPLUS
+EFVBCH22:
+  institution: EIDGENOESSISCHE FINANZVERWALTUNG
+  city: BERNE
+  branch: ''
+RBABCH22:
+  institution: ENTRIS BANKING AG (FORMERLY RBA-ZENTRALBANK)
+  city: GUEMLIGEN
+  branch: ''
+RBABCH22387:
+  institution: ERSPARNISKASSE AFFOLTERN I.E. AG
+  city: WEIER IM EMMENTAL
+  branch: ''
+RBABCH22835:
+  institution: ERSPARNISKASSE SCHAFFHAUSEN
+  city: SCHAFFHAUSEN
+  branch: ''
+EURACHBB:
+  institution: EUROFIMA EUROPEAN COMPANY FOR THE FINANCING OF RAILRAOAD ROLLING STOCK
+  city: BASLE
+  branch: ''
+FVLBCHZZ:
+  institution: F. VAN LANSCHOT BANKIERS (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+FFSWCHGG:
+  institution: FAISAL PRIVATE BANK (SWITZERLAND) S.A.
+  city: GENEVA
+  branch: ''
+UEBECHZZ12A:
+  institution: FALCON PRIVATE BANK LTD.
+  city: GENEVA
+  branch: ''
+UEBECHZZ:
+  institution: FALCON PRIVATE BANK LTD.
+  city: ZURICH
+  branch: ''
+FIRBCHZZ:
+  institution: FIBI BANK (SWITZERLAND) LTD.
+  city: ZURICH
+  branch: ''
+FBZUCHZZCHI:
+  institution: FINTER BANK ZUERICH
+  city: CHIASSO
+  branch: ''
+FBZUCHZZLUG:
+  institution: FINTER BANK ZUERICH
+  city: LUGANO
+  branch: ''
+FBZUCHZZ:
+  institution: FINTER BANK ZUERICH
+  city: ZURICH
+  branch: ''
+FAVSCHGGCLS:
+  institution: FONDS DE COMPENSATION DE L’AVS
+  city: GENEVA
+  branch: CLS
+FAVSCHGGFEX:
+  institution: FONDS DE COMPENSATION DE L’AVS
+  city: GENEVA
+  branch: FEX
+FAVSCHGGHEM:
+  institution: FONDS DE COMPENSATION DE L’AVS
+  city: GENEVA
+  branch: HEDGING EMERGING CURRENCIES
+FAVSCHGGTMK:
+  institution: FONDS DE COMPENSATION DE L’AVS
+  city: GENEVA
+  branch: TMK
+FAVSCHGG:
+  institution: FONDS DE COMPENSATION DE L’AVS
+  city: GENEVA
+  branch: ''
+FBGSCHZZ:
+  institution: FRANKFURTER BANKGESELLSCHAFT (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+GALDCH2L:
+  institution: GALDERMA SA
+  city: LAUSANNE
+  branch: ''
+GLAMCHZHAMF:
+  institution: GAM (SCHWEIZ) AG
+  city: ZURICH
+  branch: SWISS AND GLOBAL PROCESSING
+GLAMCHZHCAY:
+  institution: GAM (SCHWEIZ) AG
+  city: ZURICH
+  branch: SWISS AND GLOBAL
+GLAMCHZH:
+  institution: GAM (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+GLAMCHZHAMR:
+  institution: GAM (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+RKBZCHZZ:
+  institution: GAZPROMBANK (SWITZERLAND) LTD
+  city: ZURICH
+  branch: ''
+GLKBCH22:
+  institution: GLARNER KANTONALBANK
+  city: GLARUS
+  branch: ''
+GLKBCH2287L:
+  institution: GLARNER KANTONALBANK
+  city: GLARUS
+  branch: ''
+GLKBCH2287M:
+  institution: GLARNER KANTONALBANK
+  city: NAEFELS
+  branch: ''
+GLKBCH2288P:
+  institution: GLARNER KANTONALBANK
+  city: NIEDER-URNEN
+  branch: ''
+GLENCH2Z:
+  institution: GLENCORE INTERNATIONAL AG
+  city: BAAR
+  branch: ''
+GLBNCHZZ:
+  institution: GLOBALANCE BANK AG
+  city: ZURICH
+  branch: ''
+GOLDCHZZ:
+  institution: GOLDMAN SACHS BANK AG
+  city: ZURICH
+  branch: ''
+GONECHGG:
+  institution: GONET ET CIE
+  city: GENEVA
+  branch: ''
+GRKBCH22:
+  institution: GRAUBUENDNER KANTONALBANK
+  city: CHUR
+  branch: ''
+GRKBCH2270A:
+  institution: GRAUBUENDNER KANTONALBANK
+  city: CHUR
+  branch: ''
+GRKBCH2272D:
+  institution: GRAUBUENDNER KANTONALBANK
+  city: DAVOS
+  branch: PLATZ
+GRKBCH2275A:
+  institution: GRAUBUENDNER KANTONALBANK
+  city: ST. MORITZ
+  branch: ''
+RBABCH22807:
+  institution: GRB GLARNER REGIONALBANK GENOSSENSCHAFT
+  city: SCHWANDEN GL
+  branch: ''
+GUESCH22:
+  institution: GUESS EUROPE SAGL
+  city: BIOGGIO
+  branch: ''
+GUTZCHBBNRA:
+  institution: GUTZWILLER E. ET CIE BANQUIERS
+  city: BASLE
+  branch: SECURITY DEPARTMENT/NRA
+GUTZCHBB:
+  institution: GUTZWILLER E. ET CIE BANQUIERS
+  city: BASLE
+  branch: ''
+HBZUCHZZ:
+  institution: HABIB BANK AG ZURICH
+  city: ZURICH
+  branch: ''
+HSBLCHZZ:
+  institution: HABIBSONS BANK LIMITED
+  city: ZURICH
+  branch: ''
+HELTCH22:
+  institution: HELITING SA
+  city: MASSAGNO
+  branch: ''
+HELNCH22:
+  institution: HELVETIA SCHWEIZERISCHE VERSICHERUNGSGESELLSCHAFT AG
+  city: ST. GALLEN
+  branch: ''
+HERCCH22:
+  institution: HERCULIS PARTNERS SA
+  city: PORRENTRUY
+  branch: ''
+ABSGCHGG:
+  institution: HINDUJA BANK (SWITZERLAND) LTD
+  city: GENEVA
+  branch: ''
+ABSGCHGGLUZ:
+  institution: HINDUJA BANK (SWITZERLAND) LTD
+  city: LUCERNE
+  branch: LUZERN BRANCH
+HSBCCHZZ:
+  institution: HSBC BANK PLC LONDON, ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+BLICCHGGCLS:
+  institution: HSBC PRIVATE BANK (SUISSE) S.A. (FORMERLY HSBC REPUBLIC BANK SUISSE
+    S.A.)
+  city: GENEVA
+  branch: CONTINUOUS LINKED SETTLEMENT
+BLICCHGG:
+  institution: HSBC PRIVATE BANK (SUISSE) S.A. (FORMERLY HSBC REPUBLIC BANK SUISSE
+    S.A.)
+  city: GENEVA
+  branch: ''
+BLICCHGGLUG:
+  institution: HSBC PRIVATE BANK (SUISSE) S.A. (FORMERLY HSBC REPUBLIC BANK SUISSE
+    S.A.)
+  city: LUGANO
+  branch: LUGANO BRANCH
+BLICCHGGZUR:
+  institution: HSBC PRIVATE BANK (SUISSE) S.A. (FORMERLY HSBC REPUBLIC BANK SUISSE
+    S.A.)
+  city: ZURICH
+  branch: ZURICH BRANCH
+SHHBCHZZ:
+  institution: HYPOSWISS PRIVATBANK AG, ZURICH
+  city: ZURICH
+  branch: ''
+CCIECHGG:
+  institution: HYPOSWISS PRIVATE BANK GENEVE SA
+  city: GENEVA
+  branch: ''
+HYPLCH2256A:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: DOTTIKON
+  branch: ''
+HYPLCH22:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: LENZBURG
+  branch: HEAD OFFICE
+HYPLCH2256B:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: MEISTERSCHWANDEN
+  branch: ''
+HYPLCH2255A:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: MELLINGEN
+  branch: ''
+HYPLCH2257A:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: NIEDERLENZ
+  branch: ''
+HYPLCH2254A:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: OBERROHRDORF
+  branch: ''
+HYPLCH2251A:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: RUPPERSWIL
+  branch: ''
+HYPLCH2257B:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: SEON
+  branch: ''
+HYPLCH2251B:
+  institution: HYPOTHEKARBANK LENZBURG AG
+  city: WILDEGG
+  branch: ''
+IDBSCHGG:
+  institution: IDB (SWISS) BANK LTD
+  city: GENEVA
+  branch: ''
+INCOCHZZ:
+  institution: INCORE BANK AG
+  city: ZURICH
+  branch: ''
+INFTCH22:
+  institution: INFRONT SPORTS AND MEDIA AG
+  city: ZUG
+  branch: ''
+BBRUCHGT:
+  institution: ING BELGIUM, BRUSSELS, GENEVA BRANCH
+  city: GENEVA
+  branch: ''
+SPCHCHGG:
+  institution: INTESA SANPAOLO PRIVATE BANK (SUISSE) S.A.
+  city: LUGANO
+  branch: ''
+IVESCHZZ:
+  institution: INVESTEC BANK (SWITZERLAND) AG
+  city: ZURICH
+  branch: ''
+IVGECHGG:
+  institution: INVESTOR GESTION SA
+  city: GENEVA
+  branch: ''
+PLESCHZZ:
+  institution: ISP SECURITIES AG
+  city: ZURICH
+  branch: ''
+JTPBCHZZ:
+  institution: J AND T BANK SCHWEIZ AG
+  city: ZURICH
+  branch: ''
+MGTCCHZZENQ:
+  institution: J.P. MORGAN (SUISSE) S.A
+  city: GENEVA
+  branch: TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES
+MGTCCHZZKEY:
+  institution: J.P. MORGAN (SUISSE) S.A
+  city: GENEVA
+  branch: TEST KEY AND BKE ADMINISTRATION
+MGTCCHZZ:
+  institution: J.P. MORGAN (SUISSE) S.A
+  city: ZURICH
+  branch: ''
+MGTCCHGGMOM:
+  institution: J.P. MORGAN (SUISSE) S.A.
+  city: GENEVA
+  branch: MOM DEPARTMENT
+MGTCCHGG:
+  institution: J.P. MORGAN (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+CHASCHGX:
+  institution: JPMORGAN CHASE BANK, N.A.
+  city: ZURICH
+  branch: ''
+JYBACHZZ:
+  institution: JYSKE BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+KSUICHGG:
+  institution: KBL (SWITZERLAND) LTD
+  city: GENEVA
+  branch: ''
+KUNACH22:
+  institution: KUHNE + NAGEL MANAGEMENT AG
+  city: SCHINDELLEGI
+  branch: ''
+CTBRCHGA:
+  institution: LA COMPAGNIE BENJAMIN DE ROTHSCHILD SA
+  city: GENEVA
+  branch: ''
+LRBSCHBB:
+  institution: LA ROCHE 1787, KOMPLEMENTARE LA ROCHE, LABHARDT, BAUMANN, GLOOR AND
+    CO
+  city: BASLE
+  branch: ''
+LANBCH2L:
+  institution: LANDOLT ET CIE SA
+  city: LAUSANNE
+  branch: ''
+LBSHCHZZ:
+  institution: LBBW (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+RBABCH22875:
+  institution: LEIHKASSE STAMMHEIM AG
+  city: OBERSTAMMHEIM
+  branch: ''
+LEMACH22:
+  institution: LEMANIK S.A.
+  city: LUGANO
+  branch: ''
+EFGFCHZZ:
+  institution: LEONTEQ SECURITIES AG
+  city: ZURICH
+  branch: ''
+DREYCHBB:
+  institution: LES FILS DREYFUS ET CIE SA, BANQUIERS
+  city: BASLE
+  branch: ''
+LUMICHZZ:
+  institution: LEUMI PRIVATE BANK LTD.
+  city: ZURICH
+  branch: ''
+LFFSCHGG:
+  institution: LF FINANCE (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+BLFLCHBB:
+  institution: LGT BANK (SCHWEIZ) AG
+  city: BASLE
+  branch: ''
+LILACHZZ:
+  institution: LIECHTENSTEINISCHE LANDESBANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+RBABCH22830:
+  institution: LIENHARDT AND PARTNER PRIVATBANK ZURICH AG
+  city: ZURICH
+  branch: ''
+LFWRCH22:
+  institution: LIFEWARE SA
+  city: BIOGGIO
+  branch: ''
+LOYDCHGG:
+  institution: LLOYDS BANK PLC
+  city: GENEVA
+  branch: ''
+LOYDCHGGZCH:
+  institution: LLOYDS BANK PLC
+  city: ZURICH
+  branch: ''
+LOCCCHGG:
+  institution: L’OCCITANE INTERNATIONAL SA,LUXEMBOURG SUCCURSALE DE PLAN-LES-OUATES
+  city: PLAN-LES-OUATES
+  branch: ''
+LOGNCH22:
+  institution: LOGITECH EUROPE SA
+  city: MORGES
+  branch: ''
+LGBWCH22:
+  institution: LONGBOW FINANCE SA
+  city: LUTRY
+  branch: ''
+LOMICHZZ:
+  institution: LOOMIS SCHWEIZ SA
+  city: RUEMLANG
+  branch: ''
+LDRCCHGE:
+  institution: LOUIS DREYFUS COMMODITIES SUISSE S.A.
+  city: GENEVA
+  branch: ''
+LDRCCHGG:
+  institution: LOUIS DREYFUS COMMODITIES SUISSE S.A.
+  city: GENEVA
+  branch: ''
+LUKBCH2262D:
+  institution: LUZERNER KANTONALBANK
+  city: BEROMUENSTER
+  branch: ''
+LUKBCH2260K:
+  institution: LUZERNER KANTONALBANK
+  city: EBIKON
+  branch: ''
+LUKBCH2260G:
+  institution: LUZERNER KANTONALBANK
+  city: EMMENBRUECKE
+  branch: ''
+LUKBCH2262K:
+  institution: LUZERNER KANTONALBANK
+  city: ESCHENBACH
+  branch: ''
+LUKBCH2262M:
+  institution: LUZERNER KANTONALBANK
+  city: HITZKIRCH
+  branch: ''
+LUKBCH2262L:
+  institution: LUZERNER KANTONALBANK
+  city: HOCHDORF
+  branch: ''
+LUKBCH2260M:
+  institution: LUZERNER KANTONALBANK
+  city: HORW
+  branch: ''
+LUKBCH2260F:
+  institution: LUZERNER KANTONALBANK
+  city: KRIENS
+  branch: ''
+LUKBCH2260S:
+  institution: LUZERNER KANTONALBANK
+  city: LITTAU
+  branch: ''
+LUKBCH2260B:
+  institution: LUZERNER KANTONALBANK
+  city: LUCERNE
+  branch: BRANCH
+LUKBCH2260A:
+  institution: LUZERNER KANTONALBANK
+  city: LUCERNE
+  branch: HEAD OFFICE
+LUKBCH22:
+  institution: LUZERNER KANTONALBANK
+  city: LUCERNE
+  branch: LUZERN BRANCH
+LUKBCH2260L:
+  institution: LUZERNER KANTONALBANK
+  city: MEGGEN
+  branch: ''
+LUKBCH2262H:
+  institution: LUZERNER KANTONALBANK
+  city: REIDEN
+  branch: ''
+LUKBCH2260T:
+  institution: LUZERNER KANTONALBANK
+  city: ROOT
+  branch: ''
+LUKBCH2260U:
+  institution: LUZERNER KANTONALBANK
+  city: ROTHENBURG
+  branch: ''
+LUKBCH2260V:
+  institution: LUZERNER KANTONALBANK
+  city: RUSWIL
+  branch: ''
+LUKBCH2261F:
+  institution: LUZERNER KANTONALBANK
+  city: SCHUEPFHEIM
+  branch: ''
+LUKBCH2262A:
+  institution: LUZERNER KANTONALBANK
+  city: SEMPACH
+  branch: ''
+LUKBCH2261H:
+  institution: LUZERNER KANTONALBANK
+  city: SOERENBERG
+  branch: ''
+LUKBCH2262C:
+  institution: LUZERNER KANTONALBANK
+  city: SURSEE
+  branch: ''
+LUKBCH2263W:
+  institution: LUZERNER KANTONALBANK
+  city: WEGGIS
+  branch: ''
+LUKBCH2261C:
+  institution: LUZERNER KANTONALBANK
+  city: WILLISAU
+  branch: ''
+LUKBCH2261B:
+  institution: LUZERNER KANTONALBANK
+  city: WOLHUSEN
+  branch: ''
+WBWCCHZZ:
+  institution: M.M. WARBURG BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+MAEBCHZZ:
+  institution: MAERKI BAUMANN UND CO. AG
+  city: ZURICH
+  branch: ''
+MLCPCHGG:
+  institution: MALABAR CAPITAL SA
+  city: GENEVA
+  branch: AIM/POMS SERVICE
+BAMRCHZZ:
+  institution: MERCANTIL BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+MERCCHGG:
+  institution: MERCURIA ENERGY TRADING SA
+  city: GENEVA
+  branch: ''
+MLCMCHZH:
+  institution: MERRILL LYNCH CAPITAL MARKETS AG
+  city: ZURICH
+  branch: ''
+METACH22:
+  institution: METALOR TECHNOLOGIES SA
+  city: NEUCHATEL
+  branch: ''
+MIAGCH22:
+  institution: MIAG C.V. AMSTERDAM NL, BRANCH BAAR
+  city: BAAR
+  branch: ''
+MIGRCHZZ50A:
+  institution: MIGROS BANK
+  city: AARAU
+  branch: ''
+MIGRCHZZ40A:
+  institution: MIGROS BANK
+  city: BASLE
+  branch: ''
+MIGRCHZZ30A:
+  institution: MIGROS BANK
+  city: BERNE
+  branch: ''
+MIGRCHZZ17A:
+  institution: MIGROS BANK
+  city: FRIBOURG
+  branch: ''
+MIGRCHZZ12A:
+  institution: MIGROS BANK
+  city: GENEVA
+  branch: ''
+MIGRCHZZ10A:
+  institution: MIGROS BANK
+  city: LAUSANNE
+  branch: ''
+MIGRCHZZ60A:
+  institution: MIGROS BANK
+  city: LUCERNE
+  branch: ''
+MIGRCHZZ69A:
+  institution: MIGROS BANK
+  city: LUGANO
+  branch: ''
+MIGRCHZZ19A:
+  institution: MIGROS BANK
+  city: SION/SITTEN
+  branch: ''
+MIGRCHZZ90A:
+  institution: MIGROS BANK
+  city: ST. GALLEN
+  branch: ''
+MIGRCHZZKEY:
+  institution: MIGROS BANK
+  city: WALLISELLEN
+  branch: S.W.I.F.T. ADMINISTRATION
+MIGRCHZZ84A:
+  institution: MIGROS BANK
+  city: WINTERTHUR
+  branch: ''
+MIGRCHZZ80A:
+  institution: MIGROS BANK
+  city: ZURICH
+  branch: BACK OFFICE
+MIGRCHZZ:
+  institution: MIGROS BANK
+  city: ZURICH
+  branch: ''
+MIRACHGGINS:
+  institution: MIRABAUD AND CIE SA
+  city: GENEVA
+  branch: INSTITUTIONNELLE
+MIRACHGG:
+  institution: MIRABAUD AND CIE SA
+  city: GENEVA
+  branch: ''
+MUWMCHGG:
+  institution: MITSUBISHI UFJ WEALTH MANAGEMENT BANK (SWITZERLAND)
+  city: GENEVA
+  branch: ''
+MHSCCHZZ:
+  institution: MIZUHO BANK (SWITZERLAND) LTD.
+  city: ZURICH
+  branch: ''
+MKSGCHGG:
+  institution: MKS (SWITZERLAND) SA
+  city: GENEVA
+  branch: ''
+MOALCHGG:
+  institution: MOURGUE D’ALGUE ET CIE
+  city: GENEVA
+  branch: ''
+NBPSCHGG:
+  institution: NBAD PRIVATE BANK (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+NBOKCHGG:
+  institution: NBK BANQUE PRIVEE (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+NESNCH22:
+  institution: NESTLE S.A.
+  city: VEVEY
+  branch: ''
+AHHBCH22:
+  institution: NEUE AARGAUER BANK AG
+  city: AARAU
+  branch: ''
+AHHBCH2256A:
+  institution: NEUE AARGAUER BANK AG
+  city: LENZBURG
+  branch: BAHNHOFPLATZ
+AHHBCH2289F:
+  institution: NEUE AARGAUER BANK AG
+  city: SPREITENBACH
+  branch: SHOPPING CENTER
+AHHBCH2254C:
+  institution: NEUE AARGAUER BANK AG
+  city: WETTINGEN
+  branch: LANDSTRASSE
+SFBFCH22:
+  institution: NEUE HELVETISCHE BANK AG
+  city: ZURICH
+  branch: ''
+NEPICHZZ:
+  institution: NEUE PRIVAT BANK AG
+  city: ZURICH
+  branch: ''
+NIKACH22:
+  institution: NIDWALDNER KANTONALBANK
+  city: STANS
+  branch: ''
+NOKFCHGG:
+  institution: NOKIA FINANCE INTERNATIONAL
+  city: GENEVA
+  branch: ''
+NSNFCHGV:
+  institution: NOKIA SOLUTIONS AND NETWORKS FINANCE B.V. SUCCURSALE DE LANCY
+  city: PETIT-LANCY
+  branch: ''
+NBSZCHZZ:
+  institution: NOMURA BANK (SWITZERLAND) LTD.
+  city: ZURICH
+  branch: ''
+NDEACHZZ:
+  institution: NORDEA BANK S.A., LUXEMBURG, ZWEIGNIEDERLASSUNG, ZUERICH.
+  city: ZURICH
+  branch: ''
+WEGECH2GWBS:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: BASLE
+  branch: ''
+WEGECH2GWBE:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: BERNE
+  branch: ''
+WEGECH2GWCH:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: CHIASSO
+  branch: ''
+WEGECH2GWGR:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: CHUR
+  branch: ''
+WEGECH2GWGE:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: GENEVA
+  branch: ''
+WEGECH2GWVD:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: LAUSANNE
+  branch: ''
+WEGECH2GWLO:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: LOCARNO
+  branch: ''
+WEGECH2GWLU:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: LUCERNE
+  branch: ''
+WEGECH2GWTI:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: LUGANO
+  branch: ''
+WEGECH2GWSH:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: SCHAFFHAUSEN
+  branch: ''
+WEGECH2G:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: ST. GALLEN
+  branch: ''
+WEGECH2GWWI:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: WINTERTHUR
+  branch: ''
+WEGECH2GWZH:
+  institution: NOTENSTEIN PRIVATBANK AG
+  city: ZURICH
+  branch: ''
+NOVRCHBS164:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: APICA STIFTUNG
+NOVRCHBS17B:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: EDUARD SANDOZ STIFTUNG
+NOVRCHBS165:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: GADIENT ENGI STIFTUNG
+NOVRCHBS207:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: NOVARTIS OPAL AG
+NOVRCHBS171:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: NOVARTIS STIFTUNG
+NOVRCHBS077:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: OVERSEAS INVESTMENTS
+NOVRCHBSSAN:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: SANIERUNGSSTIFTUNG
+NOVRCHBS174:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: STIFTUNG FUR ERZIEHUNG, AUSBILDUNG UND BILDUNG
+NOVRCHBSMUU:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: STIFTUNG FUR MENSCH UND UMWELT
+NOVRCHBS169:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: STIFTUNG NACHHALTIGE ENTWICKLUNG
+NOVRCHBS:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS009:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS010:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS024:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS028:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS038:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS071:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS078:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS080:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS088:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS093:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS097:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS099:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS105:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS162:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBSWFS:
+  institution: NOVARTIS AG
+  city: BASLE
+  branch: ''
+NOVRCHBS018:
+  institution: NOVARTIS AG
+  city: BERNE
+  branch: ''
+NOVRCHBS025:
+  institution: NOVARTIS AG
+  city: BERNE
+  branch: ''
+NOVRCHBS115:
+  institution: NOVARTIS AG
+  city: CHAM
+  branch: ''
+NOVRCHBS106:
+  institution: NOVARTIS AG
+  city: EMBRACH
+  branch: ''
+NOVRCHBS108:
+  institution: NOVARTIS AG
+  city: EMBRACH
+  branch: ''
+NOVRCHBS056:
+  institution: NOVARTIS AG
+  city: LIESTAL
+  branch: ''
+NOVRCHBS017:
+  institution: NOVARTIS AG
+  city: LOCARNO
+  branch: ''
+NOVRCHBS026:
+  institution: NOVARTIS AG
+  city: NYON
+  branch: ''
+NOVRCHBS052:
+  institution: NOVARTIS AG
+  city: NYON
+  branch: ''
+NOVRCHBS191:
+  institution: NOVARTIS AG
+  city: ROTKREUZ
+  branch: ''
+NOVRCHBS192:
+  institution: NOVARTIS AG
+  city: ROTKREUZ
+  branch: ''
+NOVRCHBS047:
+  institution: NOVARTIS AG
+  city: SAINT AUBIN
+  branch: CENTRE DE RECHERCHE
+NOVRCHBS128:
+  institution: NOVARTIS AG
+  city: SCHLIEREN
+  branch: ESBATECH
+NOVRCHBS069:
+  institution: NOVARTIS AG
+  city: SCHWEIZERHALLE
+  branch: ''
+NOVRCHBS218:
+  institution: NOVARTIS AG
+  city: ZUG
+  branch: EIOLA AG
+NOVRCHBH:
+  institution: NOVARTIS HOLDING AG
+  city: BASLE
+  branch: ''
+PKNOCHBSKYX:
+  institution: NOVARTIS PENSIONSKASSE
+  city: BASLE
+  branch: CALLINVEST SPC
+PKNOCHBS:
+  institution: NOVARTIS PENSIONSKASSE
+  city: BASLE
+  branch: ''
+PKNOCHBSKNX:
+  institution: NOVARTIS PENSIONSKASSE
+  city: BASLE
+  branch: ''
+PKNOCHBSWFX:
+  institution: NOVARTIS PENSIONSKASSE
+  city: BASLE
+  branch: ''
+PKNOCHBSBCH:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: NOVARTIS POOLING FUND BONDS CHF
+PKNOCHBSBFW:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: NOVARTIS POOLING FUND BONDS WORLD
+PKNOCHBSEEM:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: NOVARTIS POOLING FUND EQUITIES EMERGING MARKETS
+PKNOCHBSEFW:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: ''
+PKNOCHBSEUP:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: ''
+PKNOCHBSEUS:
+  institution: NOVARTIS PENSIONSKASSE
+  city: ZURICH
+  branch: ''
+OBWKCH22:
+  institution: OBWALDNER KANTONALBANK
+  city: SARNEN
+  branch: ''
+OMYACH22:
+  institution: OMYA SCHWEIZ AG
+  city: OFTRINGEN
+  branch: ''
+PANPCHBS:
+  institution: PANALPINA WELTTRANSPORT (HOLDING) AG
+  city: BASLE
+  branch: ''
+PGHNCH2B:
+  institution: PARTNERS GROUP AG
+  city: BAAR
+  branch: ''
+PEPSCHGG:
+  institution: PETERCAM BANQUE PRIVEE (SUISSE) SA
+  city: GENEVA
+  branch: ''
+PEPSCHGGNDP:
+  institution: PETERCAM BANQUE PRIVEE (SUISSE) SA
+  city: GENEVA
+  branch: ''
+PMIFCH2L:
+  institution: PHILIP MORRIS FINANCE SA
+  city: LAUSANNE
+  branch: ''
+SONOCHZZ:
+  institution: PHONAK AG
+  city: STAEFA
+  branch: ''
+PHZZCHZZ:
+  institution: PHZ PRIVAT-UND HANDELSBANK ZUERICH AG
+  city: ZURICH
+  branch: ''
+PIGUCH22:
+  institution: PIGUET GALLAND ET CIE SA (EX BANQUE PIGUET ET CIE SA)
+  city: YVERDON-LES-BAINS
+  branch: ''
+PKBSCH2212A:
+  institution: PKB PRIVATBANK AG
+  city: GENEVA
+  branch: ''
+PKBSCH22KEY:
+  institution: PKB PRIVATBANK AG
+  city: LUGANO
+  branch: KEY OFFICE
+PKBSCH2269A:
+  institution: PKB PRIVATBANK AG
+  city: LUGANO
+  branch: LUGANO BRANCH
+PKBSCH22:
+  institution: PKB PRIVATBANK AG
+  city: LUGANO
+  branch: ''
+PKBSCH2280A:
+  institution: PKB PRIVATBANK AG
+  city: ZURICH
+  branch: ''
+POFICHBE:
+  institution: POSTFINANCE AG
+  city: BERNE
+  branch: ''
+PRBECHZZ:
+  institution: PRIVATBANK BELLERIVE AG
+  city: ZURICH
+  branch: ''
+IHZUCHZZ:
+  institution: PRIVATBANK IHAG ZUERICH
+  city: ZURICH
+  branch: ''
+PSAICHGG:
+  institution: PSA INTERNATIONAL S.A.
+  city: GENEVA
+  branch: ''
+QNBACHGG:
+  institution: QNB BANQUE PRIVEE (SUISSE) SA
+  city: GENEVA
+  branch: ''
+QVCHCHZH:
+  institution: QUILVEST SWITZERLAND LTD.
+  city: ZURICH
+  branch: ''
+RAHNCHZZ:
+  institution: RAHN UND BODMER CO.
+  city: ZURICH
+  branch: ''
+RAIFCH22D77:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AADORF
+  branch: ''
+RAIFCH22670:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ABTWIL AG
+  branch: ''
+RAIFCH22C41:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ABTWIL SG
+  branch: ''
+RAIFCH22350:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ACQUAROSSA
+  branch: ''
+RAIFCH22B68:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ADLIGENSWIL
+  branch: ''
+RAIFCH22779:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AESCH
+  branch: ''
+RAIFCH22928:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AESCHI
+  branch: ''
+RAIFCH22447:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AIGLE
+  branch: ''
+RAIFCH22775:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ALLSCHWIL
+  branch: ''
+RAIFCH22C32:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ALPNACH
+  branch: ''
+RAIFCH22E31:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ALTDORF
+  branch: ''
+RAIFCH22D71:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ALTNAU
+  branch: ''
+RAIFCH22C97:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ALTSTAETTEN (SG)
+  branch: ''
+RAIFCH22D73:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AMRISWIL
+  branch: ''
+RAIFCH22C53:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ANDWIL
+  branch: ''
+RAIFCH22A23:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: APPENZELL
+  branch: ''
+RAIFCH22776:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ARLESHEIM
+  branch: ''
+RAIFCH22414:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ASSENS
+  branch: ''
+RAIFCH22651:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: AUW
+  branch: ''
+RAIFCH22E54:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BAAR
+  branch: ''
+RAIFCH22930:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BALSTHAL
+  branch: ''
+RAIFCH22E86:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BASLE
+  branch: ''
+RAIFCH22577:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BASSE-NENDAZ
+  branch: ''
+RAIFCH22669:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BEINWIL
+  branch: ''
+RAIFCH22102:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BELFAUX
+  branch: ''
+RAIFCH22387:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BELLINZONA
+  branch: ''
+RAIFCH22098:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BELP
+  branch: ''
+RAIFCH22C56:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BENKEN
+  branch: ''
+RAIFCH22E88:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BERNE
+  branch: ''
+RAIFCH22C58:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BERNECK
+  branch: ''
+RAIFCH22181:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BERNEX
+  branch: ''
+RAIFCH22C59:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BERNHARDZELL
+  branch: ''
+RAIFCH22B70:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BEROMUENSTER
+  branch: ''
+RAIFCH22093:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BEVILARD
+  branch: ''
+RAIFCH22382:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BIASCA
+  branch: ''
+RAIFCH22933:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BIBERIST
+  branch: ''
+RAIFCH22D78:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BICHELSEE
+  branch: ''
+RAIFCH22833:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BIEL (BIENNE)
+  branch: ''
+RAIFCH22094:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BIGLEN
+  branch: ''
+RAIFCH22307:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BIOGGIO
+  branch: ''
+RAIFCH22492:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BITSCH
+  branch: ''
+RAIFCH22015:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BONCOURT
+  branch: ''
+RAIFCH22675:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BOSWIL
+  branch: ''
+RAIFCH22811:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BOWIL
+  branch: ''
+RAIFCH22384:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BREGANZONA
+  branch: ''
+RAIFCH22B37:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BREIL
+  branch: ''
+RAIFCH22D58:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BRUNNEN
+  branch: ''
+RAIFCH22C51:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUCHS SG
+  branch: ''
+RAIFCH22E75:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUELACH
+  branch: ''
+RAIFCH22493:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUERCHEN
+  branch: ''
+RAIFCH22D80:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUERGLEN
+  branch: ''
+RAIFCH22E32:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUERGLEN
+  branch: ''
+RAIFCH22C61:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUETSCHWIL
+  branch: ''
+RAIFCH22C22:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUOCHS
+  branch: ''
+RAIFCH22888:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BURGDORF
+  branch: ''
+RAIFCH22B72:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: BUTTISHOLZ
+  branch: ''
+RAIFCH22313:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CAMORINO
+  branch: ''
+RAIFCH22315:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CANOBBIO
+  branch: ''
+RAIFCH22317:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CASLANO
+  branch: ''
+RAIFCH22A63:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CAZIS
+  branch: ''
+RAIFCH22584:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHALAIS
+  branch: ''
+RAIFCH22E55:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHAM
+  branch: ''
+RAIFCH22117:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHARMEY
+  branch: ''
+RAIFCH22428:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHATEAU-D OEX
+  branch: ''
+RAIFCH22188:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHENE-BOURG
+  branch: ''
+RAIFCH22615:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHERMIGNON
+  branch: ''
+RAIFCH22272:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CHIASSO
+  branch: ''
+RAIFCH22251:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: COFFRANE
+  branch: ''
+RAIFCH22322:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: COLDRERIO
+  branch: ''
+RAIFCH22589:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CONTHEY
+  branch: ''
+RAIFCH22324:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CONTONE
+  branch: ''
+RAIFCH22430:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CORSIER-SUR-VEVEY
+  branch: ''
+RAIFCH22004:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: COURFAIVRE
+  branch: ''
+RAIFCH22280:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: CUGNASCO
+  branch: ''
+RAIFCH22936:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DANIKEN
+  branch: ''
+RAIFCH22C80:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DEGERSHEIM
+  branch: ''
+RAIFCH22002:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DELEMONT
+  branch: ''
+RAIFCH22938:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DERENDINGEN
+  branch: ''
+RAIFCH22C62:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DIEPOLDSAU
+  branch: ''
+RAIFCH22666:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DIETIKON
+  branch: ''
+RAIFCH22A72:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DISENTIS-MUNSTER
+  branch: ''
+RAIFCH22123:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DOMDIDIER
+  branch: ''
+RAIFCH22939:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DORNACH
+  branch: ''
+RAIFCH22894:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DUEDINGEN
+  branch: ''
+RAIFCH22911:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DULLIKEN
+  branch: ''
+RAIFCH22D81:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: DUSSNANG
+  branch: ''
+RAIFCH22C63:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EBNAT-KAPPEL
+  branch: ''
+RAIFCH22434:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ECHALLENS
+  branch: ''
+RAIFCH22912:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EGERKINGEN
+  branch: ''
+RAIFCH22C44:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EGGERSRIET
+  branch: ''
+RAIFCH22683:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EIKEN
+  branch: ''
+RAIFCH22D61:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EINSIEDELN
+  branch: ''
+RAIFCH22B77:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: EMMENBRUECKE
+  branch: ''
+RAIFCH22C65:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ENGELBERG
+  branch: ''
+RAIFCH22816:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ERLENBACH IM SIMMENTAL
+  branch: ''
+RAIFCH22940:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ERLINSBACH
+  branch: ''
+RAIFCH22E33:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ERSTFELD
+  branch: ''
+RAIFCH22B87:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ESCHENBACH
+  branch: ''
+RAIFCH22C98:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ESCHENBACH
+  branch: ''
+RAIFCH22D82:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ESCHENZ
+  branch: ''
+RAIFCH22B79:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ESCHOLZMATT
+  branch: ''
+RAIFCH22139:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ESTAVAYER-LE-LAC
+  branch: ''
+RAIFCH22777:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ETTINGEN
+  branch: ''
+RAIFCH22C12:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ETTISWIL
+  branch: ''
+RAIFCH22374:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FAIDO
+  branch: ''
+RAIFCH22520:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FIESCH
+  branch: ''
+RAIFCH22D25:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FLAWIL
+  branch: ''
+RAIFCH22261:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FLEURIER
+  branch: ''
+RAIFCH22C67:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FLUMS
+  branch: ''
+RAIFCH22257:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FONTAINEMELON
+  branch: ''
+RAIFCH22D84:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FRAUENFELD
+  branch: ''
+RAIFCH22691:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FRICK
+  branch: ''
+RAIFCH22820:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FRUTIGEN
+  branch: ''
+RAIFCH22914:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FULENBACH
+  branch: ''
+RAIFCH22595:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: FULLY
+  branch: ''
+RAIFCH22521:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GAMPEL
+  branch: ''
+RAIFCH22689:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GANSINGEN
+  branch: ''
+RAIFCH22690:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GEBENSTORF
+  branch: ''
+RAIFCH22771:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GELTERKINDEN
+  branch: ''
+RAIFCH22895:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GIFFERS
+  branch: ''
+RAIFCH22485:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GIMEL
+  branch: ''
+RAIFCH22344:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GIUBIASCO
+  branch: ''
+RAIFCH22C69:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GOLDACH
+  branch: ''
+RAIFCH22C45:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GOLDINGEN
+  branch: ''
+RAIFCH22241:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GORGIER
+  branch: ''
+RAIFCH22C71:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GOSSAU
+  branch: ''
+RAIFCH22403:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GOUMOENS-LA-VILLE
+  branch: ''
+RAIFCH22823:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GSTAAD
+  branch: ''
+RAIFCH22E72:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GUNTALINGEN
+  branch: ''
+RAIFCH22896:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: GURMELS
+  branch: ''
+RAIFCH22947:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HAGENDORF
+  branch: ''
+RAIFCH22B83:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HASLE
+  branch: ''
+RAIFCH22A12:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HEIDEN
+  branch: ''
+RAIFCH22599:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HEREMENCE
+  branch: ''
+RAIFCH22B84:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HERGISWIL
+  branch: ''
+RAIFCH22A11:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HERISAU
+  branch: ''
+RAIFCH22B64:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HILDISRIEDEN
+  branch: ''
+RAIFCH22B69:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HITZKIRCH
+  branch: ''
+RAIFCH22B91:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HOFSTATT
+  branch: ''
+RAIFCH22954:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HOFSTETTEN
+  branch: ''
+RAIFCH22B86:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HORW
+  branch: ''
+RAIFCH22E56:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: HUENENBERG
+  branch: ''
+RAIFCH22A73:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ILANZ
+  branch: ''
+RAIFCH22D57:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ILLGAU
+  branch: ''
+RAIFCH22D51:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: IMMENSEE
+  branch: ''
+RAIFCH22842:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: INTERLAKEN
+  branch: ''
+RAIFCH22C74:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: JONA
+  branch: ''
+RAIFCH22696:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KAISTEN
+  branch: ''
+RAIFCH22955:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KESTENHOLZ
+  branch: ''
+RAIFCH22652:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KLEINDOETTINGEN
+  branch: ''
+RAIFCH22E74:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KLOTEN
+  branch: ''
+RAIFCH22698:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KOLLIKEN
+  branch: ''
+RAIFCH22B65:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KRIENS
+  branch: ''
+RAIFCH22C75:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KRIESSERN
+  branch: ''
+RAIFCH22A84:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: KUEBLIS
+  branch: ''
+RAIFCH22150:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LA ROCHE
+  branch: ''
+RAIFCH22129:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LA TOUR-DE-TREME
+  branch: ''
+RAIFCH22283:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LAMONE
+  branch: ''
+RAIFCH22A45:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LANDQUART
+  branch: ''
+RAIFCH22097:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LAUFEN
+  branch: ''
+RAIFCH22451:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LAUSANNE
+  branch: ''
+RAIFCH22837:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LAUTERBRUNNEN
+  branch: ''
+RAIFCH22581:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LE CHABLE
+  branch: ''
+RAIFCH22237:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LE LOCLE
+  branch: ''
+RAIFCH22700:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LENGNAU
+  branch: ''
+RAIFCH22701:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LEUGGERN
+  branch: ''
+RAIFCH22400:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LEYSIN
+  branch: ''
+RAIFCH22602:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LEYTRON
+  branch: ''
+RAIFCH22B03:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LI CURT
+  branch: ''
+RAIFCH22773:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LIESTAL
+  branch: ''
+RAIFCH22332:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LIGORNETTO
+  branch: ''
+RAIFCH22379:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LOCARNO
+  branch: ''
+RAIFCH22333:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LOSONE
+  branch: ''
+RAIFCH22918:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LOSTORF
+  branch: ''
+RAIFCH22875:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LUETZELFLUEH-GOLDBACH
+  branch: ''
+RAIFCH22375:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LUGANO
+  branch: ''
+RAIFCH22454:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LUTRY
+  branch: ''
+RAIFCH22B90:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LUZERN
+  branch: ''
+RAIFCH22C03:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: LUZERN
+  branch: ''
+RAIFCH22335:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MAGGIA
+  branch: ''
+RAIFCH22B92:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MALTERS
+  branch: ''
+RAIFCH22E81:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MANNEDORF
+  branch: ''
+RAIFCH22D24:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MARBACH
+  branch: ''
+RAIFCH22105:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MARLY
+  branch: ''
+RAIFCH22606:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MASSONGEX
+  branch: ''
+RAIFCH22D79:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MATTWIL
+  branch: ''
+RAIFCH22843:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MEIRINGEN
+  branch: ''
+RAIFCH22287:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MELANO
+  branch: ''
+RAIFCH22704:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MELLINGEN
+  branch: ''
+RAIFCH22C81:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MELS
+  branch: ''
+RAIFCH22340:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MENDRISIO
+  branch: ''
+RAIFCH22E57:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MENZINGEN
+  branch: ''
+RAIFCH22B94:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MENZNAU
+  branch: ''
+RAIFCH22705:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MERENSCHWAND
+  branch: ''
+RAIFCH22206:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MEYRIN
+  branch: ''
+RAIFCH22608:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MIEGE
+  branch: ''
+RAIFCH22706:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MOHLIN
+  branch: ''
+RAIFCH22401:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MONTAGNY-PRES-YVERDON
+  branch: ''
+RAIFCH22611:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MONTHEY
+  branch: ''
+RAIFCH22445:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MONTRICHER
+  branch: ''
+RAIFCH22290:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MORBIO INFERIORE
+  branch: ''
+RAIFCH22460:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MORGES
+  branch: ''
+RAIFCH22C84:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MORSCHWIL
+  branch: ''
+RAIFCH22482:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MOUDON
+  branch: ''
+RAIFCH22B44:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MUESTAIR
+  branch: ''
+RAIFCH22962:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MUMLISWIL
+  branch: ''
+RAIFCH22D60:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: MUOTATHAL
+  branch: ''
+RAIFCH22A31:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NAEFELS
+  branch: ''
+RAIFCH22532:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NATERS
+  branch: ''
+RAIFCH22C87:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NEU ST.JOHANN
+  branch: ''
+RAIFCH22D98:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NEUKIRCH (EGNACH)
+  branch: ''
+RAIFCH22964:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NIEDERBUCHSITEN
+  branch: ''
+RAIFCH22965:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NIEDERGOSGEN
+  branch: ''
+RAIFCH22C89:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NIEDERHELFENSCHWIL
+  branch: ''
+RAIFCH22719:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NIEDERROHRDORF
+  branch: ''
+RAIFCH22B96:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NOTTWIL
+  branch: ''
+RAIFCH22348:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NOVAGGIO
+  branch: ''
+RAIFCH22924:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NUNNINGEN
+  branch: ''
+RAIFCH22442:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: NYON
+  branch: ''
+RAIFCH22E59:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERAGERI
+  branch: ''
+RAIFCH22C91:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERBUREN
+  branch: ''
+RAIFCH22968:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERDORF
+  branch: ''
+RAIFCH22E77:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBEREMBRACH
+  branch: ''
+RAIFCH22D64:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERIBERG
+  branch: ''
+RAIFCH22702:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERLUNKHOFEN
+  branch: ''
+RAIFCH22774:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OBERWIL
+  branch: ''
+RAIFCH22794:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OEY
+  branch: ''
+RAIFCH22970:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: OLTEN
+  branch: ''
+RAIFCH22480:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ORBE
+  branch: ''
+RAIFCH22613:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ORSIERES
+  branch: ''
+RAIFCH22479:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PAYERNE
+  branch: ''
+RAIFCH22B97:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PFAFFNAU
+  branch: ''
+RAIFCH22E01:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PFYN
+  branch: ''
+RAIFCH22899:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PLAFFEIEN
+  branch: ''
+RAIFCH22027:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PORRENTRUY
+  branch: ''
+RAIFCH22453:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: PUIDOUX
+  branch: ''
+RAIFCH22538:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RARON
+  branch: ''
+RAIFCH22971:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RECHERSWIL
+  branch: ''
+RAIFCH22539:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RECKINGEN
+  branch: ''
+RAIFCH22780:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: REINACH (BL)
+  branch: ''
+RAIFCH22E79:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RHEINAU
+  branch: ''
+RAIFCH22C95:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RHEINECK
+  branch: ''
+RAIFCH22E02:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RICKENBACH B. WIL
+  branch: ''
+RAIFCH22571:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RIDDES
+  branch: ''
+RAIFCH22853:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RINGGENBERG
+  branch: ''
+RAIFCH22296:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RIVA SAN VITALE
+  branch: ''
+RAIFCH22E03:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROGGWIL
+  branch: ''
+RAIFCH22108:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROMONT
+  branch: ''
+RAIFCH22C96:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RORSCHACHERBERG
+  branch: ''
+RAIFCH22873:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROTHENBACH IM EMMENTAL
+  branch: ''
+RAIFCH22C04:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROTHENBURG
+  branch: ''
+RAIFCH22E60:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROTKREUZ
+  branch: ''
+RAIFCH22A54:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ROVEREDO (GR)
+  branch: ''
+RAIFCH22673:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: RUDOLFSTETTEN
+  branch: ''
+RAIFCH22C31:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SACHSELN
+  branch: ''
+RAIFCH22059:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SAIGNELEGIER
+  branch: ''
+RAIFCH22107:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SALES (GRUYERE)
+  branch: ''
+RAIFCH22D01:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SARGANS
+  branch: ''
+RAIFCH22210:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SATIGNY
+  branch: ''
+RAIFCH22362:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SAVOSA
+  branch: ''
+RAIFCH22D02:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHAENIS
+  branch: ''
+RAIFCH22A47:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHIERS
+  branch: ''
+RAIFCH22D44:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHLEITHEIM
+  branch: ''
+RAIFCH22723:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHLOSSRUED
+  branch: ''
+RAIFCH22D00:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHONENGRUND
+  branch: ''
+RAIFCH22C14:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHOTZ
+  branch: ''
+RAIFCH22D03:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHWARZENBACH
+  branch: ''
+RAIFCH22860:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SCHWARZENBURG
+  branch: ''
+RAIFCH22976:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SELZACH
+  branch: ''
+RAIFCH22D04:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SENNWALD
+  branch: ''
+RAIFCH22598:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SIERRE/SIDERS
+  branch: ''
+RAIFCH22882:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SIGNAU
+  branch: ''
+RAIFCH22728:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SINS
+  branch: ''
+RAIFCH22572:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SION/SITTEN
+  branch: ''
+RAIFCH22E09:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SIRNACH
+  branch: ''
+RAIFCH22977:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SOLOTHURN
+  branch: ''
+RAIFCH22364:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SONVICO
+  branch: ''
+RAIFCH22155:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SORENS
+  branch: ''
+RAIFCH22838:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SPIEZ
+  branch: ''
+RAIFCH22901:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. ANTONI
+  branch: ''
+RAIFCH22:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. GALLEN
+  branch: ''
+RAIFCH22005:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. GALLEN
+  branch: ''
+RAIFCH22CBX:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. GALLEN
+  branch: ''
+RAIFCH22D22:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. GALLEN
+  branch: ''
+RAIFCH22INV:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST. GALLEN
+  branch: ''
+RAIFCH22051:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST.IMIER
+  branch: ''
+RAIFCH22496:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST.NIKLAUS
+  branch: ''
+RAIFCH22037:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ST.URSANNE
+  branch: ''
+RAIFCH22365:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STABIO
+  branch: ''
+RAIFCH22C23:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STANS
+  branch: ''
+RAIFCH22817:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STEFFISBURG
+  branch: ''
+RAIFCH22D07:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STEINACH
+  branch: ''
+RAIFCH22E52:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STEINHAUSEN
+  branch: ''
+RAIFCH22862:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: STUDEN
+  branch: ''
+RAIFCH22E11:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SULGEN
+  branch: ''
+RAIFCH22527:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: SUSTEN
+  branch: ''
+RAIFCH22E12:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: TAEGERWILEN
+  branch: ''
+RAIFCH22366:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: TESSERETE
+  branch: ''
+RAIFCH22E90:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: THALWIL
+  branch: ''
+RAIFCH22784:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: THERWIL
+  branch: ''
+RAIFCH22465:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: THIERRENS
+  branch: ''
+RAIFCH22E14:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: TOBEL
+  branch: ''
+RAIFCH22626:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: TROISTORRENTS
+  branch: ''
+RAIFCH22D63:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: TUGGEN
+  branch: ''
+RAIFCH22904:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: UEBERSTORF
+  branch: ''
+RAIFCH22867:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: UETENDORF
+  branch: ''
+RAIFCH22E61:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: UNTERAEGERI
+  branch: ''
+RAIFCH22C94:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: UNTERTERZEN
+  branch: ''
+RAIFCH22819:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: URTENEN-SCHONBUEHL
+  branch: ''
+RAIFCH22E71:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: USTER
+  branch: ''
+RAIFCH22627:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VAL-D ILLIEZ
+  branch: ''
+RAIFCH22281:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VERSCIO
+  branch: ''
+RAIFCH22215:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VERSOIX
+  branch: ''
+RAIFCH22585:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VETROZ
+  branch: ''
+RAIFCH22187:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VEYRIER
+  branch: ''
+RAIFCH22073:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VICQUES
+  branch: ''
+RAIFCH22159:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VILLARS SUR GLANE
+  branch: ''
+RAIFCH22736:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VILLMERGEN
+  branch: ''
+RAIFCH22588:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VIONNAZ
+  branch: ''
+RAIFCH22553:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VISP
+  branch: ''
+RAIFCH22499:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: VISPERTERMINEN
+  branch: ''
+RAIFCH22E16:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WAENGI
+  branch: ''
+RAIFCH22D13:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WALDKIRCH
+  branch: ''
+RAIFCH22D14:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WALENSTADT
+  branch: ''
+RAIFCH22D17:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WATTWIL
+  branch: ''
+RAIFCH22982:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WELSCHENROHR
+  branch: ''
+RAIFCH22740:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WETTINGEN
+  branch: ''
+RAIFCH22D19:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WIDNAU
+  branch: ''
+RAIFCH22D20:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WIL (SG)
+  branch: ''
+RAIFCH22C11:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WILLISAU
+  branch: ''
+RAIFCH22E85:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WINTERTHUR
+  branch: ''
+RAIFCH22D23:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WITTENBACH
+  branch: ''
+RAIFCH22926:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WITTERSWIL
+  branch: ''
+RAIFCH22744:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WOHLEN
+  branch: ''
+RAIFCH22985:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WOLFWIL
+  branch: ''
+RAIFCH22D56:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WOLLERAU
+  branch: ''
+RAIFCH22905:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WUENNEWIL-FLAMATT
+  branch: ''
+RAIFCH22746:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WUERENLINGEN
+  branch: ''
+RAIFCH22747:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: WUERENLOS
+  branch: ''
+RAIFCH22472:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: YVERDON-LES-BAINS
+  branch: ''
+RAIFCH22748:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZEININGEN
+  branch: ''
+RAIFCH22E17:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZIHLSCHLACHT
+  branch: ''
+RAIFCH22A48:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZIZERS
+  branch: ''
+RAIFCH22721:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZOFINGEN
+  branch: ''
+RAIFCH22986:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZUCHWIL
+  branch: ''
+RAIFCH22749:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZUFIKON
+  branch: ''
+RAIFCH22E87:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZURICH
+  branch: ''
+RAIFCH22ZBX:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZURICH
+  branch: ''
+RAIFCH22856:
+  institution: RAIFFEISEN SCHWEIZ GENOSSENSCHAFT
+  city: ZWEISIMMEN
+  branch: ''
+FETACHZZ:
+  institution: RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+FETACHZZISV:
+  institution: RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+FETACHZZSHS:
+  institution: RBC INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+RBABCH22828:
+  institution: REGIOBANK MAENNEDORF AG
+  city: MANNEDORF
+  branch: ''
+RSOSCH22:
+  institution: REGIOBANK SOLOTHURN AG
+  city: SOLOTHURN
+  branch: ''
+REICCH22:
+  institution: REICHMUTH AND CO. PRIVATBANKIERS
+  city: LUCERNE
+  branch: ''
+RMCOCHBB:
+  institution: REMACO WEALTH MANAGEMENT AG
+  city: BASLE
+  branch: ''
+RENOCH22:
+  institution: RENAULT FINANCE S.A.
+  city: LAUSANNE
+  branch: ''
+REPWCH23:
+  institution: REPOWER AG
+  city: POSCHIAVO
+  branch: ''
+REYLCHGG:
+  institution: REYL ET CIE S.A.
+  city: GENEVA
+  branch: ''
+RISACH22:
+  institution: RICHEMONT INTERNATIONAL SA
+  city: VILLARS SUR GLANE
+  branch: ''
+ROCHCHBB:
+  institution: ROCHE FINANZ LTD
+  city: BASLE
+  branch: ''
+ROCHCHBH:
+  institution: ROCHE HOLDING AG
+  city: BASLE
+  branch: ''
+ROCHCHBL:
+  institution: ROCHE LONG TERM FOUNDATION
+  city: BASLE
+  branch: ''
+ROTACHZZ:
+  institution: ROTHSCHILD BANK AG
+  city: ZURICH
+  branch: ''
+ROYCCHGG:
+  institution: ROYAL BANK OF CANADA (SUISSE)
+  city: GENEVA
+  branch: ''
+BGFBCHZZ:
+  institution: SALLFORT PRIVATBANK AG
+  city: ZURICH
+  branch: ''
+SAXOCHZH:
+  institution: SAXO BANK (SWITZERLAND) SA
+  city: ZOLLIKON
+  branch: ''
+RBABCH22342:
+  institution: SB SAANEN BANK AG
+  city: SAANEN
+  branch: ''
+SLBZCHZZ:
+  institution: SBERBANK (SWITZERLAND) AG
+  city: ZURICH
+  branch: ''
+SHKBCH2S:
+  institution: SCHAFFHAUSER KANTONALBANK
+  city: SCHAFFHAUSEN
+  branch: ''
+BJHSCHZZGVA:
+  institution: SCHRODER AND CO BANK AG
+  city: GENEVA
+  branch: ''
+BJHSCHZZ:
+  institution: SCHRODER AND CO BANK AG
+  city: ZURICH
+  branch: ''
+SBBSCH22:
+  institution: SCHWEIZERISCHE BUNDESBAHNEN SBB
+  city: BERNE
+  branch: ''
+SNBZCHZZ30A:
+  institution: SCHWEIZERISCHE NATIONALBANK
+  city: BERNE
+  branch: KORRESPONDENZ
+SNBZCHZZ80A:
+  institution: SCHWEIZERISCHE NATIONALBANK
+  city: ZURICH
+  branch: KORRESPONDENZ A
+SNBZCHZZ80B:
+  institution: SCHWEIZERISCHE NATIONALBANK
+  city: ZURICH
+  branch: KORRESPONDENZ B
+SNBZCHZZ:
+  institution: SCHWEIZERISCHE NATIONALBANK
+  city: ZURICH
+  branch: ''
+KBSZCH22:
+  institution: SCHWYZER KANTONALBANK (SKB)
+  city: SCHWYZ
+  branch: ''
+SCOPCHBB:
+  institution: SCOBAG PRIVATBANK AG
+  city: BASLE
+  branch: ''
+ESSECHGG:
+  institution: SEB PRIVATE BANK GENEVA
+  city: GENEVA
+  branch: ''
+SEPOCH22:
+  institution: SECUREPOST AG
+  city: OENSINGEN
+  branch: ''
+SELVCHGG:
+  institution: SELVI AND CIE SA
+  city: GENEVA
+  branch: ''
+RUEGCHZZ:
+  institution: SG PRIVATE BANKING (SUISSE) S.A.
+  city: GENEVA
+  branch: ''
+CLRXCHZZCRI:
+  institution: SIS X-CLEAR LTD.
+  city: ZURICH
+  branch: INTERMEDIARY AT CREST
+CLRXCHZZ:
+  institution: SIS X-CLEAR LTD.
+  city: ZURICH
+  branch: ''
+TKZHCHZZ:
+  institution: SIX INTERBANK CLEARING AG
+  city: ZURICH
+  branch: ''
+INSECHZZSGA:
+  institution: SIX SIS AG
+  city: ZURICH
+  branch: CROSSBORDER SETTLEMENT SEGA
+INSECHZZBRO:
+  institution: SIX SIS AG
+  city: ZURICH
+  branch: SIS FUND TRANSFER AGENT RELATIONSHIPS
+INSECHZZ:
+  institution: SIX SIS AG
+  city: ZURICH
+  branch: ''
+SBTICH22:
+  institution: SOCIETA BANCARIA TICINESE
+  city: BELLINZONA
+  branch: ''
+SGABCHZZACC:
+  institution: SOCIETE GENERALE, PARIS, ZURICH BRANCH
+  city: ZURICH
+  branch: CLEARING AND CUSTODY
+SGABCHZZ:
+  institution: SOCIETE GENERALE, PARIS, ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+SGABCHZZTRA:
+  institution: SOCIETE GENERALE, PARIS, ZURICH BRANCH
+  city: ZURICH
+  branch: ''
+SOSSCH22:
+  institution: SOS SURVEILLANCE GLASSEY SA
+  city: MARTIGNY
+  branch: ''
+SLBUCH22:
+  institution: SPAR- UND LEIHKASSE BUCHEGGBERG AG
+  city: LUETERSWIL
+  branch: ''
+SLFFCH22:
+  institution: SPAR- UND LEIHKASSE FRUTIGEN
+  city: FRUTIGEN
+  branch: ''
+SLGUCH2M:
+  institution: SPAR UND LEIHKASSE GUERBETAL AG
+  city: MUEHLETHURNEN
+  branch: ''
+RBABCH22363:
+  institution: SPAR UND LEIHKASSE MUENSINGEN AG
+  city: MUENSINGEN
+  branch: ''
+RBABCH22374:
+  institution: SPAR UND LEIHKASSE RIGGISBERG AG
+  city: RIGGISBERG
+  branch: ''
+RBABCH22866:
+  institution: SPAR- UND LEIHKASSE THAYNGEN
+  city: THAYNGEN
+  branch: ''
+RBABCH22814:
+  institution: SPARCASSA 1816 GENOSSENSCHAFT
+  city: WAEDENSWIL
+  branch: ''
+RBABCH22666:
+  institution: SPARKASSE ENGELBERG AG
+  city: ENGELBERG
+  branch: ''
+RBABCH22633:
+  institution: SPARKASSE SCHWYZ AG
+  city: SCHWYZ
+  branch: ''
+RBABCH22186:
+  institution: SPARKASSE SENSE
+  city: TAFERS
+  branch: ''
+KBSGCH22:
+  institution: ST.GALLER KANTONALBANK
+  city: ST. GALLEN
+  branch: HEAD OFFICE AND ALL BRANCHES
+SCBLCHGG:
+  institution: STANDARD CHARTERED BANK (SWITZERLAND) S.A.
+  city: GENEVA
+  branch: MAIN BRANCH
+SSBECHZZ:
+  institution: STATE STREET BANK GMBH
+  city: ZURICH
+  branch: ''
+STHOCHBB:
+  institution: STRAUMANN HOLDING AG
+  city: BASLE
+  branch: ''
+SULZCHZZ:
+  institution: SULZER AG
+  city: WINTERTHUR
+  branch: ''
+SUAACH22:
+  institution: SUVA
+  city: LUCERNE
+  branch: ''
+SUAACH2A:
+  institution: SUVA ROESSLIMATT (FA)
+  city: LUZERN
+  branch: AIM/POMS SERVICE
+SLAMCHZZ:
+  institution: SWISS LIFE ASSET MANAGEMENT AG
+  city: ZURICH
+  branch: ''
+SWRECHZHCMN:
+  institution: SWISS REINSURANCE COMPANY
+  city: ZURICH
+  branch: COLLATERAL MANAGEMENT
+SWRECHZHSWR:
+  institution: SWISS REINSURANCE COMPANY
+  city: ZURICH
+  branch: SWISS RE ASSET MANAGEMENT
+SWRECHZHINV:
+  institution: SWISS REINSURANCE COMPANY
+  city: ZURICH
+  branch: SWISS RE FINANCIAL MARKETS
+SWRECHZHTRX:
+  institution: SWISS REINSURANCE COMPANY
+  city: ZURICH
+  branch: TRAX
+SWRECHZH:
+  institution: SWISS REINSURANCE COMPANY
+  city: ZURICH
+  branch: ''
+SWIPCHZH:
+  institution: SWISSCANTO ASSET MANAGEMENT AG
+  city: ZURICH
+  branch: ''
+SWQBCHZZ:
+  institution: SWISSQUOTE BANK
+  city: GLAND
+  branch: ''
+MIGBCH22:
+  institution: SWISSQUOTE BANK LTD. (FORMERLY MIG BANK LTD.)
+  city: GLAND
+  branch: ''
+SYNGCHBB:
+  institution: SYNGENTA CROP PROTECTION AG
+  city: BASLE
+  branch: ''
+TEANCH2M:
+  institution: TECAN TRADING AG
+  city: MANNEDORF
+  branch: ''
+TEPACH22:
+  institution: TETRA PAK INTERNATIONAL S.A.
+  city: PULLY
+  branch: ''
+TETRCH2L:
+  institution: TETRAL S.A.
+  city: LUTRY
+  branch: AIM/POMS SERVICE
+TETRCH22:
+  institution: TETRAL S.A.
+  city: LUTRY
+  branch: ''
+TGFSCH22:
+  institution: THE GLOBAL FUND TO FIGHT AIDS, TUBERCULOSIS AND MALARIA
+  city: VERNIER
+  branch: ''
+RBOSCHZX:
+  institution: THE ROYAL BANK OF SCOTLAND PLC
+  city: ZURICH
+  branch: ''
+ABNACHZ8ZRH:
+  institution: THE ROYAL BANK OF SCOTLAND PLC ZURICH (FORMERLY KNOWN AS RBS NV)
+  city: ZURICH
+  branch: ZURICH BRANCH
+ABNACHZ8:
+  institution: THE ROYAL BANK OF SCOTLAND PLC ZURICH (FORMERLY KNOWN AS RBS NV)
+  city: ZURICH
+  branch: ''
+KBTGCH2285D:
+  institution: THURGAUER KANTONALBANK
+  city: AMRISWIL
+  branch: ''
+KBTGCH2293B:
+  institution: THURGAUER KANTONALBANK
+  city: ARBON
+  branch: ''
+KBTGCH2292B:
+  institution: THURGAUER KANTONALBANK
+  city: BISCHOFSZELL
+  branch: ''
+KBTGCH2285A:
+  institution: THURGAUER KANTONALBANK
+  city: FRAUENFELD
+  branch: ''
+KBTGCH2282P:
+  institution: THURGAUER KANTONALBANK
+  city: KREUZLINGEN
+  branch: ''
+KBTGCH2285F:
+  institution: THURGAUER KANTONALBANK
+  city: ROMANSHORN
+  branch: ''
+KBTGCH2283L:
+  institution: THURGAUER KANTONALBANK
+  city: SIRNACH
+  branch: ''
+KBTGCH2282M:
+  institution: THURGAUER KANTONALBANK
+  city: STECKBORN
+  branch: ''
+KBTGCH22:
+  institution: THURGAUER KANTONALBANK
+  city: WEINFELDEN
+  branch: HEAD OFFICE
+TMBECH22IBK:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: IBUK
+TMBECH22THK:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: THUK
+TMBECH22:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22IBC:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22IBG:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22IBL:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22THA:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22THC:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22THE:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TMBECH22THL:
+  institution: TIMBER HILL (EUROPE) AG
+  city: ZUG
+  branch: ''
+TRAPCHBB:
+  institution: TRAFINA PRIVATBANK AG
+  city: BASLE
+  branch: ''
+RBABCH22690:
+  institution: TRIBA PARTNER BANK AG
+  city: TRIENGEN
+  branch: ''
+UNILCHZZ:
+  institution: UBL (SWITZERLAND) AG
+  city: ZURICH
+  branch: ''
+UBSWCHZH50A:
+  institution: UBS AG
+  city: AARAU
+  branch: ''
+UBSWCHZH89E:
+  institution: UBS AG
+  city: AFFOLTERN AM ALBIS
+  branch: ''
+UBSWCHZH94N:
+  institution: UBS AG
+  city: ALTSTAETTEN (SG)
+  branch: ''
+UBSWCHZH93A:
+  institution: UBS AG
+  city: ARBON
+  branch: ''
+UBSWCHZH70E:
+  institution: UBS AG
+  city: AROSA
+  branch: ''
+UBSWCHZH54A:
+  institution: UBS AG
+  city: BADEN
+  branch: ''
+UBSWCHZH40M:
+  institution: UBS AG
+  city: BASLE
+  branch: AESCHENVORSTADT
+UBSWCHZH40A:
+  institution: UBS AG
+  city: BASLE
+  branch: ''
+UBSWCHZH65A:
+  institution: UBS AG
+  city: BELLINZONA
+  branch: ''
+UBSWCHZH30A:
+  institution: UBS AG
+  city: BERNE
+  branch: ''
+UBSWCHZH25A:
+  institution: UBS AG
+  city: BIEL (BIENNE)
+  branch: ''
+UBSWCHZH39A:
+  institution: UBS AG
+  city: BRIG (BRIGUE)
+  branch: ''
+UBSWCHZH52A:
+  institution: UBS AG
+  city: BRUGG
+  branch: ''
+UBSWCHZH94P:
+  institution: UBS AG
+  city: BUCHS (SG)
+  branch: ''
+UBSWCHZH81M:
+  institution: UBS AG
+  city: BUELACH
+  branch: ''
+UBSWCHZH16C:
+  institution: UBS AG
+  city: BULLE
+  branch: ''
+UBSWCHZH23A:
+  institution: UBS AG
+  city: CHAUX-DE-FONDS, LA
+  branch: ''
+UBSWCHZH68B:
+  institution: UBS AG
+  city: CHIASSO
+  branch: ''
+UBSWCHZH70A:
+  institution: UBS AG
+  city: CHUR
+  branch: ''
+UBSWCHZH72D:
+  institution: UBS AG
+  city: DAVOS
+  branch: ''
+UBSWCHZH89D:
+  institution: UBS AG
+  city: DIETIKON
+  branch: ''
+UBSWCHZH31A:
+  institution: UBS AG
+  city: DUEDINGEN
+  branch: ''
+UBSWCHZH60G:
+  institution: UBS AG
+  city: EMMENBRUECKE
+  branch: ''
+UBSWCHZH85A:
+  institution: UBS AG
+  city: FRAUENFELD
+  branch: ''
+UBSWCHZH17A:
+  institution: UBS AG
+  city: FRIBOURG
+  branch: ''
+UBSWCHZH12B:
+  institution: UBS AG
+  city: GENEVA
+  branch: CORRATERIE
+UBSWCHZH12A:
+  institution: UBS AG
+  city: GENEVA
+  branch: ''
+UBSWCHZH87D:
+  institution: UBS AG
+  city: GLARUS
+  branch: ''
+UBSWCHZH81H:
+  institution: UBS AG
+  city: GLATTBRUGG
+  branch: ''
+UBSWCHZH88A:
+  institution: UBS AG
+  city: HORGEN
+  branch: ''
+UBSWCHZH38A:
+  institution: UBS AG
+  city: INTERLAKEN
+  branch: ''
+UBSWCHZH83A:
+  institution: UBS AG
+  city: KLOTEN
+  branch: ''
+UBSWCHZH82P:
+  institution: UBS AG
+  city: KREUZLINGEN
+  branch: ''
+UBSWCHZH88B:
+  institution: UBS AG
+  city: LACHEN
+  branch: ''
+UBSWCHZH10A:
+  institution: UBS AG
+  city: LAUSANNE
+  branch: ''
+UBSWCHZH96C:
+  institution: UBS AG
+  city: LICHTENSTEIG
+  branch: ''
+UBSWCHZH44A:
+  institution: UBS AG
+  city: LIESTAL
+  branch: ''
+UBSWCHZH66A:
+  institution: UBS AG
+  city: LOCARNO
+  branch: ''
+UBSWCHZH60A:
+  institution: UBS AG
+  city: LUCERNE
+  branch: ''
+UBSWCHZH69A:
+  institution: UBS AG
+  city: LUGANO
+  branch: ''
+UBSWCHZH19B:
+  institution: UBS AG
+  city: MARTIGNY
+  branch: ''
+UBSWCHZH87C:
+  institution: UBS AG
+  city: MEILEN
+  branch: ''
+UBSWCHZH18L:
+  institution: UBS AG
+  city: MONTHEY
+  branch: ''
+UBSWCHZH18D:
+  institution: UBS AG
+  city: MONTREUX
+  branch: ''
+UBSWCHZH20A:
+  institution: UBS AG
+  city: NEUCHATEL
+  branch: ''
+UBSWCHZH12T:
+  institution: UBS AG
+  city: NYON
+  branch: ''
+UBSWCHZH46A:
+  institution: UBS AG
+  city: OLTEN
+  branch: ''
+UBSWCHZH29A:
+  institution: UBS AG
+  city: PORRENTRUY
+  branch: ''
+UBSWCHZH86M:
+  institution: UBS AG
+  city: RAPPERSWIL
+  branch: ''
+UBSWCHZH81A:
+  institution: UBS AG
+  city: REGENSDORF
+  branch: ''
+UBSWCHZH94A:
+  institution: UBS AG
+  city: RORSCHACH
+  branch: ''
+UBSWCHZH88C:
+  institution: UBS AG
+  city: RUESCHLIKON
+  branch: ''
+UBSWCHZH86P:
+  institution: UBS AG
+  city: RUETI (ZH)
+  branch: ''
+UBSWCHZH82A:
+  institution: UBS AG
+  city: SCHAFFHAUSEN
+  branch: ''
+UBSWCHZH39L:
+  institution: UBS AG
+  city: SIERRE/SIDERS
+  branch: ''
+UBSWCHZH19E:
+  institution: UBS AG
+  city: SION/SITTEN
+  branch: ''
+UBSWCHZH45A:
+  institution: UBS AG
+  city: SOLOTHURN
+  branch: ''
+UBSWCHZH90A:
+  institution: UBS AG
+  city: ST. GALLEN
+  branch: ''
+UBSWCHZH94F:
+  institution: UBS AG
+  city: ST. MARGRETHEN
+  branch: ''
+UBSWCHZH75A:
+  institution: UBS AG
+  city: ST. MORITZ
+  branch: ''
+UBSWCHZH36A:
+  institution: UBS AG
+  city: THUN
+  branch: ''
+UBSWCHZH86N:
+  institution: UBS AG
+  city: USTER
+  branch: ''
+UBSWCHZH18A:
+  institution: UBS AG
+  city: VEVEY
+  branch: ''
+UBSWCHZH39G:
+  institution: UBS AG
+  city: VISP
+  branch: ''
+UBSWCHZH83B:
+  institution: UBS AG
+  city: WALLISELLEN
+  branch: ''
+UBSWCHZH85B:
+  institution: UBS AG
+  city: WEINFELDEN
+  branch: ''
+UBSWCHZH86Q:
+  institution: UBS AG
+  city: WETZIKON
+  branch: ''
+UBSWCHZH95A:
+  institution: UBS AG
+  city: WIL (SG)
+  branch: ''
+UBSWCHZH84A:
+  institution: UBS AG
+  city: WINTERTHUR
+  branch: ''
+UBSWCHZH56B:
+  institution: UBS AG
+  city: WOHLEN
+  branch: ''
+UBSWCHZH14A:
+  institution: UBS AG
+  city: YVERDON-LES-BAINS
+  branch: ''
+UBSWCHZH87B:
+  institution: UBS AG
+  city: ZOLLIKON
+  branch: ''
+UBSWCHZH63A:
+  institution: UBS AG
+  city: ZUG
+  branch: ''
+UBSWCHZH80K:
+  institution: UBS AG
+  city: ZURICH
+  branch: ALBISRIEDERPLATZ
+UBSWCHZH80P:
+  institution: UBS AG
+  city: ZURICH
+  branch: ALTSTETTEN
+UBSWCHZH80Q:
+  institution: UBS AG
+  city: ZURICH
+  branch: BLEICHERWEG
+UBSWCHZHCLS:
+  institution: UBS AG
+  city: ZURICH
+  branch: CLS BUSINESS ONLY
+UBSWCHZHPBR:
+  institution: UBS AG
+  city: ZURICH
+  branch: FX CCT OPERATIONS
+UBSWCHZH80A:
+  institution: UBS AG
+  city: ZURICH
+  branch: HEAD OFFICE
+UBSWCHZH:
+  institution: UBS AG
+  city: ZURICH
+  branch: HEAD OFFICE/ADMINISTRATION
+UBSWCHZH80R:
+  institution: UBS AG
+  city: ZURICH
+  branch: HOENGG
+UBSWCHZHPNX:
+  institution: UBS AG
+  city: ZURICH
+  branch: KEYLEND
+UBSWCHZH80M:
+  institution: UBS AG
+  city: ZURICH
+  branch: OERLIKON
+UBSWCHZHOSI:
+  institution: UBS AG
+  city: ZURICH
+  branch: OPS SIS ISSUANCE
+UBSWCHZH80V:
+  institution: UBS AG
+  city: ZURICH
+  branch: PARADEPLATZ
+UBSWCHZH80H:
+  institution: UBS AG
+  city: ZURICH
+  branch: ROEMERHOF
+UBSWCHZH80G:
+  institution: UBS AG
+  city: ZURICH
+  branch: SEEFELD
+UBSWCHZH80N:
+  institution: UBS AG
+  city: ZURICH
+  branch: WIEDIKON
+UBSACHZZ:
+  institution: UBS AG
+  city: ZURICH
+  branch: ''
+UBCCCHZZ:
+  institution: UBS CARD CENTER AG
+  city: GLATTBRUGG
+  branch: ''
+UBSSCHZH:
+  institution: UBS SWISS FINANCIAL ADVISERS AG
+  city: ZURICH
+  branch: ''
+HYVECHZU:
+  institution: UNICREDIT BANK AG (HYPOVEREINSBANK)
+  city: ZURICH
+  branch: ''
+UNIGCHGGEQT:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: EQUITIES
+UNIGCHGGFOG:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: FAMILY OFFICE GENEVA
+UNIGCHGGFOL:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: FAMILY OFFICE LONDON
+UNIGCHGGFOP:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: FAMILY OFFICE PARIS
+UNIGCHGGFIN:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: FINANCE AND PRODUCTS
+UNIGCHGGHFD:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: HEDGE FUNDS
+UNIGCHGGPED:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: PRIVATE EQUITY
+UNIGCHGG:
+  institution: UNIGESTION S.A.
+  city: GENEVA
+  branch: ''
+SULICH22:
+  institution: UNILEVER FINANCE INTERNATIONAL AG
+  city: CHAM
+  branch: ''
+UBPGCHGGBSL:
+  institution: UNION BANCAIRE PRIVEE, GENEVA
+  city: BASLE
+  branch: ''
+UBPGCHGG:
+  institution: UNION BANCAIRE PRIVEE, GENEVA
+  city: GENEVA
+  branch: ''
+UBPGCHGGLUG:
+  institution: UNION BANCAIRE PRIVEE, GENEVA
+  city: LUGANO
+  branch: ''
+UBPGCHZZ:
+  institution: UNION BANCAIRE PRIVEE, ZURICH
+  city: ZURICH
+  branch: ''
+UMBLCHZZ:
+  institution: UNITED MIZRAHI BANK (SWITZERLAND) LTD
+  city: ZURICH
+  branch: ''
+UTSACHGG:
+  institution: UNIVALOR TRUST S.A.
+  city: GENEVA
+  branch: ''
+URKNCH22:
+  institution: URNER KANTONALBANK
+  city: ALTDORF
+  branch: ''
+VADICH22:
+  institution: VADIAN BANK AG
+  city: ST. GALLEN
+  branch: ''
+VLRTCHZZ:
+  institution: VALARTIS BANK AG
+  city: ZURICH
+  branch: ''
+VABECH22BBB:
+  institution: VALIANT BANK
+  city: BELP
+  branch: FORMERLY BB BANK BELP
+VABECH22GKB:
+  institution: VALIANT BANK
+  city: BERNE
+  branch: FORMERLY GEWERBEKASSE IN BERN
+VABECH22:
+  institution: VALIANT BANK
+  city: BERNE
+  branch: ''
+VABECH22BRV:
+  institution: VALIANT BANK
+  city: DELEMONT
+  branch: ''
+VABECH22KGS:
+  institution: VALIANT BANK
+  city: HEITENRIED
+  branch: FORMERLY KGS SENSEBANK
+VABECH22BIL:
+  institution: VALIANT BANK
+  city: LANGNAU IM EMMENTAL
+  branch: FORMERLY BANK IN LANGNAU
+VABECH22LRB:
+  institution: VALIANT BANK
+  city: LUCERNE
+  branch: FORMERLY LUZERNER REGIOBANK
+VABECH22EKM:
+  institution: VALIANT BANK
+  city: MURTEN/MORAT
+  branch: FORMERLY ERSPARNISKASSE MURTEN AG
+VABECH22IRB:
+  institution: VALIANT BANK
+  city: REINACH (AG)
+  branch: FORMERLY IRB INTERREGIO BANK
+VABECH22STE:
+  institution: VALIANT BANK
+  city: STEFFISBURG
+  branch: VALIANT BANK AG FORMERLY SPAR + LEIHKASSE STEFFISBURG
+VBBECH22:
+  institution: VALIANT BANK AG, PRIVATE BANKING (FORMERLY VALIANT PRIVATBANK AG)
+  city: BERNE
+  branch: ''
+VIMMCHZZ:
+  institution: VIA MAT MANAGEMENT AG
+  city: KLOTEN
+  branch: ''
+VITOCHGG:
+  institution: VITOL SA
+  city: GENEVA
+  branch: ''
+RBABCH22VVB:
+  institution: VOLKSBANK AG
+  city: ST. MARGRETHEN
+  branch: ''
+GRAFCH22:
+  institution: VON GRAFFENRIED AG PRIVATBANK
+  city: BERNE
+  branch: ''
+RBABCH22VLH:
+  institution: VORARLBERGER LANDES- UND HYPOTHEKENBANK AG
+  city: ST. GALLEN
+  branch: ''
+SUVECH22:
+  institution: VORSORGE-EINRICHTUNG DER SUVA
+  city: LUCERNE
+  branch: ''
+VPBVCHZH:
+  institution: VP BANK (SCHWEIZ) AG
+  city: ZURICH
+  branch: ''
+VZDBCHZZ:
+  institution: VZ DEPOTBANK AG
+  city: ZURICH
+  branch: ''
+WIRBCHBB:
+  institution: WIR BANK GENOSSENSCHAFT
+  city: BASLE
+  branch: ''
+WUFICHZZ:
+  institution: WUERTH FINANCE INTERNATIONAL B.V.
+  city: RORSCHACH
+  branch: ''
+ZKBKCHZZCLS:
+  institution: ZUERCHER KANTONALBANK
+  city: ZURICH
+  branch: CLS-DEPARTEMENT
+ZKBKCHZZ:
+  institution: ZUERCHER KANTONALBANK
+  city: ZURICH
+  branch: ''
+ZKBKCHZZ80A:
+  institution: ZUERCHER KANTONALBANK
+  city: ZURICH
+  branch: ''
+RBABCH22877:
+  institution: ZUERCHER LANDBANK AG
+  city: ELGG
+  branch: ''
+KBZGCH22:
+  institution: ZUGER KANTONALBANK
+  city: ZUG
+  branch: ''
+ZURICHZFASS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ASS
+ZURICHZFAVA:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: AVA
+ZURICHZFBGI:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: BGI
+ZURICHZFCAB:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: CAB
+ZURICHZFCEU:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: CEU
+ZURICHZFGAV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: GAV
+ZURICHZFGLV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: GLV
+ZURICHZFITH:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ITH
+ZURICHZFITI:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ITI
+ZURICHZFKVS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: KVS
+ZURICHZFORV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ORV
+ZURICHZFPFA:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: PFA
+ZURICHZFPFZ:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: PFZ
+ZURICHZFSTC:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: STC
+ZURICHZFTUI:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: TUI
+ZURICHZFTUR:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: TUR
+ZURICHZFVLV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: VLV
+ZURICHZFZBR:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZBR
+ZURICHZFZCS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZCS
+ZURICHZFZFB:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZFB
+ZURICHZFZFG:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZFG
+ZURICHZFZFJ:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZFJ
+ZURICHZFZFP:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZFP
+ZURICHZFZFS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZFS
+ZURICHZFZG1:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZG1
+ZURICHZFZG2:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZG2
+ZURICHZFZG3:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZG3
+ZURICHZFZG4:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZG4
+ZURICHZFZGH:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZGH
+ZURICHZFZIB:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZIB
+ZURICHZFZIC:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZIC
+ZURICHZFZIJ:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZIJ
+ZURICHZFZIM:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZIM
+ZURICHZFZIN:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZIN
+ZURICHZFZLV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZLV
+ZURICHZFZPI:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZPI
+ZURICHZFZR1:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR1
+ZURICHZFZR2:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR2
+ZURICHZFZR3:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR3
+ZURICHZFZR4:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR4
+ZURICHZFZR5:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR5
+ZURICHZFZR6:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZR6
+ZURICHZFZRV:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZRV
+ZURICHZFZGF:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZURICH GLOBAL FUNDING
+ZURICHZFZLS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN ALLGEMEIN AKTIEN
+ZURICHZFZLF:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN ALLGEMEIN
+ZURICHZFZKS:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN KOLLEKTIV AKTIEN
+ZURICHZFZKF:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZURICH LIFE UMBRELLA FUND GEBUNDENES VERMOEGEN KOLLEKTIV
+ZURICHZFZVG:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ZVG
+ZURICHZF:
+  institution: ZURICH INSURANCE COMPANY
+  city: ZURICH
+  branch: ''
