@@ -41,8 +41,7 @@ module ISO
       swift = parse(swift)
       validate(swift)
       feed_codes(swift)
-      feed_country_name
-      feed_lookup_info
+      feed_lookup_info(swift)
     end
 
     def feed_codes(swift)
@@ -50,17 +49,22 @@ module ISO
         @data["formatted_swift"] = swift
         @data["bank_code"] = swift[0..3]
         @data["country_code"] = swift[4..5]
+        country = ::Country.new(country_code)
+        @data["country_name"] = country.name if country
         @data["location_code"] = swift[6..7]
         @data["branch_code"] = swift[8..10]
       end
     end
 
-    def feed_country_name
-      country = ::Country.new(country_code)
-      @data["country_name"] = country.name if country
-    end
-
-    def feed_lookup_info
+    def feed_lookup_info(swift)
+      cc = country_code.upcase
+      db = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' ))
+      lk = db[formatted_swift]
+      if lk
+        @data["bank_name"] = lk["institution"]
+        @data["location_name"] = lk["city"]
+        @data["branch_name"] = lk["branch"]
+      end
     end
 
     def formatted_swift
