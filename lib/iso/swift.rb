@@ -105,9 +105,7 @@ module ISO
     def feed_lookup_info(swift)
       cc = country_code.downcase
       path = File.expand_path("../../data/#{cc}.yml", __FILE__)
-      puts path
       if File.file?(path)
-        puts "file exists"
         db = YAML.load_file(path) || nil
         if db
           lk = db[formatted]
