@@ -104,9 +104,11 @@ module ISO
     # If found, extract the bank, location and branch names
     def feed_lookup_info(swift)
       cc = country_code.upcase
-      path = File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' )
+      path = File.expand_path("../../data/#{cc}.yml", __FILE__)
+      puts path
       if File.file?(path)
-        db = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' )) || nil
+        puts "file exists"
+        db = YAML.load_file(path) || nil
         if db
           lk = db[formatted]
           if lk
