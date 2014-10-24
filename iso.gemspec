@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = ISO::VERSION
   spec.authors       = ["Hugo Lantaume"]
   spec.email         = ["hugolantaume@gmail.com"]
-  spec.summary       = %q{ISO}
+  spec.summary       = %q{Swift code validation and lookup Ruby gem}
   spec.description   = %q{}
   spec.homepage      = "http://github.com/hugolantaume/iso-swift"
   spec.license       = "MIT"
