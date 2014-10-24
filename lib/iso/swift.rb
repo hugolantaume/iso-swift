@@ -8,6 +8,29 @@ module ISO
   # Usage
   # =====
   #
+  #     require 'iso/swift'
+  #     ==== new instance - valid SWIFT code
+  #     swift = ISO::SWIFT.new('PSSTFRPPSCE') # => #<ISO::SWIFT:0x007fb4a393e220 @data={"formatted"=>"PSSTFRPPSCE", "bank_code"=>"PSST", "country_code"=>"FR", "country_name"=>"France", "location_code"=>"PP", "branch_code"=>"SCE", "bank_name"=>"LA BANQUE POSTALE", "location_name"=>"ORLEANS", "branch_name"=>"CENTRE FINANCIER DORLEANS LA SOURCE"}, @errors=[]>
+  #     ==== validation
+  #     swift.valid? # => true
+  #     swift.errors # => []
+  #     ==== attributes
+  #     swift.formatted # => "PSSTFRPPSCE"
+  #     swift.bank_code # => "PSST"
+  #     swift.bank_name # => "LA BANQUE POSTALE"
+  #     swift.country_code # => "FR"
+  #     swift.country_name # => "France"
+  #     swift.location_code # => "PP"
+  #     swift.location_name # => "ORLEANS"
+  #     swift.branch_code # => "SCE"
+  #     swift.branch_name # => "CENTRE FINANCIER DORLEANS LA SOURCE"
+  #
+  #     ==== new instance - invalid SWIFT code
+  #     swift = ISO::SWIFT.new('PSSTFRCEE') # #<ISO::SWIFT:0x007f8abe708820 @data={}, @errors=[:bad_format]>
+  #     ==== validation
+  #     swift.valid? # => false
+  #     swift.errors # => [:bad_format]
+
   class SWIFT
 
     # Swift regular expression
@@ -15,7 +38,7 @@ module ISO
 
     # Attributes
     AttrReaders = [
-      :formatted_swift,
+      :formatted,
       :bank_code,
       :bank_name,
       :country_code,
@@ -57,7 +80,7 @@ module ISO
     # Extracts bank, country, location and branch codes from the parameter 
     def feed_codes(swift)
       if @errors.empty?
-        @data["formatted_swift"] = swift
+        @data["formatted"] = swift
         @data["bank_code"] = swift[0..3]
         @data["country_code"] = swift[4..5]
         country = ::Country.new(country_code)
@@ -75,7 +98,7 @@ module ISO
     def feed_lookup_info(swift)
       cc = country_code.upcase
       db = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' ))
-      lk = db[formatted_swift]
+      lk = db[formatted]
       if lk
         @data["bank_name"] = lk["institution"]
         @data["location_name"] = lk["city"]
@@ -85,8 +108,8 @@ module ISO
 
     # @return [String]
     #   Retuns the formatted swift from an ISO::SWIFT instance
-    def formatted_swift
-      @data["formatted_swift"].to_s
+    def formatted
+      @data["formatted"].to_s
     end
 
     # @return [String]
