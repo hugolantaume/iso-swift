@@ -10,11 +10,12 @@ module ISO
   #
   #     require 'iso/swift'
   #     ==== new instance - valid SWIFT code
-  #     swift = ISO::SWIFT.new('PSSTFRPPSCE') # => #<ISO::SWIFT:0x007fb4a393e220 @data={"formatted"=>"PSSTFRPPSCE", "bank_code"=>"PSST", "country_code"=>"FR", "country_name"=>"France", "location_code"=>"PP", "branch_code"=>"SCE", "bank_name"=>"LA BANQUE POSTALE", "location_name"=>"ORLEANS", "branch_name"=>"CENTRE FINANCIER DORLEANS LA SOURCE"}, @errors=[]>
+  #     swift = ISO::SWIFT.new('PSST FR PP SCE') # => #<ISO::SWIFT:0x007fb4a393e220 @data={"formatted"=>"PSSTFRPPSCE", "bank_code"=>"PSST", "country_code"=>"FR", "country_name"=>"France", "location_code"=>"PP", "branch_code"=>"SCE", "bank_name"=>"LA BANQUE POSTALE", "location_name"=>"ORLEANS", "branch_name"=>"CENTRE FINANCIER DORLEANS LA SOURCE"}, @errors=[]>
   #     ==== validation
   #     swift.valid? # => true
   #     swift.errors # => []
   #     ==== attributes
+  #     swift.original # => "PSST FR PP SCE"
   #     swift.formatted # => "PSSTFRPPSCE"
   #     swift.bank_code # => "PSST"
   #     swift.bank_name # => "LA BANQUE POSTALE"
@@ -38,6 +39,7 @@ module ISO
 
     # Attributes
     AttrReaders = [
+      :original,
       :formatted,
       :bank_code,
       :bank_name,
@@ -66,6 +68,7 @@ module ISO
     def initialize(swift)
       @data = {}
       @errors = []
+      @data["original"] = swift
       swift = parse(swift)
       validate(swift)
       if @errors.empty?
@@ -84,7 +87,11 @@ module ISO
         @data["bank_code"] = swift[0..3]
         @data["country_code"] = swift[4..5]
         country = ::Country.new(country_code)
-        @data["country_name"] = country.name if country
+        if country
+          @data["country_name"] = country.name
+        else
+          @errors << :bad_country_code
+        end
         @data["location_code"] = swift[6..7]
         @data["branch_code"] = swift[8..10]
       end
@@ -97,68 +104,79 @@ module ISO
     # If found, extract the bank, location and branch names
     def feed_lookup_info(swift)
       cc = country_code.upcase
-      db = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' ))
-      lk = db[formatted]
-      if lk
-        @data["bank_name"] = lk["institution"]
-        @data["location_name"] = lk["city"]
-        @data["branch_name"] = lk["branch"]
+      path = File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' )
+      if File.file?(path)
+        db = YAML.load_file(File.join(File.dirname(__FILE__), '..', 'data', cc + '.yml' )) || nil
+        if db
+          lk = db[formatted]
+          if lk
+            @data["bank_name"] = lk["institution"]
+            @data["location_name"] = lk["city"]
+            @data["branch_name"] = lk["branch"]
+          end
+        end
       end
+    end
+
+    # @return [String]
+    #   Retuns the original swift from an ISO::SWIFT instance
+    def original
+      @data["original"]
     end
 
     # @return [String]
     #   Retuns the formatted swift from an ISO::SWIFT instance
     def formatted
-      @data["formatted"].to_s
+      @data["formatted"]
     end
 
     # @return [String]
     #   Retuns the bank code from an ISO::SWIFT instance
     def bank_code
-      @data["bank_code"].to_s
+      @data["bank_code"]
     end
 
     # @return [String]
     #   Retuns the bank name from an ISO::SWIFT instance
     def bank_name
-      @data["bank_name"].to_s
+      @data["bank_name"]
     end
 
     # @return [String]
     #   Retuns the country code from an ISO::SWIFT instance
     def country_code
-      @data["country_code"].to_s
+      @data["country_code"]
     end
 
     # @return [String]
     #   Retuns the country name from an ISO::SWIFT instance
     #   The country name was fetched using https://github.com/hexorx/countries
     def country_name
-      @data["country_name"].to_s
+      @data["country_name"]
     end
 
     # @return [String]
     #   Retuns the location code from an ISO::SWIFT instance
     def location_code
-      @data["location_code"].to_s
+      @data["location_code"]
     end
 
     # @return [String]
     #   Retuns the location name from an ISO::SWIFT instance
     def location_name
-      @data["location_name"].to_s
+      @data["location_name"]
     end
 
     # @return [String]
     #   Retuns the branch code from an ISO::SWIFT instance
     def branch_code
-      @data["branch_code"].to_s
+      @data["branch_code"]
     end
 
     # @return [String]
     #   Retuns the branch name from an ISO::SWIFT instance
     def branch_name
-      @data["branch_name"].to_s
+      @data["branch_name"]
     end
 
     # @return [Array<Sym>]
