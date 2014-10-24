@@ -103,7 +103,7 @@ module ISO
     # Lookup for the formatted swift in data/*country_code*.yml
     # If found, extract the bank, location and branch names
     def feed_lookup_info(swift)
-      cc = country_code.upcase
+      cc = country_code.downcase
       path = File.expand_path("../../data/#{cc}.yml", __FILE__)
       puts path
       if File.file?(path)
