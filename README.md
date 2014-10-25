@@ -8,7 +8,6 @@ Swift code (ISO 9362/SWIFT-BIC/BIC code/SWIFT ID) is a standard format of Bank I
 ISO::SWIFT implements the Swift specification as per ISO 9362.
 It provides methods to validate a given Swift code and/or retrieve information such as bank, location or branch names for a given Swift code. 
 
-The database is located in lib/data and the gem does not use any third-party API.
 
 ## Installation
 
