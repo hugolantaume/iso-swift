@@ -1,5 +1,5 @@
 require 'yaml'
-require 'countries'
+require 'iso3166'
 
 module ISO
 
@@ -64,7 +64,7 @@ module ISO
     #   The SWIFT in either compact or human readable form.
     #
     # @return [ISO::SWIFT]
-    #   A new instance of ISO::SWIFT 
+    #   A new instance of ISO::SWIFT
     def initialize(swift)
       @data = {}
       @errors = []
@@ -80,13 +80,13 @@ module ISO
     # @param [String] swift
     #   The SWIFT in either compact or human readable form.
     #
-    # Extracts bank, country, location and branch codes from the parameter 
+    # Extracts bank, country, location and branch codes from the parameter
     def feed_codes(swift)
       if @errors.empty?
         @data["formatted"] = swift
         @data["bank_code"] = swift[0..3]
         @data["country_code"] = swift[4..5]
-        country = ::Country.new(country_code)
+        country = ISO3166::Country.new(country_code)
         if country
           @data["country_name"] = country.name
         else
