@@ -1,5 +1,5 @@
 require 'yaml'
-require 'iso3166'
+require 'countries'
 
 module ISO
 
