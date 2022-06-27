@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'iso/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "iso-swift"
+  spec.name          = "iso-swift-rb"
   spec.version       = ISO::VERSION
-  spec.authors       = ["Hugo Lantaume"]
-  spec.email         = ["hugolantaume@gmail.com"]
-  spec.summary       = %q{Swift code validation and lookup Ruby gem}
+  spec.authors       = ["Xolani Mfuko"]
+  spec.email         = ["xmfuko@gmail.com"]
+  spec.summary       = %q{Swift code validation and lookup Ruby gem - Fork from http://github.com/hugolantaume/iso-swift}
   spec.description   = %q{}
-  spec.homepage      = "http://github.com/hugolantaume/iso-swift"
+  spec.homepage      = "http://github.com/EcksZA/iso-swift-rb"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
