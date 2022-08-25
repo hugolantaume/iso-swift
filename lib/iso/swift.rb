@@ -88,7 +88,7 @@ module ISO
         @data["country_code"] = swift[4..5]
         country = ISO3166::Country.new(country_code)
         if country
-          @data["country_name"] = country.name
+          @data["country_name"] = country.iso_short_name
         else
           @errors << :bad_country_code
         end
