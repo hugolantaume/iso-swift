@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'iso/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "iso-swift"
+  spec.name          = "updated-iso-swift"
   spec.version       = ISO::VERSION
   spec.authors       = ["Hugo Lantaume"]
   spec.email         = ["hugolantaume@gmail.com"]
@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
-  spec.add_runtime_dependency "countries"
+  spec.add_runtime_dependency "countries", ">= 4.2"
 
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
